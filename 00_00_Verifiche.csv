@@ -1,0 +1,16 @@
+Raggruppamento,Descrizione,Modalità,Formato,Percentuale,Stato
+pGI e Allegati,Verifica generale del Piano di Gestione Informativa e degli Allegati,,-,45%,0
+Elaborati Progettuali,Verifica coerenza generale dei Modelli ed elaborati,,-,0%,0
+Clash Detection,Verifica delle interferenze geometriche tra modelli,,ifc,0%,0
+Point Cloud,Verifica coerenza tra modelli e Nuvola di punti,,Nativo,0%,0
+ACDat,Verifica e gestione dei file caricati in ACDat,,Nativo + ifc,0%,0
+Collegamenti Modello Nativo,Verifica dei collegamenti e compatibilità tra i file nativi,,Nativo,0%,0
+Georeferenziazione e Orientamento,Verifica del sistema di coordinate e orientamento del modello,,Nativo + ifc,100%,1
+Griglie e Livelli,Verifica dei livelli e delle griglie rispetto alle specifiche,,Nativo,42.31%,0
+Integrità e Pulizia File,Verifica e valorizzazione dei parametri informativi in Infocad,,Nativo + ifc,0%,0
+Verifica Informativa,Verifica dei parametri informativi e di progetto nel modello,,ifc,0%,0
+Verifica LOIN Geometrico,,,ifc,-,2
+Naming Convention,Controllo della corretta applicazione delle convenzioni di naming nel modello,,ifc,0%,0
+Regole Modellazione,Verifica delle regole generali di modellazione per il progetto,,ifc,0%,0
+Specifiche Impianti,Verifica delle regole di modellazione impiantistica,,Nativo,0%,0
+Unità di misura,Verifica dell'adozione delle unità di misura del Sistema metrico internazionale,,Nativo + ifc,0%,0
