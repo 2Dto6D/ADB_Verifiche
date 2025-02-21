@@ -1,0 +1,5 @@
+Categoria,Id Elemento,Livello Base,Livello Superiore,Verifica,Stato
+Muri,137103,0 - Piano Terra, Livello 2,Elemento non correttamente vincolato tra livelli.,0
+Muri,137142,0 - Piano Terra, 1 - Piano Primo,Correttamente vincolato tra livelli.,1
+Muri,137273,1 - Piano Primo, Livello 2,Correttamente vincolato tra livelli.,1
+Muri,137364,0 - Piano Terra, Livello 2,Elemento non correttamente vincolato tra livelli.,0

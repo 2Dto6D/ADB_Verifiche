@@ -1,0 +1,81 @@
+Nome Parametro,GUID Parametro,Stato
+Altezza(m),b9d15cab-11ee-48e6-9c3a-a6eb4d8f801e,0
+Appalto,935c0013-a218-4504-a7b4-41af4e2a63dc,0
+Area(m2),c9c4d0a1-f2c3-465d-ab95-4e9150dd9fad,0
+ArticoloCorpoOpera,c205bf3e-7a15-43e6-9d7f-d163ed98b3b2,0
+Certificazioni,e974755e-c5cf-46b6-89e2-1e9413b0d3e8,0
+ClasseConsistenza,b7a7fcd9-7b24-4687-82c3-a7ccd6d325f3,0
+ClasseResistenza,44fa9910-8294-4c1d-8ca3-d5ba507c41c4,0
+Codice,dcb4879d-01c8-4353-851e-2961a1ec177c,0
+CodiceAttività,0b6ac641-460d-4620-8b58-e176d3733bb2,0
+CodiceFase,abe167bc-0925-4cc2-a5dd-79f7977e74c9,0
+CodicePrezzario,faeaa2dd-725e-4f80-b837-bbfcc7f4523f,0
+CodiceQuadro,3fbdb76b-ec4a-4dd4-b05b-d0dd5fb26d44,0
+Comunicazioni,0856c494-2e66-49fb-84a6-1638de6003a7,0
+Descrizione,6511107d-74a4-4f49-b04e-679eb51a0c59,0
+Diametro(m),594629a9-0c62-41c2-8d58-681581d20af8,0
+Disciplina,7e026eaa-168e-4f0f-9a34-d13018705b2f,0
+ElaboratoCollegato,68bef319-4319-4ced-85af-e4cfe81a21e3,0
+EnteOriginatore,5ffca968-3844-4129-9978-96a712cd62da,0
+Eseguito(Sì/No),3afbbdc1-76b0-4c13-b5ca-583943a9d64d,0
+FaseProgetto,97c53fa7-9650-4e29-b966-d63caea9c38e,0
+Funzione,adb241ce-d6f0-4a96-a690-f01390535c0b,0
+FunzioneComponente,33f71e2d-2b6b-47fa-85c9-cd929c78b47e,0
+IDPset_A,d140bec3-29b8-426a-a92d-0c0c94a5486a,0
+ImportoParziale,fda4b162-a11c-48d2-b5a6-baf0c27d9470,0
+IncidenzaArmatura(kg/m3),7a18330c-02b6-4283-a473-adc5c7b68b33,0
+Larghezza(m),2ecbf099-cb4f-488a-885e-96ba17a159ae,0
+Lunghezza(m),2b8c10ae-6e11-44a6-9983-224108f6ed74,0
+Manutentore,24a1add2-bc03-42e6-9104-9d5a362cb68b,0
+Materiale,633c7d9b-3460-4531-a160-ec461116304b,0
+MaterialeFinitura,bdb394bb-ba1e-43e8-abcf-e802c9946fab,0
+MaterialeScarpate,59b67a04-0e45-430b-89ac-c052cb6350cc,0
+NonRappresentaOggettoReale,9716ff58-7766-42b1-afa7-1670a2844275,0
+NumeroSAL,00372774-41b0-4b39-9f7f-063306ad5cac,0
+Pendenza,d3a88c00-88d7-47f1-a321-0430338d8949,0
+PercentualeSAL,e0c3106f-f5de-4a5b-ac77-8c878995d7c0,0
+Peso(kg),1c266d58-3e2e-463d-9f16-31401db82906,0
+Progettista,05ddd2f6-afc5-41aa-be4c-3cf708db86d6,0
+Progressiva,a93c0cbc-8132-4285-8232-64c099cf5e76,0
+QuotaFondoPozzetto(msm),72625f9a-22ac-443d-b35e-b7ebab853441,0
+RapportoA/CMassimo,ae1f7f3d-c4cf-4ed8-b3ca-3835fe7f6fc5,0
+RealizzatiSAL,026fd27d-08a5-4b53-b4cd-aa68be771f56,0
+ResistenzaCaratteristica,c66833f6-0fc1-4872-9069-facfa75e90a1,0
+SchedaFerri,a616dd6e-90e9-4fa0-8ca5-d322f7d34ed9,0
+SchedeTecniche,1f47a3a2-07c0-4c21-aa7e-7acead923027,0
+Sistema,e76d7a1a-673b-439a-a5e5-e220a431d1cd,0
+Spessore(m),5bbebebc-8c77-4014-9e47-0e91d7f11079,0
+Tipologia,5c26a923-4c26-45f1-a02c-1e61eb875282,0
+Tirafondi,4967c156-6188-480a-a8bc-0554dbca88c9,0
+Tratta,a2307d6f-839b-42af-b402-60efe8e1322a,0
+Varianti,6d16aaf5-09a8-4735-b134-bccb9af944c8,0
+Verbali,eca84565-7f33-4dea-a712-c8e24c380de9,0
+Volume(m3),92121d4d-9fab-4e5e-822c-7bdb513d7c27,0
+Nome,a33fc27c-a8ef-45e8-aa22-f48be5a3f4ba,0
+IDPset_S,3a81c349-e007-49a4-987f-72f8e48e2c31,0
+IDPset_B,e72bb352-ba8f-455d-a5e5-d874cc375162,0
+IDPset_C,5c74a3ad-8ba4-4744-88bc-4b0e39f1da50,0
+IDPset_D,1b343641-be31-4835-80ce-520c5fc978bf,0
+IDPset_M,20e07b8a-332f-46d9-bb42-627831c70f83,0
+IDPset_R,ff500fb6-52f4-4a03-abd4-18c778580b0c,0
+IDPset_I,3235a23b-5296-4599-93e0-9cb23f8e42d5,0
+IDPset_Z,c20178c1-6841-49e6-8fe2-ed0387114d0c,0
+DataUltimaManutenzione,bd221e3c-ed4f-45e8-ad05-1a9adfb9a4ca,0
+LibrettoManutenzione,5eb535d8-179f-4466-8b0c-d8344915bc72,0
+Data_Revisione,16ec2496-bda9-4c4b-b6bc-3a2a7f92b895,0
+Descrizione_Revisione,982cf470-78e5-4763-b7af-c5c562ddd782,0
+Redatto_Da,112d167a-d7bf-4c97-8157-2d899f547243,0
+Verificato_Da,ad97b5a8-a6d8-4c27-85ec-7f8cc874f322,0
+Approvato_Da,69c44c8b-ad6c-4d0a-9b7d-2666af4c7aa1,0
+Data_Approvazione,e9d1576a-2bc6-4998-834a-4809308ca308,0
+N_Revisione,75533738-6b54-4875-b0e3-acb7a26fa893,0
+InterventoSuOpera,45b2fb0e-eaac-4f79-a422-3eabda3f6a43,0
+IDPset_Y,92d3feb1-61c5-4c18-8329-dd24a8df1c75,0
+COD 02,60341e64-a7c9-424e-b1cb-19b96584e66e,0
+Descrizione COD03,92698b2f-5f33-4f17-89e0-d7dac99d8247,0
+COD 01,8fc404a2-50b0-4658-bb10-ae5affc2ac74,0
+Descrizione COD01,7b387f8f-63dd-4162-a5de-6027a8b3c05e,0
+COD 03,58c78c60-e28e-4ff5-888b-35bbc1c0a7de,0
+Descrizione COD02,456b5b5d-531a-45bb-9366-b218d6f274a6,0
+WBS,aa4fa8c3-72cb-45ab-8b8f-1ca9f9a4cc02,0
+Voce di computo,Parametro non condiviso,0

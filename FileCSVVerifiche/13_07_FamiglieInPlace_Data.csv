@@ -1,0 +1,2723 @@
+Categoria,Famiglia,Id Elemento,Stato
+Cartigli,A22_TavolaIniziale,26888,1
+Telaio strutturale,CF-CR-Cordolo-01,46741,1
+Telaio strutturale,CF-CR-Cordolo-01,48361,1
+Telaio strutturale,CF-CR-Cordolo-01,48847,1
+Telaio strutturale,CF-CR-Cordolo-01,49120,1
+Telaio strutturale,CF-CR-Cordolo-01,49258,1
+Telaio strutturale,CF-CR-Cordolo-01,49379,1
+Telaio strutturale,CF-CR-Cordolo-01,49508,1
+Telaio strutturale,CF-CR-Cordolo-01,49656,1
+Telaio strutturale,MF-CR-CordoloPonticello-02,50600,1
+Arredi fissi,BR-BR-Terminale-01,67243,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,67244,1
+Pilastri,BR-MN-Montante-01,67245,1
+Arredi fissi,BR-PA-PannelloPMMA-01,67246,1
+Pilastri,BR-MN-Montante-01,67456,1
+Arredi fissi,BR-BR-Terminale-01,67659,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,67660,1
+Pilastri,BR-MN-Montante-01,67661,1
+Arredi fissi,BR-PA-PannelloPMMA-01,67662,1
+Arredi fissi,BR-BR-Terminale-01,67832,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,67833,1
+Pilastri,BR-MN-Montante-01,67834,1
+Arredi fissi,BR-PA-PannelloPMMA-01,67835,1
+Arredi fissi,BR-BR-Terminale-01,67984,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,67985,1
+Pilastri,BR-MN-Montante-01,67986,1
+Arredi fissi,BR-PA-PannelloPMMA-01,67987,1
+Arredi fissi,BR-BR-Terminale-02,68365,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,68366,1
+Pilastri,BR-MN-Montante-01,68367,1
+Arredi fissi,BR-PA-PannelloPMMA-01,68368,1
+Arredi fissi,BR-BR-Terminale-02,68511,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,68512,1
+Pilastri,BR-MN-Montante-01,68513,1
+Arredi fissi,BR-PA-PannelloPMMA-01,68514,1
+Arredi fissi,BR-BR-Terminale-02,68669,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,68670,1
+Pilastri,BR-MN-Montante-01,68671,1
+Arredi fissi,BR-PA-PannelloPMMA-01,68672,1
+Arredi fissi,BR-BR-Terminale-02,68680,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,68681,1
+Pilastri,BR-MN-Montante-01,68682,1
+Arredi fissi,BR-PA-PannelloPMMA-01,68683,1
+Arredi fissi,BR-BR-Barriera-01,68691,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,68692,1
+Arredi fissi,BR-PA-PannelloLegno-01,68694,1
+Arredi fissi,BR-BR-Barriera-01,68702,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,68703,1
+Pilastri,BR-MN-Montante-01,68704,1
+Arredi fissi,BR-PA-PannelloLegno-01,68705,1
+Arredi fissi,BR-BR-Barriera-01,68713,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,68714,1
+Pilastri,BR-MN-Montante-01,68715,1
+Arredi fissi,BR-PA-PannelloLegno-01,68716,1
+Arredi fissi,BR-PA-PannelloLegno-01,80050,1
+Arredi fissi,BR-PA-PannelloLegno-01,80179,1
+Arredi fissi,BR-PA-PannelloLegno-01,80180,1
+Arredi fissi,BR-PA-PannelloLegno-01,80181,1
+Arredi fissi,BR-PA-PannelloLegno-01,80182,1
+Arredi fissi,BR-PA-PannelloLegno-01,80289,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80290,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80326,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80327,1
+Arredi fissi,BR-BR-Barriera-01,80584,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80585,1
+Pilastri,BR-MN-Montante-01,80586,1
+Arredi fissi,BR-PA-PannelloLegno-01,80587,1
+Arredi fissi,BR-PA-PannelloLegno-01,80588,1
+Arredi fissi,BR-PA-PannelloLegno-01,80589,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80590,1
+Arredi fissi,BR-BR-Barriera-01,80620,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80621,1
+Pilastri,BR-MN-Montante-01,80622,1
+Arredi fissi,BR-PA-PannelloLegno-01,80623,1
+Arredi fissi,BR-PA-PannelloLegno-01,80624,1
+Arredi fissi,BR-PA-PannelloLegno-01,80625,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80626,1
+Arredi fissi,BR-BR-Barriera-01,80657,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80658,1
+Pilastri,BR-MN-Montante-01,80659,1
+Arredi fissi,BR-PA-PannelloLegno-01,80660,1
+Arredi fissi,BR-PA-PannelloLegno-01,80661,1
+Arredi fissi,BR-PA-PannelloLegno-01,80662,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80663,1
+Arredi fissi,BR-BR-Barriera-01,80686,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80687,1
+Pilastri,BR-MN-Montante-01,80688,1
+Arredi fissi,BR-PA-PannelloLegno-01,80689,1
+Arredi fissi,BR-PA-PannelloLegno-01,80690,1
+Arredi fissi,BR-PA-PannelloLegno-01,80691,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80692,1
+Arredi fissi,BR-BR-Barriera-01,80716,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80717,1
+Pilastri,BR-MN-Montante-01,80718,1
+Arredi fissi,BR-PA-PannelloLegno-01,80719,1
+Arredi fissi,BR-PA-PannelloLegno-01,80720,1
+Arredi fissi,BR-PA-PannelloLegno-01,80721,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80722,1
+Arredi fissi,BR-BR-Barriera-01,80752,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80753,1
+Pilastri,BR-MN-Montante-01,80754,1
+Arredi fissi,BR-PA-PannelloLegno-01,80755,1
+Arredi fissi,BR-PA-PannelloLegno-01,80756,1
+Arredi fissi,BR-PA-PannelloLegno-01,80757,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80758,1
+Arredi fissi,BR-BR-Barriera-01,80774,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80775,1
+Pilastri,BR-MN-Montante-01,80776,1
+Arredi fissi,BR-PA-PannelloLegno-01,80777,1
+Arredi fissi,BR-PA-PannelloLegno-01,80778,1
+Arredi fissi,BR-PA-PannelloLegno-01,80779,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80780,1
+Arredi fissi,BR-BR-Barriera-01,80808,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80809,1
+Pilastri,BR-MN-Montante-01,80810,1
+Arredi fissi,BR-PA-PannelloLegno-01,80811,1
+Arredi fissi,BR-PA-PannelloLegno-01,80812,1
+Arredi fissi,BR-PA-PannelloLegno-01,80813,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80814,1
+Arredi fissi,BR-BR-Barriera-01,80836,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80837,1
+Pilastri,BR-MN-Montante-01,80838,1
+Arredi fissi,BR-PA-PannelloLegno-01,80839,1
+Arredi fissi,BR-PA-PannelloLegno-01,80840,1
+Arredi fissi,BR-PA-PannelloLegno-01,80841,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80842,1
+Arredi fissi,BR-BR-Barriera-01,80860,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80861,1
+Pilastri,BR-MN-Montante-01,80862,1
+Arredi fissi,BR-PA-PannelloLegno-01,80863,1
+Arredi fissi,BR-PA-PannelloLegno-01,80864,1
+Arredi fissi,BR-PA-PannelloLegno-01,80865,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80866,1
+Arredi fissi,BR-BR-Barriera-01,80915,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80916,1
+Pilastri,BR-MN-Montante-01,80917,1
+Arredi fissi,BR-PA-PannelloLegno-01,80918,1
+Arredi fissi,BR-PA-PannelloLegno-01,80919,1
+Arredi fissi,BR-PA-PannelloLegno-01,80920,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80921,1
+Arredi fissi,BR-BR-Barriera-01,80938,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80939,1
+Pilastri,BR-MN-Montante-01,80940,1
+Arredi fissi,BR-PA-PannelloLegno-01,80941,1
+Arredi fissi,BR-PA-PannelloLegno-01,80942,1
+Arredi fissi,BR-PA-PannelloLegno-01,80943,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80944,1
+Arredi fissi,BR-BR-Barriera-01,80969,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,80970,1
+Pilastri,BR-MN-Montante-01,80971,1
+Arredi fissi,BR-PA-PannelloLegno-01,80972,1
+Arredi fissi,BR-PA-PannelloLegno-01,80973,1
+Arredi fissi,BR-PA-PannelloLegno-01,80974,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,80975,1
+Arredi fissi,BR-BR-Barriera-01,81061,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81062,1
+Arredi fissi,BR-PA-PannelloLegno-01,81063,1
+Pilastri,BR-MN-Montante-01,81064,1
+Arredi fissi,BR-PA-PannelloLegno-01,81065,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81066,1
+Arredi fissi,BR-PA-PannelloLegno-01,81067,1
+Arredi fissi,BR-BR-Barriera-01,81248,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81249,1
+Arredi fissi,BR-PA-PannelloLegno-01,81250,1
+Pilastri,BR-MN-Montante-01,81251,1
+Arredi fissi,BR-PA-PannelloLegno-01,81252,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81253,1
+Arredi fissi,BR-PA-PannelloLegno-01,81254,1
+Arredi fissi,BR-BR-Barriera-01,81277,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81278,1
+Arredi fissi,BR-PA-PannelloLegno-01,81279,1
+Pilastri,BR-MN-Montante-01,81280,1
+Arredi fissi,BR-PA-PannelloLegno-01,81281,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81282,1
+Arredi fissi,BR-PA-PannelloLegno-01,81283,1
+Arredi fissi,BR-BR-Barriera-01,81314,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81315,1
+Arredi fissi,BR-PA-PannelloLegno-01,81316,1
+Pilastri,BR-MN-Montante-01,81317,1
+Arredi fissi,BR-PA-PannelloLegno-01,81318,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81319,1
+Arredi fissi,BR-PA-PannelloLegno-01,81320,1
+Arredi fissi,BR-BR-Barriera-01,81386,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81387,1
+Arredi fissi,BR-PA-PannelloLegno-01,81388,1
+Pilastri,BR-MN-Montante-01,81389,1
+Arredi fissi,BR-PA-PannelloLegno-01,81390,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81391,1
+Arredi fissi,BR-PA-PannelloLegno-01,81392,1
+Arredi fissi,BR-BR-Barriera-01,81416,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81417,1
+Arredi fissi,BR-PA-PannelloLegno-01,81418,1
+Pilastri,BR-MN-Montante-01,81419,1
+Arredi fissi,BR-PA-PannelloLegno-01,81420,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81421,1
+Arredi fissi,BR-PA-PannelloLegno-01,81422,1
+Arredi fissi,BR-BR-Barriera-01,81458,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81459,1
+Arredi fissi,BR-PA-PannelloLegno-01,81460,1
+Pilastri,BR-MN-Montante-01,81461,1
+Arredi fissi,BR-PA-PannelloLegno-01,81462,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81463,1
+Arredi fissi,BR-PA-PannelloLegno-01,81464,1
+Arredi fissi,BR-BR-Barriera-01,81641,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81642,1
+Arredi fissi,BR-PA-PannelloLegno-01,81643,1
+Pilastri,BR-MN-Montante-01,81644,1
+Arredi fissi,BR-PA-PannelloLegno-01,81645,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81646,1
+Arredi fissi,BR-PA-PannelloLegno-01,81647,1
+Arredi fissi,BR-BR-Barriera-01,81831,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81832,1
+Arredi fissi,BR-PA-PannelloLegno-01,81833,1
+Pilastri,BR-MN-Montante-01,81834,1
+Arredi fissi,BR-PA-PannelloLegno-01,81835,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81836,1
+Arredi fissi,BR-PA-PannelloLegno-01,81837,1
+Arredi fissi,BR-BR-Barriera-01,81846,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81847,1
+Arredi fissi,BR-PA-PannelloLegno-01,81848,1
+Pilastri,BR-MN-Montante-01,81849,1
+Arredi fissi,BR-PA-PannelloLegno-01,81850,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81851,1
+Arredi fissi,BR-PA-PannelloLegno-01,81852,1
+Arredi fissi,BR-BR-Barriera-01,81861,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81862,1
+Arredi fissi,BR-PA-PannelloLegno-01,81863,1
+Pilastri,BR-MN-Montante-01,81864,1
+Arredi fissi,BR-PA-PannelloLegno-01,81865,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81866,1
+Arredi fissi,BR-PA-PannelloLegno-01,81867,1
+Arredi fissi,BR-BR-Barriera-01,81876,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81877,1
+Arredi fissi,BR-PA-PannelloLegno-01,81878,1
+Pilastri,BR-MN-Montante-01,81879,1
+Arredi fissi,BR-PA-PannelloLegno-01,81880,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81881,1
+Arredi fissi,BR-PA-PannelloLegno-01,81882,1
+Arredi fissi,BR-BR-Barriera-01,81891,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81892,1
+Arredi fissi,BR-PA-PannelloLegno-01,81893,1
+Pilastri,BR-MN-Montante-01,81894,1
+Arredi fissi,BR-PA-PannelloLegno-01,81895,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81896,1
+Arredi fissi,BR-PA-PannelloLegno-01,81897,1
+Arredi fissi,BR-BR-Barriera-01,81908,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81909,1
+Arredi fissi,BR-PA-PannelloLegno-01,81910,1
+Pilastri,BR-MN-Montante-01,81911,1
+Arredi fissi,BR-PA-PannelloLegno-01,81912,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81913,1
+Arredi fissi,BR-PA-PannelloLegno-01,81914,1
+Arredi fissi,BR-BR-Barriera-01,81925,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81926,1
+Arredi fissi,BR-PA-PannelloLegno-01,81927,1
+Pilastri,BR-MN-Montante-01,81928,1
+Arredi fissi,BR-PA-PannelloLegno-01,81929,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81930,1
+Arredi fissi,BR-PA-PannelloLegno-01,81931,1
+Arredi fissi,BR-BR-Barriera-01,81940,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81941,1
+Arredi fissi,BR-PA-PannelloLegno-01,81942,1
+Pilastri,BR-MN-Montante-01,81943,1
+Arredi fissi,BR-PA-PannelloLegno-01,81944,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81945,1
+Arredi fissi,BR-PA-PannelloLegno-01,81946,1
+Arredi fissi,BR-BR-Barriera-01,81959,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81960,1
+Arredi fissi,BR-PA-PannelloLegno-01,81961,1
+Pilastri,BR-MN-Montante-01,81962,1
+Arredi fissi,BR-PA-PannelloLegno-01,81963,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81964,1
+Arredi fissi,BR-PA-PannelloLegno-01,81965,1
+Arredi fissi,BR-BR-Barriera-01,81974,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,81975,1
+Arredi fissi,BR-PA-PannelloLegno-01,81976,1
+Pilastri,BR-MN-Montante-01,81977,1
+Arredi fissi,BR-PA-PannelloLegno-01,81978,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,81979,1
+Arredi fissi,BR-PA-PannelloLegno-01,81980,1
+Arredi fissi,BR-BR-Barriera-01,82264,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82265,1
+Arredi fissi,BR-PA-PannelloLegno-01,82266,1
+Pilastri,BR-MN-Montante-01,82267,1
+Arredi fissi,BR-PA-PannelloLegno-01,82268,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82269,1
+Arredi fissi,BR-PA-PannelloLegno-01,82270,1
+Arredi fissi,BR-BR-Barriera-01,82280,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82281,1
+Arredi fissi,BR-PA-PannelloLegno-01,82282,1
+Pilastri,BR-MN-Montante-01,82283,1
+Arredi fissi,BR-PA-PannelloLegno-01,82284,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82285,1
+Arredi fissi,BR-PA-PannelloLegno-01,82286,1
+Arredi fissi,BR-BR-Barriera-01,82294,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82295,1
+Arredi fissi,BR-PA-PannelloLegno-01,82296,1
+Pilastri,BR-MN-Montante-01,82297,1
+Arredi fissi,BR-PA-PannelloLegno-01,82298,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82299,1
+Arredi fissi,BR-PA-PannelloLegno-01,82300,1
+Arredi fissi,BR-BR-Barriera-01,82310,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82311,1
+Arredi fissi,BR-PA-PannelloLegno-01,82312,1
+Pilastri,BR-MN-Montante-01,82313,1
+Arredi fissi,BR-PA-PannelloLegno-01,82314,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82315,1
+Arredi fissi,BR-PA-PannelloLegno-01,82316,1
+Arredi fissi,BR-BR-Barriera-01,82326,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82327,1
+Arredi fissi,BR-PA-PannelloLegno-01,82328,1
+Pilastri,BR-MN-Montante-01,82329,1
+Arredi fissi,BR-PA-PannelloLegno-01,82330,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82331,1
+Arredi fissi,BR-PA-PannelloLegno-01,82332,1
+Arredi fissi,BR-BR-Barriera-01,82342,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82343,1
+Arredi fissi,BR-PA-PannelloLegno-01,82344,1
+Pilastri,BR-MN-Montante-01,82345,1
+Arredi fissi,BR-PA-PannelloLegno-01,82346,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82347,1
+Arredi fissi,BR-PA-PannelloLegno-01,82348,1
+Arredi fissi,BR-BR-Barriera-01,82360,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82361,1
+Arredi fissi,BR-PA-PannelloLegno-01,82362,1
+Pilastri,BR-MN-Montante-01,82363,1
+Arredi fissi,BR-PA-PannelloLegno-01,82364,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82365,1
+Arredi fissi,BR-PA-PannelloLegno-01,82366,1
+Arredi fissi,BR-BR-Barriera-01,82374,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82375,1
+Arredi fissi,BR-PA-PannelloLegno-01,82376,1
+Pilastri,BR-MN-Montante-01,82377,1
+Arredi fissi,BR-PA-PannelloLegno-01,82378,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82379,1
+Arredi fissi,BR-PA-PannelloLegno-01,82380,1
+Arredi fissi,BR-BR-Barriera-01,82388,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82389,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82390,1
+Pilastri,BR-MN-Montante-01,82391,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82392,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82393,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82394,1
+Arredi fissi,BR-BR-Barriera-01,82404,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82405,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82406,1
+Pilastri,BR-MN-Montante-01,82407,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82408,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82409,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82410,1
+Arredi fissi,BR-BR-Barriera-01,82418,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82419,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82420,1
+Pilastri,BR-MN-Montante-01,82421,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82422,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82423,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82424,1
+Arredi fissi,BR-BR-Barriera-01,82561,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82562,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82563,1
+Pilastri,BR-MN-Montante-01,82564,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82565,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82566,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82567,1
+Arredi fissi,BR-BR-Barriera-01,82575,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82576,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82577,1
+Pilastri,BR-MN-Montante-01,82578,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82579,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82580,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82581,1
+Arredi fissi,BR-BR-Barriera-01,82677,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82678,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82679,1
+Pilastri,BR-MN-Montante-01,82680,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82681,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82682,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82683,1
+Arredi fissi,BR-BR-Barriera-01,82691,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82692,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82693,1
+Pilastri,BR-MN-Montante-01,82694,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82695,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82696,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82697,1
+Arredi fissi,BR-BR-Barriera-01,82707,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82708,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82709,1
+Pilastri,BR-MN-Montante-01,82710,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82711,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82712,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82713,1
+Arredi fissi,BR-BR-Barriera-01,82721,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82722,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82723,1
+Pilastri,BR-MN-Montante-01,82724,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82725,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82726,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82727,1
+Arredi fissi,BR-BR-Barriera-01,82787,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82788,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82789,1
+Pilastri,BR-MN-Montante-01,82790,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82791,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82792,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82793,1
+Arredi fissi,BR-BR-Barriera-01,82803,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82804,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82805,1
+Pilastri,BR-MN-Montante-01,82806,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82807,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82808,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82809,1
+Arredi fissi,BR-BR-Barriera-01,82892,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82893,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82894,1
+Pilastri,BR-MN-Montante-01,82895,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82896,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82897,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82898,1
+Arredi fissi,BR-BR-Barriera-01,82906,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82907,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82908,1
+Pilastri,BR-MN-Montante-01,82909,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82910,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82911,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82912,1
+Arredi fissi,BR-BR-Barriera-01,82922,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82923,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82924,1
+Pilastri,BR-MN-Montante-01,82925,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82926,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82927,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82928,1
+Arredi fissi,BR-BR-Barriera-01,82936,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82937,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82938,1
+Pilastri,BR-MN-Montante-01,82939,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82940,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82941,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82942,1
+Arredi fissi,BR-BR-Barriera-01,82950,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82951,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82952,1
+Pilastri,BR-MN-Montante-01,82953,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82954,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82955,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82956,1
+Arredi fissi,BR-BR-Barriera-01,82966,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,82967,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82968,1
+Pilastri,BR-MN-Montante-01,82969,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82970,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82971,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,82972,1
+Arredi fissi,BR-BR-Barriera-01,83009,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,83010,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83011,1
+Pilastri,BR-MN-Montante-01,83012,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83013,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83014,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83015,1
+Arredi fissi,BR-BR-Barriera-01,83023,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,83024,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83025,1
+Pilastri,BR-MN-Montante-01,83026,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83027,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83028,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83029,1
+Arredi fissi,BR-BR-Barriera-01,83037,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,83038,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83039,1
+Pilastri,BR-MN-Montante-01,83040,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83041,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83042,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83043,1
+Arredi fissi,BR-BR-Barriera-01,83051,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,83052,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83053,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83055,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83056,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,83057,1
+Telaio strutturale,MF-CR-Cordolo-02,84661,1
+Telaio strutturale,MF-CR-Cordolo-02,85791,1
+Telaio strutturale,MF-FN-Fondazione-01,86029,1
+Telaio strutturale,CF-CR-Cordolo-01,86951,1
+Telaio strutturale,MF-CR-Cordolo-02,88247,1
+Telaio strutturale,MF-CR-CordoloPiega-01,89093,1
+Telaio strutturale,MF-CR-CordoloPiega-01,91148,1
+Arredi fissi,BR-BR-Barriera-01,146942,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,146943,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,146945,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,146946,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,147024,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,147051,1
+Arredi fissi,BR-BR-Barriera-01,147333,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,147334,1
+Arredi fissi,BR-PA-PannelloLegno-01,147335,1
+Pilastri,BR-MN-Montante-01,147336,1
+Arredi fissi,BR-PA-PannelloLegno-01,147337,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,147338,1
+Arredi fissi,BR-PA-PannelloLegno-01,147339,1
+Arredi fissi,BR-BR-Barriera-01,147390,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,147391,1
+Arredi fissi,BR-PA-PannelloLegno-01,147392,1
+Pilastri,BR-MN-Montante-01,147393,1
+Arredi fissi,BR-PA-PannelloLegno-01,147394,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,147395,1
+Arredi fissi,BR-PA-PannelloLegno-01,147396,1
+Telaio strutturale,MF-FN-Fondazione-01,159457,1
+Telaio strutturale,MF-FN-Fondazione-01,160313,1
+Arredi fissi,BR-BR-Barriera-01,162380,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,162381,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,162382,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,162383,1
+Telaio strutturale,MF-FN-Fondazione-01,166856,1
+Telaio strutturale,MF-FN-Fondazione-01,168051,1
+Telaio strutturale,MF-FN-Fondazione-01,168384,1
+Telaio strutturale,MF-FN-Fondazione-01,169693,1
+Telaio strutturale,MF-CR-Cordolo-02,170049,1
+Telaio strutturale,MF-FN-Fondazione-01,170427,1
+Telaio strutturale,MF-FN-Fondazione-01,171612,1
+Arredi fissi,BR-BR-Barriera-01,173901,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,173902,1
+Arredi fissi,BR-PA-PannelloLegno-01,173903,1
+Pilastri,BR-MN-Montante-01,173904,1
+Arredi fissi,BR-PA-PannelloLegno-01,173905,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,173906,1
+Arredi fissi,BR-PA-PannelloLegno-01,173907,1
+Arredi fissi,BR-BR-Barriera-01,173996,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,173997,1
+Arredi fissi,BR-PA-PannelloLegno-01,173998,1
+Pilastri,BR-MN-Montante-01,173999,1
+Arredi fissi,BR-PA-PannelloLegno-01,174000,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174001,1
+Arredi fissi,BR-PA-PannelloLegno-01,174002,1
+Arredi fissi,BR-BR-Barriera-01,174004,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174005,1
+Arredi fissi,BR-PA-PannelloLegno-01,174006,1
+Pilastri,BR-MN-Montante-01,174007,1
+Arredi fissi,BR-PA-PannelloLegno-01,174008,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174009,1
+Arredi fissi,BR-PA-PannelloLegno-01,174010,1
+Arredi fissi,BR-BR-Barriera-01,174022,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174023,1
+Arredi fissi,BR-PA-PannelloLegno-01,174024,1
+Pilastri,BR-MN-Montante-01,174025,1
+Arredi fissi,BR-PA-PannelloLegno-01,174026,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174027,1
+Arredi fissi,BR-PA-PannelloLegno-01,174028,1
+Arredi fissi,BR-BR-Barriera-01,174030,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174031,1
+Arredi fissi,BR-PA-PannelloLegno-01,174032,1
+Pilastri,BR-MN-Montante-01,174033,1
+Arredi fissi,BR-PA-PannelloLegno-01,174034,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174035,1
+Arredi fissi,BR-PA-PannelloLegno-01,174036,1
+Arredi fissi,BR-BR-Barriera-01,174056,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174057,1
+Arredi fissi,BR-PA-PannelloLegno-01,174058,1
+Pilastri,BR-MN-Montante-01,174059,1
+Arredi fissi,BR-PA-PannelloLegno-01,174060,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174061,1
+Arredi fissi,BR-PA-PannelloLegno-01,174062,1
+Arredi fissi,BR-BR-Barriera-01,174064,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174065,1
+Arredi fissi,BR-PA-PannelloLegno-01,174066,1
+Pilastri,BR-MN-Montante-01,174067,1
+Arredi fissi,BR-PA-PannelloLegno-01,174068,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174069,1
+Arredi fissi,BR-PA-PannelloLegno-01,174070,1
+Arredi fissi,BR-BR-Barriera-01,174072,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174073,1
+Arredi fissi,BR-PA-PannelloLegno-01,174074,1
+Pilastri,BR-MN-Montante-01,174075,1
+Arredi fissi,BR-PA-PannelloLegno-01,174076,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174077,1
+Arredi fissi,BR-PA-PannelloLegno-01,174078,1
+Arredi fissi,BR-BR-Barriera-01,174080,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174081,1
+Arredi fissi,BR-PA-PannelloLegno-01,174082,1
+Pilastri,BR-MN-Montante-01,174083,1
+Arredi fissi,BR-PA-PannelloLegno-01,174084,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174085,1
+Arredi fissi,BR-PA-PannelloLegno-01,174086,1
+Arredi fissi,BR-BR-Barriera-01,174088,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174089,1
+Arredi fissi,BR-PA-PannelloLegno-01,174090,1
+Pilastri,BR-MN-Montante-01,174091,1
+Arredi fissi,BR-PA-PannelloLegno-01,174092,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174093,1
+Arredi fissi,BR-PA-PannelloLegno-01,174094,1
+Arredi fissi,BR-BR-Barriera-01,174096,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174097,1
+Arredi fissi,BR-PA-PannelloLegno-01,174098,1
+Pilastri,BR-MN-Montante-01,174099,1
+Arredi fissi,BR-PA-PannelloLegno-01,174100,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174101,1
+Arredi fissi,BR-PA-PannelloLegno-01,174102,1
+Arredi fissi,BR-BR-Barriera-01,174124,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174125,1
+Arredi fissi,BR-PA-PannelloLegno-01,174126,1
+Pilastri,BR-MN-Montante-01,174127,1
+Arredi fissi,BR-PA-PannelloLegno-01,174128,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174129,1
+Arredi fissi,BR-PA-PannelloLegno-01,174130,1
+Arredi fissi,BR-BR-Barriera-01,174132,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174133,1
+Arredi fissi,BR-PA-PannelloLegno-01,174134,1
+Pilastri,BR-MN-Montante-01,174135,1
+Arredi fissi,BR-PA-PannelloLegno-01,174136,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174137,1
+Arredi fissi,BR-PA-PannelloLegno-01,174138,1
+Arredi fissi,BR-BR-Barriera-01,174140,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174141,1
+Arredi fissi,BR-PA-PannelloLegno-01,174142,1
+Pilastri,BR-MN-Montante-01,174143,1
+Arredi fissi,BR-PA-PannelloLegno-01,174144,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174145,1
+Arredi fissi,BR-PA-PannelloLegno-01,174146,1
+Arredi fissi,BR-BR-Barriera-01,174148,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174149,1
+Arredi fissi,BR-PA-PannelloLegno-01,174150,1
+Pilastri,BR-MN-Montante-01,174151,1
+Arredi fissi,BR-PA-PannelloLegno-01,174152,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174153,1
+Arredi fissi,BR-PA-PannelloLegno-01,174154,1
+Arredi fissi,BR-BR-Barriera-01,174156,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174157,1
+Arredi fissi,BR-PA-PannelloLegno-01,174158,1
+Pilastri,BR-MN-Montante-01,174159,1
+Arredi fissi,BR-PA-PannelloLegno-01,174160,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174161,1
+Arredi fissi,BR-PA-PannelloLegno-01,174162,1
+Arredi fissi,BR-BR-Barriera-01,174164,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174165,1
+Arredi fissi,BR-PA-PannelloLegno-01,174166,1
+Pilastri,BR-MN-Montante-01,174167,1
+Arredi fissi,BR-PA-PannelloLegno-01,174168,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174169,1
+Arredi fissi,BR-PA-PannelloLegno-01,174170,1
+Arredi fissi,BR-BR-Barriera-01,174180,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174181,1
+Arredi fissi,BR-PA-PannelloLegno-01,174182,1
+Pilastri,BR-MN-Montante-01,174183,1
+Arredi fissi,BR-PA-PannelloLegno-01,174184,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174185,1
+Arredi fissi,BR-PA-PannelloLegno-01,174186,1
+Arredi fissi,BR-BR-Barriera-01,174188,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174189,1
+Arredi fissi,BR-PA-PannelloLegno-01,174190,1
+Pilastri,BR-MN-Montante-01,174191,1
+Arredi fissi,BR-PA-PannelloLegno-01,174192,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174193,1
+Arredi fissi,BR-PA-PannelloLegno-01,174194,1
+Arredi fissi,BR-BR-Barriera-01,174196,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174197,1
+Arredi fissi,BR-PA-PannelloLegno-01,174198,1
+Pilastri,BR-MN-Montante-01,174199,1
+Arredi fissi,BR-PA-PannelloLegno-01,174200,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174201,1
+Arredi fissi,BR-PA-PannelloLegno-01,174202,1
+Arredi fissi,BR-BR-Barriera-01,174204,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174205,1
+Arredi fissi,BR-PA-PannelloLegno-01,174206,1
+Pilastri,BR-MN-Montante-01,174207,1
+Arredi fissi,BR-PA-PannelloLegno-01,174208,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174209,1
+Arredi fissi,BR-PA-PannelloLegno-01,174210,1
+Arredi fissi,BR-BR-Barriera-01,174212,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174213,1
+Arredi fissi,BR-PA-PannelloLegno-01,174214,1
+Pilastri,BR-MN-Montante-01,174215,1
+Arredi fissi,BR-PA-PannelloLegno-01,174216,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174217,1
+Arredi fissi,BR-PA-PannelloLegno-01,174218,1
+Arredi fissi,BR-BR-Barriera-01,174220,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174221,1
+Arredi fissi,BR-PA-PannelloLegno-01,174222,1
+Pilastri,BR-MN-Montante-01,174223,1
+Arredi fissi,BR-PA-PannelloLegno-01,174224,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174225,1
+Arredi fissi,BR-PA-PannelloLegno-01,174226,1
+Arredi fissi,BR-BR-Barriera-01,174238,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174239,1
+Arredi fissi,BR-PA-PannelloLegno-01,174240,1
+Pilastri,BR-MN-Montante-01,174241,1
+Arredi fissi,BR-PA-PannelloLegno-01,174242,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174243,1
+Arredi fissi,BR-PA-PannelloLegno-01,174244,1
+Arredi fissi,BR-BR-Barriera-01,174246,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174247,1
+Arredi fissi,BR-PA-PannelloLegno-01,174248,1
+Pilastri,BR-MN-Montante-01,174249,1
+Arredi fissi,BR-PA-PannelloLegno-01,174250,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174251,1
+Arredi fissi,BR-PA-PannelloLegno-01,174252,1
+Arredi fissi,BR-BR-Barriera-01,174254,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174255,1
+Arredi fissi,BR-PA-PannelloLegno-01,174256,1
+Pilastri,BR-MN-Montante-01,174257,1
+Arredi fissi,BR-PA-PannelloLegno-01,174258,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174259,1
+Arredi fissi,BR-PA-PannelloLegno-01,174260,1
+Arredi fissi,BR-BR-Barriera-01,174262,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174263,1
+Arredi fissi,BR-PA-PannelloLegno-01,174264,1
+Pilastri,BR-MN-Montante-01,174265,1
+Arredi fissi,BR-PA-PannelloLegno-01,174266,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174267,1
+Arredi fissi,BR-PA-PannelloLegno-01,174268,1
+Arredi fissi,BR-BR-Barriera-01,174270,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174271,1
+Arredi fissi,BR-PA-PannelloLegno-01,174272,1
+Pilastri,BR-MN-Montante-01,174273,1
+Arredi fissi,BR-PA-PannelloLegno-01,174274,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174275,1
+Arredi fissi,BR-PA-PannelloLegno-01,174276,1
+Arredi fissi,BR-BR-Barriera-01,174278,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174279,1
+Arredi fissi,BR-PA-PannelloLegno-01,174280,1
+Pilastri,BR-MN-Montante-01,174281,1
+Arredi fissi,BR-PA-PannelloLegno-01,174282,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174283,1
+Arredi fissi,BR-PA-PannelloLegno-01,174284,1
+Arredi fissi,BR-BR-Barriera-01,174294,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174295,1
+Arredi fissi,BR-PA-PannelloLegno-01,174296,1
+Pilastri,BR-MN-Montante-01,174297,1
+Arredi fissi,BR-PA-PannelloLegno-01,174298,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174299,1
+Arredi fissi,BR-PA-PannelloLegno-01,174300,1
+Arredi fissi,BR-BR-Barriera-01,174302,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174303,1
+Arredi fissi,BR-PA-PannelloLegno-01,174304,1
+Pilastri,BR-MN-Montante-01,174305,1
+Arredi fissi,BR-PA-PannelloLegno-01,174306,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174307,1
+Arredi fissi,BR-PA-PannelloLegno-01,174308,1
+Arredi fissi,BR-BR-Barriera-01,174310,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174311,1
+Arredi fissi,BR-PA-PannelloLegno-01,174312,1
+Pilastri,BR-MN-Montante-01,174313,1
+Arredi fissi,BR-PA-PannelloLegno-01,174314,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174315,1
+Arredi fissi,BR-PA-PannelloLegno-01,174316,1
+Arredi fissi,BR-BR-Barriera-01,174318,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174319,1
+Arredi fissi,BR-PA-PannelloLegno-01,174320,1
+Pilastri,BR-MN-Montante-01,174321,1
+Arredi fissi,BR-PA-PannelloLegno-01,174322,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174323,1
+Arredi fissi,BR-PA-PannelloLegno-01,174324,1
+Arredi fissi,BR-BR-Barriera-01,174326,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174327,1
+Arredi fissi,BR-PA-PannelloLegno-01,174328,1
+Pilastri,BR-MN-Montante-01,174329,1
+Arredi fissi,BR-PA-PannelloLegno-01,174330,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174331,1
+Arredi fissi,BR-PA-PannelloLegno-01,174332,1
+Arredi fissi,BR-BR-Barriera-01,174334,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174335,1
+Arredi fissi,BR-PA-PannelloLegno-01,174336,1
+Pilastri,BR-MN-Montante-01,174337,1
+Arredi fissi,BR-PA-PannelloLegno-01,174338,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174339,1
+Arredi fissi,BR-PA-PannelloLegno-01,174340,1
+Arredi fissi,BR-BR-Barriera-01,174350,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174351,1
+Arredi fissi,BR-PA-PannelloLegno-01,174352,1
+Pilastri,BR-MN-Montante-01,174353,1
+Arredi fissi,BR-PA-PannelloLegno-01,174354,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174355,1
+Arredi fissi,BR-PA-PannelloLegno-01,174356,1
+Arredi fissi,BR-BR-Barriera-01,174358,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174359,1
+Arredi fissi,BR-PA-PannelloLegno-01,174360,1
+Pilastri,BR-MN-Montante-01,174361,1
+Arredi fissi,BR-PA-PannelloLegno-01,174362,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174363,1
+Arredi fissi,BR-PA-PannelloLegno-01,174364,1
+Arredi fissi,BR-BR-Barriera-01,174366,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174367,1
+Arredi fissi,BR-PA-PannelloLegno-01,174368,1
+Pilastri,BR-MN-Montante-01,174369,1
+Arredi fissi,BR-PA-PannelloLegno-01,174370,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174371,1
+Arredi fissi,BR-PA-PannelloLegno-01,174372,1
+Arredi fissi,BR-BR-Barriera-01,174374,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174375,1
+Arredi fissi,BR-PA-PannelloLegno-01,174376,1
+Pilastri,BR-MN-Montante-01,174377,1
+Arredi fissi,BR-PA-PannelloLegno-01,174378,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174379,1
+Arredi fissi,BR-PA-PannelloLegno-01,174380,1
+Arredi fissi,BR-BR-Barriera-01,174382,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174383,1
+Arredi fissi,BR-PA-PannelloLegno-01,174384,1
+Pilastri,BR-MN-Montante-01,174385,1
+Arredi fissi,BR-PA-PannelloLegno-01,174386,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174387,1
+Arredi fissi,BR-PA-PannelloLegno-01,174388,1
+Arredi fissi,BR-BR-Barriera-01,174390,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174391,1
+Arredi fissi,BR-PA-PannelloLegno-01,174392,1
+Pilastri,BR-MN-Montante-01,174393,1
+Arredi fissi,BR-PA-PannelloLegno-01,174394,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174395,1
+Arredi fissi,BR-PA-PannelloLegno-01,174396,1
+Arredi fissi,BR-BR-Barriera-01,174406,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174407,1
+Arredi fissi,BR-PA-PannelloLegno-01,174408,1
+Pilastri,BR-MN-Montante-01,174409,1
+Arredi fissi,BR-PA-PannelloLegno-01,174410,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174411,1
+Arredi fissi,BR-PA-PannelloLegno-01,174412,1
+Arredi fissi,BR-BR-Barriera-01,174414,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174415,1
+Arredi fissi,BR-PA-PannelloLegno-01,174416,1
+Pilastri,BR-MN-Montante-01,174417,1
+Arredi fissi,BR-PA-PannelloLegno-01,174418,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174419,1
+Arredi fissi,BR-PA-PannelloLegno-01,174420,1
+Arredi fissi,BR-BR-Barriera-01,174422,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174423,1
+Arredi fissi,BR-PA-PannelloLegno-01,174424,1
+Pilastri,BR-MN-Montante-01,174425,1
+Arredi fissi,BR-PA-PannelloLegno-01,174426,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174427,1
+Arredi fissi,BR-PA-PannelloLegno-01,174428,1
+Arredi fissi,BR-BR-Barriera-01,174430,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174431,1
+Arredi fissi,BR-PA-PannelloLegno-01,174432,1
+Pilastri,BR-MN-Montante-01,174433,1
+Arredi fissi,BR-PA-PannelloLegno-01,174434,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174435,1
+Arredi fissi,BR-PA-PannelloLegno-01,174436,1
+Arredi fissi,BR-BR-Barriera-01,174438,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174439,1
+Arredi fissi,BR-PA-PannelloLegno-01,174440,1
+Pilastri,BR-MN-Montante-01,174441,1
+Arredi fissi,BR-PA-PannelloLegno-01,174442,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174443,1
+Arredi fissi,BR-PA-PannelloLegno-01,174444,1
+Arredi fissi,BR-BR-Barriera-01,174446,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174447,1
+Arredi fissi,BR-PA-PannelloLegno-01,174448,1
+Pilastri,BR-MN-Montante-01,174449,1
+Arredi fissi,BR-PA-PannelloLegno-01,174450,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174451,1
+Arredi fissi,BR-PA-PannelloLegno-01,174452,1
+Arredi fissi,BR-BR-Barriera-01,174476,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174477,1
+Arredi fissi,BR-PA-PannelloLegno-01,174478,1
+Pilastri,BR-MN-Montante-01,174479,1
+Arredi fissi,BR-PA-PannelloLegno-01,174480,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174481,1
+Arredi fissi,BR-PA-PannelloLegno-01,174482,1
+Arredi fissi,BR-BR-Barriera-01,174484,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,174485,1
+Arredi fissi,BR-PA-PannelloLegno-01,174486,1
+Arredi fissi,BR-PA-PannelloLegno-01,174488,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,174489,1
+Arredi fissi,BR-PA-PannelloLegno-01,174490,1
+Arredi fissi,BR-BR-Barriera-02,175024,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,175025,1
+Telaio strutturale,CF-CR-Cordolo-01,175310,1
+Telaio strutturale,CF-CR-Cordolo-01,175529,1
+Telaio strutturale,CF-CR-Cordolo-01,175712,1
+Telaio strutturale,CF-CR-Cordolo-01,175931,1
+Telaio strutturale,CF-CR-Cordolo-01,176096,1
+Telaio strutturale,CF-CR-Cordolo-01,176220,1
+Telaio strutturale,MF-CR-Cordolo-03,177020,1
+Telaio strutturale,MF-CR-Cordolo-03,177299,1
+Telaio strutturale,MF-CR-Cordolo-01,177359,1
+Telaio strutturale,MF-FN-Fondazione-01,177551,1
+Telaio strutturale,CF-CR-Cordolo-01,177935,1
+Telaio strutturale,MF-FN-Fondazione-01,179211,1
+Telaio strutturale,CF-CR-Cordolo-01,183990,1
+Telaio strutturale,CF-CR-Cordolo-01,184483,1
+Telaio strutturale,CF-CR-Cordolo-01,184895,1
+Telaio strutturale,CF-CR-Cordolo-01,185101,1
+Telaio strutturale,CF-CR-Cordolo-01,185274,1
+Telaio strutturale,CF-CR-Cordolo-01,185496,1
+Telaio strutturale,CF-CR-Cordolo-01,186180,1
+Telaio strutturale,MF-CR-Cordolo-01,186550,1
+Telaio strutturale,MF-CR-Cordolo-04,186680,1
+Telaio strutturale,MF-CR-Cordolo-04,186752,1
+Telaio strutturale,MF-CR-Cordolo-01,186878,1
+Telaio strutturale,MF-FN-Fondazione-01,187116,1
+Telaio strutturale,MF-FN-Fondazione-01,187546,1
+Telaio strutturale,CF-CR-Cordolo-01,187724,1
+Telaio strutturale,CF-CR-Cordolo-01,188221,1
+Telaio strutturale,MF-FN-Fondazione-01,192586,1
+Telaio strutturale,MF-FN-Fondazione-01,193491,1
+Arredi fissi,BR-BR-Barriera-01,195080,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195081,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195082,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195083,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195084,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195085,1
+Arredi fissi,BR-BR-Barriera-01,195094,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195095,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195096,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195097,1
+Arredi fissi,BR-BR-Barriera-02,195300,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195301,1
+Arredi fissi,BR-BR-Barriera-02,195350,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195351,1
+Arredi fissi,BR-BR-Barriera-02,195364,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195365,1
+Arredi fissi,BR-BR-Barriera-02,195380,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195381,1
+Arredi fissi,BR-BR-Barriera-02,195396,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195397,1
+Arredi fissi,BR-BR-Barriera-02,195421,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195422,1
+Arredi fissi,BR-BR-Barriera-02,195429,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195430,1
+Arredi fissi,BR-BR-Barriera-02,195437,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195438,1
+Arredi fissi,BR-BR-Barriera-02,195445,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195446,1
+Arredi fissi,BR-BR-Barriera-02,195453,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195454,1
+Arredi fissi,BR-BR-Barriera-02,195490,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195491,1
+Arredi fissi,BR-BR-Barriera-02,195498,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195499,1
+Arredi fissi,BR-BR-Barriera-02,195512,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195513,1
+Arredi fissi,BR-BR-Barriera-02,195520,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-02,195521,1
+Arredi fissi,BR-BR-Barriera-01,195558,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195559,1
+Arredi fissi,BR-PA-PannelloLegno-01,195560,1
+Arredi fissi,BR-PA-PannelloLegno-01,195561,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195562,1
+Arredi fissi,BR-PA-PannelloLegno-01,195563,1
+Pilastri,BR-MN-Montante-01,195564,1
+Arredi fissi,BR-BR-Barriera-01,195641,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195642,1
+Arredi fissi,BR-PA-PannelloLegno-01,195643,1
+Arredi fissi,BR-PA-PannelloLegno-01,195644,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195645,1
+Arredi fissi,BR-PA-PannelloLegno-01,195646,1
+Pilastri,BR-MN-Montante-01,195647,1
+Arredi fissi,BR-BR-Barriera-01,195655,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195656,1
+Arredi fissi,BR-PA-PannelloLegno-01,195657,1
+Arredi fissi,BR-PA-PannelloLegno-01,195658,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195659,1
+Arredi fissi,BR-PA-PannelloLegno-01,195660,1
+Pilastri,BR-MN-Montante-01,195661,1
+Arredi fissi,BR-BR-Barriera-01,195671,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195672,1
+Arredi fissi,BR-PA-PannelloLegno-01,195673,1
+Arredi fissi,BR-PA-PannelloLegno-01,195674,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195675,1
+Arredi fissi,BR-PA-PannelloLegno-01,195676,1
+Pilastri,BR-MN-Montante-01,195677,1
+Arredi fissi,BR-BR-Barriera-01,195687,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195688,1
+Arredi fissi,BR-PA-PannelloLegno-01,195689,1
+Arredi fissi,BR-PA-PannelloLegno-01,195690,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195691,1
+Arredi fissi,BR-PA-PannelloLegno-01,195692,1
+Pilastri,BR-MN-Montante-01,195693,1
+Arredi fissi,BR-BR-Barriera-01,195715,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195716,1
+Arredi fissi,BR-PA-PannelloLegno-01,195717,1
+Arredi fissi,BR-PA-PannelloLegno-01,195718,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195719,1
+Arredi fissi,BR-PA-PannelloLegno-01,195720,1
+Pilastri,BR-MN-Montante-01,195721,1
+Arredi fissi,BR-BR-Barriera-01,195723,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195724,1
+Arredi fissi,BR-PA-PannelloLegno-01,195725,1
+Arredi fissi,BR-PA-PannelloLegno-01,195726,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195727,1
+Arredi fissi,BR-PA-PannelloLegno-01,195728,1
+Pilastri,BR-MN-Montante-01,195729,1
+Arredi fissi,BR-BR-Barriera-01,195731,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195732,1
+Arredi fissi,BR-PA-PannelloLegno-01,195733,1
+Arredi fissi,BR-PA-PannelloLegno-01,195734,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195735,1
+Arredi fissi,BR-PA-PannelloLegno-01,195736,1
+Pilastri,BR-MN-Montante-01,195737,1
+Arredi fissi,BR-BR-Barriera-01,195739,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195740,1
+Arredi fissi,BR-PA-PannelloLegno-01,195741,1
+Arredi fissi,BR-PA-PannelloLegno-01,195742,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195743,1
+Arredi fissi,BR-PA-PannelloLegno-01,195744,1
+Pilastri,BR-MN-Montante-01,195745,1
+Arredi fissi,BR-BR-Barriera-01,195747,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195748,1
+Arredi fissi,BR-PA-PannelloLegno-01,195749,1
+Arredi fissi,BR-PA-PannelloLegno-01,195750,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195751,1
+Arredi fissi,BR-PA-PannelloLegno-01,195752,1
+Pilastri,BR-MN-Montante-01,195753,1
+Arredi fissi,BR-BR-Barriera-01,195763,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195764,1
+Arredi fissi,BR-PA-PannelloLegno-01,195765,1
+Arredi fissi,BR-PA-PannelloLegno-01,195766,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195767,1
+Arredi fissi,BR-PA-PannelloLegno-01,195768,1
+Pilastri,BR-MN-Montante-01,195769,1
+Arredi fissi,BR-BR-Barriera-01,195771,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195772,1
+Arredi fissi,BR-PA-PannelloLegno-01,195773,1
+Arredi fissi,BR-PA-PannelloLegno-01,195774,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195775,1
+Arredi fissi,BR-PA-PannelloLegno-01,195776,1
+Pilastri,BR-MN-Montante-01,195777,1
+Arredi fissi,BR-BR-Barriera-01,195779,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195780,1
+Arredi fissi,BR-PA-PannelloLegno-01,195781,1
+Arredi fissi,BR-PA-PannelloLegno-01,195782,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195783,1
+Arredi fissi,BR-PA-PannelloLegno-01,195784,1
+Pilastri,BR-MN-Montante-01,195785,1
+Arredi fissi,BR-BR-Barriera-01,195787,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195788,1
+Arredi fissi,BR-PA-PannelloLegno-01,195789,1
+Arredi fissi,BR-PA-PannelloLegno-01,195790,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195791,1
+Arredi fissi,BR-PA-PannelloLegno-01,195792,1
+Pilastri,BR-MN-Montante-01,195793,1
+Arredi fissi,BR-BR-Barriera-01,195795,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195796,1
+Arredi fissi,BR-PA-PannelloLegno-01,195797,1
+Arredi fissi,BR-PA-PannelloLegno-01,195798,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195799,1
+Arredi fissi,BR-PA-PannelloLegno-01,195800,1
+Pilastri,BR-MN-Montante-01,195801,1
+Arredi fissi,BR-BR-Barriera-01,195813,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195814,1
+Arredi fissi,BR-PA-PannelloLegno-01,195815,1
+Arredi fissi,BR-PA-PannelloLegno-01,195816,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195817,1
+Arredi fissi,BR-PA-PannelloLegno-01,195818,1
+Pilastri,BR-MN-Montante-01,195819,1
+Arredi fissi,BR-BR-Barriera-01,195821,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195822,1
+Arredi fissi,BR-PA-PannelloLegno-01,195823,1
+Arredi fissi,BR-PA-PannelloLegno-01,195824,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195825,1
+Arredi fissi,BR-PA-PannelloLegno-01,195826,1
+Pilastri,BR-MN-Montante-01,195827,1
+Arredi fissi,BR-BR-Barriera-01,195829,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195830,1
+Arredi fissi,BR-PA-PannelloLegno-01,195831,1
+Arredi fissi,BR-PA-PannelloLegno-01,195832,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195833,1
+Arredi fissi,BR-PA-PannelloLegno-01,195834,1
+Pilastri,BR-MN-Montante-01,195835,1
+Arredi fissi,BR-BR-Barriera-01,195837,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195838,1
+Arredi fissi,BR-PA-PannelloLegno-01,195839,1
+Arredi fissi,BR-PA-PannelloLegno-01,195840,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195841,1
+Arredi fissi,BR-PA-PannelloLegno-01,195842,1
+Pilastri,BR-MN-Montante-01,195843,1
+Arredi fissi,BR-BR-Barriera-01,195845,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195846,1
+Arredi fissi,BR-PA-PannelloLegno-01,195847,1
+Arredi fissi,BR-PA-PannelloLegno-01,195848,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195849,1
+Arredi fissi,BR-PA-PannelloLegno-01,195850,1
+Pilastri,BR-MN-Montante-01,195851,1
+Arredi fissi,BR-BR-Barriera-01,195913,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195914,1
+Arredi fissi,BR-PA-PannelloLegno-01,195915,1
+Arredi fissi,BR-PA-PannelloLegno-01,195916,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195917,1
+Arredi fissi,BR-PA-PannelloLegno-01,195918,1
+Pilastri,BR-MN-Montante-01,195919,1
+Arredi fissi,BR-BR-Barriera-01,195921,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195922,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195923,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195924,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195925,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195926,1
+Pilastri,BR-MN-Montante-01,195927,1
+Arredi fissi,BR-BR-Barriera-01,195970,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195971,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195972,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195973,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195974,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195975,1
+Pilastri,BR-MN-Montante-01,195976,1
+Arredi fissi,BR-BR-Barriera-01,195978,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195979,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195980,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195981,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195982,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195983,1
+Pilastri,BR-MN-Montante-01,195984,1
+Arredi fissi,BR-BR-Barriera-01,195986,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195987,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195988,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195989,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195990,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195991,1
+Pilastri,BR-MN-Montante-01,195992,1
+Arredi fissi,BR-BR-Barriera-01,195994,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,195995,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195996,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195997,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195998,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,195999,1
+Pilastri,BR-MN-Montante-01,196000,1
+Arredi fissi,BR-BR-Barriera-01,196002,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196003,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196004,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196005,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196006,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196007,1
+Pilastri,BR-MN-Montante-01,196008,1
+Arredi fissi,BR-BR-Barriera-01,196010,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196011,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196012,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196013,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196014,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196015,1
+Pilastri,BR-MN-Montante-01,196016,1
+Arredi fissi,BR-BR-Barriera-01,196018,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196019,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196020,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196021,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196022,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196023,1
+Pilastri,BR-MN-Montante-01,196024,1
+Arredi fissi,BR-BR-Barriera-01,196026,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196027,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196028,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196029,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196030,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196031,1
+Pilastri,BR-MN-Montante-01,196032,1
+Arredi fissi,BR-BR-Barriera-01,196034,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196035,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196036,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196037,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196038,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196039,1
+Pilastri,BR-MN-Montante-01,196040,1
+Arredi fissi,BR-BR-Barriera-01,196042,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196043,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196044,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196045,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196046,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196047,1
+Pilastri,BR-MN-Montante-01,196048,1
+Arredi fissi,BR-BR-Barriera-01,196050,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196051,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196052,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196053,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196054,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196055,1
+Pilastri,BR-MN-Montante-01,196056,1
+Arredi fissi,BR-BR-Barriera-01,196058,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196059,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196060,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196061,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196062,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196063,1
+Pilastri,BR-MN-Montante-01,196064,1
+Arredi fissi,BR-BR-Barriera-01,196066,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196067,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196068,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196069,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196070,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196071,1
+Pilastri,BR-MN-Montante-01,196072,1
+Arredi fissi,BR-BR-Barriera-01,196074,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196075,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196076,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196077,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196078,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196079,1
+Pilastri,BR-MN-Montante-01,196080,1
+Arredi fissi,BR-BR-Barriera-01,196082,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196083,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196084,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196085,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196086,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196087,1
+Pilastri,BR-MN-Montante-01,196088,1
+Arredi fissi,BR-BR-Barriera-01,196090,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196091,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196092,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196093,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196094,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196095,1
+Pilastri,BR-MN-Montante-01,196096,1
+Arredi fissi,BR-BR-Barriera-01,196098,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196099,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196100,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196101,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196102,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196103,1
+Pilastri,BR-MN-Montante-01,196104,1
+Arredi fissi,BR-BR-Barriera-01,196106,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196107,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196108,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196109,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196110,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196111,1
+Pilastri,BR-MN-Montante-01,196112,1
+Arredi fissi,BR-BR-Barriera-01,196114,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196115,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196116,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196117,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196118,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196119,1
+Pilastri,BR-MN-Montante-01,196120,1
+Arredi fissi,BR-BR-Barriera-01,196122,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196123,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196124,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196125,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196126,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196127,1
+Pilastri,BR-MN-Montante-01,196128,1
+Arredi fissi,BR-BR-Barriera-01,196146,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196147,1
+Arredi fissi,BR-PA-PannelloLegno-01,196148,1
+Arredi fissi,BR-PA-PannelloLegno-01,196149,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196150,1
+Arredi fissi,BR-PA-PannelloLegno-01,196151,1
+Pilastri,BR-MN-Montante-01,196152,1
+Arredi fissi,BR-BR-Barriera-01,196154,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196155,1
+Arredi fissi,BR-PA-PannelloLegno-01,196156,1
+Arredi fissi,BR-PA-PannelloLegno-01,196157,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196158,1
+Arredi fissi,BR-PA-PannelloLegno-01,196159,1
+Pilastri,BR-MN-Montante-01,196160,1
+Arredi fissi,BR-BR-Barriera-01,196162,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196163,1
+Arredi fissi,BR-PA-PannelloLegno-01,196164,1
+Arredi fissi,BR-PA-PannelloLegno-01,196165,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196166,1
+Arredi fissi,BR-PA-PannelloLegno-01,196167,1
+Pilastri,BR-MN-Montante-01,196168,1
+Arredi fissi,BR-BR-Barriera-01,196170,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196171,1
+Arredi fissi,BR-PA-PannelloLegno-01,196172,1
+Arredi fissi,BR-PA-PannelloLegno-01,196173,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196174,1
+Arredi fissi,BR-PA-PannelloLegno-01,196175,1
+Pilastri,BR-MN-Montante-01,196176,1
+Arredi fissi,BR-BR-Barriera-01,196178,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196179,1
+Arredi fissi,BR-PA-PannelloLegno-01,196180,1
+Arredi fissi,BR-PA-PannelloLegno-01,196181,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196182,1
+Arredi fissi,BR-PA-PannelloLegno-01,196183,1
+Pilastri,BR-MN-Montante-01,196184,1
+Arredi fissi,BR-BR-Barriera-01,196186,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196187,1
+Arredi fissi,BR-PA-PannelloLegno-01,196188,1
+Arredi fissi,BR-PA-PannelloLegno-01,196189,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196190,1
+Arredi fissi,BR-PA-PannelloLegno-01,196191,1
+Pilastri,BR-MN-Montante-01,196192,1
+Arredi fissi,BR-BR-Barriera-01,196194,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196195,1
+Arredi fissi,BR-PA-PannelloLegno-01,196196,1
+Arredi fissi,BR-PA-PannelloLegno-01,196197,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196198,1
+Arredi fissi,BR-PA-PannelloLegno-01,196199,1
+Pilastri,BR-MN-Montante-01,196200,1
+Arredi fissi,BR-BR-Barriera-01,196202,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196203,1
+Arredi fissi,BR-PA-PannelloLegno-01,196204,1
+Arredi fissi,BR-PA-PannelloLegno-01,196205,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196206,1
+Arredi fissi,BR-PA-PannelloLegno-01,196207,1
+Pilastri,BR-MN-Montante-01,196208,1
+Arredi fissi,BR-BR-Barriera-01,196210,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196211,1
+Arredi fissi,BR-PA-PannelloLegno-01,196212,1
+Arredi fissi,BR-PA-PannelloLegno-01,196213,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196214,1
+Arredi fissi,BR-PA-PannelloLegno-01,196215,1
+Pilastri,BR-MN-Montante-01,196216,1
+Arredi fissi,BR-BR-Barriera-01,196218,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196219,1
+Arredi fissi,BR-PA-PannelloLegno-01,196220,1
+Arredi fissi,BR-PA-PannelloLegno-01,196221,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196222,1
+Arredi fissi,BR-PA-PannelloLegno-01,196223,1
+Pilastri,BR-MN-Montante-01,196224,1
+Arredi fissi,BR-BR-Barriera-01,196226,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196227,1
+Arredi fissi,BR-PA-PannelloLegno-01,196228,1
+Arredi fissi,BR-PA-PannelloLegno-01,196229,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196230,1
+Arredi fissi,BR-PA-PannelloLegno-01,196231,1
+Pilastri,BR-MN-Montante-01,196232,1
+Arredi fissi,BR-BR-Barriera-01,196234,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196235,1
+Arredi fissi,BR-PA-PannelloLegno-01,196236,1
+Arredi fissi,BR-PA-PannelloLegno-01,196237,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196238,1
+Arredi fissi,BR-PA-PannelloLegno-01,196239,1
+Pilastri,BR-MN-Montante-01,196240,1
+Arredi fissi,BR-BR-Barriera-01,196242,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196243,1
+Arredi fissi,BR-PA-PannelloLegno-01,196244,1
+Arredi fissi,BR-PA-PannelloLegno-01,196245,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196246,1
+Arredi fissi,BR-PA-PannelloLegno-01,196247,1
+Pilastri,BR-MN-Montante-01,196248,1
+Arredi fissi,BR-BR-Barriera-01,196250,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196251,1
+Arredi fissi,BR-PA-PannelloLegno-01,196252,1
+Arredi fissi,BR-PA-PannelloLegno-01,196253,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196254,1
+Arredi fissi,BR-PA-PannelloLegno-01,196255,1
+Pilastri,BR-MN-Montante-01,196256,1
+Arredi fissi,BR-BR-Barriera-01,196258,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196259,1
+Arredi fissi,BR-PA-PannelloLegno-01,196260,1
+Arredi fissi,BR-PA-PannelloLegno-01,196261,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196262,1
+Arredi fissi,BR-PA-PannelloLegno-01,196263,1
+Pilastri,BR-MN-Montante-01,196264,1
+Arredi fissi,BR-BR-Barriera-01,196266,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196267,1
+Arredi fissi,BR-PA-PannelloLegno-01,196268,1
+Arredi fissi,BR-PA-PannelloLegno-01,196269,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196270,1
+Arredi fissi,BR-PA-PannelloLegno-01,196271,1
+Pilastri,BR-MN-Montante-01,196272,1
+Arredi fissi,BR-BR-Barriera-01,196274,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196275,1
+Arredi fissi,BR-PA-PannelloLegno-01,196276,1
+Arredi fissi,BR-PA-PannelloLegno-01,196277,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196278,1
+Arredi fissi,BR-PA-PannelloLegno-01,196279,1
+Pilastri,BR-MN-Montante-01,196280,1
+Arredi fissi,BR-BR-Barriera-01,196282,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196283,1
+Arredi fissi,BR-PA-PannelloLegno-01,196284,1
+Arredi fissi,BR-PA-PannelloLegno-01,196285,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196286,1
+Arredi fissi,BR-PA-PannelloLegno-01,196287,1
+Pilastri,BR-MN-Montante-01,196288,1
+Arredi fissi,BR-BR-Barriera-01,196290,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196291,1
+Arredi fissi,BR-PA-PannelloLegno-01,196292,1
+Arredi fissi,BR-PA-PannelloLegno-01,196293,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196294,1
+Arredi fissi,BR-PA-PannelloLegno-01,196295,1
+Pilastri,BR-MN-Montante-01,196296,1
+Arredi fissi,BR-BR-Barriera-01,196298,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196299,1
+Arredi fissi,BR-PA-PannelloLegno-01,196300,1
+Arredi fissi,BR-PA-PannelloLegno-01,196301,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196302,1
+Arredi fissi,BR-PA-PannelloLegno-01,196303,1
+Pilastri,BR-MN-Montante-01,196304,1
+Arredi fissi,BR-BR-Barriera-01,196306,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196307,1
+Arredi fissi,BR-PA-PannelloLegno-01,196308,1
+Arredi fissi,BR-PA-PannelloLegno-01,196309,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196310,1
+Arredi fissi,BR-PA-PannelloLegno-01,196311,1
+Pilastri,BR-MN-Montante-01,196312,1
+Arredi fissi,BR-BR-Barriera-01,196328,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196329,1
+Arredi fissi,BR-PA-PannelloLegno-01,196330,1
+Arredi fissi,BR-PA-PannelloLegno-01,196331,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196332,1
+Arredi fissi,BR-PA-PannelloLegno-01,196333,1
+Pilastri,BR-MN-Montante-01,196334,1
+Arredi fissi,BR-BR-Barriera-01,196336,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196337,1
+Arredi fissi,BR-PA-PannelloLegno-01,196338,1
+Arredi fissi,BR-PA-PannelloLegno-01,196339,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196340,1
+Arredi fissi,BR-PA-PannelloLegno-01,196341,1
+Pilastri,BR-MN-Montante-01,196342,1
+Arredi fissi,BR-BR-Barriera-01,196344,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196345,1
+Arredi fissi,BR-PA-PannelloLegno-01,196346,1
+Arredi fissi,BR-PA-PannelloLegno-01,196347,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196348,1
+Arredi fissi,BR-PA-PannelloLegno-01,196349,1
+Pilastri,BR-MN-Montante-01,196350,1
+Arredi fissi,BR-BR-Barriera-01,196352,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196353,1
+Arredi fissi,BR-PA-PannelloLegno-01,196354,1
+Arredi fissi,BR-PA-PannelloLegno-01,196355,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196356,1
+Arredi fissi,BR-PA-PannelloLegno-01,196357,1
+Pilastri,BR-MN-Montante-01,196358,1
+Arredi fissi,BR-BR-Barriera-01,196360,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196361,1
+Arredi fissi,BR-PA-PannelloLegno-01,196362,1
+Arredi fissi,BR-PA-PannelloLegno-01,196363,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196364,1
+Arredi fissi,BR-PA-PannelloLegno-01,196365,1
+Pilastri,BR-MN-Montante-01,196366,1
+Arredi fissi,BR-BR-Barriera-01,196368,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196369,1
+Arredi fissi,BR-PA-PannelloLegno-01,196370,1
+Arredi fissi,BR-PA-PannelloLegno-01,196371,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196372,1
+Arredi fissi,BR-PA-PannelloLegno-01,196373,1
+Pilastri,BR-MN-Montante-01,196374,1
+Arredi fissi,BR-BR-Barriera-01,196376,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196377,1
+Arredi fissi,BR-PA-PannelloLegno-01,196378,1
+Arredi fissi,BR-PA-PannelloLegno-01,196379,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196380,1
+Arredi fissi,BR-PA-PannelloLegno-01,196381,1
+Pilastri,BR-MN-Montante-01,196382,1
+Arredi fissi,BR-BR-Barriera-01,196384,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196385,1
+Arredi fissi,BR-PA-PannelloLegno-01,196386,1
+Arredi fissi,BR-PA-PannelloLegno-01,196387,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196388,1
+Arredi fissi,BR-PA-PannelloLegno-01,196389,1
+Pilastri,BR-MN-Montante-01,196390,1
+Arredi fissi,BR-BR-Barriera-01,196392,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196393,1
+Arredi fissi,BR-PA-PannelloLegno-01,196394,1
+Arredi fissi,BR-PA-PannelloLegno-01,196395,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196396,1
+Arredi fissi,BR-PA-PannelloLegno-01,196397,1
+Pilastri,BR-MN-Montante-01,196398,1
+Arredi fissi,BR-BR-Barriera-01,196400,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196401,1
+Arredi fissi,BR-PA-PannelloLegno-01,196402,1
+Arredi fissi,BR-PA-PannelloLegno-01,196403,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196404,1
+Arredi fissi,BR-PA-PannelloLegno-01,196405,1
+Pilastri,BR-MN-Montante-01,196406,1
+Arredi fissi,BR-BR-Barriera-01,196408,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196409,1
+Arredi fissi,BR-PA-PannelloLegno-01,196410,1
+Arredi fissi,BR-PA-PannelloLegno-01,196411,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196412,1
+Arredi fissi,BR-PA-PannelloLegno-01,196413,1
+Pilastri,BR-MN-Montante-01,196414,1
+Arredi fissi,BR-BR-Barriera-01,196416,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196417,1
+Arredi fissi,BR-PA-PannelloLegno-01,196418,1
+Arredi fissi,BR-PA-PannelloLegno-01,196419,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196420,1
+Arredi fissi,BR-PA-PannelloLegno-01,196421,1
+Pilastri,BR-MN-Montante-01,196422,1
+Arredi fissi,BR-BR-Barriera-01,196424,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196425,1
+Arredi fissi,BR-PA-PannelloLegno-01,196426,1
+Arredi fissi,BR-PA-PannelloLegno-01,196427,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196428,1
+Arredi fissi,BR-PA-PannelloLegno-01,196429,1
+Pilastri,BR-MN-Montante-01,196430,1
+Arredi fissi,BR-BR-Barriera-01,196432,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196433,1
+Arredi fissi,BR-PA-PannelloLegno-01,196434,1
+Arredi fissi,BR-PA-PannelloLegno-01,196435,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196436,1
+Arredi fissi,BR-PA-PannelloLegno-01,196437,1
+Pilastri,BR-MN-Montante-01,196438,1
+Arredi fissi,BR-BR-Barriera-01,196440,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196441,1
+Arredi fissi,BR-PA-PannelloLegno-01,196442,1
+Arredi fissi,BR-PA-PannelloLegno-01,196443,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,196444,1
+Arredi fissi,BR-PA-PannelloLegno-01,196445,1
+Pilastri,BR-MN-Montante-01,196446,1
+Arredi fissi,BR-BR-Terminale-01,196568,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196569,1
+Pilastri,BR-MN-Montante-01,196570,1
+Arredi fissi,BR-PA-PannelloPMMA-01,196571,1
+Pilastri,BR-MN-Montante-01,196572,1
+Arredi fissi,BR-BR-Terminale-01,196573,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196574,1
+Pilastri,BR-MN-Montante-01,196575,1
+Arredi fissi,BR-PA-PannelloPMMA-01,196576,1
+Arredi fissi,BR-BR-Terminale-01,196577,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196578,1
+Pilastri,BR-MN-Montante-01,196579,1
+Arredi fissi,BR-PA-PannelloPMMA-01,196580,1
+Arredi fissi,BR-BR-Terminale-01,196581,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196582,1
+Pilastri,BR-MN-Montante-01,196583,1
+Arredi fissi,BR-PA-PannelloPMMA-01,196584,1
+Arredi fissi,BR-BR-Terminale-02,196585,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196586,1
+Pilastri,BR-MN-Montante-01,196587,1
+Arredi fissi,BR-PA-PannelloPMMA-01,196588,1
+Arredi fissi,BR-BR-Terminale-02,196589,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196590,1
+Pilastri,BR-MN-Montante-01,196591,1
+Arredi fissi,BR-PA-PannelloPMMA-01,196592,1
+Arredi fissi,BR-BR-Terminale-02,196594,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196595,1
+Pilastri,BR-MN-Montante-01,196596,1
+Arredi fissi,BR-PA-PannelloPMMA-01,196597,1
+Arredi fissi,BR-BR-Terminale-02,196599,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,196600,1
+Pilastri,BR-MN-Montante-01,196601,1
+Arredi fissi,BR-PA-PannelloPMMA-01,196602,1
+Telaio strutturale,CS-CR-Cordolo-01,197205,1
+Telaio strutturale,CS-CR-Cordolo-01,197628,1
+Telaio strutturale,CF-FN-Fondazioni-01,218002,1
+Telaio strutturale,CF-FN-Fondazioni-01,219666,1
+Telaio strutturale,CF-FN-Fondazioni-01,219667,1
+Telaio strutturale,CF-FN-Fondazioni-01,219668,1
+Telaio strutturale,CF-FN-Fondazioni-01,219669,1
+Telaio strutturale,CF-FN-Fondazioni-01,219670,1
+Telaio strutturale,CF-FN-Fondazioni-01,219671,1
+Telaio strutturale,CF-FN-Fondazioni-01,219672,1
+Telaio strutturale,CF-FN-Fondazioni-01,219673,1
+Telaio strutturale,CF-FN-Fondazioni-01,219674,1
+Telaio strutturale,CF-FN-Fondazioni-01,219675,1
+Telaio strutturale,CF-FN-Fondazioni-01,219676,1
+Telaio strutturale,CF-FN-Fondazioni-01,219677,1
+Telaio strutturale,CF-FN-Fondazioni-01,219678,1
+Telaio strutturale,CF-FN-Fondazioni-01,219679,1
+Telaio strutturale,CF-FN-Fondazioni-01,219680,1
+Telaio strutturale,CF-FN-Fondazioni-01,219681,1
+Telaio strutturale,CF-FN-Fondazioni-01,219682,1
+Telaio strutturale,CF-FN-Fondazioni-01,219683,1
+Telaio strutturale,CF-FN-Fondazioni-01,219684,1
+Telaio strutturale,CF-FN-Fondazioni-01,219685,1
+Telaio strutturale,CF-FN-Fondazioni-01,219686,1
+Telaio strutturale,CF-FN-Fondazioni-01,219687,1
+Telaio strutturale,CF-FN-Fondazioni-01,219688,1
+Telaio strutturale,CF-FN-Fondazioni-01,219689,1
+Telaio strutturale,CF-FN-Fondazioni-01,219690,1
+Balaustre,SI-SG-Sostegno-03,274991,1
+Balaustre,SI-SG-Sostegno-03,274992,1
+Balaustre,SI-SG-Sostegno-03,274993,1
+Balaustre,SI-SG-Sostegno-03,274994,1
+Balaustre,SI-SG-Sostegno-03,274995,1
+Balaustre,SI-SG-Sostegno-03,274996,1
+Balaustre,SI-SG-Sostegno-03,274997,1
+Balaustre,SI-SG-Sostegno-03,274998,1
+Balaustre,SI-SG-Sostegno-03,274999,1
+Balaustre,SI-SG-Sostegno-03,275001,1
+Balaustre,SI-SG-Sostegno-03,275003,1
+Balaustre,SI-SG-Sostegno-03,275004,1
+Balaustre,SI-SG-Sostegno-03,275005,1
+Balaustre,SI-SG-Sostegno-03,275006,1
+Balaustre,SI-SG-Sostegno-03,275007,1
+Balaustre,SI-SG-Sostegno-03,275008,1
+Balaustre,SI-SG-Sostegno-03,275009,1
+Balaustre,SI-SG-Sostegno-03,275010,1
+Balaustre,SI-SG-Sostegno-03,275011,1
+Balaustre,SI-SG-Sostegno-03,275012,1
+Balaustre,SI-SG-Sostegno-03,275013,1
+Balaustre,SI-SG-Sostegno-03,275014,1
+Balaustre,SI-SG-Sostegno-03,275015,1
+Balaustre,SI-SG-Sostegno-03,275016,1
+Balaustre,SI-SG-Sostegno-03,275017,1
+Balaustre,SI-SG-Sostegno-03,275018,1
+Balaustre,SI-SG-Sostegno-03,275019,1
+Balaustre,SI-SG-Sostegno-03,275020,1
+Balaustre,SI-SG-Sostegno-03,275021,1
+Balaustre,SI-SG-SostegnoTransizione-03,277505,1
+Balaustre,SI-SG-SostegnoTransizione-01,277508,1
+Balaustre,SI-SG-SostegnoTransizione-03,277509,1
+Telaio strutturale,MF-CR-Cordolo_Dem_250+887_SDF-01,283236,1
+Telaio strutturale,MF-CR-Cordolo_Dem_250+923_SDF-01,283269,1
+Telaio strutturale,MF-CR-Cordolo_Dem_250+923_SDF-02,283270,1
+Telaio strutturale,MF-CR-Cordolo_Dem_251+169_SDF-01,283271,1
+Telaio strutturale,MF-CR-Cordolo_Dem_251+169_SDF-02,283272,1
+Telaio strutturale,MF-CR-Cordolo_Dem_251+306_SDF-01,283273,1
+Telaio strutturale,MF-CR-Cordolo_Dem_251+306_SDF-02,283274,1
+Telaio strutturale,MF-CR-Cordolo_Dem_251+306_SDF-02,283275,1
+Telaio strutturale,MF-CR-Cordolo_Dem_251+306_SDF-01,283276,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299906,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299907,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299908,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299909,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299910,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299911,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299914,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299915,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299916,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299917,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299918,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299919,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299921,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299922,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299923,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299924,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299925,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299926,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299928,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299929,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299930,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299931,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299932,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299933,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299935,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299936,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299937,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299938,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299939,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299940,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299942,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299943,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299944,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299945,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299946,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299947,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299949,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299950,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299951,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299952,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299953,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299954,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299956,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299957,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299958,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299959,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299960,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299961,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299963,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299964,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299965,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299966,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299967,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299968,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299970,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299971,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299972,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299973,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299974,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299975,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299977,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299978,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299979,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299980,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299981,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299982,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299984,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299985,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299986,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299987,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299988,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299989,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299991,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299992,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299993,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299994,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299995,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299996,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299998,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,299999,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300000,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300001,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300002,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300003,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300005,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300006,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300007,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300008,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300009,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300010,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300013,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300014,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300015,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300016,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300017,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300018,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300019,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300020,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300021,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300022,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300023,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300024,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300025,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300026,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300027,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300028,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300029,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300030,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300031,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300032,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300033,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300034,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300035,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300036,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300037,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300038,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300039,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300040,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300041,1
+Arredi fissi,BR-PA-PannelloAlluminio-01,300042,1
+Pilastri,BR-MN-Montante-01,300047,1
+Pilastri,BR-MN-Montante-01,300048,1
+Pilastri,BR-MN-Montante-01,300049,1
+Pilastri,BR-MN-Montante-01,300050,1
+Pilastri,BR-MN-Montante-01,300051,1
+Pilastri,BR-MN-Montante-01,300052,1
+Pilastri,BR-MN-Montante-01,300053,1
+Pilastri,BR-MN-Montante-01,300054,1
+Pilastri,BR-MN-Montante-01,300055,1
+Pilastri,BR-MN-Montante-01,300056,1
+Pilastri,BR-MN-Montante-01,300057,1
+Pilastri,BR-MN-Montante-01,300058,1
+Pilastri,BR-MN-Montante-01,300059,1
+Pilastri,BR-MN-Montante-01,300060,1
+Telaio strutturale,MF-CR-Cordolo_Dem_251+169_SDF-02,301207,1
+Telaio strutturale,CF-CR-Cordolo-01,307581,1
+Telaio strutturale,MF-CR-CordoloPonticello-01,308718,1
+Telaio strutturale,MF-CR-CordoloPonticello-01,309163,1
+Telaio strutturale,MF-CR-CordoloPonticello-03,310634,1
+Telaio strutturale,MF-CR-CordoloPonticello-03,311450,1
+Modelli generici,MF-FN-FondazionePonticello-01,316911,1
+Telaio strutturale,MF-CR-CordoloPonticello-04,321672,1
+Modelli generici,MF-FN-FondazionePonticello-01,322402,1
+Modelli generici,BR-SL-Scossalina-01,408921,1
+Modelli generici,BR-SL-Scossalina-01,408928,1
+Modelli generici,BR-SL-Scossalina-01,408931,1
+Modelli generici,BR-SL-Scossalina-01,408934,1
+Modelli generici,BR-SL-Scossalina-01,408937,1
+Modelli generici,BR-SL-Scossalina-01,408940,1
+Modelli generici,BR-SL-Scossalina-01,408943,1
+Modelli generici,BR-SL-Scossalina-01,408946,1
+Modelli generici,BR-SL-Scossalina-01,408949,1
+Modelli generici,BR-SL-Scossalina-01,408952,1
+Modelli generici,BR-SL-Scossalina-01,408955,1
+Modelli generici,BR-SL-Scossalina-01,408958,1
+Modelli generici,BR-SL-Scossalina-01,408961,1
+Modelli generici,BR-SL-Scossalina-01,408964,1
+Modelli generici,BR-SL-Scossalina-01,408967,1
+Modelli generici,BR-SL-Scossalina-01,408970,1
+Modelli generici,BR-SL-Scossalina-01,408973,1
+Modelli generici,BR-SL-Scossalina-01,408976,1
+Modelli generici,BR-SL-Scossalina-01,408979,1
+Modelli generici,BR-SL-Scossalina-01,408982,1
+Modelli generici,BR-SL-Scossalina-01,408985,1
+Modelli generici,BR-SL-Scossalina-01,408988,1
+Modelli generici,BR-SL-Scossalina-01,408991,1
+Modelli generici,BR-SL-Scossalina-01,408994,1
+Modelli generici,BR-SL-Scossalina-01,408997,1
+Modelli generici,BR-SL-Scossalina-01,409000,1
+Modelli generici,BR-SL-Scossalina-01,409003,1
+Modelli generici,BR-SL-Scossalina-01,409006,1
+Modelli generici,BR-SL-Scossalina-01,409009,1
+Modelli generici,BR-SL-Scossalina-01,409012,1
+Modelli generici,BR-SL-Scossalina-01,409015,1
+Modelli generici,BR-SL-Scossalina-01,409018,1
+Modelli generici,BR-SL-Scossalina-01,409021,1
+Modelli generici,BR-SL-Scossalina-01,409024,1
+Modelli generici,BR-SL-Scossalina-01,409027,1
+Modelli generici,BR-SL-Scossalina-01,409030,1
+Modelli generici,BR-SL-Scossalina-01,409033,1
+Modelli generici,BR-SL-Scossalina-01,409036,1
+Modelli generici,BR-SL-Scossalina-01,409039,1
+Modelli generici,BR-SL-Scossalina-01,409042,1
+Modelli generici,BR-SL-Scossalina-01,409045,1
+Modelli generici,BR-SL-Scossalina-01,409048,1
+Modelli generici,BR-SL-Scossalina-01,409051,1
+Modelli generici,BR-SL-Scossalina-01,409054,1
+Modelli generici,BR-SL-Scossalina-01,409057,1
+Modelli generici,BR-SL-Scossalina-01,409060,1
+Modelli generici,BR-SL-Scossalina-01,409063,1
+Modelli generici,BR-SL-Scossalina-01,409066,1
+Modelli generici,BR-SL-Scossalina-01,409069,1
+Modelli generici,BR-SL-Scossalina-01,409072,1
+Modelli generici,BR-SL-Scossalina-01,409075,1
+Modelli generici,BR-SL-Scossalina-01,409078,1
+Modelli generici,BR-SL-Scossalina-01,409081,1
+Modelli generici,BR-SL-Scossalina-01,409086,1
+Modelli generici,BR-SL-Scossalina-01,409090,1
+Modelli generici,BR-SL-Scossalina-01,409093,1
+Modelli generici,BR-SL-Scossalina-01,409096,1
+Modelli generici,BR-SL-Scossalina-01,409099,1
+Modelli generici,BR-SL-Scossalina-01,409102,1
+Modelli generici,BR-SL-Scossalina-01,409105,1
+Modelli generici,BR-SL-Scossalina-01,409108,1
+Modelli generici,BR-SL-Scossalina-01,409111,1
+Modelli generici,BR-SL-Scossalina-01,409114,1
+Modelli generici,BR-SL-Scossalina-01,409124,1
+Modelli generici,BR-SL-Scossalina-01,409127,1
+Modelli generici,BR-SL-Scossalina-01,409132,1
+Modelli generici,BR-SL-Scossalina-01,409138,1
+Modelli generici,BR-SL-Scossalina-01,409142,1
+Modelli generici,BR-SL-Scossalina-01,409145,1
+Modelli generici,BR-SL-Scossalina-01,409148,1
+Modelli generici,BR-SL-Scossalina-01,409151,1
+Modelli generici,BR-SL-Scossalina-01,409154,1
+Modelli generici,BR-SL-Scossalina-01,409157,1
+Modelli generici,BR-SL-Scossalina-01,409160,1
+Modelli generici,BR-SL-Scossalina-01,409163,1
+Modelli generici,BR-SL-Scossalina-01,409166,1
+Modelli generici,BR-SL-Scossalina-01,409169,1
+Modelli generici,BR-SL-Scossalina-01,409172,1
+Modelli generici,BR-SL-Scossalina-01,409175,1
+Modelli generici,BR-SL-Scossalina-01,409178,1
+Modelli generici,BR-SL-Scossalina-01,409181,1
+Modelli generici,BR-SL-Scossalina-01,409184,1
+Modelli generici,BR-SL-Scossalina-01,409187,1
+Modelli generici,BR-SL-Scossalina-01,409190,1
+Modelli generici,BR-SL-Scossalina-01,409193,1
+Modelli generici,BR-SL-Scossalina-01,409196,1
+Modelli generici,BR-SL-Scossalina-01,409199,1
+Modelli generici,BR-SL-Scossalina-01,409202,1
+Modelli generici,BR-SL-Scossalina-01,409205,1
+Modelli generici,BR-SL-Scossalina-01,409208,1
+Modelli generici,BR-SL-Scossalina-01,409211,1
+Modelli generici,BR-SL-Scossalina-01,409214,1
+Modelli generici,BR-SL-Scossalina-01,409217,1
+Modelli generici,BR-SL-Scossalina-01,409220,1
+Modelli generici,BR-SL-Scossalina-01,409223,1
+Modelli generici,BR-SL-Scossalina-01,409226,1
+Modelli generici,BR-SL-Scossalina-01,409229,1
+Modelli generici,BR-SL-Scossalina-01,409232,1
+Modelli generici,BR-SL-Scossalina-01,409235,1
+Modelli generici,BR-SL-Scossalina-01,409238,1
+Modelli generici,BR-SL-Scossalina-01,409241,1
+Modelli generici,BR-SL-Scossalina-01,409244,1
+Modelli generici,BR-SL-Scossalina-01,409247,1
+Modelli generici,BR-SL-Scossalina-01,409250,1
+Modelli generici,BR-SL-Scossalina-01,409253,1
+Modelli generici,BR-SL-Scossalina-01,409256,1
+Modelli generici,BR-SL-Scossalina-01,409259,1
+Modelli generici,BR-SL-Scossalina-01,409262,1
+Modelli generici,BR-SL-Scossalina-01,409265,1
+Modelli generici,BR-SL-Scossalina-01,409268,1
+Modelli generici,BR-SL-Scossalina-01,409271,1
+Modelli generici,BR-SL-Scossalina-01,409274,1
+Modelli generici,BR-SL-Scossalina-01,409277,1
+Modelli generici,BR-SL-Scossalina-01,409280,1
+Modelli generici,BR-SL-Scossalina-01,409283,1
+Modelli generici,BR-SL-Scossalina-01,409286,1
+Modelli generici,BR-SL-Scossalina-01,409305,1
+Modelli generici,BR-SL-Scossalina-01,409311,1
+Modelli generici,BR-SL-Scossalina-01,409341,1
+Modelli generici,BR-SL-Scossalina-01,409344,1
+Modelli generici,BR-SL-Scossalina-01,409347,1
+Modelli generici,BR-SL-Scossalina-01,409350,1
+Modelli generici,BR-SL-Scossalina-01,409353,1
+Modelli generici,BR-SL-Scossalina-01,409356,1
+Modelli generici,BR-SL-Scossalina-01,409359,1
+Modelli generici,BR-SL-Scossalina-01,409362,1
+Modelli generici,BR-SL-Scossalina-01,409365,1
+Modelli generici,BR-SL-Scossalina-01,409368,1
+Modelli generici,BR-SL-Scossalina-01,409371,1
+Modelli generici,BR-SL-Scossalina-01,409374,1
+Modelli generici,BR-SL-Scossalina-01,409377,1
+Modelli generici,BR-SL-Scossalina-01,409380,1
+Modelli generici,BR-SL-Scossalina-01,409383,1
+Modelli generici,BR-SL-Scossalina-01,409386,1
+Modelli generici,BR-SL-Scossalina-01,409389,1
+Modelli generici,BR-SL-Scossalina-01,409392,1
+Modelli generici,BR-SL-Scossalina-01,409395,1
+Modelli generici,BR-SL-Scossalina-01,409398,1
+Modelli generici,BR-SL-Scossalina-01,409401,1
+Modelli generici,BR-SL-Scossalina-01,409405,1
+Modelli generici,BR-SL-Scossalina-01,409408,1
+Modelli generici,BR-SL-Scossalina-01,409411,1
+Modelli generici,BR-SL-Scossalina-01,409414,1
+Modelli generici,BR-SL-Scossalina-01,409417,1
+Modelli generici,BR-SL-Scossalina-01,409420,1
+Modelli generici,BR-SL-Scossalina-01,409423,1
+Modelli generici,BR-SL-Scossalina-01,409426,1
+Modelli generici,BR-SL-Scossalina-01,409429,1
+Modelli generici,BR-SL-Scossalina-01,409432,1
+Modelli generici,BR-SL-Scossalina-01,409435,1
+Modelli generici,BR-SL-Scossalina-01,409438,1
+Modelli generici,BR-SL-Scossalina-01,409441,1
+Modelli generici,BR-SL-Scossalina-01,409444,1
+Modelli generici,BR-SL-Scossalina-01,409447,1
+Modelli generici,BR-SL-Scossalina-01,409450,1
+Modelli generici,BR-SL-Scossalina-01,409453,1
+Modelli generici,BR-SL-Scossalina-01,409456,1
+Modelli generici,BR-SL-Scossalina-01,409459,1
+Modelli generici,BR-SL-Scossalina-01,409462,1
+Modelli generici,BR-SL-Scossalina-01,409465,1
+Modelli generici,BR-SL-Scossalina-01,409468,1
+Modelli generici,BR-SL-Scossalina-01,409471,1
+Modelli generici,BR-SL-Scossalina-01,409474,1
+Modelli generici,BR-SL-Scossalina-01,409477,1
+Modelli generici,BR-SL-Scossalina-01,409480,1
+Modelli generici,BR-SL-Scossalina-01,409483,1
+Modelli generici,BR-SL-Scossalina-01,409486,1
+Modelli generici,BR-SL-Scossalina-01,409489,1
+Modelli generici,BR-SL-Scossalina-01,409492,1
+Modelli generici,BR-SL-Scossalina-01,409495,1
+Modelli generici,BR-SL-Scossalina-01,409498,1
+Modelli generici,BR-SL-Scossalina-01,409501,1
+Modelli generici,BR-SL-Scossalina-01,409504,1
+Modelli generici,BR-SL-Scossalina-01,409507,1
+Modelli generici,BR-SL-Scossalina-01,409510,1
+Modelli generici,BR-SL-Scossalina-01,409513,1
+Modelli generici,BR-SL-Scossalina-01,409516,1
+Modelli generici,BR-SL-Scossalina-01,409519,1
+Modelli generici,BR-SL-Scossalina-01,409522,1
+Modelli generici,BR-SL-Scossalina-01,409525,1
+Modelli generici,BR-SL-Scossalina-01,409528,1
+Modelli generici,BR-SL-Scossalina-01,409531,1
+Modelli generici,BR-SL-Scossalina-01,409534,1
+Modelli generici,BR-SL-Scossalina-01,409537,1
+Modelli generici,BR-SL-Scossalina-01,409540,1
+Modelli generici,BR-SL-Scossalina-01,409543,1
+Modelli generici,BR-SL-Scossalina-01,409546,1
+Modelli generici,BR-SL-Scossalina-01,409549,1
+Modelli generici,BR-SL-Scossalina-01,409552,1
+Modelli generici,BR-SL-Scossalina-01,409555,1
+Modelli generici,BR-SL-Scossalina-01,409558,1
+Modelli generici,BR-SL-Scossalina-01,409561,1
+Modelli generici,BR-SL-Scossalina-01,409564,1
+Modelli generici,BR-SL-Scossalina-01,409567,1
+Modelli generici,BR-SL-Scossalina-01,409570,1
+Modelli generici,BR-SL-Scossalina-01,409573,1
+Pilastri,BR-PI-Piastra-01,425162,1
+Pilastri,BR-TI-Tirafondo-01,425163,1
+Pilastri,BR-PI-Piastra-01,425169,1
+Pilastri,BR-TI-Tirafondo-01,425170,1
+Pilastri,BR-PI-Piastra-01,425175,1
+Pilastri,BR-TI-Tirafondo-01,425176,1
+Pilastri,BR-PI-Piastra-01,425177,1
+Pilastri,BR-TI-Tirafondo-01,425178,1
+Pilastri,BR-PI-Piastra-01,425179,1
+Pilastri,BR-TI-Tirafondo-01,425180,1
+Pilastri,BR-PI-Piastra-01,425181,1
+Pilastri,BR-TI-Tirafondo-01,425182,1
+Pilastri,BR-PI-Piastra-01,425183,1
+Pilastri,BR-TI-Tirafondo-01,425184,1
+Pilastri,BR-PI-Piastra-01,425190,1
+Pilastri,BR-TI-Tirafondo-01,425191,1
+Pilastri,BR-PI-Piastra-01,425193,1
+Pilastri,BR-TI-Tirafondo-01,425194,1
+Pilastri,BR-PI-Piastra-01,425200,1
+Pilastri,BR-TI-Tirafondo-01,425201,1
+Pilastri,BR-PI-Piastra-01,425207,1
+Pilastri,BR-TI-Tirafondo-01,425208,1
+Pilastri,BR-PI-Piastra-01,425212,1
+Pilastri,BR-TI-Tirafondo-01,425213,1
+Pilastri,BR-PI-Piastra-01,425215,1
+Pilastri,BR-TI-Tirafondo-01,425216,1
+Pilastri,BR-PI-Piastra-01,425217,1
+Pilastri,BR-TI-Tirafondo-01,425218,1
+Pilastri,BR-PI-Piastra-01,425219,1
+Pilastri,BR-TI-Tirafondo-01,425220,1
+Pilastri,BR-PI-Piastra-01,425221,1
+Pilastri,BR-TI-Tirafondo-01,425222,1
+Modelli generici,BR-SL-Scossalina-01,444803,1
+Modelli generici,BR-SL-Scossalina-01,444804,1
+Modelli generici,BR-SL-Scossalina-01,444805,1
+Modelli generici,BR-SL-Scossalina-01,444806,1
+Modelli generici,BR-SL-Scossalina-01,444807,1
+Modelli generici,BR-SL-Scossalina-01,444808,1
+Modelli generici,BR-SL-Scossalina-01,444809,1
+Modelli generici,BR-SL-Scossalina-01,444810,1
+Modelli generici,BR-SL-Scossalina-01,444811,1
+Modelli generici,BR-SL-Scossalina-01,444812,1
+Modelli generici,BR-SL-Scossalina-01,444813,1
+Modelli generici,BR-SL-Scossalina-01,444814,1
+Modelli generici,BR-SL-Scossalina-01,444815,1
+Modelli generici,BR-SL-Scossalina-01,444816,1
+Modelli generici,BR-SL-Scossalina-01,444817,1
+Porte,BR-PR-PortaParallela-01,462481,1
+Arredi fissi,BR-PA-PannelloCalcestruzzo-01,462488,1
+Arredi fissi,BR-PA-PannelloPolicarbonato-01,462489,1
+Telaio strutturale,MF-CR-Cordolo-03,468891,1
+Telaio strutturale,MF-CR-Cordolo-01,468892,1
+Telaio strutturale,MF-CR-Cordolo-02,468954,1
+Telaio strutturale,MF-CR-Cordolo-02,469015,1
+Balaustre,SI-SG-Sostegno-02,512517,1
+Balaustre,SI-SG-Sostegno-02,514782,1
+Balaustre,SI-SG-SostegnoTransizione-02,535251,1
+Balaustre,SI-SG-SostegnoTransizione-02,535253,1
+Balaustre,SI-SG-Sostegno-04,539315,1
+Balaustre,SI-SG-Sostegno-04,539316,1
+Balaustre,SI-SG-Sostegno-02,542125,1
+Balaustre,SI-SG-Sostegno-02,542139,1
+Balaustre,SI-SG-Sostegno-02,542159,1
+Balaustre,SI-SG-Sostegno-02,542173,1
+Balaustre,SI-SG-Sostegno-02,542187,1
+Balaustre,SI-SG-Sostegno-02,542200,1
+Balaustre,SI-SG-Sostegno-02,542213,1
+Balaustre,SI-SG-Sostegno-02,542226,1
+Balaustre,SI-SG-Sostegno-02,542251,1
+Balaustre,SI-SG-Sostegno-02,542266,1
+Balaustre,SI-SG-Sostegno-02,542281,1
+Balaustre,SI-SG-SostegnoTransizione-01,542318,1
+Balaustre,SI-SG-Sostegno-04,547909,1
+Balaustre,SI-SG-Sostegno-04,547911,1
+Balaustre,SI-SG-Sostegno-02,548399,1
+Balaustre,SI-SG-Sostegno-02,548959,1
+Balaustre,SI-SG-Sostegno-02,548960,1
+Balaustre,SI-SG-Sostegno-02,549014,1
+Balaustre,SI-SG-Sostegno-02,549152,1
+Balaustre,SI-SG-Sostegno-02,549153,1
+Balaustre,SI-SG-Sostegno-02,549427,1
+Balaustre,SI-SG-Sostegno-02,549430,1
+Balaustre,SI-SG-Sostegno-02,549619,1
+Balaustre,SI-SG-Sostegno-02,549620,1
+Balaustre,SI-SG-Sostegno-02,549621,1
+Balaustre,SI-SG-Sostegno-02,549622,1
+Balaustre,SI-SG-Sostegno-02,549623,1
+Balaustre,SI-SG-Sostegno-02,549624,1
+Balaustre,SI-SG-Sostegno-02,549625,1
+Balaustre,SI-SG-Sostegno-02,549626,1
+Balaustre,SI-SG-Sostegno-02,549627,1
+Balaustre,SI-SG-Sostegno-02,549628,1
+Balaustre,SI-SG-Sostegno-02,549629,1
+Balaustre,SI-SG-Sostegno-02,551584,1
+Balaustre,SI-SG-Sostegno-02,551586,1
+Balaustre,SI-SG-Sostegno-02,551587,1
+Balaustre,SI-SG-Sostegno-02,551589,1
+Balaustre,SI-SG-Sostegno-02,551590,1
+Balaustre,SI-SG-Sostegno-02,551591,1
+Balaustre,SI-SG-Sostegno-02,551593,1
+Balaustre,SI-SG-Sostegno-02,551594,1
+Balaustre,SI-SG-Sostegno-02,551595,1
+Balaustre,SI-SG-Sostegno-02,551597,1
+Balaustre,SI-SG-Sostegno-02,551598,1
+Balaustre,SI-SG-Sostegno-02,551600,1
+Balaustre,SI-SG-Sostegno-02,551602,1
+Balaustre,SI-SG-Sostegno-02,551603,1
+Balaustre,SI-SG-Sostegno-02,551604,1
+Balaustre,SI-SG-Sostegno-02,551606,1
+Balaustre,SI-SG-Sostegno-02,551607,1
+Balaustre,SI-SG-Sostegno-02,551609,1
+Balaustre,SI-SG-Sostegno-02,551610,1
+Balaustre,SI-SG-Sostegno-02,551611,1
+Balaustre,SI-SG-Sostegno-02,551612,1
+Balaustre,SI-SG-Sostegno-02,551613,1
+Balaustre,SI-SG-Sostegno-02,551614,1
+Balaustre,SI-SG-Sostegno-02,551615,1
+Balaustre,SI-SG-Sostegno-02,551616,1
+Balaustre,SI-SG-Sostegno-02,551617,1
+Balaustre,SI-SG-Sostegno-02,551618,1
+Balaustre,SI-SG-Sostegno-02,551700,1
+Pilastri,BR-PI-Piastra-01,552103,1
+Pilastri,BR-TI-Tirafondo-01,552104,1
+Pilastri,BR-PI-Piastra-01,552106,1
+Pilastri,BR-TI-Tirafondo-01,552107,1
+Pilastri,BR-PI-Piastra-01,571954,1
+Pilastri,BR-TI-Tirafondo-01,571955,1
+Pilastri,BR-AL-Allettamento-01,571956,1
+Pilastri,BR-PI-Piastra-01,571957,1
+Pilastri,BR-TI-Tirafondo-01,571958,1
+Pilastri,BR-AL-Allettamento-01,571959,1
+Pilastri,BR-PI-Piastra-01,571960,1
+Pilastri,BR-TI-Tirafondo-01,571961,1
+Pilastri,BR-AL-Allettamento-01,571962,1
+Pilastri,BR-PI-Piastra-01,571963,1
+Pilastri,BR-TI-Tirafondo-01,571964,1
+Pilastri,BR-AL-Allettamento-01,571965,1
+Pilastri,BR-PI-Piastra-01,571966,1
+Pilastri,BR-TI-Tirafondo-01,571967,1
+Pilastri,BR-AL-Allettamento-01,571968,1
+Pilastri,BR-PI-Piastra-01,571969,1
+Pilastri,BR-TI-Tirafondo-01,571970,1
+Pilastri,BR-AL-Allettamento-01,571971,1
+Pilastri,BR-PI-Piastra-01,571972,1
+Pilastri,BR-TI-Tirafondo-01,571973,1
+Pilastri,BR-AL-Allettamento-01,571974,1
+Pilastri,BR-PI-Piastra-01,571975,1
+Pilastri,BR-TI-Tirafondo-01,571976,1
+Pilastri,BR-AL-Allettamento-01,571977,1
+Pilastri,BR-PI-Piastra-01,571978,1
+Pilastri,BR-TI-Tirafondo-01,571979,1
+Pilastri,BR-AL-Allettamento-01,571980,1
+Pilastri,BR-PI-Piastra-01,571981,1
+Pilastri,BR-TI-Tirafondo-01,571982,1
+Pilastri,BR-AL-Allettamento-01,571983,1
+Pilastri,BR-PI-Piastra-01,571984,1
+Pilastri,BR-TI-Tirafondo-01,571985,1
+Pilastri,BR-AL-Allettamento-01,571986,1
+Pilastri,BR-PI-Piastra-01,571987,1
+Pilastri,BR-TI-Tirafondo-01,571988,1
+Pilastri,BR-AL-Allettamento-01,571989,1
+Pilastri,BR-PI-Piastra-01,571990,1
+Pilastri,BR-TI-Tirafondo-01,571991,1
+Pilastri,BR-AL-Allettamento-01,571992,1
+Pilastri,BR-PI-Piastra-01,571993,1
+Pilastri,BR-TI-Tirafondo-01,571994,1
+Pilastri,BR-AL-Allettamento-01,571995,1
+Pilastri,BR-PI-Piastra-01,571996,1
+Pilastri,BR-TI-Tirafondo-01,571997,1
+Pilastri,BR-AL-Allettamento-01,571998,1
+Pilastri,BR-PI-Piastra-01,571999,1
+Pilastri,BR-TI-Tirafondo-01,572000,1
+Pilastri,BR-AL-Allettamento-01,572001,1
+Pilastri,BR-PI-Piastra-01,572002,1
+Pilastri,BR-TI-Tirafondo-01,572003,1
+Pilastri,BR-AL-Allettamento-01,572004,1
+Pilastri,BR-PI-Piastra-01,572005,1
+Pilastri,BR-TI-Tirafondo-01,572006,1
+Pilastri,BR-AL-Allettamento-01,572007,1
+Pilastri,BR-PI-Piastra-01,572008,1
+Pilastri,BR-TI-Tirafondo-01,572009,1
+Pilastri,BR-AL-Allettamento-01,572010,1
+Pilastri,BR-PI-Piastra-01,572011,1
+Pilastri,BR-TI-Tirafondo-01,572012,1
+Pilastri,BR-AL-Allettamento-01,572013,1
+Pilastri,BR-PI-Piastra-01,572014,1
+Pilastri,BR-TI-Tirafondo-01,572015,1
+Pilastri,BR-AL-Allettamento-01,572016,1
+Pilastri,BR-PI-Piastra-01,572018,1
+Pilastri,BR-TI-Tirafondo-01,572019,1
+Pilastri,BR-AL-Allettamento-01,572020,1
+Pilastri,BR-PI-Piastra-01,572021,1
+Pilastri,BR-TI-Tirafondo-01,572022,1
+Pilastri,BR-AL-Allettamento-01,572023,1
+Pilastri,BR-PI-Piastra-01,572024,1
+Pilastri,BR-TI-Tirafondo-01,572025,1
+Pilastri,BR-AL-Allettamento-01,572026,1
+Pilastri,BR-PI-Piastra-01,572027,1
+Pilastri,BR-TI-Tirafondo-01,572028,1
+Pilastri,BR-AL-Allettamento-01,572029,1
+Pilastri,BR-PI-Piastra-01,572030,1
+Pilastri,BR-TI-Tirafondo-01,572031,1
+Pilastri,BR-AL-Allettamento-01,572032,1
+Pilastri,BR-PI-Piastra-01,572033,1
+Pilastri,BR-TI-Tirafondo-01,572034,1
+Pilastri,BR-AL-Allettamento-01,572035,1
+Pilastri,BR-PI-Piastra-01,572036,1
+Pilastri,BR-TI-Tirafondo-01,572037,1
+Pilastri,BR-AL-Allettamento-01,572038,1
+Pilastri,BR-PI-Piastra-01,572039,1
+Pilastri,BR-TI-Tirafondo-01,572040,1
+Pilastri,BR-AL-Allettamento-01,572041,1
+Pilastri,BR-PI-Piastra-01,572042,1
+Pilastri,BR-TI-Tirafondo-01,572043,1
+Pilastri,BR-AL-Allettamento-01,572044,1
+Pilastri,BR-PI-Piastra-01,572045,1
+Pilastri,BR-TI-Tirafondo-01,572046,1
+Pilastri,BR-AL-Allettamento-01,572047,1
+Pilastri,BR-PI-Piastra-01,572048,1
+Pilastri,BR-TI-Tirafondo-01,572049,1
+Pilastri,BR-AL-Allettamento-01,572050,1
+Pilastri,BR-PI-Piastra-01,572051,1
+Pilastri,BR-TI-Tirafondo-01,572052,1
+Pilastri,BR-AL-Allettamento-01,572053,1
+Pilastri,BR-PI-Piastra-01,572054,1
+Pilastri,BR-TI-Tirafondo-01,572055,1
+Pilastri,BR-AL-Allettamento-01,572056,1
+Pilastri,BR-PI-Piastra-01,572057,1
+Pilastri,BR-TI-Tirafondo-01,572058,1
+Pilastri,BR-AL-Allettamento-01,572059,1
+Pilastri,BR-PI-Piastra-01,572060,1
+Pilastri,BR-TI-Tirafondo-01,572061,1
+Pilastri,BR-AL-Allettamento-01,572062,1
+Pilastri,BR-PI-Piastra-01,572063,1
+Pilastri,BR-TI-Tirafondo-01,572064,1
+Pilastri,BR-AL-Allettamento-01,572065,1
+Pilastri,BR-PI-Piastra-01,572066,1
+Pilastri,BR-TI-Tirafondo-01,572067,1
+Pilastri,BR-AL-Allettamento-01,572068,1
+Pilastri,BR-PI-Piastra-01,572069,1
+Pilastri,BR-TI-Tirafondo-01,572070,1
+Pilastri,BR-AL-Allettamento-01,572071,1
+Pilastri,BR-PI-Piastra-01,572072,1
+Pilastri,BR-TI-Tirafondo-01,572073,1
+Pilastri,BR-AL-Allettamento-01,572074,1
+Pilastri,BR-PI-Piastra-01,572075,1
+Pilastri,BR-TI-Tirafondo-01,572076,1
+Pilastri,BR-AL-Allettamento-01,572077,1
+Pilastri,BR-PI-Piastra-01,572078,1
+Pilastri,BR-TI-Tirafondo-01,572079,1
+Pilastri,BR-AL-Allettamento-01,572080,1
+Pilastri,BR-PI-Piastra-01,572081,1
+Pilastri,BR-TI-Tirafondo-01,572082,1
+Pilastri,BR-AL-Allettamento-01,572083,1
+Pilastri,BR-PI-Piastra-01,572084,1
+Pilastri,BR-TI-Tirafondo-01,572085,1
+Pilastri,BR-AL-Allettamento-01,572086,1
+Pilastri,BR-PI-Piastra-01,572087,1
+Pilastri,BR-TI-Tirafondo-01,572088,1
+Pilastri,BR-AL-Allettamento-01,572089,1
+Pilastri,BR-PI-Piastra-01,572090,1
+Pilastri,BR-TI-Tirafondo-01,572091,1
+Pilastri,BR-AL-Allettamento-01,572092,1
+Pilastri,BR-PI-Piastra-01,572093,1
+Pilastri,BR-TI-Tirafondo-01,572094,1
+Pilastri,BR-AL-Allettamento-01,572095,1
+Pilastri,BR-PI-Piastra-01,572096,1
+Pilastri,BR-TI-Tirafondo-01,572097,1
+Pilastri,BR-AL-Allettamento-01,572098,1
+Pilastri,BR-PI-Piastra-01,572099,1
+Pilastri,BR-TI-Tirafondo-01,572100,1
+Pilastri,BR-AL-Allettamento-01,572101,1
+Pilastri,BR-PI-Piastra-01,572102,1
+Pilastri,BR-TI-Tirafondo-01,572103,1
+Pilastri,BR-AL-Allettamento-01,572104,1
+Pilastri,BR-PI-Piastra-01,572105,1
+Pilastri,BR-TI-Tirafondo-01,572106,1
+Pilastri,BR-AL-Allettamento-01,572107,1
+Pilastri,BR-PI-Piastra-01,572108,1
+Pilastri,BR-TI-Tirafondo-01,572109,1
+Pilastri,BR-AL-Allettamento-01,572110,1
+Pilastri,BR-PI-Piastra-01,572111,1
+Pilastri,BR-TI-Tirafondo-01,572112,1
+Pilastri,BR-AL-Allettamento-01,572113,1
+Pilastri,BR-PI-Piastra-01,572114,1
+Pilastri,BR-TI-Tirafondo-01,572115,1
+Pilastri,BR-AL-Allettamento-01,572116,1
+Pilastri,BR-PI-Piastra-01,572117,1
+Pilastri,BR-TI-Tirafondo-01,572118,1
+Pilastri,BR-AL-Allettamento-01,572119,1
+Pilastri,BR-PI-Piastra-01,572120,1
+Pilastri,BR-TI-Tirafondo-01,572121,1
+Pilastri,BR-AL-Allettamento-01,572122,1
+Pilastri,BR-PI-Piastra-01,572123,1
+Pilastri,BR-TI-Tirafondo-01,572124,1
+Pilastri,BR-AL-Allettamento-01,572125,1
+Pilastri,BR-PI-Piastra-01,572126,1
+Pilastri,BR-TI-Tirafondo-01,572127,1
+Pilastri,BR-AL-Allettamento-01,572128,1
+Pilastri,BR-PI-Piastra-01,572129,1
+Pilastri,BR-TI-Tirafondo-01,572130,1
+Pilastri,BR-AL-Allettamento-01,572131,1
+Pilastri,BR-PI-Piastra-01,572132,1
+Pilastri,BR-TI-Tirafondo-01,572133,1
+Pilastri,BR-AL-Allettamento-01,572134,1
+Pilastri,BR-PI-Piastra-01,572135,1
+Pilastri,BR-TI-Tirafondo-01,572136,1
+Pilastri,BR-AL-Allettamento-01,572137,1
+Pilastri,BR-PI-Piastra-01,572138,1
+Pilastri,BR-TI-Tirafondo-01,572139,1
+Pilastri,BR-AL-Allettamento-01,572140,1
+Pilastri,BR-PI-Piastra-01,572141,1
+Pilastri,BR-TI-Tirafondo-01,572142,1
+Pilastri,BR-AL-Allettamento-01,572143,1
+Pilastri,BR-PI-Piastra-01,572144,1
+Pilastri,BR-TI-Tirafondo-01,572145,1
+Pilastri,BR-AL-Allettamento-01,572146,1
+Pilastri,BR-PI-Piastra-01,572147,1
+Pilastri,BR-TI-Tirafondo-01,572148,1
+Pilastri,BR-AL-Allettamento-01,572149,1
+Pilastri,BR-PI-Piastra-01,572150,1
+Pilastri,BR-TI-Tirafondo-01,572151,1
+Pilastri,BR-AL-Allettamento-01,572152,1
+Pilastri,BR-PI-Piastra-01,572153,1
+Pilastri,BR-TI-Tirafondo-01,572154,1
+Pilastri,BR-AL-Allettamento-01,572155,1
+Pilastri,BR-PI-Piastra-01,572156,1
+Pilastri,BR-TI-Tirafondo-01,572157,1
+Pilastri,BR-AL-Allettamento-01,572158,1
+Pilastri,BR-PI-Piastra-01,572159,1
+Pilastri,BR-TI-Tirafondo-01,572160,1
+Pilastri,BR-AL-Allettamento-01,572161,1
+Pilastri,BR-PI-Piastra-01,572162,1
+Pilastri,BR-TI-Tirafondo-01,572163,1
+Pilastri,BR-AL-Allettamento-01,572164,1
+Pilastri,BR-PI-Piastra-01,572165,1
+Pilastri,BR-TI-Tirafondo-01,572166,1
+Pilastri,BR-AL-Allettamento-01,572167,1
+Pilastri,BR-PI-Piastra-01,572168,1
+Pilastri,BR-TI-Tirafondo-01,572169,1
+Pilastri,BR-AL-Allettamento-01,572170,1
+Pilastri,BR-PI-Piastra-01,572171,1
+Pilastri,BR-TI-Tirafondo-01,572172,1
+Pilastri,BR-AL-Allettamento-01,572173,1
+Pilastri,BR-PI-Piastra-01,572174,1
+Pilastri,BR-TI-Tirafondo-01,572175,1
+Pilastri,BR-AL-Allettamento-01,572176,1
+Pilastri,BR-PI-Piastra-01,572177,1
+Pilastri,BR-TI-Tirafondo-01,572178,1
+Pilastri,BR-AL-Allettamento-01,572179,1
+Pilastri,BR-PI-Piastra-01,572180,1
+Pilastri,BR-TI-Tirafondo-01,572181,1
+Pilastri,BR-AL-Allettamento-01,572182,1
+Pilastri,BR-PI-Piastra-01,572183,1
+Pilastri,BR-TI-Tirafondo-01,572184,1
+Pilastri,BR-AL-Allettamento-01,572185,1
+Pilastri,BR-PI-Piastra-01,572186,1
+Pilastri,BR-TI-Tirafondo-01,572187,1
+Pilastri,BR-AL-Allettamento-01,572188,1
+Pilastri,BR-MN-Montante-01,572408,1
+Pilastri,BR-PI-Piastra-01,596211,1
+Pilastri,BR-TI-Tirafondo-01,596212,1
+Pilastri,BR-AL-Allettamento-01,596213,1
+Pilastri,BR-PI-Piastra-01,596214,1
+Pilastri,BR-TI-Tirafondo-01,596215,1
+Pilastri,BR-AL-Allettamento-01,596216,1
+Pilastri,BR-PI-Piastra-01,596217,1
+Pilastri,BR-TI-Tirafondo-01,596218,1
+Pilastri,BR-AL-Allettamento-01,596219,1
+Pilastri,BR-PI-Piastra-01,596220,1
+Pilastri,BR-TI-Tirafondo-01,596221,1
+Pilastri,BR-AL-Allettamento-01,596222,1
+Pilastri,BR-PI-Piastra-01,596223,1
+Pilastri,BR-TI-Tirafondo-01,596224,1
+Pilastri,BR-AL-Allettamento-01,596225,1
+Pilastri,BR-PI-Piastra-01,596226,1
+Pilastri,BR-TI-Tirafondo-01,596227,1
+Pilastri,BR-AL-Allettamento-01,596228,1
+Pilastri,BR-PI-Piastra-01,596229,1
+Pilastri,BR-TI-Tirafondo-01,596230,1
+Pilastri,BR-AL-Allettamento-01,596231,1
+Pilastri,BR-PI-Piastra-01,596232,1
+Pilastri,BR-TI-Tirafondo-01,596233,1
+Pilastri,BR-AL-Allettamento-01,596234,1
+Pilastri,BR-PI-Piastra-01,596235,1
+Pilastri,BR-TI-Tirafondo-01,596236,1
+Pilastri,BR-AL-Allettamento-01,596237,1
+Pilastri,BR-PI-Piastra-01,596238,1
+Pilastri,BR-TI-Tirafondo-01,596239,1
+Pilastri,BR-AL-Allettamento-01,596240,1
+Pilastri,BR-PI-Piastra-01,596241,1
+Pilastri,BR-TI-Tirafondo-01,596242,1
+Pilastri,BR-AL-Allettamento-01,596243,1
+Pilastri,BR-PI-Piastra-01,596244,1
+Pilastri,BR-TI-Tirafondo-01,596245,1
+Pilastri,BR-AL-Allettamento-01,596246,1
+Pilastri,BR-PI-Piastra-01,596247,1
+Pilastri,BR-TI-Tirafondo-01,596248,1
+Pilastri,BR-AL-Allettamento-01,596249,1
+Pilastri,BR-PI-Piastra-01,596250,1
+Pilastri,BR-TI-Tirafondo-01,596251,1
+Pilastri,BR-AL-Allettamento-01,596252,1
+Pilastri,BR-PI-Piastra-01,596253,1
+Pilastri,BR-TI-Tirafondo-01,596254,1
+Pilastri,BR-AL-Allettamento-01,596255,1
+Pilastri,BR-PI-Piastra-01,596256,1
+Pilastri,BR-TI-Tirafondo-01,596257,1
+Pilastri,BR-AL-Allettamento-01,596258,1
+Pilastri,BR-PI-Piastra-01,596259,1
+Pilastri,BR-TI-Tirafondo-01,596260,1
+Pilastri,BR-AL-Allettamento-01,596261,1
+Pilastri,BR-PI-Piastra-01,596262,1
+Pilastri,BR-TI-Tirafondo-01,596263,1
+Pilastri,BR-AL-Allettamento-01,596264,1
+Pilastri,BR-PI-Piastra-01,596265,1
+Pilastri,BR-TI-Tirafondo-01,596266,1
+Pilastri,BR-AL-Allettamento-01,596267,1
+Pilastri,BR-PI-Piastra-01,596268,1
+Pilastri,BR-TI-Tirafondo-01,596269,1
+Pilastri,BR-AL-Allettamento-01,596270,1
+Pilastri,BR-PI-Piastra-01,596271,1
+Pilastri,BR-TI-Tirafondo-01,596272,1
+Pilastri,BR-AL-Allettamento-01,596273,1
+Pilastri,BR-PI-Piastra-01,596274,1
+Pilastri,BR-TI-Tirafondo-01,596275,1
+Pilastri,BR-AL-Allettamento-01,596276,1
+Pilastri,BR-PI-Piastra-01,596277,1
+Pilastri,BR-TI-Tirafondo-01,596278,1
+Pilastri,BR-AL-Allettamento-01,596279,1
+Pilastri,BR-PI-Piastra-01,596280,1
+Pilastri,BR-TI-Tirafondo-01,596281,1
+Pilastri,BR-AL-Allettamento-01,596282,1
+Pilastri,BR-PI-Piastra-01,596283,1
+Pilastri,BR-TI-Tirafondo-01,596284,1
+Pilastri,BR-AL-Allettamento-01,596285,1
+Pilastri,BR-PI-Piastra-01,596286,1
+Pilastri,BR-TI-Tirafondo-01,596287,1
+Pilastri,BR-AL-Allettamento-01,596288,1
+Pilastri,BR-PI-Piastra-01,596289,1
+Pilastri,BR-TI-Tirafondo-01,596290,1
+Pilastri,BR-AL-Allettamento-01,596291,1
+Pilastri,BR-PI-Piastra-01,596292,1
+Pilastri,BR-TI-Tirafondo-01,596293,1
+Pilastri,BR-AL-Allettamento-01,596294,1
+Pilastri,BR-PI-Piastra-01,596295,1
+Pilastri,BR-TI-Tirafondo-01,596296,1
+Pilastri,BR-AL-Allettamento-01,596297,1
+Pilastri,BR-PI-Piastra-01,596298,1
+Pilastri,BR-TI-Tirafondo-01,596299,1
+Pilastri,BR-AL-Allettamento-01,596300,1
+Pilastri,BR-PI-Piastra-01,596301,1
+Pilastri,BR-TI-Tirafondo-01,596302,1
+Pilastri,BR-AL-Allettamento-01,596303,1
+Pilastri,BR-PI-Piastra-01,596304,1
+Pilastri,BR-TI-Tirafondo-01,596305,1
+Pilastri,BR-AL-Allettamento-01,596306,1
+Pilastri,BR-PI-Piastra-01,596307,1
+Pilastri,BR-TI-Tirafondo-01,596308,1
+Pilastri,BR-AL-Allettamento-01,596309,1
+Pilastri,BR-PI-Piastra-01,596310,1
+Pilastri,BR-TI-Tirafondo-01,596311,1
+Pilastri,BR-AL-Allettamento-01,596312,1
+Pilastri,BR-PI-Piastra-01,596313,1
+Pilastri,BR-TI-Tirafondo-01,596314,1
+Pilastri,BR-AL-Allettamento-01,596315,1
+Pilastri,BR-PI-Piastra-01,596316,1
+Pilastri,BR-TI-Tirafondo-01,596317,1
+Pilastri,BR-AL-Allettamento-01,596318,1
+Pilastri,BR-PI-Piastra-01,596319,1
+Pilastri,BR-TI-Tirafondo-01,596320,1
+Pilastri,BR-AL-Allettamento-01,596321,1
+Pilastri,BR-PI-Piastra-01,596322,1
+Pilastri,BR-TI-Tirafondo-01,596323,1
+Pilastri,BR-AL-Allettamento-01,596324,1
+Pilastri,BR-PI-Piastra-01,596325,1
+Pilastri,BR-TI-Tirafondo-01,596326,1
+Pilastri,BR-AL-Allettamento-01,596327,1
+Pilastri,BR-PI-Piastra-01,596328,1
+Pilastri,BR-TI-Tirafondo-01,596329,1
+Pilastri,BR-AL-Allettamento-01,596330,1
+Pilastri,BR-PI-Piastra-01,596331,1
+Pilastri,BR-TI-Tirafondo-01,596332,1
+Pilastri,BR-AL-Allettamento-01,596333,1
+Pilastri,BR-PI-Piastra-01,596334,1
+Pilastri,BR-TI-Tirafondo-01,596335,1
+Pilastri,BR-AL-Allettamento-01,596336,1
+Pilastri,BR-PI-Piastra-01,596337,1
+Pilastri,BR-TI-Tirafondo-01,596338,1
+Pilastri,BR-AL-Allettamento-01,596339,1
+Pilastri,BR-PI-Piastra-01,596340,1
+Pilastri,BR-TI-Tirafondo-01,596341,1
+Pilastri,BR-AL-Allettamento-01,596342,1
+Pilastri,BR-PI-Piastra-01,596343,1
+Pilastri,BR-TI-Tirafondo-01,596344,1
+Pilastri,BR-AL-Allettamento-01,596345,1
+Pilastri,BR-PI-Piastra-01,596346,1
+Pilastri,BR-TI-Tirafondo-01,596347,1
+Pilastri,BR-AL-Allettamento-01,596348,1
+Pilastri,BR-PI-Piastra-01,596349,1
+Pilastri,BR-TI-Tirafondo-01,596350,1
+Pilastri,BR-AL-Allettamento-01,596351,1
+Pilastri,BR-PI-Piastra-01,596352,1
+Pilastri,BR-TI-Tirafondo-01,596353,1
+Pilastri,BR-AL-Allettamento-01,596354,1
+Pilastri,BR-PI-Piastra-01,596355,1
+Pilastri,BR-TI-Tirafondo-01,596356,1
+Pilastri,BR-AL-Allettamento-01,596357,1
+Pilastri,BR-PI-Piastra-01,596358,1
+Pilastri,BR-TI-Tirafondo-01,596359,1
+Pilastri,BR-AL-Allettamento-01,596360,1
+Pilastri,BR-PI-Piastra-01,596361,1
+Pilastri,BR-TI-Tirafondo-01,596362,1
+Pilastri,BR-AL-Allettamento-01,596363,1
+Pilastri,BR-PI-Piastra-01,596364,1
+Pilastri,BR-TI-Tirafondo-01,596365,1
+Pilastri,BR-AL-Allettamento-01,596366,1
+Pilastri,BR-PI-Piastra-01,596367,1
+Pilastri,BR-TI-Tirafondo-01,596368,1
+Pilastri,BR-AL-Allettamento-01,596369,1
+Pilastri,BR-PI-Piastra-01,596375,1
+Pilastri,BR-TI-Tirafondo-01,596376,1
+Pilastri,BR-AL-Allettamento-01,596377,1
+Pilastri,BR-PI-Piastra-01,596378,1
+Pilastri,BR-TI-Tirafondo-01,596379,1
+Pilastri,BR-AL-Allettamento-01,596380,1
+Pilastri,BR-PI-Piastra-01,596381,1
+Pilastri,BR-TI-Tirafondo-01,596382,1
+Pilastri,BR-AL-Allettamento-01,596383,1
+Pilastri,BR-PI-Piastra-01,596384,1
+Pilastri,BR-TI-Tirafondo-01,596385,1
+Pilastri,BR-AL-Allettamento-01,596386,1
+Pilastri,BR-PI-Piastra-01,596387,1
+Pilastri,BR-TI-Tirafondo-01,596388,1
+Pilastri,BR-AL-Allettamento-01,596389,1
+Pilastri,BR-PI-Piastra-01,596390,1
+Pilastri,BR-TI-Tirafondo-01,596391,1
+Pilastri,BR-AL-Allettamento-01,596392,1
+Pilastri,BR-PI-Piastra-01,596393,1
+Pilastri,BR-TI-Tirafondo-01,596394,1
+Pilastri,BR-AL-Allettamento-01,596395,1
+Pilastri,BR-PI-Piastra-01,596396,1
+Pilastri,BR-TI-Tirafondo-01,596397,1
+Pilastri,BR-AL-Allettamento-01,596398,1
+Pilastri,BR-PI-Piastra-01,596399,1
+Pilastri,BR-TI-Tirafondo-01,596400,1
+Pilastri,BR-AL-Allettamento-01,596401,1
+Pilastri,BR-PI-Piastra-01,596407,1
+Pilastri,BR-TI-Tirafondo-01,596408,1
+Pilastri,BR-AL-Allettamento-01,596409,1
+Pilastri,BR-PI-Piastra-01,596410,1
+Pilastri,BR-TI-Tirafondo-01,596411,1
+Pilastri,BR-AL-Allettamento-01,596412,1
+Pilastri,BR-PI-Piastra-01,596416,1
+Pilastri,BR-TI-Tirafondo-01,596417,1
+Pilastri,BR-AL-Allettamento-01,596418,1
+Pilastri,BR-PI-Piastra-01,596419,1
+Pilastri,BR-TI-Tirafondo-01,596420,1
+Pilastri,BR-AL-Allettamento-01,596421,1
+Pilastri,BR-PI-Piastra-01,596422,1
+Pilastri,BR-TI-Tirafondo-01,596423,1
+Pilastri,BR-AL-Allettamento-01,596424,1
+Pilastri,BR-PI-Piastra-01,596425,1
+Pilastri,BR-TI-Tirafondo-01,596426,1
+Pilastri,BR-AL-Allettamento-01,596427,1
+Pilastri,BR-PI-Piastra-01,596428,1
+Pilastri,BR-TI-Tirafondo-01,596429,1
+Pilastri,BR-AL-Allettamento-01,596430,1
+Pilastri,BR-PI-Piastra-01,596431,1
+Pilastri,BR-TI-Tirafondo-01,596432,1
+Pilastri,BR-AL-Allettamento-01,596433,1
+Pilastri,BR-PI-Piastra-01,596434,1
+Pilastri,BR-TI-Tirafondo-01,596435,1
+Pilastri,BR-AL-Allettamento-01,596436,1
+Pilastri,BR-PI-Piastra-01,596437,1
+Pilastri,BR-TI-Tirafondo-01,596438,1
+Pilastri,BR-AL-Allettamento-01,596439,1
+Pilastri,BR-PI-Piastra-01,596440,1
+Pilastri,BR-TI-Tirafondo-01,596441,1
+Pilastri,BR-AL-Allettamento-01,596442,1
+Pilastri,BR-PI-Piastra-01,596443,1
+Pilastri,BR-TI-Tirafondo-01,596444,1
+Pilastri,BR-AL-Allettamento-01,596445,1
+Pilastri,BR-PI-Piastra-01,596446,1
+Pilastri,BR-TI-Tirafondo-01,596447,1
+Pilastri,BR-AL-Allettamento-01,596448,1
+Pilastri,BR-PI-Piastra-01,596449,1
+Pilastri,BR-TI-Tirafondo-01,596450,1
+Pilastri,BR-AL-Allettamento-01,596451,1
+Pilastri,BR-PI-Piastra-01,596452,1
+Pilastri,BR-TI-Tirafondo-01,596453,1
+Pilastri,BR-AL-Allettamento-01,596454,1
+Pilastri,BR-PI-Piastra-01,596455,1
+Pilastri,BR-TI-Tirafondo-01,596456,1
+Pilastri,BR-AL-Allettamento-01,596457,1
+Pilastri,BR-PI-Piastra-01,596458,1
+Pilastri,BR-TI-Tirafondo-01,596459,1
+Pilastri,BR-AL-Allettamento-01,596460,1
+Pilastri,BR-PI-Piastra-01,596461,1
+Pilastri,BR-TI-Tirafondo-01,596462,1
+Pilastri,BR-AL-Allettamento-01,596463,1
+Pilastri,BR-PI-Piastra-01,596464,1
+Pilastri,BR-TI-Tirafondo-01,596465,1
+Pilastri,BR-AL-Allettamento-01,596466,1
+Pilastri,BR-PI-Piastra-01,596467,1
+Pilastri,BR-TI-Tirafondo-01,596468,1
+Pilastri,BR-AL-Allettamento-01,596469,1
+Pilastri,BR-PI-Piastra-01,596470,1
+Pilastri,BR-TI-Tirafondo-01,596471,1
+Pilastri,BR-AL-Allettamento-01,596472,1
+Pilastri,BR-PI-Piastra-01,596473,1
+Pilastri,BR-TI-Tirafondo-01,596474,1
+Pilastri,BR-AL-Allettamento-01,596475,1
+Pilastri,BR-PI-Piastra-01,596476,1
+Pilastri,BR-TI-Tirafondo-01,596477,1
+Pilastri,BR-AL-Allettamento-01,596478,1
+Pilastri,BR-PI-Piastra-01,596479,1
+Pilastri,BR-TI-Tirafondo-01,596480,1
+Pilastri,BR-AL-Allettamento-01,596481,1
+Pilastri,BR-PI-Piastra-01,596482,1
+Pilastri,BR-TI-Tirafondo-01,596483,1
+Pilastri,BR-AL-Allettamento-01,596484,1
+Pilastri,BR-PI-Piastra-01,596485,1
+Pilastri,BR-TI-Tirafondo-01,596486,1
+Pilastri,BR-AL-Allettamento-01,596487,1
+Pilastri,BR-PI-Piastra-01,596488,1
+Pilastri,BR-TI-Tirafondo-01,596489,1
+Pilastri,BR-AL-Allettamento-01,596490,1
+Pilastri,BR-PI-Piastra-01,596491,1
+Pilastri,BR-TI-Tirafondo-01,596492,1
+Pilastri,BR-AL-Allettamento-01,596493,1
+Pilastri,BR-PI-Piastra-01,596494,1
+Pilastri,BR-TI-Tirafondo-01,596495,1
+Pilastri,BR-AL-Allettamento-01,596496,1
+Pilastri,BR-PI-Piastra-01,596497,1
+Pilastri,BR-TI-Tirafondo-01,596498,1
+Pilastri,BR-AL-Allettamento-01,596499,1
+Pilastri,BR-PI-Piastra-01,596500,1
+Pilastri,BR-TI-Tirafondo-01,596501,1
+Pilastri,BR-AL-Allettamento-01,596502,1
+Pilastri,BR-PI-Piastra-01,596503,1
+Pilastri,BR-TI-Tirafondo-01,596504,1
+Pilastri,BR-AL-Allettamento-01,596505,1
+Pilastri,BR-PI-Piastra-01,596506,1
+Pilastri,BR-TI-Tirafondo-01,596507,1
+Pilastri,BR-AL-Allettamento-01,596508,1
+Pilastri,BR-PI-Piastra-01,596509,1
+Pilastri,BR-TI-Tirafondo-01,596510,1
+Pilastri,BR-AL-Allettamento-01,596511,1
+Pilastri,BR-PI-Piastra-01,596512,1
+Pilastri,BR-TI-Tirafondo-01,596513,1
+Pilastri,BR-AL-Allettamento-01,596514,1
+Pilastri,BR-PI-Piastra-01,596515,1
+Pilastri,BR-TI-Tirafondo-01,596516,1
+Pilastri,BR-AL-Allettamento-01,596517,1
+Pilastri,BR-PI-Piastra-01,596518,1
+Pilastri,BR-TI-Tirafondo-01,596519,1
+Pilastri,BR-AL-Allettamento-01,596520,1
+Pilastri,BR-PI-Piastra-01,596521,1
+Pilastri,BR-TI-Tirafondo-01,596522,1
+Pilastri,BR-AL-Allettamento-01,596523,1
+Pilastri,BR-PI-Piastra-01,596524,1
+Pilastri,BR-TI-Tirafondo-01,596525,1
+Pilastri,BR-AL-Allettamento-01,596526,1
+Pilastri,BR-PI-Piastra-01,596527,1
+Pilastri,BR-TI-Tirafondo-01,596528,1
+Pilastri,BR-AL-Allettamento-01,596529,1
+Pilastri,BR-PI-Piastra-01,596530,1
+Pilastri,BR-TI-Tirafondo-01,596531,1
+Pilastri,BR-AL-Allettamento-01,596532,1
+Pilastri,BR-PI-Piastra-01,596533,1
+Pilastri,BR-TI-Tirafondo-01,596534,1
+Pilastri,BR-AL-Allettamento-01,596535,1
+Pilastri,BR-PI-Piastra-01,596536,1
+Pilastri,BR-TI-Tirafondo-01,596537,1
+Pilastri,BR-AL-Allettamento-01,596538,1
+Pilastri,BR-PI-Piastra-01,596539,1
+Pilastri,BR-TI-Tirafondo-01,596540,1
+Pilastri,BR-AL-Allettamento-01,596541,1
+Pilastri,BR-PI-Piastra-01,596542,1
+Pilastri,BR-TI-Tirafondo-01,596543,1
+Pilastri,BR-AL-Allettamento-01,596544,1
+Pilastri,BR-PI-Piastra-01,596545,1
+Pilastri,BR-TI-Tirafondo-01,596546,1
+Pilastri,BR-AL-Allettamento-01,596547,1
+Pilastri,BR-PI-Piastra-01,596548,1
+Pilastri,BR-TI-Tirafondo-01,596549,1
+Pilastri,BR-AL-Allettamento-01,596550,1
+Pilastri,BR-PI-Piastra-01,596551,1
+Pilastri,BR-TI-Tirafondo-01,596552,1
+Pilastri,BR-AL-Allettamento-01,596553,1
+Pilastri,BR-PI-Piastra-01,596554,1
+Pilastri,BR-TI-Tirafondo-01,596555,1
+Pilastri,BR-AL-Allettamento-01,596556,1
+Pilastri,BR-PI-Piastra-01,596557,1
+Pilastri,BR-TI-Tirafondo-01,596558,1
+Pilastri,BR-AL-Allettamento-01,596559,1
+Pilastri,BR-PI-Piastra-01,611334,1
+Pilastri,BR-TI-Tirafondo-01,611335,1
+Pilastri,BR-AL-Allettamento-01,611336,1
+Pilastri,BR-PI-Piastra-01,611337,1
+Pilastri,BR-TI-Tirafondo-01,611338,1
+Pilastri,BR-AL-Allettamento-01,611339,1
+Pilastri,BR-PI-Piastra-01,611340,1
+Pilastri,BR-TI-Tirafondo-01,611341,1
+Pilastri,BR-AL-Allettamento-01,611342,1
+Pilastri,BR-PI-Piastra-01,611343,1
+Pilastri,BR-TI-Tirafondo-01,611344,1
+Pilastri,BR-AL-Allettamento-01,611345,1
+Pilastri,BR-PI-Piastra-01,611346,1
+Pilastri,BR-TI-Tirafondo-01,611347,1
+Pilastri,BR-AL-Allettamento-01,611348,1
+Pilastri,BR-PI-Piastra-01,611349,1
+Pilastri,BR-TI-Tirafondo-01,611350,1
+Pilastri,BR-AL-Allettamento-01,611351,1
+Pilastri,BR-PI-Piastra-01,611352,1
+Pilastri,BR-TI-Tirafondo-01,611353,1
+Pilastri,BR-AL-Allettamento-01,611354,1
+Pilastri,BR-PI-Piastra-01,611355,1
+Pilastri,BR-TI-Tirafondo-01,611356,1
+Pilastri,BR-AL-Allettamento-01,611357,1
+Pilastri,BR-PI-Piastra-01,611358,1
+Pilastri,BR-TI-Tirafondo-01,611359,1
+Pilastri,BR-AL-Allettamento-01,611360,1
+Pilastri,BR-PI-Piastra-01,611361,1
+Pilastri,BR-TI-Tirafondo-01,611362,1
+Pilastri,BR-AL-Allettamento-01,611363,1
+Pilastri,BR-PI-Piastra-01,611364,1
+Pilastri,BR-TI-Tirafondo-01,611365,1
+Pilastri,BR-AL-Allettamento-01,611366,1
+Pilastri,BR-PI-Piastra-01,611367,1
+Pilastri,BR-TI-Tirafondo-01,611368,1
+Pilastri,BR-AL-Allettamento-01,611369,1
+Pilastri,BR-PI-Piastra-01,611370,1
+Pilastri,BR-TI-Tirafondo-01,611371,1
+Pilastri,BR-AL-Allettamento-01,611372,1
+Pilastri,BR-PI-Piastra-01,611373,1
+Pilastri,BR-TI-Tirafondo-01,611374,1
+Pilastri,BR-AL-Allettamento-01,611375,1
+Balaustre,SI-SG-Sostegno-02,615472,1
+Balaustre,SI-SG-Sostegno-02,615473,1
+Modelli generici,BR-SL-Scossalina-01,717470,1
+Modelli generici,BR-SL-Scossalina-01,717471,1
+Modelli generici,BR-SL-Scossalina-01,717472,1
+Modelli generici,BR-SL-Scossalina-01,717473,1
+Modelli generici,BR-SL-Scossalina-01,717509,1
+Modelli generici,BR-SL-Scossalina-01,717510,1
+Modelli generici,BR-SL-Scossalina-01,717511,1
+Modelli generici,BR-SL-Scossalina-01,717512,1
+Modelli generici,BR-SL-Scossalina-02,717554,1
+Modelli generici,BR-SL-Scossalina-02,717579,1
+Modelli generici,BR-SL-Scossalina-02,717584,1
+Modelli generici,BR-SL-Scossalina-02,717588,1
+Modelli generici,BR-SL-Scossalina-02,717604,1
+Modelli generici,BR-SL-Scossalina-02,717610,1
+Modelli generici,BR-SL-Scossalina-02,717615,1
+Modelli generici,BR-SL-Scossalina-02,717619,1
+Pilastri,BR-AL-Allettamento-01,728811,1
+Pilastri,BR-AL-Allettamento-01,728816,1
+Pilastri,BR-AL-Allettamento-01,728821,1
+Pilastri,BR-AL-Allettamento-01,728825,1
+Pilastri,BR-AL-Allettamento-01,728826,1
+Pilastri,BR-AL-Allettamento-01,728827,1
+Pilastri,BR-AL-Allettamento-01,728828,1
+Pilastri,BR-AL-Allettamento-01,728829,1
+Pilastri,BR-AL-Allettamento-01,728836,1
+Pilastri,BR-AL-Allettamento-01,728841,1
+Pilastri,BR-AL-Allettamento-01,728846,1
+Pilastri,BR-AL-Allettamento-01,728850,1
+Pilastri,BR-AL-Allettamento-01,728852,1
+Pilastri,BR-AL-Allettamento-01,728853,1
+Pilastri,BR-AL-Allettamento-01,728854,1
+Pilastri,BR-AL-Allettamento-01,728855,1
+Pilastri,BR-AL-Allettamento-01,740066,1
+Pilastri,BR-AL-Allettamento-01,740085,1
+Balaustre,SI-SG-Sostegno-04,754459,1
+Balaustre,SI-SG-Sostegno-04,754460,1
+Balaustre,SI-SG-SostegnoTransizione-02,755316,1
+Balaustre,SI-SG-Sostegno-02,755317,1
+Balaustre,SI-SG-Sostegno-02,755716,1
+Balaustre,SI-SG-SostegnoTransizione-02,755717,1
+Balaustre,SI-SG-Sostegno-04,755718,1
+Balaustre,SI-SG-Sostegno-04,755719,1
+Pilastri,BR-MN-MontanteCent-04,772302,1
+Pilastri,BR-PI-Piastra-02,772303,1
+Pilastri,BR-TI-Tirafondo-02,772304,1
+Pilastri,BR-AL-Allettamento-01,772306,1
+Pilastri,BR-MN-MontanteAngolare-04,772308,1
+Pilastri,BR-PI-Piastra-01,772309,1
+Pilastri,BR-TI-Tirafondo-01,772310,1
+Pilastri,BR-MN-MontanteAngolare-04,772502,1
+Pilastri,BR-PI-Piastra-01,772503,1
+Pilastri,BR-TI-Tirafondo-01,772504,1
+Pilastri,BR-MN-MontanteCent-04,772614,1
+Pilastri,BR-PI-Piastra-02,772615,1
+Pilastri,BR-TI-Tirafondo-02,772616,1
+Pilastri,BR-AL-Allettamento-01,772617,1
+Pilastri,BR-MN-MontanteAngolare-04,772618,1
+Pilastri,BR-PI-Piastra-01,772619,1
+Pilastri,BR-TI-Tirafondo-01,772620,1
+Pilastri,BR-MN-MontanteAngolare-04,772621,1
+Pilastri,BR-PI-Piastra-01,772622,1
+Pilastri,BR-TI-Tirafondo-01,772623,1

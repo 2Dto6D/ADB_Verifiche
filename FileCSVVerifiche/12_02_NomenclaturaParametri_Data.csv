@@ -1,0 +1,365 @@
+Nome Parametro,ID Elemento,Verifica,Stato
+1930x1000,66687,Inclinazione Base_Lato1,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Inclinazione Base_Lato2,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Larghezza Pannello,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Altezza Pannello,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Altezza Cordolo,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Spessore Pannello,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Spessore Scalinature,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Spessore Cordolo,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Numero scalanature,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Spessore Pannello CLS Tipo laterizio,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Lrghezza Scalanatura,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Vuoto_Visibilità,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Porta parallela_Larghezza,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,MTL_Pannello Interno,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,MTL_Pannello Esterno,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,MTL_Base,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,MTL_Pannello faccia a vista,Lunghezza nome parametro non conforme.,0
+Standard,507007,Pilastro_Altezza,Lunghezza nome parametro non conforme.,0
+Standard,507007,Piastra_Spazio,Lunghezza nome parametro non conforme.,0
+Standard,507007,Pilastro_Lato 1,Lunghezza nome parametro non conforme.,0
+Standard,507007,Pilastro_Lato 2,Lunghezza nome parametro non conforme.,0
+Standard,507007,HEA 180_Visibilità,Lunghezza nome parametro non conforme.,0
+Standard,507007,HEB 180_Visibilità,Lunghezza nome parametro non conforme.,0
+Standard,507007,HEM 180_Visibilità,Lunghezza nome parametro non conforme.,0
+Standard,507007,MTL_Montante,Lunghezza nome parametro non conforme.,0
+Standard,507007,MTL_Tirafondi,Lunghezza nome parametro non conforme.,0
+Standard,79363,Porta parallela_Larghezza,Lunghezza nome parametro non conforme.,0
+Standard,79363,Porta parallela_Spessore,Lunghezza nome parametro non conforme.,0
+Standard,79363,Porta parallela_Altezza,Lunghezza nome parametro non conforme.,0
+Standard,79363,Maniglione_Altezza,Lunghezza nome parametro non conforme.,0
+Standard,79363,Pannello_Larghezza,Lunghezza nome parametro non conforme.,0
+Standard,408324,Pilastro_Altezza,Lunghezza nome parametro non conforme.,0
+Standard,408324,Piastra_Spazio,Lunghezza nome parametro non conforme.,0
+Standard,408324,Pilastro_Lato 1,Lunghezza nome parametro non conforme.,0
+Standard,408324,Pilastro_Lato 2,Lunghezza nome parametro non conforme.,0
+Standard,408324,HEA 180_Visibilità,Lunghezza nome parametro non conforme.,0
+Standard,408324,HEB 180_Visibilità,Lunghezza nome parametro non conforme.,0
+Standard,408324,HEM 180_Visibilità,Lunghezza nome parametro non conforme.,0
+Standard,408324,MTL_Montante,Lunghezza nome parametro non conforme.,0
+Standard,408324,MTL_Tirafondi,Lunghezza nome parametro non conforme.,0
+2800X400,86790,h,Lunghezza nome parametro non conforme.,0
+2800X400,86790,b,Lunghezza nome parametro non conforme.,0
+2800X400,86790,Larghezza,Lunghezza nome parametro non conforme.,0
+2800X400,86790,Profondità,Lunghezza nome parametro non conforme.,0
+800x500,178183,h,Lunghezza nome parametro non conforme.,0
+800x500,178183,b,Lunghezza nome parametro non conforme.,0
+800x500,178183,Larghezza,Lunghezza nome parametro non conforme.,0
+800x500,178183,Profondità,Lunghezza nome parametro non conforme.,0
+1200x500,52106,h,Lunghezza nome parametro non conforme.,0
+1200x500,52106,b,Lunghezza nome parametro non conforme.,0
+1930x4000,66699,Pannello_Spessore,Lunghezza nome parametro non conforme.,0
+1930x4000,66699,Pannello_Larghezza,Lunghezza nome parametro non conforme.,0
+1930x4000,66699,Pannello_Altezza,Lunghezza nome parametro non conforme.,0
+1930x4000,66699,Pannelli_Interasse,Lunghezza nome parametro non conforme.,0
+1930x4000,66699,Corrente Inf_Larghezza,Lunghezza nome parametro non conforme.,0
+1930x4000,66699,MTL_Pannello PMMA,Lunghezza nome parametro non conforme.,0
+1930x4000,66699,MTL_Telaio PMMA,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Pannello_Larghezza Totale,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Pannello1_Altezza,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Pannello2_Altezza,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Pannello3_Altezza,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Pannello4_Altezza,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Pannello5_Altezza,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Pannello3_Base,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Pannello2_Base,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Pannello4_Base,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Pannello5_Base,Lunghezza nome parametro non conforme.,0
+P3_2000x5000_Porta,143500,Porta parallela_Visibilità,Lunghezza nome parametro non conforme.,0
+2600x500,289679,Pannello_Spessore,Lunghezza nome parametro non conforme.,0
+2600x500,289679,Pannello_Larghezza,Lunghezza nome parametro non conforme.,0
+2600x500,289679,Pannello_Spessore2,Lunghezza nome parametro non conforme.,0
+2600x500,289679,Pannello_Altezza,Lunghezza nome parametro non conforme.,0
+2600x500,289679,Pannello forato,Lunghezza nome parametro non conforme.,0
+2600x500,289679,Fori_Numero in verticale,Lunghezza nome parametro non conforme.,0
+2600x500,289679,Pannello_Larghezza_Foro,Lunghezza nome parametro non conforme.,0
+2600x500,289679,Pannello forato 2,Lunghezza nome parametro non conforme.,0
+2600x500,219536,L,Lunghezza nome parametro non conforme.,0
+P2_Calata02,463122,Pannello_Larghezza Totale,Lunghezza nome parametro non conforme.,0
+P2_Calata02,463122,Pannello1_Altezza,Lunghezza nome parametro non conforme.,0
+P2_Calata02,463122,Pannello2_Base,Lunghezza nome parametro non conforme.,0
+P2_Calata02,463122,Corrente Superiore_Altezza,Lunghezza nome parametro non conforme.,0
+P2_Calata02,463122,MTL_Scossalina,Lunghezza nome parametro non conforme.,0
+P2_Calata03,463125,Pannello_Larghezza Totale,Lunghezza nome parametro non conforme.,0
+P2_Calata03,463125,Pannello1_Altezza,Lunghezza nome parametro non conforme.,0
+P2_Calata03,463125,Pannello2_Base,Lunghezza nome parametro non conforme.,0
+P2_Calata03,463125,Corrente Superiore_Altezza,Lunghezza nome parametro non conforme.,0
+P2_Calata03,463125,MTL_Scossalina,Lunghezza nome parametro non conforme.,0
+1200X500,88215,h,Lunghezza nome parametro non conforme.,0
+1200X500,88215,b,Lunghezza nome parametro non conforme.,0
+P2_Calata04,463128,Pannello_Larghezza Totale,Lunghezza nome parametro non conforme.,0
+P2_Calata04,463128,Pannello1_Altezza,Lunghezza nome parametro non conforme.,0
+P2_Calata04,463128,Pannello2_Base,Lunghezza nome parametro non conforme.,0
+P2_Calata04,463128,Corrente Superiore_Altezza,Lunghezza nome parametro non conforme.,0
+P2_Calata04,463128,MTL_Scossalina,Lunghezza nome parametro non conforme.,0
+500x200,321180,h,Lunghezza nome parametro non conforme.,0
+500x200,321180,b,Lunghezza nome parametro non conforme.,0
+4M27,408365,Pilastro_Altezza,Lunghezza nome parametro non conforme.,0
+4M27,408365,Piastra_Spazio,Lunghezza nome parametro non conforme.,0
+4M27,408365,Pilastro_Lato 1,Lunghezza nome parametro non conforme.,0
+4M27,408365,Pilastro_Lato 2,Lunghezza nome parametro non conforme.,0
+4M27,408365,HEA 180_Visibilità,Lunghezza nome parametro non conforme.,0
+4M27,408365,HEB 180_Visibilità,Lunghezza nome parametro non conforme.,0
+4M27,408365,HEM 180_Visibilità,Lunghezza nome parametro non conforme.,0
+4M27,408365,MTL_Montante,Lunghezza nome parametro non conforme.,0
+4M27,408365,MTL_Tirafondi,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello_Larghezza Totale,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello1_Altezza,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello2_Altezza,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello3_Altezza,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello4_Altezza,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello5_Altezza,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello3_Base,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello2_Base,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello4_Base,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello5_Base,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Porta parallela_Visibilità,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Visibilità pannello 7,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Visibilità pannello 8,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello_6 Altezza,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello_6 Base,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello_7 Altezza,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello_7 Base,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello_8 Altezza,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello_8 Base,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello_9 Altezza,Lunghezza nome parametro non conforme.,0
+P9_2660x5000,289711,Pannello_9 Base,Lunghezza nome parametro non conforme.,0
+800X550,90033,h,Lunghezza nome parametro non conforme.,0
+800X550,90033,b,Lunghezza nome parametro non conforme.,0
+1200x610,192178,h,Lunghezza nome parametro non conforme.,0
+1200x610,192178,b,Lunghezza nome parametro non conforme.,0
+HEM 180,555961,Piastra_Spazio,Lunghezza nome parametro non conforme.,0
+HEM 180,555961,Pilastro_Lato 1,Lunghezza nome parametro non conforme.,0
+HEM 180,555961,Pilastro_Lato 2,Lunghezza nome parametro non conforme.,0
+HEM 180,555961,HEA 180_Visibilità,Lunghezza nome parametro non conforme.,0
+HEM 180,555961,HEB 180_Visibilità,Lunghezza nome parametro non conforme.,0
+HEM 180,555961,HEM 180_Visibilità,Lunghezza nome parametro non conforme.,0
+HEM 180,555961,MTL_Montante,Lunghezza nome parametro non conforme.,0
+HEM 180,555961,MTL_Tirafondi,Lunghezza nome parametro non conforme.,0
+HEM 180,555961,PIASTRA DI BASE,Lunghezza nome parametro non conforme.,0
+HEM 180,555961,TIRAFONDO,Lunghezza nome parametro non conforme.,0
+1300x650,171578,h,Lunghezza nome parametro non conforme.,0
+1300x650,171578,b,Lunghezza nome parametro non conforme.,0
+1300x650,171578,Larghezza,Lunghezza nome parametro non conforme.,0
+1300x650,171578,Profondità,Lunghezza nome parametro non conforme.,0
+1200x200,192700,h,Lunghezza nome parametro non conforme.,0
+1200x200,192700,b,Lunghezza nome parametro non conforme.,0
+1200x200,192700,Larghezza,Lunghezza nome parametro non conforme.,0
+1200x200,192700,Profondità,Lunghezza nome parametro non conforme.,0
+1200x500,187197,h,Lunghezza nome parametro non conforme.,0
+1200x500,187197,b,Lunghezza nome parametro non conforme.,0
+1200x500,187197,Larghezza,Lunghezza nome parametro non conforme.,0
+1200x500,187197,Profondità,Lunghezza nome parametro non conforme.,0
+1830x1000,127552,Pannello_Spessore,Lunghezza nome parametro non conforme.,0
+1830x1000,127552,Pannello_Larghezza,Lunghezza nome parametro non conforme.,0
+1830x1000,127552,Pannello_Spessore2,Lunghezza nome parametro non conforme.,0
+1830x1000,127552,Pannello_Altezza,Lunghezza nome parametro non conforme.,0
+1830x1000,127552,Fori_Numero in verticale,Lunghezza nome parametro non conforme.,0
+1830x1000,127552,Pannello_Larghezza_Foro,Lunghezza nome parametro non conforme.,0
+1830x1000,127552,Pannello forato,Lunghezza nome parametro non conforme.,0
+1500x500,169664,h,Lunghezza nome parametro non conforme.,0
+1500x500,169664,b,Lunghezza nome parametro non conforme.,0
+1500x500,169664,Larghezza,Lunghezza nome parametro non conforme.,0
+1500x500,169664,Profondità,Lunghezza nome parametro non conforme.,0
+1200x500,232904,h,Lunghezza nome parametro non conforme.,0
+1200x500,232904,b,Lunghezza nome parametro non conforme.,0
+1500x300,193608,h,Lunghezza nome parametro non conforme.,0
+1500x300,193608,b,Lunghezza nome parametro non conforme.,0
+1500x300,193608,Larghezza,Lunghezza nome parametro non conforme.,0
+1500x300,193608,Profondità,Lunghezza nome parametro non conforme.,0
+1930xVar,465482,Pannello_Spessore,Lunghezza nome parametro non conforme.,0
+1930xVar,465482,Pannello_Larghezza,Lunghezza nome parametro non conforme.,0
+1930xVar,465482,Pannello_Altezza,Lunghezza nome parametro non conforme.,0
+1930xVar,465482,Pannelli_Interasse,Lunghezza nome parametro non conforme.,0
+1930xVar,465482,Corrente Inf_Larghezza,Lunghezza nome parametro non conforme.,0
+1930xVar,465482,MTL_Pannello PMMA,Lunghezza nome parametro non conforme.,0
+1930xVar,465482,MTL_Telaio PMMA,Lunghezza nome parametro non conforme.,0
+1400X550,167116,h,Lunghezza nome parametro non conforme.,0
+1400X550,167116,b,Lunghezza nome parametro non conforme.,0
+1400X550,167116,Larghezza,Lunghezza nome parametro non conforme.,0
+1400X550,167116,Profondità,Lunghezza nome parametro non conforme.,0
+2900X400,173261,h,Lunghezza nome parametro non conforme.,0
+2900X400,173261,b,Lunghezza nome parametro non conforme.,0
+2900X400,173261,Larghezza,Lunghezza nome parametro non conforme.,0
+2900X400,173261,Profondità,Lunghezza nome parametro non conforme.,0
+1200x500,308556,h,Lunghezza nome parametro non conforme.,0
+1200x500,308556,b,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,Pilastro_Altezza,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,Piastra_Spazio,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,Pilastro_Lato 1,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,Pilastro_Lato 2,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,HEA 180_Visibilità,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,HEB 180_Visibilità,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,HEM 180_Visibilità,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,MTL_Montante,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,MTL_Tirafondi,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,PIASTRA DI BASE,Lunghezza nome parametro non conforme.,0
+HEA 180,756429,TIRAFONDO,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,Pilastro_Altezza,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,Piastra_Spazio,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,Pilastro_Lato 1,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,Pilastro_Lato 2,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,HEA 180_Visibilità,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,HEB 180_Visibilità,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,HEM 180_Visibilità,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,MTL_Montante,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,MTL_Tirafondi,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,PIASTRA DI BASE,Lunghezza nome parametro non conforme.,0
+HEM 180,756434,TIRAFONDO,Lunghezza nome parametro non conforme.,0
+Standard,756437,Pilastro_Altezza,Lunghezza nome parametro non conforme.,0
+Standard,756437,Piastra_Spazio,Lunghezza nome parametro non conforme.,0
+Standard,756437,Pilastro_Lato 1,Lunghezza nome parametro non conforme.,0
+Standard,756437,Pilastro_Lato 2,Lunghezza nome parametro non conforme.,0
+Standard,756437,HEA 180_Visibilità,Lunghezza nome parametro non conforme.,0
+Standard,756437,HEB 180_Visibilità,Lunghezza nome parametro non conforme.,0
+Standard,756437,HEM 180_Visibilità,Lunghezza nome parametro non conforme.,0
+Standard,756437,MTL_Montante,Lunghezza nome parametro non conforme.,0
+Standard,756437,MTL_Tirafondi,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Pannello_Larghezza Totale,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Pannello1_Altezza,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Pannello2_Altezza,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Pannello3_Altezza,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Pannello4_Altezza,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Pannello5_Altezza,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Pannello3_Base,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Pannello2_Base,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Pannello4_Base,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Pannello5_Base,Lunghezza nome parametro non conforme.,0
+P5_2660x5000,79574,Porta parallela_Visibilità,Lunghezza nome parametro non conforme.,0
+4M27,756438,Pilastro_Altezza,Lunghezza nome parametro non conforme.,0
+4M27,756438,Piastra_Spazio,Lunghezza nome parametro non conforme.,0
+4M27,756438,Pilastro_Lato 1,Lunghezza nome parametro non conforme.,0
+4M27,756438,Pilastro_Lato 2,Lunghezza nome parametro non conforme.,0
+4M27,756438,HEA 180_Visibilità,Lunghezza nome parametro non conforme.,0
+4M27,756438,HEB 180_Visibilità,Lunghezza nome parametro non conforme.,0
+4M27,756438,HEM 180_Visibilità,Lunghezza nome parametro non conforme.,0
+4M27,756438,MTL_Montante,Lunghezza nome parametro non conforme.,0
+4M27,756438,MTL_Tirafondi,Lunghezza nome parametro non conforme.,0
+1200x670,190044,h,Lunghezza nome parametro non conforme.,0
+1200x670,190044,b,Lunghezza nome parametro non conforme.,0
+500x300,283495,h,Lunghezza nome parametro non conforme.,0
+500x300,283495,b,Lunghezza nome parametro non conforme.,0
+400x600,283497,h,Lunghezza nome parametro non conforme.,0
+400x600,283497,b,Lunghezza nome parametro non conforme.,0
+300x150,283499,h,Lunghezza nome parametro non conforme.,0
+300x150,283499,b,Lunghezza nome parametro non conforme.,0
+550x800,234348,h,Lunghezza nome parametro non conforme.,0
+550x800,234348,b,Lunghezza nome parametro non conforme.,0
+550x800,234348,Larghezza,Lunghezza nome parametro non conforme.,0
+550x800,234348,Profondità,Lunghezza nome parametro non conforme.,0
+500x600,283501,h,Lunghezza nome parametro non conforme.,0
+500x600,283501,b,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Pannello_Larghezza Totale,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Pannello1_Altezza,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Pannello2_Altezza,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Pannello3_Altezza,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Pannello4_Altezza,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Pannello5_Altezza,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Pannello3_Base,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Pannello2_Base,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Pannello4_Base,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Pannello5_Base,Lunghezza nome parametro non conforme.,0
+P5_2000x5000,162671,Porta parallela_Visibilità,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Inclinazione Base_Lato1,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Inclinazione Base_Lato2,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Larghezza Pannello,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Altezza Pannello,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Altezza Cordolo,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Spessore Pannello,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Spessore Scalinature,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Spessore Cordolo,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Numero scalanature,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Spessore Pannello CLS Tipo laterizio,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Lrghezza Scalanatura,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Vuoto_Visibilità,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,Porta parallela_Larghezza,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,MTL_Pannello Interno,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,MTL_Pannello Esterno,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,MTL_Base,Lunghezza nome parametro non conforme.,0
+1830x1000,128240,MTL_Pannello faccia a vista,Lunghezza nome parametro non conforme.,0
+1500x100,169712,h,Lunghezza nome parametro non conforme.,0
+1500x100,169712,b,Lunghezza nome parametro non conforme.,0
+1500x100,169712,Larghezza,Lunghezza nome parametro non conforme.,0
+1500x100,169712,Profondità,Lunghezza nome parametro non conforme.,0
+500x300,171633,h,Lunghezza nome parametro non conforme.,0
+500x300,171633,b,Lunghezza nome parametro non conforme.,0
+500x300,171633,Larghezza,Lunghezza nome parametro non conforme.,0
+500x300,171633,Profondità,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Inclinazione Base_Lato1,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Inclinazione Base_Lato2,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Larghezza Pannello,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Altezza Pannello,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Altezza Cordolo,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Spessore Pannello,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Spessore Scalinature,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Spessore Cordolo,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Numero scalanature,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Spessore Pannello CLS Tipo laterizio,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Lrghezza Scalanatura,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Vuoto_Visibilità,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,Porta parallela_Larghezza,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,MTL_Pannello Interno,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,MTL_Pannello Esterno,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,MTL_Base,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,MTL_Pannello faccia a vista,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,gruppo scanalature1,Lunghezza nome parametro non conforme.,0
+2600x1000,289649,gruppo scanalature2,Lunghezza nome parametro non conforme.,0
+500x200,283509,h,Lunghezza nome parametro non conforme.,0
+500x200,283509,b,Lunghezza nome parametro non conforme.,0
+150x300,283503,h,Lunghezza nome parametro non conforme.,0
+150x300,283503,b,Lunghezza nome parametro non conforme.,0
+500x730,283505,h,Lunghezza nome parametro non conforme.,0
+500x730,283505,b,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Inclinazione Base_Lato1,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Inclinazione Base_Lato2,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Larghezza Pannello,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Altezza Pannello,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Altezza Cordolo,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Spessore Pannello,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Spessore Scalinature,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Spessore Cordolo,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Numero scalanature,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Spessore Pannello CLS Tipo laterizio,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Lrghezza Scalanatura,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Vuoto_Visibilità,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,Porta parallela_Larghezza,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,MTL_Pannello Interno,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,MTL_Pannello Esterno,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,MTL_Base,Lunghezza nome parametro non conforme.,0
+2600x1000,66681,MTL_Pannello faccia a vista,Lunghezza nome parametro non conforme.,0
+1200x500,310256,h,Lunghezza nome parametro non conforme.,0
+1200x500,310256,b,Lunghezza nome parametro non conforme.,0
+P2_Calata01,66811,Pannello_Larghezza Totale,Lunghezza nome parametro non conforme.,0
+P2_Calata01,66811,Pannello1_Altezza,Lunghezza nome parametro non conforme.,0
+P2_Calata01,66811,Pannello2_Base,Lunghezza nome parametro non conforme.,0
+P2_Calata01,66811,Corrente Superiore_Altezza,Lunghezza nome parametro non conforme.,0
+P2_Calata01,66811,MTL_Scossalina,Lunghezza nome parametro non conforme.,0
+1250x2600,179068,h,Lunghezza nome parametro non conforme.,0
+1250x2600,179068,b,Lunghezza nome parametro non conforme.,0
+1250x2600,179068,Profondita zoccolo,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Spessore Pannello,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Pannello_Larghezza,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Pannello_Altezza,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Corrente_Tipi H1000-1250mm,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Corrente_Tipo H1500mm,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Correnti_Altezza Tipo H1500mm,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Listelli Inclinati_Tipo H1250mm,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Listelli Inclinati_Tipo H1000mm,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Listelli_spessore,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Listelli_Numero,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Listelli Inclinati_Tipo H1500mm,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Porta parallela_Larghezza,Lunghezza nome parametro non conforme.,0
+2600x1000,79355,Vuoto_Visibilità,Lunghezza nome parametro non conforme.,0
+P2_2000x5000,752253,Pannello_Larghezza Totale,Lunghezza nome parametro non conforme.,0
+P2_2000x5000,752253,Pannello1_Altezza,Lunghezza nome parametro non conforme.,0
+P2_2000x5000,752253,Pannello2_Base,Lunghezza nome parametro non conforme.,0
+P2_2000x5000,752253,Corrente Superiore_Altezza,Lunghezza nome parametro non conforme.,0
+P2_2000x5000,752253,MTL_Scossalina,Lunghezza nome parametro non conforme.,0
+2600x1000,79357,Pannello_Spessore,Lunghezza nome parametro non conforme.,0
+2600x1000,79357,Pannello_Larghezza,Lunghezza nome parametro non conforme.,0
+2600x1000,79357,Pannello_Spessore2,Lunghezza nome parametro non conforme.,0
+2600x1000,79357,Pannello_Altezza,Lunghezza nome parametro non conforme.,0
+2600x1000,79357,Fori_Numero in verticale,Lunghezza nome parametro non conforme.,0
+2600x1000,79357,Pannello_Larghezza_Foro,Lunghezza nome parametro non conforme.,0
+2600x1000,79357,Pannello forato,Lunghezza nome parametro non conforme.,0

@@ -1,0 +1,87 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,Verifica,Stato
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273352,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273390,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273428,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273466,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273504,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273542,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273580,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273618,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273654,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273728,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273800,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273838,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273876,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273914,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273952,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,273990,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274028,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274064,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274100,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274138,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274176,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274214,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274252,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274290,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274328,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274364,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274400,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274436,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,SI-PP-ProfiloNastro-05,274472,IFC Class non valorizzato,0
+OST_StructuralFraming,MF-FN-Fondazione-01,1300x650,170427,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-FN-Fondazione-01,500x300,171612,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-FN-Fondazione-01,1200x500,187116,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-FN-Fondazione-01,1200x500,187546,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,MF-EL-Elevazione_sp50-01,188481,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-FN-Fondazione-01,1500x300,193491,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,MF-EL-Elevazione_sp35-01,194153,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,MF-EL-Elevazione_sp35-01,194692,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Floors,Pavimento,MF-MG-Magrone_sp15-01,272474,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273326,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273364,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273402,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273440,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273478,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273516,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273554,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273592,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273630,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273702,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273776,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273812,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273850,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273888,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273926,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,273964,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274002,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274040,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274076,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274112,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274150,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274188,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274226,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274264,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274302,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274340,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274376,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274412,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,SI-SI-H2esistente-01,274448,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-Cordolo_Dem_250+887_SDF-01,500x200,283236,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,MF-EL-Muro_Fondazione_sp50-01,283237,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,MF-EL-Muro_Fondazione_sp50-01,283253,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-Cordolo_Dem_250+923_SDF-01,500x300,283269,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-Cordolo_Dem_250+923_SDF-02,400x600,283270,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-Cordolo_Dem_251+169_SDF-01,300x150,283271,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-Cordolo_Dem_251+169_SDF-02,500x600,283272,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-Cordolo_Dem_251+306_SDF-01,150x300,283273,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-Cordolo_Dem_251+306_SDF-02,500x730,283274,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-Cordolo_Dem_251+306_SDF-02,500x730,283275,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-Cordolo_Dem_251+306_SDF-01,150x300,283276,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-Cordolo_Dem_251+169_SDF-02,500x600,301207,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,MF-EL-ElevazionePonticello_sp50-01,313226,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,MF-EL-ElevazionePonticello_sp50-01,315152,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,MF-FN-FondazionePonticello-01,264x250,316911,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,MF-EL-ElevazionePonticello_sp70-01,319503,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StructuralFraming,MF-CR-CordoloPonticello-04,500x200,321672,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,MF-FN-FondazionePonticello-01,264x250,322402,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,MF-EL-ElevazionePonticello_sp70-01,322672,IFC CLASS e IFC PREDEF TYPE errati,0

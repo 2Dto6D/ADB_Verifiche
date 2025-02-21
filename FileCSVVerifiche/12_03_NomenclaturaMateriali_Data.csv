@@ -1,0 +1,61 @@
+Nome Materiale,ID Elemento,Verifica,Stato
+Default,90,Numero campi errato,0
+Muro di default,91,Numero campi errato,0
+Fase-Demo,94,Numero campi errato,0
+Fase-Esistente,95,Numero campi errato,0
+Fase-Temporaneo,96,Numero campi errato,0
+Poche,97,Numero campi errato,0
+Sistemi-zone,102,Numero campi errato,0
+Vani analitici,103,Numero campi errato,0
+Superficie analitica - Muri esterni,104,Numero campi errato,0
+Superficie analitica - Tetti,105,Numero campi errato,0
+Superficie analitica - Solaio di fondazione,106,Numero campi errato,0
+Superficie analitica - Muri interni,107,Numero campi errato,0
+Superficie analitica - Pavimenti interni,108,Numero campi errato,0
+Superficie analitica - Controsoffitti,109,Numero campi errato,0
+Superficie analitica - Superfici d'aria,110,Numero campi errato,0
+Superficie analitica - Muri interrati,111,Numero campi errato,0
+Superficie analitica - Finestre apribili,112,Numero campi errato,0
+Superficie analitica - Lucernari apribili,113,Numero campi errato,0
+Superficie analitica - Porte scorrevoli,114,Numero campi errato,0
+Superficie analitica - Aperture di aerazione,115,Numero campi errato,0
+Superficie analitica - Avvolgibili,116,Numero campi errato,0
+Carichi analitici elettrici,117,Numero campi errato,0
+Pannelli analitici,118,Numero campi errato,0
+Acciaio inossidabile,2249,Numero campi errato,0
+"Acciaio, al carbonio",2250,Numero campi errato,0
+"Cloruro di polivinile, rigido",2251,Numero campi errato,0
+"Ferro, duttile",2252,Numero campi errato,0
+Rame,2253,Numero campi errato,0
+Materiale per il rendering 255-255-255,11218,Numero campi errato,0
+A22_Calcestruzzo,11654,Codice 'ADB' non presente,0
+A22_Calcestruzzo non struttuale,12019,Codice 'ADB' non presente,0
+Render Material 255-255-255,12042,Numero campi errato,0
+Calcestruzzo strutturale C35/45 con armatura,38549,Numero campi errato,0
+Materiale per il rendering 255-255-0,45767,Numero campi errato,0
+Materiale per il rendering 255-191-127,45770,Numero campi errato,0
+Materiale per il rendering 165-0-0,45773,Numero campi errato,0
+Materiale per il rendering 255-0-0,45786,Numero campi errato,0
+Materiale per il rendering 101-101-101,45803,Numero campi errato,0
+Materiale per il rendering 0-0-0,45805,Numero campi errato,0
+Materiale per il rendering 102-102-102,45807,Numero campi errato,0
+Materiale per il rendering 0-255-0,45811,Numero campi errato,0
+Materiale per il rendering 0-0-255,45814,Numero campi errato,0
+Calcestruzzo - Calcestruzzo gettato in opera,46016,Numero campi errato,0
+ACC_S 355 J2 zincato RAL 6028,61503,Codice 'ADB' non presente,0
+ACC_S 355 JR RAL 6028,61504,Codice 'ADB' non presente,0
+CLS_Alleggerito con argilla espansa,61505,Codice 'ADB' non presente,0
+CLS_C35/40,61506,Codice 'ADB' non presente,0
+PLA_Polimetilmetacrilato,61507,Codice 'ADB' non presente,0
+LAT_Laterizio,61516,Codice 'ADB' non presente,0
+GEN_Betoncino Reoplastico,61517,Codice 'ADB' non presente,0
+ACC_S 235 JR RAL 6028,61527,Codice 'ADB' non presente,0
+ACC_S 355 J2 RAL 6028,61528,Codice 'ADB' non presente,0
+CLS_C32/40,61529,Codice 'ADB' non presente,0
+LEG_Pino,68779,Codice 'ADB' non presente,0
+MET_Alluminio anodizzato,68780,Codice 'ADB' non presente,0
+PLA_Policarbonato trasparente,68781,Codice 'ADB' non presente,0
+GEN_Strato fonoassorbente,68787,Codice 'ADB' non presente,0
+ACC_Zincato RAL 6028,68793,Codice 'ADB' non presente,0
+ACC_Lamiera,68796,Codice 'ADB' non presente,0
+ACC_S 355 J0WP,148299,Codice 'ADB' non presente,0

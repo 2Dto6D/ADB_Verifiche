@@ -1,0 +1,96 @@
+Famiglia e Tipo,ID Elemento,Categoria,Verifica,Stato
+Pavimento: Latero Cementizio - 30 cm,137241,Pavimenti,Verificato,1
+Pavimento: Latero Cementizio - 30 cm,137271,Pavimenti,Verificato,1
+Pavimento: Latero Cementizio - 30 cm,137285,Pavimenti,Verificato,1
+Pavimento: Latero Cementizio - 30 cm,137299,Pavimenti,Verificato,1
+Pavimento: Latero Cementizio - 30 cm,137315,Pavimenti,Verificato,1
+Pilastro in calcestruzzo - Rettangolare: 30x30 cm,137383,Pilastri strutturali,Verificato,1
+Pilastro in calcestruzzo - Rettangolare: 30x30 cm,137420,Pilastri strutturali,Verificato,1
+Pilastro in calcestruzzo - Rettangolare: 30x30 cm,137429,Pilastri strutturali,Troppo Alto,0
+Pilastro in calcestruzzo - Rettangolare: 30x30 cm,137440,Pilastri strutturali,Verificato,1
+Unità ventilconvettore: 1219 mm,138072,Attrezzatura meccanica,Verificato,1
+Unità ventilconvettore: 1219 mm,138093,Attrezzatura meccanica,Troppo Basso,0
+Unità ventilconvettore: 1219 mm,138108,Attrezzatura meccanica,Verificato,1
+Unità ventilconvettore: 1219 mm,138123,Attrezzatura meccanica,Verificato,1
+Tubazione: Default,157464,Tubazioni,Troppo Alto,0
+Tubazione: Default,157465,Linea d'asse,Troppo Alto,0
+Tubazione: Default,157509,Tubazioni,Troppo Alto,0
+Tubazione: Default,157510,Linea d'asse,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157520,Raccordi tubazione,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157521,Linea d'asse,Troppo Alto,0
+Tubazione: Default,157522,Tubazioni,Verificato,1
+Tubazione: Default,157523,Linea d'asse,Verificato,1
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157534,Raccordi tubazione,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157535,Linea d'asse,Troppo Alto,0
+Tubazione: Default,157536,Tubazioni,Troppo Alto,0
+Tubazione: Default,157537,Linea d'asse,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157549,Raccordi tubazione,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157550,Linea d'asse,Troppo Alto,0
+Tubazione: Default,157552,Tubazioni,Troppo Alto,0
+Tubazione: Default,157553,Linea d'asse,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157563,Raccordi tubazione,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157564,Linea d'asse,Troppo Alto,0
+Tubazione: Default,157624,Tubazioni,Troppo Basso,0
+Tubazione: Default,157625,Linea d'asse,Troppo Basso,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157626,Raccordi tubazione,Troppo Basso,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157627,Linea d'asse,Troppo Basso,0
+Tubazione: Default,157628,Tubazioni,Troppo Basso,0
+Tubazione: Default,157629,Linea d'asse,Troppo Basso,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157630,Raccordi tubazione,Troppo Basso,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157631,Linea d'asse,Troppo Basso,0
+Tubazione: Default,157642,Tubazioni,Troppo Basso,0
+Tubazione: Default,157643,Linea d'asse,Troppo Basso,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157644,Raccordi tubazione,Troppo Basso,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157645,Linea d'asse,Troppo Basso,0
+Tubazione: Default,157646,Tubazioni,Troppo Basso,0
+Tubazione: Default,157647,Linea d'asse,Troppo Basso,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157648,Raccordi tubazione,Troppo Basso,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157649,Linea d'asse,Troppo Basso,0
+Tubazione: Default,157660,Tubazioni,Troppo Alto,0
+Tubazione: Default,157661,Linea d'asse,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157662,Raccordi tubazione,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157663,Linea d'asse,Troppo Alto,0
+Tubazione: Default,157664,Tubazioni,Troppo Alto,0
+Tubazione: Default,157665,Linea d'asse,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157666,Raccordi tubazione,Troppo Alto,0
+M_Curvatura - PVC - Sch 40 - DWV: Standard,157667,Linea d'asse,Troppo Alto,0
+Pilastro in calcestruzzo - Rettangolare: 30x30 cm,157760,Pilastri strutturali,Troppo Alto,0
+Condotto ovale: Default,194807,Condotto,Verificato,1
+Condotto ovale: Default,194876,Condotto,Verificato,1
+M_Gomito ovale - Ad angolo: Standard,194887,Raccordi condotto,Verificato,1
+Condotto ovale: Default,194889,Condotto,Verificato,1
+M_Gomito ovale - Ad angolo: Standard,194894,Raccordi condotto,Verificato,1
+Condotto ovale: Default,194896,Condotto,Verificato,1
+M_Gomito ovale - Ad angolo: Standard,194903,Raccordi condotto,Verificato,1
+Condotto ovale: Default,194931,Condotto,Verificato,1
+Condotto ovale: Default,194933,Condotto,Verificato,1
+M_Gomito ovale - Ad angolo: Standard,194934,Raccordi condotto,Verificato,1
+Condotto ovale: Default,194935,Condotto,Verificato,1
+M_Gomito ovale - Ad angolo: Standard,194936,Raccordi condotto,Verificato,1
+M_Diffusore mandata: Placca 600 x 600 Connessione 300 x 300,197530,Bocchettoni,Verificato,1
+M_Diffusore mandata: Placca 600 x 600 Connessione 300 x 300,197535,Bocchettoni,Troppo Alto,0
+M_Diffusore mandata: Placca 600 x 600 Connessione 300 x 300,197549,Bocchettoni,Verificato,1
+M_Diffusore mandata: Placca 600 x 600 Connessione 300 x 300,197563,Bocchettoni,Troppo Basso,0
+Pilastro in calcestruzzo - Rettangolare: 30x30 cm,197635,Pilastri strutturali,Verificato,1
+Pavimento: STR_Calcestruzzo da 160 mm con soletta metallica da 50 mm,197677,Pavimenti,Verificato,1
+Muro di base: Generico - 30 cm,200685,Muri,Verificato,1
+Muro di base: Generico - 30 cm,200686,Muri,Verificato,1
+Muro di base: Generico - 30 cm,200687,Muri,Verificato,1
+Muro di base: Generico - 30 cm,200688,Muri,Verificato,1
+Muro di base: Generico - 30 cm,200737,Muri,Verificato,1
+Muro di base: Generico - 30 cm,200765,Muri,Verificato,1
+Muro di base: Generico - 30 cm,200814,Muri,Verificato,1
+Muro di base: Generico - 30 cm,200861,Muri,Verificato,1
+Muro di base: Generico - 30 cm,200921,Muri,Verificato,1
+ARC_POR_BAT: ARC_POR_BAT_PortaABattente_2100x2880,201008,Porte,Verificato,1
+ARC_POR_BAT: ARC_POR_BAT_PortaABattente_2100x2880,201054,Porte,Verificato,1
+ARC_FIN_ROT: 90x120 cm,201159,Finestre,Verificato,1
+ARC_FIN_ROT: 90x120 cm,201210,Finestre,Verificato,1
+ARC_FIN_ROT: 90x120 cm,201239,Finestre,Verificato,1
+ARC_POR_BAT: ARC_POR_BAT_PortaABattente_2100x24000,201655,Porte,Verificato,1
+ARC_POR_BAT: ARC_POR_BAT_PortaABattente_2100x24000,201699,Porte,Verificato,1
+ARC_POR_BAT: ARC_POR_BAT_PortaABattente_2100x2880,201731,Porte,Verificato,1
+ARC_POR_BAT: ARC_POR_BAT_PortaABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAattente_2100x2880,201786,Porte,Verificato,1
+ARC_POR_BAT: ARC_POR_BAT_PortaABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAattente_2100x2880,201828,Porte,Verificato,1
+ARC_POR_BAT: ARC_POR_BAT_PortaABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAattente_2100x2880,202007,Porte,Verificato,1
+ARC_POR_BAT: ARC_POR_BAT_PortaABattente_2100x24000,202043,Porte,Verificato,1
