@@ -11,7 +11,7 @@ Nome Parametro,ID Elemento,Verifica,Stato
 1930x1000,66687,Spessore Pannello CLS Tipo laterizio,Lunghezza nome parametro non conforme.,0
 1930x1000,66687,Lrghezza Scalanatura,Lunghezza nome parametro non conforme.,0
 1930x1000,66687,Vuoto_Visibilità,Lunghezza nome parametro non conforme.,0
-1930x1000,66687,Porta parallela_Larghezza,Lunghezza nome parametro non conforme.,0
+1930x1000,66687,Porta parallela_Larghezza,Lunghezza nome parametro non conforme.,1
 1930x1000,66687,MTL_Pannello Interno,Lunghezza nome parametro non conforme.,0
 1930x1000,66687,MTL_Pannello Esterno,Lunghezza nome parametro non conforme.,0
 1930x1000,66687,MTL_Base,Lunghezza nome parametro non conforme.,0
@@ -25,7 +25,7 @@ Standard,507007,HEB 180_Visibilità,Lunghezza nome parametro non conforme.,0
 Standard,507007,HEM 180_Visibilità,Lunghezza nome parametro non conforme.,0
 Standard,507007,MTL_Montante,Lunghezza nome parametro non conforme.,0
 Standard,507007,MTL_Tirafondi,Lunghezza nome parametro non conforme.,0
-Standard,79363,Porta parallela_Larghezza,Lunghezza nome parametro non conforme.,0
+Standard,79363,Porta parallela_Larghezza,Lunghezza nome parametro non conforme.,1
 Standard,79363,Porta parallela_Spessore,Lunghezza nome parametro non conforme.,0
 Standard,79363,Porta parallela_Altezza,Lunghezza nome parametro non conforme.,0
 Standard,79363,Maniglione_Altezza,Lunghezza nome parametro non conforme.,0
