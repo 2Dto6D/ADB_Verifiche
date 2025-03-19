@@ -2,7 +2,7 @@ Raggruppamento,Descrizione
 pGI e Allegati,Verifica tramite note e commenti del pGI e suoi allegati.
 Elaborati Progettuali,Verifica della congruenza dei modelli informativi rispetto agli elaborati 2D costituenti il pacchetto progettuale.
 Clash Detection,Verifica delle interferenze geometriche dei modelli (LC1 e LC2).
-Point Cloud,
+Point Cloud,Controllo coerenza tra modelli e Nuvola di punti
 ACDat,Controlli relativi all'ambiente ACDat.
 Collegamenti Modello Nativo,Controlli relativi a collegamenti quali modelli NATIVO; elaborati DWG; elaborati PDF; ecc.
 Georeferenziazione e Orientamento,Controlli relativi al sistema di coordinate adottato e al coordinamento e posizionamento geografico dei modelli informativi tra loro.
