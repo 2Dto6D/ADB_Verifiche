@@ -1,0 +1,1344 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,Verifica,Stato
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_FL-001,692525,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,693185,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,693756,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,693846,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,693918,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,694014,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,697286,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,697441,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,697483,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,697516,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,697707,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,697784,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,697830,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,697923,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,697989,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,698040,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,698093,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,698142,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01_FL-001,698176,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,698257,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,698316,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,698412,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,698594,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,698755,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,698896,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,698982,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,699170,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,699204,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,699259,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,699313,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,699383,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,699443,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,699494,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,699540,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,699817,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,699961,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,700023,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,700083,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,700161,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,700244,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,700329,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,700410,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,700583,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,700754,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,700809,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,700870,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,700948,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,700987,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,701052,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,701094,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,701161,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,701224,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,701344,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,701464,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,717145,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,719244,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,722202,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,722885,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,722978,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,723166,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,723254,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,723933,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,724028,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,724029,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,724094,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,724158,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,724221,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,724305,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,724328,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,725018,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725019,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725020,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725021,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725022,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725023,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725024,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725025,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725026,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725027,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725028,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725029,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,725030,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725031,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,725032,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725033,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725034,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725035,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725036,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725037,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725038,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725039,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725040,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725041,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725042,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725043,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725044,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725045,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725046,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725047,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725048,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725049,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725050,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725051,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725052,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725053,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725054,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725056,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725057,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725058,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725059,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725060,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725061,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725062,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725063,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725064,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725065,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,725066,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725067,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,725068,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,725069,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,725072,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725077,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725078,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,725079,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,725082,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725083,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,725086,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725088,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725089,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,726026,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,726772,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,726847,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,727502,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,728395,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,728455,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,728503,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,728784,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_800x2100,728817,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,741894,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,742771,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,743469,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,743550,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,744019,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,744155,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744495,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744532,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744554,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744580,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744606,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744726,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744909,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744910,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744911,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744912,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744913,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744916,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744945,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744946,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744947,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,744948,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,744949,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,744952,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,745127,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,745128,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,745129,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,745130,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,745131,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,745134,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,745708,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,746167,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,746537,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,746632,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1500x2400,746729,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_800x2100,746957,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,748566,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,748629,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,748883,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,748931,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,748998,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,749063,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,749303,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,749485,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,749544,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,749703,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,749757,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,749844,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,749914,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,749938,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,749979,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,750053,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,750151,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,750198,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,750264,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,750413,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,750442,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,750500,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,750667,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,750798,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,750972,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,751057,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,751099,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,751152,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,751239,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,751293,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,751342,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,751514,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,751563,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,751611,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,751661,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,752436,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,752499,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,752749,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,753068,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,753069,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753070,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753072,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753075,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753171,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753231,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753289,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753327,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753425,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753647,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753828,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753852,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753888,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753995,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753996,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753997,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,753998,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,754085,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,754106,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,754198,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,754311,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,754465,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,754466,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,754467,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,754468,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,801501,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,801519,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,801548,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,801658,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_250_Generico,832950,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_250_Generico,833006,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_250_Generico,833073,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_250_Generico,833105,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_250_Generico,833155,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_250_Generico,833222,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_250_Generico,833281,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,833360,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,833390,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,833471,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,833631,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,833672,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,833736,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,833801,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,833832,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,833895,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,834048,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,834049,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,834050,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,834125,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,834126,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,834127,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,834128,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,834186,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,834297,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,834400,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,834598,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_250_Generico,834728,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,835019,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_250_Generico,835205,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,835294,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,835559,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,835646,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,835750,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,835840,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,836073,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,836104,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,836204,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,836265,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,836340,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,836381,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,836422,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,836423,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,836424,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,836425,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,836444,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,836445,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,836446,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,836447,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,836504,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,836557,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,836928,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,837010,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,837080,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,837161,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,837197,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,837271,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,837515,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,837789,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,838590,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,838837,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,838856,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,838899,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839062,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839105,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839243,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839329,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839349,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839373,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839426,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,839840,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,840113,Corretto,1
+OST_Furniture,AR_ ARR_GAT_Banco gate,AR_ARR_GAT_Banco gate_1851x1187,861651,Corretto,1
+OST_Furniture,AR_ ARR_GAT_Banco gate,AR_ARR_GAT_Banco gate_1851x1187,861708,Corretto,1
+OST_Furniture,AR_ ARR_GAT_Banco gate,AR_ARR_GAT_Banco gate_1851x1187,861787,Corretto,1
+OST_Furniture,AR_ ARR_GAT_Banco gate,AR_ARR_GAT_Banco gate_1851x1187,861841,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,861984,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,862041,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,862184,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,862393,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,862492,Corretto,1
+OST_Furniture,AR_ ARR_GAT_Banco gate,AR_ARR_GAT_Banco gate_1851x1187,862563,Corretto,1
+OST_Furniture,AR_ ARR_GAT_Banco gate,AR_ARR_GAT_Banco gate_1851x1187,862607,Corretto,1
+OST_Furniture,AR_ ARR_GAT_Banco gate,AR_ARR_GAT_Banco gate_1851x1187,862642,Corretto,1
+OST_Furniture,AR_ ARR_GAT_Banco gate,AR_ARR_GAT_Banco gate_1851x1187,862727,Corretto,1
+OST_Furniture,AR_ARR_TOR_Tornelli di accesso,AR_ARR_TOR_Tornelli di accesso,899691,Corretto,1
+OST_Furniture,AR_ARR_TOR_Tornelli di accesso,AR_ARR_TOR_Tornelli di accesso,916819,Corretto,1
+OST_Furniture,AR_ARR_TOR_Tornelli di accesso,AR_ARR_TOR_Tornelli di accesso,916870,Corretto,1
+OST_Furniture,AR_ARR_TOR_Tornelli di accesso,AR_ARR_TOR_Tornelli di accesso,917046,Corretto,1
+OST_Furniture,AR_ARR_TOR_Tornelli di accesso,AR_ARR_TOR_Tornelli di accesso,917298,Corretto,1
+OST_Furniture,AR_ARR_TOR_Tornelli di accesso,AR_ARR_TOR_Tornelli di accesso,917421,Corretto,1
+OST_Furniture,AR_ARR_TOR_Tornelli di accesso,AR_ARR_TOR_Tornelli di accesso,917443,Corretto,1
+OST_Furniture,AR_ARR_TOR_Tornelli di accesso,AR_ARR_TOR_Tornelli di accesso,917592,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,921778,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,924028,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,924152,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,935513,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,935619,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,936336,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,938836,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,938837,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,938844,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,938845,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,939607,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,939626,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,939776,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,940136,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,940454,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,941851,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,942906,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,943471,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,943472,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,943473,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,943474,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,943475,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,943476,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,943477,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,943478,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,943479,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,943480,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,943481,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,943482,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1050,943483,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,943484,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,943486,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,943487,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_810,944671,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,945010,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,947788,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,947905,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,947906,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,947907,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,947908,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,947923,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,947924,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,947925,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,947926,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,947954,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,948074,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,948459,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,948564,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,948901,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,948902,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,948903,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,948951,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,949041,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,949172,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,949303,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,949404,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,949886,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,949887,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,949888,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,949889,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950063,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,950151,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950152,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950153,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950154,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950245,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,950551,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950552,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950553,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950554,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950619,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950645,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,950701,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950702,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950703,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950704,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,950740,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,953726,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01_FL-001,953771,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,955770,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,955916,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01_FL-001,956765,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,956956,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,957249,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,957507,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01_FL-001,958551,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01_FL-001,958678,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,959374,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,960163,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,960201,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,960244,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,960327,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,962508,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,962712,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,962719,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,962726,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,962733,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,962768,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,963114,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,963190,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,963230,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,963349,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,965483,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,965624,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,965714,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,966164,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,966201,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,966260,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,966322,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,966362,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,966425,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,966857,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali tecnici,967381,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali tecnici,967435,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali tecnici,967486,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,967717,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,968153,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,968190,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,968245,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,972533,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,972655,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,973550,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,973608,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,973662,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gres_Sopraelevato 810,973699,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_SCA_RET_Gres_Rampa Sopraelevato 810,974180,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,976460,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,977504,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,977522,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h3600_Sopraluce 1200,979250,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,979251,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,979339,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,979348,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,979357,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,979358,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,985965,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,985993,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,985994,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,986413,Corretto,1
+OST_Doors,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse_4800x2400,987024,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,987025,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987034,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987035,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987036,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987037,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987038,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,987118,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,987119,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987128,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987129,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987130,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987131,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987132,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,987194,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,987195,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987204,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987205,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987206,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987207,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987208,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,987330,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,987331,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987340,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987341,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987342,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987343,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987344,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,987768,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,987769,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987778,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987779,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987780,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987781,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,987782,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,988026,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,988027,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,988036,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,988037,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,988038,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,988039,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,988040,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,988128,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,988129,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,988138,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,988139,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,988140,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,988141,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,988142,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1000139,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_810,1000466,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1001682,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1002776,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1006101,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1006348,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1006349,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1006350,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1006351,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1007432,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1008403,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1008676,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1008760,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03a_FL-001,1009029,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_Lin,1010320,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_Lin,1010583,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03a_FL-001,1010858,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_Lin,1013452,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_Lin,1013822,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1014007,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_h2400,1014907,Corretto,1
+OST_Doors,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse_4800x2400,1014908,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1014912,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1014913,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1014914,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1014915,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_h2400,1018589,Corretto,1
+OST_Doors,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse_4800x2400,1018590,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018591,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018592,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018593,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018594,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h3730_Sopraluce 1330,1018771,Corretto,1
+OST_Doors,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse_4800x2400,1018772,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018773,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018774,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018775,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018776,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1019629,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1020056,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,1026475,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h3600_Sopraluce opaco 1200,1027899,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1027900,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1027904,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1027905,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1027906,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1027907,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1028597,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028604,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028605,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028606,Corretto,1
+OST_Doors,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse_3600x2400,1028738,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028744,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028745,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028746,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Opaco,1028999,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Opaco,1029000,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Opaco,1029001,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029015,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029016,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029017,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029018,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029019,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029020,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029021,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1029680,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029785,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029786,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029787,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h3100_Sopraluce 700,1030083,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1030084,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030085,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030086,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030087,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030088,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1030090,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030091,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030092,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030093,Corretto,1
+OST_Doors,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse_3600x2400,1030444,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1030445,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030554,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030555,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030556,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030557,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030558,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1030729,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1030730,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030838,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030839,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030840,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030841,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1030842,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h6300_Sopraluce 3900,1032522,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1032523,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032527,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032528,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032529,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032530,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1032636,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032643,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032644,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032645,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1038735,Corretto,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1040134,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040140,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040141,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040142,Corretto,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1040539,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040545,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040546,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040547,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040734,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040739,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040740,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040741,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040903,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040904,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040905,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040906,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040907,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040924,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040925,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040926,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040927,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040928,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040929,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040930,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040931,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040932,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040933,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040934,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,1041231,Corretto,1
+OST_Roofs,Tetto di base,AR_TET_PIA_330_Generico,1042212,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1042285,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1042322,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1043501,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1043580,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044036,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044037,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044045,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044046,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044047,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h3730_Sopraluce 1330,1044057,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044114,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044115,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044124,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044125,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044126,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h6300_Sopraluce 3900,1044136,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044189,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044190,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044191,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044192,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044193,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044194,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044263,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044264,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044494,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044495,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044504,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044505,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044506,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044507,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044508,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044734,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044735,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044744,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044745,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044746,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044747,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044748,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045082,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045083,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045093,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045094,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045095,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045096,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045097,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045277,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045278,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045288,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045289,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045290,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045291,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045292,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045342,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045343,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045353,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045354,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045355,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045356,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045357,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045543,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045544,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045554,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045555,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045556,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045557,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045558,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045635,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045636,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045647,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045648,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045649,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045650,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045651,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1061998,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1061999,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062010,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062011,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062012,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062013,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062014,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062434,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062435,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062436,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062437,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062438,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062439,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062440,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062441,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062460,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062461,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062462,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062463,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062464,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062465,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062466,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062467,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062468,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062469,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062470,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062471,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062472,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062473,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062474,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062475,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062476,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h6300_Sopraluce 3900,1071045,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1071046,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071049,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071050,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071051,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071052,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h6300_Sopraluce 3900,1071124,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1071125,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071128,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071129,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071130,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071131,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h6300_Sopraluce 3900,1071662,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1071663,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071666,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071667,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071668,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071669,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h6300_Sopraluce 3900,1071831,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1071832,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071835,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071836,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071837,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071838,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h6300_Sopraluce 3900,1071994,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1071995,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071998,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071999,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072000,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072001,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h6300_Sopraluce 3900,1072178,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072179,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072182,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072183,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072184,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072185,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h6300_Sopraluce 3900,1072295,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072296,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072299,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072300,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072301,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072302,Corretto,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1072406,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072413,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072414,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072415,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072507,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072513,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072514,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072515,Corretto,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1072617,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072624,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072625,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072626,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072659,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072665,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072666,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072667,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h6300_Sopraluce 3900,1072755,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072756,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072757,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072758,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072759,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072760,Corretto,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1072762,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072763,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072764,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072765,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072767,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072768,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072769,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072770,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072995,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073002,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073003,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073004,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1073237,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073244,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073245,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073246,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1073372,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073378,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073379,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073380,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1073549,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073555,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073556,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073557,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1073621,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073627,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073628,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073629,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1073874,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073880,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073881,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073882,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074098,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074104,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074105,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074106,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074224,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074230,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074231,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074232,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074368,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074374,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074375,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074376,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074713,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074720,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074721,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074722,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074788,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074794,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074795,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074796,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074892,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074898,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074899,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074900,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074972,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074978,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074979,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074980,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075112,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075118,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075119,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075120,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075235,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075241,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075242,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075243,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075254,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075260,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075261,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075262,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075270,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075276,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075277,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075278,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075289,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075294,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075295,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075296,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075307,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075312,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075313,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075314,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075513,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075519,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075520,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075521,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075598,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075604,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075605,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075606,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075709,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075716,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075717,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075718,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075822,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075828,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075829,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075830,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075912,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075918,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075919,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075920,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076026,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076032,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076033,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076034,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076102,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076108,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076109,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076110,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076214,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076220,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076221,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076222,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076280,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076286,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076287,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076288,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076399,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076406,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076407,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076408,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076490,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076496,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076497,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076498,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076542,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076548,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076549,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076550,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076653,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076654,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076655,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076656,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076657,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076658,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076659,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076660,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076674,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076675,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076676,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076677,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076678,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076679,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076680,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076681,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076682,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076683,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076684,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076685,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076686,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076687,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076688,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076689,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076690,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076785,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076786,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076787,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076801,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076802,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076803,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076804,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076805,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076806,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076807,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076900,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076901,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076902,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076903,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076904,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076905,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076906,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076907,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076921,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076922,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076923,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076924,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076925,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076926,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076927,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076928,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076929,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076930,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076931,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076932,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076933,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076934,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076935,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076936,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076937,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077022,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077023,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077024,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077025,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077026,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077027,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077028,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077029,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077094,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077095,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077096,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077097,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077098,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077099,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077100,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077101,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077102,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077103,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077104,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077105,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077106,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077107,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077108,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077109,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077110,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077267,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077268,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077269,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077270,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077271,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077272,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077273,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077274,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077288,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077289,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077290,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077291,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077292,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077293,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077294,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077295,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077296,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077297,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077298,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077299,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077300,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077301,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077302,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077303,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077304,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077495,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077496,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077497,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077553,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077554,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077555,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077556,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077557,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077558,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077559,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1078815,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1078816,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1078817,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078873,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078874,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078875,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078876,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078877,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078878,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078879,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1080578,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1080579,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1080580,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1080581,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080595,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080596,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080597,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080598,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080599,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080600,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080601,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080602,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080603,Corretto,1
+OST_Walls,Facciata continua,AR_SFC_MON_h3100_Sopraluce 700,1083761,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1083762,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1083765,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1083766,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1083767,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1084236,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084242,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084243,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084244,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1084321,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084326,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084327,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084328,Corretto,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1084391,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084396,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084397,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084398,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1084498,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084503,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084504,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084505,Corretto,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1084654,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084659,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084660,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084661,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1084832,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084837,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084838,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084839,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1084985,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084990,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084991,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1084992,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1085158,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085163,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085164,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085165,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1085537,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085542,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085543,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085544,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1085698,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085703,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085704,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085705,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1085777,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085782,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085783,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085784,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1085860,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085865,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085866,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1085867,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086015,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086020,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086021,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086022,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086134,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086139,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086140,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086141,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086231,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086236,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086237,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086238,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086344,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086349,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086350,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086351,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086435,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086440,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086442,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086858,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086859,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086860,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086861,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086862,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086863,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086864,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086865,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086866,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086867,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086868,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086869,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086870,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086871,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086872,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086873,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086874,Corretto,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1086875,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086939,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086940,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086941,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086942,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086943,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086944,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086945,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086946,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086947,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086948,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086949,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086950,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086951,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086952,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086953,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086954,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086955,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086956,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086957,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086961,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086962,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086963,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086964,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086965,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086966,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086967,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086968,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086969,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086970,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086971,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086972,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086973,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086974,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086975,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086976,Corretto,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1086977,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1087648,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_Lin,1087901,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1088015,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1088016,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1088213,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1088418,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1088581,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1090214,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1500x2400,1090784,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1092993,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1093977,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1094789,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1095107,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1095184,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1095689,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1095763,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1096373,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1096425,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1096474,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1096518,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1096560,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1096591,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_Lin,1096776,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1098798,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1100269,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,1100781,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,1101146,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1102140,Corretto,1
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1110545,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1128952,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1128996,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1129858,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140351,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140480,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140481,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140482,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140483,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140530,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140531,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140532,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140533,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140539,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140540,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140541,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140542,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140600,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140601,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140602,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140603,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140604,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140605,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140606,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140607,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140608,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140609,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140610,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140611,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140612,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140613,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140614,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140615,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140616,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1140666,Corretto,1
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140818,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140819,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades,AR_CON_CLA_100_Controsoffitto blades,1140834,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_GenericModel,AR_CON_CLA_Controsoffitto blades dx,AR_CON_CLA_100_Controsoffitto blades,1140835,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1141065,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1141360,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1142795,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1143629,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1150449,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1151173,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1151407,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1155573,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,1161292,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,1164138,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1200,1164439,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,1165957,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,1166220,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,1166678,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,1168036,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1200,1168540,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1200,1169386,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,1180656,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,1180691,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,1180875,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,1181097,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,1181098,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1200,1181099,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,1181100,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,1181101,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,1181102,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,1181103,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1200,1181104,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1200,1181105,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,1181106,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,1181107,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1100,1181109,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,1181312,Corretto,1
+OST_Furniture,AR_ ARR_NAS_Nastro tenditore,AR_ARR_NAS_Nastro tenditore_1000,1181359,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1190432,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,1190511,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_1300x115000_Molo,1194181,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1300x2700_Rampa Molo,1194244,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1300x2700_Rampa Molo,1194298,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_1300x1500_Pianerottolo Molo,1194300,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1300x2700_Rampa Molo,1194361,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_1300x1500_Pianerottolo Molo,1194363,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_1300x115000_Molo,1195221,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1300x2700_Rampa Molo,1195222,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1300x2700_Rampa Molo,1195224,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_1300x1500_Pianerottolo Molo,1195226,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1300x2700_Rampa Molo,1195228,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_1300x1500_Pianerottolo Molo,1195230,Corretto,1
+OST_Roofs,Tetto di base,AR_TET_PIA_120_Generico,1198132,Corretto,1
