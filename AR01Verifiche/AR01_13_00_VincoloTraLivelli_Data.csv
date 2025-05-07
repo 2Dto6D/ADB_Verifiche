@@ -1,4 +1,4 @@
-Categoria,Id Elemento,Livello Base,Livello Superiore,Verifica,Stato
+Categoria,Id Elemento,Livello Base,Livello Superiore,Verifica,Offset,Stato
 Muri,693185,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
 Muri,693756,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
 Muri,693846,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
