@@ -57,9 +57,15 @@
 /* Stili per tabelle */
 .Dati,
 .LineeGuida,
-#VerificheGenerali,
 .Modalita {
     width: 70%;
+    table-layout: fixed;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+#VerificheGenerali {
+    width: 85%;
     table-layout: fixed;
     margin: 0 auto;
     border-collapse: collapse;
