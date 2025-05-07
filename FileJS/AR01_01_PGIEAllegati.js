@@ -1,7 +1,7 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
     const tablesToLoad = [
-        { tableId: "PGIEAllegati", repo: "2Dto6D/ADB_Verifiche", filePath: "FileCSVRiepilogo/01_00_pGIAllegati.csv" }
+        { tableId: "PGIEAllegati", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Riepilogo/AR01_01_00_pGIAllegati.csv" }
     ];
 
     tablesToLoad.forEach(table => {

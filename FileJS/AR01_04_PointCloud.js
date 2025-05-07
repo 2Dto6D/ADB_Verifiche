@@ -1,7 +1,7 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
     const tablesToLoad = [
-        { tableId: "PointCloud", repo: "2Dto6D/ADB_Verifiche", filePath: "FileCSVRiepilogo/04_00_PointCloud.csv" }
+        { tableId: "PointCloud", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Riepilogo/AR01_04_00_PointCloud.csv" }
     ];
 
     tablesToLoad.forEach(table => {
