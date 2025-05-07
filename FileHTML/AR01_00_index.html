@@ -7,16 +7,35 @@
 		<title>Verifica Modelli</title>
 		<!-- Icona del sito -->
 		<link rel="shortcut icon" href="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" type="image/x-icon">
-		<!-- CSS -->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/AR01_00_styles.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/AR01_00_index.css">
 		<!-- Font Google -->
 		<link href="//fonts.googleapis.com/css?family=Roboto:400%2C700&display=swap" rel="stylesheet">
-		<!-- Javascript -->
-		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/styles.js" defer></script>
-        <script src="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/AR01_00_index.js" defer></script>
+    <script>
+        const timestamp = new Date().getTime();
+        
+        // CSS con cache busting
+        const cssFiles = [
+            "https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/AR01_00_styles.css",
+            "https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/AR01_00_index.css"
+        ];
+        cssFiles.forEach(href => {
+            const link = document.createElement("link");
+            link.rel = "stylesheet";
+            link.href = `${href}?v=${timestamp}`;
+            document.head.appendChild(link);
+        });
+        
+        // JS con cache busting
+        const jsFiles = [
+            "https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/styles.js",
+            "https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/AR01_00_index.js"
+        ];
+        jsFiles.forEach(src => {
+            const script = document.createElement("script");
+            script.src = `${src}?v=${timestamp}`;
+            script.defer = true;
+            document.head.appendChild(script);
+        });
+        </script>
 	</head>
 	<!-- Corpo del sito -->
 	<body>
