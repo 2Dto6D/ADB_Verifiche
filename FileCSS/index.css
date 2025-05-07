@@ -1,0 +1,219 @@
+.Start {
+    width: 100%;
+    align-items: center;
+    background-color: #12385D;
+    padding-top: 5%; /* Aggiunge spazio interno */
+    border-radius: 10px; /* Angoli arrotondati */
+}
+
+.Immagini {
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    background-color: #e6e6e6; /* Sfondo bianco */
+    padding: 5%; /* Aggiunge spazio interno */
+    border-radius: 5px; /* Opzionale: arrotonda leggermente gli angoli */
+}
+
+.Titolo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.P2Dto6D,
+.Cliente {
+    width: 300px;
+    height: auto;
+}
+
+.Bianco {
+    color: #e6e6e6;
+}
+
+/* Card */
+.Card {
+    width: 85%; /* Regola la larghezza in base alle tue necessità */
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Card1 {
+    width: 85%; /* Regola la larghezza in base alle tue necessità */
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Stili per tabelle */
+.Dati,
+.LineeGuida,
+#VerificheGenerali,
+.Modalita {
+    width: 70%;
+    table-layout: fixed;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.Dati th {
+    font-weight: normal;
+}
+
+.Dati th,
+.LineeGuida th,
+#VerificheGenerali th,
+.Modalita th {
+background-color:#e6e6e6;
+border: 1px solid #000;
+text-align: center;
+padding: 10px;
+hyphens: auto;
+word-wrap: break-word;
+}
+
+.Dati td,
+.LineeGuida td,
+#VerificheGenerali td,
+.Modalita td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}
+
+.Dati tr:nth-child(odd),
+.LineeGuida tr:nth-child(odd),
+.Modalita tr:nth-child(odd) {
+background-color: #d4d4d4;
+}
+
+.Dati tr:nth-child(even),
+.LineeGuida tr:nth-child(even),
+.Modalita tr:nth-child(even) {
+background-color: #e6e6e6;
+}
+
+.ScrittaLineeGuida {
+padding-bottom: 50px;
+text-align: left;
+display: flex;
+max-width: 75%;
+margin: 0 auto;
+}
+
+.ScrittaElencoVerifiche {
+padding-bottom: 20px;
+text-align: left;
+display: block;
+max-width: 70%;
+margin: 0 auto;
+}
+
+/* Colori per stato */
+.checked-row {
+background-color: #d4edda; /* Sfondo verde per righe con stato "1" */
+}
+
+.unchecked-row {
+background-color: #f8d7da; /* Sfondo rosso per righe con stato diverso da "1" e "2" */
+}
+
+.yellow-row {
+background-color: lightyellow; /* Sfondo giallo per righe con stato "2" */
+}
+
+/* Stili generali per checkbox disabilitati */
+input[type="checkbox"][disabled] {
+appearance: none; /* Rimuove lo stile predefinito */
+width: 16px;
+height: 16px;
+border-radius: 3px;
+display: inline-block;
+position: relative;
+cursor: not-allowed; /* Mostra che il checkbox è disabilitato */
+margin: 0 auto; /* Centra il checkbox */
+}
+
+.yellow-checkbox {
+appearance: none; /* Rimuove lo stile predefinito */
+width: 13px;
+height: 13px;
+border-radius: 3px;
+display: inline-block;
+position: relative;
+cursor: not-allowed; /* Mostra che il checkbox è disabilitato */
+margin: 0 auto; /* Centra il checkbox */
+}
+
+/* Checkbox stato "1" (verde con spunta) */
+input[type="checkbox"][disabled]:checked {
+background-color: #28a745;
+border: 2px solid #28a745;
+position: relative; /* Assicurati che il contenuto del checkbox si posizioni correttamente */
+}
+
+input[type="checkbox"][disabled]:checked::after {
+content: "✓";
+color: white;
+font-size: 12px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+/* Checkbox stato diverso da "1" e "2" (rosso con X) */
+input[type="checkbox"][disabled]:not(:checked):not(
+.yellow-row input[type="checkbox"][disabled]
+) {
+background-color: #dc3545;
+border: 2px solid #dc3545;
+position: relative; /* Assicurati che il contenuto del checkbox si posizioni correttamente */
+}
+
+input[type="checkbox"][disabled]:not(:checked):not(
+.yellow-row input[type="checkbox"][disabled]
+)::after {
+content: "✕";
+color: white;
+font-size: 12px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+/* Stile per checkbox "Non oggetto di verifica" con trattino giallo */
+.yellow-checkbox {
+background-color: #ffc107; /* Giallo */
+border: 2px solid #ffc107;
+position: relative; /* Assicurati che il contenuto del checkbox si posizioni correttamente */
+}
+
+.yellow-checkbox::after {
+content: "-"; /* Trattino bianco */
+color: white;
+font-size: 16px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%); /* Centra il trattino */
+}
+
+/* Grafico a torta */
+#VerificheGeneraliGraficoATorta {
+max-width: 25%; /* Limita la larghezza massima al 70% del contenitore */
+width: 25%; /* Imposta la larghezza al 70% del contenitore */
+margin: 0 auto; /* Centra il grafico */
+display: block; /* Visualizzazione in blocco */
+}

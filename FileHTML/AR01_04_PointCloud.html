@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Nome del sito -->
+		<title>Point Cloud</title>
+		<!-- Icona del sito -->
+		<link rel="shortcut icon" href="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" type="image/x-icon">
+		<!-- CSS -->
+		<link rel="stylesheet"href="AR01_00_styles.css">
+		<link rel="stylesheet"href="AR01_04_PointCloud.css">
+		<!-- Font Google -->
+		<link href="//fonts.googleapis.com/css?family=Roboto:400%2C700&display=swap" rel="stylesheet">
+		<!-- Javascript -->
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+		<script src="styles.js" defer></script>
+		<script src="AR01_04_PointCloud.js" defer></script>
+	</head>
+	<!-- Corpo del sito -->
+	<body>
+		<header>
+			<div class="Logo">
+				<a href="https://2dto6d.com/" target="_blank">
+					<img src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-completo-2dto6d-piccolo.png" alt="Logo">
+				</a>
+			</div>
+		</header>
+		<nav class="Menu">
+			<!-- Hamburger Menu -->
+			<button class="hamburger" onclick="toggleMenu()">☰</button>
+			<div class="menu-content" id="menuContent">
+                <button><a href="AR01_00_index.html">Home</a></button>
+				<button><a href="AR01_01_PGIEAllegati.html">pGI e Allegati</a></button>
+				<button><a href="AR01_02_ElaboratiProgettuali.html">Elaborati Progettuali</a></button>
+				<button><a href="AR01_03_ClashDetection.html">Clash Detection</a></button>
+				<button><a href="AR01_05_ACDat.html">ACDat</a></button>
+				<button><a href="AR01_06_CollegamentiModelloNativo.html">Collegamenti Modello Nativo</a></button>
+				<button><a href="AR01_07_GeoreferenziazioneEOrientamento.html">Georeferenziazione e Orientamento</a></button>
+				<button><a href="AR01_08_GriglieELivelli.html">Griglie e Livelli</a></button>
+				<button><a href="AR01_09_IntegritaEPuliziaFile.html">Integrità e Pulizia File</a></button>
+				<button><a href="AR01_10_VerificaInformativa.html">Verifica Informativa</a></button>
+				<button><a href="AR01_11_VerificaLOINGeometrico.html">Verifica LOIN Geometrico</a></button>
+				<button><a href="AR01_12_NamingConvention.html">Naming Convention</a></button>
+				<button><a href="AR01_13_RegoleModellazione.html">Regole Modellazione</a></button>
+				<button><a href="AR01_14_SpecificheImpianti.html">Specifiche Impianti</a></button>
+				<button><a href="AR01_15_UnitaDiMisura.html">Unità di misura</a></button>
+			</div>
+		</nav>
+		<main class="Contenitore">
+			<div class="TabellaRiepilogo">
+				<div class="Titolo">
+					<h2>Point Cloud</h2>
+					<p class="Descrizione">Verifica coerenza tra modelli e Nuvola di punti</p>
+				</div>
+				<br>
+                <table id="PointCloud" class="PointCloud">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+			</div>
+            <br>
+            <div class="Tabella">
+				<h3>Verifica 1</h3>
+				<p class="Descrizione">Verifica della coerenza tra Modelli di rilievo e Nuvola di punti</p>
+				<br>
+			</div>
+		</main>
+		<footer id="footer" class="footer">
+			<div class="Vuoto"></div>
+			<div class="footer-logo">
+				<img class="LogoFooter" src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" alt="LogoFooter">
+				<p class="FooterBianco">2Dto6D di Neri Lorenzetto Bologna</p>
+			</div>
+			<div class="footer-content">
+				<div class="contact-referent">
+					<h3>Contatti</h3>
+					<ul>
+						<li>E-mail: info@2dto6d.com</li>
+						<li>PEC: 2dto6dsrls@twtcert.it</li>
+						<li>Partita IVA: 07133360482</li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer-content">
+				<div class="contact-referent">
+					<h3>Referenti</h3>
+					<ul>
+						<li>Sante Vagnozzi</li>
+						<li>Vittoria Bressan</li>
+						<li>Dario Sgolacchia</li>
+					</ul>
+				</div>
+			</div>
+			<div class="Vuoto"></div>
+			<div class="footer-bottom">
+				<p class="FooterBianco"><strong>Per qualsiasi dubbio, vi chiediamo gentilmente di contattarci a: adbverifiche@2dto6d.com</strong></p>
+				<br>
+				<br>
+				<small class="FooterBianco">&copy; 2025 Verifiche 2Dto6D. Tutti i diritti riservati.<br>
+					Il presente sito agisce esclusivamente come visualizzatore, con l'obiettivo di analizzare i modelli e i documenti realizzati dagli esecutori.<br>
+					Tutti i dati sono trattati nel rispetto della privacy e delle normative vigenti, garantendo la protezione delle informazioni in conformità alla legislazione applicabile.<br>
+				</small>
+			</div>
+		</footer>
+	<button class="scroll-top" onclick="scrollToTop()">&#8679;</button>
+	</body>
+	</html>
