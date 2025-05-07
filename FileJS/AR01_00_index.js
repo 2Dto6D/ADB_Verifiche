@@ -154,7 +154,6 @@ async function loadCSVIndex(repo, filePath, tableId) {
     }
 }
 
-
 function loadPieChartCSV(config) {
     const csvUrl = githubRawURL(config.repo, config.filePath);
     
