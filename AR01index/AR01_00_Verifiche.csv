@@ -1,16 +1,16 @@
 Raggruppamento,Descrizione,Percentuale,Stato
-pGI e Allegati,Verifica tramite note e commenti del pGI e suoi allegati.,-,2
-Elaborati Progettuali,Verifica della congruenza dei modelli informativi rispetto agli elaborati 2D costituenti il pacchetto progettuale.,-,2
-Clash Detection,Verifica delle interferenze geometriche dei modelli (LC1 e LC2).,-,2
-Point Cloud,Controllo coerenza tra modelli e Nuvola di punti,-,2
-ACDat,Controlli relativi all'ambiente ACDat.,69%,0
-Collegamenti Modello Nativo,"Controlli relativi a collegamenti quali modelli NATIVO elaborati DWG elaborati PDF ecc.",-,2
-Georeferenziazione e Orientamento,Controlli relativi al sistema di coordinate adottato e al coordinamento e posizionamento geografico dei modelli informativi tra loro.,100%,1
-Griglie e Livelli,Controlli relativi al numero posizionamento e utilizzo di griglie e livelli.,43%,0
-Integrità e Pulizia File,Controlli relativi all'integrità e pulizia del file consegnato.,48%,0
-Verifica Informativa,Controlli relativi al contenuto informativo strutturato.,96%,1
-Verifica LOIN Geometrico,Verifica a campione dell'adeguatezza del LOIN geometrico nei modelli informativi,-,2
-Naming Convention,Controlli relativi alla nomenclatura di file oggetti elementi e parametri.,-,0
-Regole Modellazione,Controlli relativi alle modalità di modellazione.,-,0
-Specifiche Impianti,Controlli relativi alle modalità di modellazione MEP.,-,2
-Unità di misura,Controlli relativi all'impostazione dell'unità di misura.,100%,1
+pGI e Allegati,"Verifica tramite note e commenti, del pGI e suoi allegati.",-,2
+Elaborati Progettuali,"Verifica della congruenza dei modelli informativi rispetto agli elaborati 2D costituenti il pacchetto progettuale.",-,2
+Clash Detection,"Verifica delle interferenze geometriche dei modelli (LC1 e LC2).",-,2
+Point Cloud,"Controllo coerenza tra modelli e Nuvola di punti.",-,2
+ACDat,"Controlli relativi all'ambiente ACDat.",69%,0
+Collegamenti Modello Nativo,"Controlli relativi a collegamenti quali modelli NATIVO, elaborati DWG, elaborati PDF, ecc.",-,2
+Georeferenziazione e Orientamento,"Controlli relativi al sistema di coordinate adottato e al coordinamento e posizionamento geografico dei modelli informativi tra loro.",100%,1
+Griglie e Livelli,"Controlli relativi al numero, posizionamento e utilizzo di griglie e livelli.",43%,0
+Integrità e Pulizia File,"Controlli relativi all'integrità e pulizia del file consegnato.",48%,0
+Verifica Informativa,"Controlli relativi al contenuto informativo strutturato.",96%,1
+Verifica LOIN Geometrico,"Verifica a campione dell'adeguatezza del LOIN geometrico nei modelli informativi.",-,2
+Naming Convention,"Controlli relativi alla nomenclatura di file, oggetti, elementi e parametri.",10%,0
+Regole Modellazione,"Controlli relativi alle modalità di modellazione.",80%,0
+Specifiche Impianti,"Controlli relativi alle modalità di modellazione MEP.",-,2
+Unità di misura,"Controlli relativi all'impostazione dell'unità di misura.",100%,1A
