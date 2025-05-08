@@ -1,385 +1,385 @@
-Categoria,Id Elemento,Livello Base,Livello Superiore,Offset,Verifica,Stato
-Muri,693185,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,693756,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,693846,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,693918,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,694014,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,697286,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,697441,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,697483,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,697516,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,697707,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,697784,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,697830,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,697923,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,697989,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,698040,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,698093,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,698142,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,698257,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,698316,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,698412,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,698594,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,698755,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,698896,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,698982,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,699170,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,699204,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,699259,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,699313,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,699383,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,699443,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,699494,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,699540,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,699817,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,699961,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,700023,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,700083,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,700161,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,700244,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,700329,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,700410,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,700583,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,700754,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,700809,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,700870,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,700948,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,700987,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,701052,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,701094,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,701161,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,701224,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,701344,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,701464,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,722885,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,723166,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,723254,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,723933,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,724028,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,724029,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,724094,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,724158,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,724221,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,724305,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725018,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725019,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725020,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725021,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725022,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725023,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725024,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725025,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725026,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725027,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725028,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725029,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725030,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725031,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725032,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725033,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725034,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725035,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725036,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725037,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725038,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725039,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725040,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725041,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725042,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725043,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725044,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725045,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725046,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725047,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725048,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725049,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725050,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725051,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725052,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725053,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725054,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725056,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725057,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725058,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725059,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,725060,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725061,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725062,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725063,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725064,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725065,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725066,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725067,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725077,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725078,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725082,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725083,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725086,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725088,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,725089,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,726026,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,727502,ST_LIV_PE_P01_+5.08m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.2000000000000002,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,728395,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,728455,ST_LIV_PE_P01_+5.08m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.1000000000000001,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,728503,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,728784,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.81000000000000005,Elemento non vincolato correttamente tra livelli.,0
-Muri,741894,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,742771,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,743469,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.96899999999999997,Elemento non vincolato correttamente tra livelli.,0
-Muri,743550,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.96899999999999997,Elemento non vincolato correttamente tra livelli.,0
-Muri,744019,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.81000000000000005,Elemento non vincolato correttamente tra livelli.,0
-Muri,744155,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,744495,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744532,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744554,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744580,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744909,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744910,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744911,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744912,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744945,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744946,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744947,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,744948,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,745127,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,745128,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,745129,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,745130,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-2.5,Elemento vincolato correttamente tra livelli.,1
-Muri,745708,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.96899999999999997,Elemento non vincolato correttamente tra livelli.,0
-Muri,746167,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-1.9199999999999999,Elemento non vincolato correttamente tra livelli.,0
-Muri,746537,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.81000000000000005,Elemento non vincolato correttamente tra livelli.,0
-Muri,748566,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,748629,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,748883,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,748931,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,748998,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,749303,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,749485,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,749544,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,749703,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,749757,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,749844,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,749914,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,749938,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,749979,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,750053,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,750151,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,750198,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,750264,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,750413,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,750442,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,750500,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,750972,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,751057,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,751099,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,751152,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,751239,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,751293,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,751342,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,751514,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,751563,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,751611,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,751661,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,752436,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,752499,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,752749,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753068,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,753069,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753070,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753072,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753075,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753171,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753231,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753289,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753327,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753425,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753647,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753828,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753852,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753888,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753995,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753996,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753997,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,753998,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,754085,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,754106,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,754198,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,754311,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,754465,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,754466,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,754467,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,754468,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,801501,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,801519,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,801548,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,801658,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,832950,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,833006,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,833073,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,833105,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,833155,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,833222,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,833281,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,833360,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,833390,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,833471,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,833631,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,833672,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,833736,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,833801,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,833832,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,834048,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,834049,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,834125,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,834126,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,834127,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,834128,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,834186,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,834297,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,834728,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,835205,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,835294,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.44,Elemento vincolato correttamente tra livelli.,1
-Muri,835559,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.44,Elemento vincolato correttamente tra livelli.,1
-Muri,836073,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,836104,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,836204,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,836265,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,836340,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,836381,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,836422,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,836423,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,836424,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,836425,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,836444,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,836445,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,836446,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,836447,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,836928,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.83199999999999996,Elemento vincolato correttamente tra livelli.,1
-Muri,837010,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,837080,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,837161,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,837197,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,837271,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,837515,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,837789,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.6000000000000001,Elemento non vincolato correttamente tra livelli.,0
-Muri,838590,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,838837,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,838856,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,838899,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,839062,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,839105,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,839243,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,839329,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,839349,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,839373,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,839426,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,840113,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-1.2,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,861984,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,862041,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,862184,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,862393,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,862492,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,947788,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,947905,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,947906,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,947907,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,947908,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,947923,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,947924,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,947925,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,947926,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,948459,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,948564,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,948901,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,948902,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,948903,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,949172,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,949303,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,949404,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,949886,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,949887,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,949888,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,949889,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950063,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950151,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,950152,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950153,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950154,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950245,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950551,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,950552,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950553,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950554,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950619,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950645,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950701,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,950702,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950703,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950704,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,950740,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,972533,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,972655,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,973550,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
-Muri,973608,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-1.6100000000000001,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,973662,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,979250,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1000139,ST_LIV_PE_P00_-0.48m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.78000000000000003,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1002776,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1006101,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1006348,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
-Muri,1006349,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1006350,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1006351,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1007432,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1008403,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,1008676,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,1014007,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1014907,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1018589,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1018771,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1019629,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,1027899,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1030083,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1032522,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1043501,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1043580,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1044057,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1044136,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1071045,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1071124,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1071662,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1071831,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1071994,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1072178,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1072295,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1072755,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1083761,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1087648,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.0699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1088015,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1088016,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,Elemento senza vincolo superiore.,0
-Muri,1088213,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1088418,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.0699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1093977,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.96899999999999997,Elemento non vincolato correttamente tra livelli.,0
-Muri,1095107,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1095184,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1095689,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1095763,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1096373,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1096425,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,1096474,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,1096518,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,1096560,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,1096591,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_P02_+10.28m,1.4099999999999999,Elemento vincolato correttamente tra livelli.,1
-Muri,1098798,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-1.2989999999999999,Elemento non vincolato correttamente tra livelli.,0
-Muri,1100269,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_P02_+10.28m,1.4099999999999999,Elemento vincolato correttamente tra livelli.,1
-Muri,1100781,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,1101146,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,1102140,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
-Muri,1141065,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1141360,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1142795,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-2.2759999999999998,Elemento non vincolato correttamente tra livelli.,0
-Muri,1143629,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-2.2759999999999998,Elemento non vincolato correttamente tra livelli.,0
-Muri,1151173,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1151407,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.78000000000000003,Elemento vincolato tra livelli di discipline diverse.,0
-Muri,1155573,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-3.6000000000000001,Elemento non vincolato correttamente tra livelli.,0
-Muri,1190432,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Categoria,Id Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Muri,693185,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,693756,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,693846,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,693918,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,694014,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,697286,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,697441,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,697483,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,697516,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,697707,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,697784,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,697830,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,697923,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,697989,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,698040,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,698093,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,698142,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,698257,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,698316,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,698412,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,698594,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,698755,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,698896,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,698982,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,699170,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,699204,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,699259,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,699313,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,699383,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,699443,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,699494,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,699540,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,699817,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,699961,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,700023,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,700083,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,700161,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,700244,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,700329,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,700410,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,700583,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,700754,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,700809,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,700870,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,700948,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,700987,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,701052,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,701094,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,701161,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,701224,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,701344,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,701464,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,722885,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,723166,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,723254,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,723933,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,724028,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,724029,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,724094,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,724158,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,724221,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,724305,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725018,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725019,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725020,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725021,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725022,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725023,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725024,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725025,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725026,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725027,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725028,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725029,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725030,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725031,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725032,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725033,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725034,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725035,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725036,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725037,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725038,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725039,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725040,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725041,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725042,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725043,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725044,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725045,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725046,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725047,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725048,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725049,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725050,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725051,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725052,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725053,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725054,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725056,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725057,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725058,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725059,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725060,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725061,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725062,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725063,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725064,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725065,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725066,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725067,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725077,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725078,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725082,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725083,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725086,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725088,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,725089,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,726026,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,727502,ST_LIV_PE_P01_+5.08m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.2000000000000002,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,728395,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,728455,ST_LIV_PE_P01_+5.08m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.1000000000000001,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,728503,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,728784,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-0.81000000000000005,Elemento non vincolato correttamente tra livelli.,0
+Muri,741894,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,742771,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,743469,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-0.96899999999999997,Elemento non vincolato correttamente tra livelli.,0
+Muri,743550,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-0.96899999999999997,Elemento non vincolato correttamente tra livelli.,0
+Muri,744019,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-0.81000000000000005,Elemento non vincolato correttamente tra livelli.,0
+Muri,744155,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,744495,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744532,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744554,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744580,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744909,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744910,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744911,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744912,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744945,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744946,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744947,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,744948,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,745127,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,745128,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,745129,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,745130,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Elemento vincolato correttamente tra livelli.,1
+Muri,745708,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-0.96899999999999997,Elemento non vincolato correttamente tra livelli.,0
+Muri,746167,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-1.9199999999999999,Elemento non vincolato correttamente tra livelli.,0
+Muri,746537,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-0.81000000000000005,Elemento non vincolato correttamente tra livelli.,0
+Muri,748566,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,748629,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,748883,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,748931,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,748998,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,749303,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,749485,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,749544,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,749703,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,749757,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,749844,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,749914,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,749938,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,749979,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,750053,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,750151,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,750198,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,750264,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,750413,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,750442,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,750500,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,750972,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,751057,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,751099,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,751152,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,751239,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,751293,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,751342,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,751514,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,751563,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,751611,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,751661,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,752436,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,752499,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,752749,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753068,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,753069,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753070,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753072,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753075,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753171,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753231,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753289,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753327,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753425,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753647,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753828,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753852,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753888,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753995,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753996,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753997,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,753998,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,754085,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,754106,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,754198,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,754311,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,754465,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,754466,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,754467,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,754468,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,801501,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,801519,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,801548,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,801658,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,832950,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,833006,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,833073,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,833105,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,833155,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,833222,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,833281,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,833360,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,833390,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,833471,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,833631,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,833672,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,833736,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,833801,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,833832,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,834048,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,834049,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,834125,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,834126,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,834127,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,834128,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,834186,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,834297,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,834728,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,835205,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,835294,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.44,Elemento vincolato correttamente tra livelli.,1
+Muri,835559,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.44,Elemento vincolato correttamente tra livelli.,1
+Muri,836073,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,836104,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,836204,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,836265,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,836340,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,836381,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,836422,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,836423,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,836424,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,836425,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,836444,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,836445,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,836446,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,836447,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,836928,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.83199999999999996,Elemento vincolato correttamente tra livelli.,1
+Muri,837010,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,837080,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,837161,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,837197,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,837271,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,837515,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,837789,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-3.6000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,838590,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,838837,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,838856,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,838899,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,839062,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,839105,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,839243,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,839329,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,839349,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,839373,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,839426,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,840113,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-1.2,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,861984,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,862041,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,862184,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,862393,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,862492,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,947788,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,947905,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,947906,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,947907,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,947908,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,947923,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,947924,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,947925,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,947926,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,948459,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,948564,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,948901,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,948902,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,948903,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,949172,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,949303,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,949404,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,949886,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,949887,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,949888,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,949889,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950063,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950151,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,950152,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950153,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950154,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950245,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950551,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,950552,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950553,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950554,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950619,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950645,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950701,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,950702,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950703,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950704,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,950740,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,972533,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,972655,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,973550,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato correttamente tra livelli.,1
+Muri,973608,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-1.6100000000000001,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,973662,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,979250,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1000139,ST_LIV_PE_P00_-0.48m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.78000000000000003,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1002776,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,3.6000000000000001,-0.78000000000000003,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1006101,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1006348,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,1006349,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1006350,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1006351,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1007432,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,2.7999999999999998,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1008403,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1008676,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1014007,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1014907,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1018589,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1018771,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1019629,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1027899,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1030083,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1032522,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1043501,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1043580,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1044057,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1044136,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1071045,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1071124,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1071662,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1071831,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1071994,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1072178,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1072295,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1072755,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1083761,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,0.0,Elemento senza vincolo superiore.,0
+Muri,1087648,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.0699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1088015,AR_LIV_PE_P01_+5.20m,Non collegata,4.3499999999999996,0.0,Elemento senza vincolo superiore.,0
+Muri,1088016,AR_LIV_PE_P01_+5.20m,Non collegata,4.3499999999999996,0.0,Elemento senza vincolo superiore.,0
+Muri,1088213,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,2.7999999999999998,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1088418,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.0699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1093977,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-0.96899999999999997,Elemento non vincolato correttamente tra livelli.,0
+Muri,1095107,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1095184,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1095689,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1095763,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1096373,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1096425,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.0,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1096474,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.0,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1096518,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.0,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1096560,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.0,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1096591,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,1.4099999999999999,Elemento vincolato correttamente tra livelli.,1
+Muri,1098798,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.0,-1.2989999999999999,Elemento non vincolato correttamente tra livelli.,0
+Muri,1100269,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,1.4099999999999999,Elemento vincolato correttamente tra livelli.,1
+Muri,1100781,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.0,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1101146,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.0,-4.5300000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1102140,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1141065,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1141360,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1142795,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,3.7000000000000002,-2.2759999999999998,Elemento non vincolato correttamente tra livelli.,0
+Muri,1143629,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,3.7000000000000002,-2.2759999999999998,Elemento non vincolato correttamente tra livelli.,0
+Muri,1151173,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.78000000000000003,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1151407,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,3.6000000000000001,-0.78000000000000003,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1155573,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.0,-3.6000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1190432,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
