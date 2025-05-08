@@ -1,0 +1,1169 @@
+Categoria,Famiglia,Id Elemento,Stato
+Dispositivi di sicurezza,E_AI_Centrale,932844,1
+Dispositivi di sicurezza,E_AI_Contatto magnetico,932845,1
+Dispositivi di sicurezza,E_CA_Centrale,932846,1
+Dispositivi di sicurezza,E_CA_Badge,932847,1
+Dispositivi chiamata infermiera,E_CH_Pulsante,932848,1
+Dispositivi chiamata infermiera,E_CH_Pulsante,932849,1
+Dispositivi di comunicazione,E_CIT_Videocitofono interno,932851,1
+Dispositivi di comunicazione,E_CIT_Videocitofono esterno,932852,1
+Raccordi passerella,E_FM_Setto REI,932854,1
+Apparecchi elettrici,E_DP_Pozzetto con Picchetto di Terra,932858,1
+Dispositivi di comunicazione,E_OR_Orologio Digitale Monofacciale - Bifacciale,932862,1
+Apparecchi elettrici,E_OR_Orologio Monofacciale - Bifacciale,932863,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,932865,1
+Dispositivi allarme incendio,E_RI_Rivelatori,932866,1
+Attrezzatura elettrica,E_TD_Rack Dati,932868,1
+Apparecchi elettrici,E_TV_Prese incasso,932870,1
+Dispositivi di sicurezza,E_TVCC_Postazione PC,932871,1
+Dispositivi di sicurezza,E_TVCC_Telecamera Dome,932873,1
+Dispositivi di comunicazione,SGS_EC_Erogatore ticket numeri progressivi,932874,1
+Dispositivi di comunicazione,SGS_EC_Display eliminacode sportello,932875,1
+Apparecchi elettrici,E_Asta di captazione,932876,1
+Apparecchi elettrici,E_Punto di giunzione a Croce,932877,1
+Attrezzatura elettrica,E_DS_Rack,932878,1
+Dispositivi di sicurezza,E_AI_Centrale,932884,1
+Dispositivi di sicurezza,E_CA_Centrale,932885,1
+Dispositivi chiamata infermiera,E_CH_Pulsante,932886,1
+Dispositivi di comunicazione,E_CIT_Videocitofono esterno,932887,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,932888,1
+Apparecchi elettrici,E_FM_Prese ad incasso,932890,1
+Apparecchi elettrici,E_FM_Prese ad incasso,932891,1
+Apparecchi elettrici,E_FM_Prese ad incasso,932892,1
+Apparecchi elettrici,E_DP_Pozzetto con Picchetto di Terra,932893,1
+Dispositivi chiamata infermiera,E_CI_Stazione interfonica,932894,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,932896,1
+Apparecchi per illuminazione,E_LU_600x600 Darklight,932897,1
+Apparecchi per illuminazione,E_LU_Lampada di emergenza,932899,1
+Apparecchi elettrici,E_OR_Orologio Monofacciale - Bifacciale,932901,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,932903,1
+Dispositivi allarme incendio,E_RI_Rivelatori,932904,1
+Dispositivi dati,E_TD_Prese incasso,932906,1
+Attrezzatura elettrica,E_TD_Rack Dati,932907,1
+Apparecchi elettrici,E_TV_Prese incasso,932908,1
+Dispositivi di sicurezza,E_TVCC_Telecamera Dome,932909,1
+Dispositivi di comunicazione,SGS_EC_Display eliminacode sportello,932911,1
+Apparecchi elettrici,E_Asta di captazione,932912,1
+Dispositivi chiamata infermiera,E_CI_Modulo di chiamata-annullo-tirante,932913,1
+Raccordi passerella,E_FM_Setto REI,932915,1
+Attrezzatura elettrica,E_DS_Rack,932919,1
+Apparecchi elettrici,E_FM_Centralino da parete_Sgancio VVF,932920,1
+Apparecchi elettrici,E_FM_Centralino da parete_Sgancio VVF,932922,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933369,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933370,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933371,1
+Apparecchi elettrici,E_FV_Sistema di accumulo da parete,933373,1
+Apparecchi elettrici,E_FV_Inverter da parete,933375,1
+Attrezzatura elettrica,E_Pannello_fotovoltaico,933376,1
+Raccordi tubo protettivo,SGS_CF_Tee,933423,1
+Raccordi tubo protettivo,SGS_CF_Coupling,933425,1
+Raccordi tubo protettivo,SGS_CF_Tee,933427,1
+Raccordi tubo protettivo,SGS_CF_Coupling,933429,1
+Raccordi passerella,SGS_TF_Accessories_FireRatedMaterial,933451,1
+Raccordi passerella,SGS_TF_Accessories_Plasterboard_REI_Horizontal,933452,1
+Raccordi passerella,SGS_TF_Accessories_Plasterboard_REI_Vertical,933453,1
+Raccordi passerella,SGS_TF_Accessories_SeismicJoint,933454,1
+Raccordi passerella,SGS_TF_Drowned_Bend_Horizontal,933455,1
+Raccordi passerella,SGS_TF_Drowned_Bend_Vertical Inside,933456,1
+Raccordi passerella,SGS_TF_Drowned_Bend_Vertical Outside,933457,1
+Raccordi passerella,SGS_TF_Drowned_CounterFloorJunction(Bocchettone),933458,1
+Raccordi passerella,SGS_TF_Drowned_TransitionBox_1x4,933459,1
+Raccordi passerella,SGS_TF_Drowned_TransitionBox_3x4,933460,1
+Raccordi passerella,SGS_TF_Ladder_Bend_Horizontal,933461,1
+Raccordi passerella,SGS_TF_Ladder_Cross_Horizontal,933462,1
+Raccordi passerella,SGS_TF_Ladder_Reducer_Horizontal,933463,1
+Raccordi passerella,SGS_TF_Ladder_Tee_Horizontal,933464,1
+Raccordi passerella,SGS_TF_Ladder_Union_Horizontal,933465,1
+Raccordi passerella,SGS_TF_Perforated_Bend_Horizontal,933466,1
+Raccordi passerella,SGS_TF_Perforated_Bend_Horizontal_FreeRadius,933467,1
+Raccordi passerella,SGS_TF_Perforated_Bend_Vertical Inside,933468,1
+Raccordi passerella,SGS_TF_Perforated_Bend_Vertical Inside_FreeRadius,933469,1
+Raccordi passerella,SGS_TF_Perforated_Bend_Vertical Outside,933470,1
+Raccordi passerella,SGS_TF_Perforated_Bend_Vertical Outside_FreeRadius,933471,1
+Raccordi passerella,SGS_TF_Perforated_Cross_Horizontal,933472,1
+Raccordi passerella,SGS_TF_Perforated_Reducer_Horizontal,933473,1
+Raccordi passerella,SGS_TF_Perforated_Tee_Horizontal,933474,1
+Raccordi passerella,SGS_TF_Perforated_Union_Horizontal,933475,1
+Raccordi passerella,SGS_TF_Solid_Bend_Horizontal,933476,1
+Raccordi passerella,SGS_TF_Solid_Bend_Horizontal_FreeRadius,933477,1
+Raccordi passerella,SGS_TF_Solid_Bend_Vertical Inside,933478,1
+Raccordi passerella,SGS_TF_Solid_Bend_Vertical Inside_FreeRadius,933479,1
+Raccordi passerella,SGS_TF_Solid_Bend_Vertical Outside,933480,1
+Raccordi passerella,SGS_TF_Solid_Bend_Vertical Outside_FreeRadius,933481,1
+Raccordi passerella,SGS_TF_Solid_Cross_Horizontal,933482,1
+Raccordi passerella,SGS_TF_Solid_Reducer_Horizontal,933483,1
+Raccordi passerella,SGS_TF_Solid_Tee_Horizontal,933484,1
+Raccordi passerella,SGS_TF_Solid_Union_Horizontal,933485,1
+Raccordi passerella,SGS_TF_Rectangular_Bend_Horizontal,933560,1
+Raccordi passerella,SGS_TF_Rectangular_Bend_Vertical Inside,933561,1
+Raccordi passerella,SGS_TF_Rectangular_Bend_Vertical Outside,933562,1
+Raccordi passerella,SGS_TF_Rectangular_CounterFloorJunction(Bocchettone),933563,1
+Raccordi passerella,SGS_TF_Rectangular_TransitionBox_1x4,933564,1
+Raccordi passerella,SGS_TF_Rectangular_TransitionBox_3x4,933565,1
+Dispositivi di sicurezza,E_AI_Combinatore telefonico,933572,1
+Dispositivi di sicurezza,E_AI_Alimentatore,933573,1
+Dispositivi di sicurezza,E_AI_Modulo concentratore,933574,1
+Dispositivi di sicurezza,E_AI_Tastierino numerico,933575,1
+Dispositivi di sicurezza,E_AI_Volumetrico,933576,1
+Dispositivi di sicurezza,E_CA_Modulo gestione varco,933581,1
+Dispositivi di sicurezza,E_CA_Serratura elettrica,933584,1
+Dispositivi di sicurezza,E_CA_Sirena,933585,1
+Dispositivi di sicurezza,E_CA_Contatto magnetico,933586,1
+Dispositivi di sicurezza,E_CA_Pulsante Apriporta,933587,1
+Dispositivi di sicurezza,E_AI_Sirena da esterno,933588,1
+Dispositivi di sicurezza,E_TVCC_Telecamera da esterno,933590,1
+Dispositivi di sicurezza,E_TVCC_Telecamera Dome,933591,1
+Dispositivi dati,E_TD_Antenna Wi-Fi,933592,1
+Dispositivi dati,E_TD_Presa a vista IP55_ su scatola doppia,933593,1
+Dispositivi dati,E_TD_Presa a vista IP55_ su scatola singola,933594,1
+Dispositivi dati,E_TD_Prese a vista,933595,1
+Dispositivi dati,E_TD_Prese a vista,933596,1
+Dispositivi dati,E_TD_Prese a vista,933597,1
+Dispositivi dati,E_TD_Prese a vista,933603,1
+Dispositivi dati,E_TD_Prese a vista,933604,1
+Dispositivi dati,E_TD_Prese a vista,933605,1
+Dispositivi dati,E_TD_Prese a vista IP55,933610,1
+Dispositivi dati,E_TD_Prese a vista IP55,933611,1
+Dispositivi dati,E_TD_Prese a vista IP55,933612,1
+Dispositivi dati,E_TD_Prese ad incasso 504,933613,1
+Dispositivi dati,E_TD_Prese incasso,933614,1
+Dispositivi dati,E_TD_Prese incasso,933615,1
+Dispositivi dati,E_TD_Prese incasso,933616,1
+Dispositivi dati,E_TD_Prese incasso IP55,933620,1
+Dispositivi dati,E_TD_Prese incasso IP55,933621,1
+Dispositivi dati,E_TD_Prese incasso IP55,933622,1
+Attrezzatura elettrica,E_FM_Centralino da parete,933640,1
+Apparecchi elettrici,E_FM_Centralino da parete_Sgancio VVF,933641,1
+Apparecchi elettrici,E_FM_Comando sali-scendi,933642,1
+Apparecchi elettrici,E_FM_Comando sali-scendi,933643,1
+Apparecchi elettrici,E_FM_Comando sali-scendi,933644,1
+Apparecchi elettrici,E_FM_Comando sali-scendi_IP55,933645,1
+Apparecchi elettrici,E_FM_Comando sali-scendi_IP55,933646,1
+Apparecchi elettrici,E_FM_Comando sali-scendi_IP55,933647,1
+Apparecchi elettrici,E_FM_Contatore Enel,933648,1
+Apparecchi elettrici,E_FM_Modulo con chiave,933649,1
+Apparecchi elettrici,E_FM_Nodo equipotenziale,933650,1
+Apparecchi elettrici,E_FM_Nodo equipotenziale,933651,1
+Apparecchi elettrici,E_FM_Pannello controllo isolamento,933652,1
+Apparecchi elettrici,E_FM_Postazione di Lavoro,933653,1
+Apparecchi elettrici,E_FM_Postazione di Lavoro,933654,1
+Apparecchi elettrici,E_FM_Postazione di Servizio,933655,1
+Apparecchi elettrici,E_FM_Postazione di Servizio,933656,1
+Apparecchi elettrici,E_FM_Presa interblocca da esterno con scatola di derivazione o centralino,933657,1
+Apparecchi elettrici,E_FM_Presa interblocca da esterno con scatola di derivazione o centralino,933658,1
+Apparecchi elettrici,E_FM_Presa interblocca da esterno con scatola di derivazione o centralino,933659,1
+Apparecchi elettrici,E_FM_Presa interblocca da esterno parete,933660,1
+Apparecchi elettrici,E_FM_Presa interblocca da esterno parete,933661,1
+Apparecchi elettrici,E_FM_Presa interblocca da esterno parete,933662,1
+Apparecchi elettrici,E_FM_Presa interblocca da incasso parete,933677,1
+Apparecchi elettrici,E_FM_Presa interblocca da incasso parete,933678,1
+Apparecchi elettrici,E_FM_Presa interblocca da incasso parete,933679,1
+Apparecchi elettrici,E_FM_Presa interbloccata con fusibile,933680,1
+Apparecchi elettrici,E_FM_Presa interbloccata con fusibile,933681,1
+Apparecchi elettrici,E_FM_Presa interbloccata con fusibile,933682,1
+Apparecchi elettrici,E_FM_Presa interbloccata doppia da esterno parete con scatola di derivazione o centralino,933683,1
+Apparecchi elettrici,E_FM_Presa interbloccata doppia da esterno parete con scatola di derivazione o centralino,933684,1
+Apparecchi elettrici,E_FM_Presa interbloccata doppia da esterno parete con scatola di derivazione o centralino,933685,1
+Apparecchi elettrici,E_FM_Presa interbloccata doppia da esterno parete con scatola di derivazione o centralino,933686,1
+Apparecchi elettrici,E_FM_Presa interbloccata doppia da esterno parete con scatola di derivazione o centralino,933687,1
+Apparecchi elettrici,E_FM_Presa interbloccata doppia da esterno parete con scatola di derivazione o centralino,933688,1
+Apparecchi elettrici,E_FM_Presa interbloccata doppia da esterno parete con scatola di derivazione o centralino,933701,1
+Apparecchi elettrici,E_FM_Presa interbloccata doppia da esterno parete con scatola di derivazione o centralino,933702,1
+Apparecchi elettrici,E_FM_Prese a vista,933703,1
+Apparecchi elettrici,E_FM_Prese a vista,933704,1
+Apparecchi elettrici,E_FM_Prese a vista,933705,1
+Apparecchi elettrici,E_FM_Prese a vista,933706,1
+Apparecchi elettrici,E_FM_Prese a vista,933707,1
+Apparecchi elettrici,E_FM_Prese a vista,933708,1
+Apparecchi elettrici,E_FM_Prese a vista,933709,1
+Apparecchi elettrici,E_FM_Prese a vista,933710,1
+Apparecchi elettrici,E_FM_Prese a vista,933711,1
+Apparecchi elettrici,E_FM_Prese a vista,933712,1
+Apparecchi elettrici,E_FM_Prese a vista,933713,1
+Apparecchi elettrici,E_FM_Prese a vista,933714,1
+Apparecchi elettrici,E_FM_Prese a vista,933721,1
+Apparecchi elettrici,E_FM_Prese a vista,933722,1
+Apparecchi elettrici,E_FM_Prese a vista,933723,1
+Apparecchi elettrici,E_FM_Prese a vista,933724,1
+Apparecchi elettrici,E_FM_Prese a vista,933725,1
+Apparecchi elettrici,E_FM_Prese a vista,933726,1
+Apparecchi elettrici,E_FM_Prese a vista 504,933791,1
+Apparecchi elettrici,E_FM_Prese a vista 504,933792,1
+Apparecchi elettrici,E_FM_Prese a vista 504,933793,1
+Apparecchi elettrici,E_FM_Prese a vista 504,933794,1
+Apparecchi elettrici,E_FM_Prese a vista 504,933795,1
+Apparecchi elettrici,E_FM_Prese a vista 504,933796,1
+Apparecchi elettrici,E_FM_Prese a vista 504,933797,1
+Apparecchi elettrici,E_FM_Prese a vista_IP55,933798,1
+Apparecchi elettrici,E_FM_Prese a vista_IP55,933799,1
+Apparecchi elettrici,E_FM_Prese a vista_IP55,933800,1
+Apparecchi elettrici,E_FM_Prese a vista_IP55,933801,1
+Apparecchi elettrici,E_FM_Prese a vista_IP55,933802,1
+Apparecchi elettrici,E_FM_Prese a vista_IP55,933803,1
+Apparecchi elettrici,E_FM_Prese a vista_IP55,933804,1
+Apparecchi elettrici,E_FM_Prese a vista_IP55,933805,1
+Apparecchi elettrici,E_FM_Prese a vista_IP55,933806,1
+Apparecchi elettrici,E_FM_Prese ad a vista 504_IP55,933807,1
+Apparecchi elettrici,E_FM_Prese ad a vista 504_IP55,933808,1
+Apparecchi elettrici,E_FM_Prese ad a vista 504_IP55,933809,1
+Apparecchi elettrici,E_FM_Prese ad a vista 504_IP55,933810,1
+Apparecchi elettrici,E_FM_Prese ad a vista 504_IP55,933811,1
+Apparecchi elettrici,E_FM_Prese ad a vista 504_IP55,933812,1
+Apparecchi elettrici,E_FM_Prese ad a vista 504_IP55,933813,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933814,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933815,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933816,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933817,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933818,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933819,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933820,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933821,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933822,1
+Apparecchi elettrici,E_FM_Prese ad incasso,933823,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504,933824,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504,933825,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504,933826,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504,933827,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504,933828,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504,933829,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504_IP55,933830,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504_IP55,933831,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504_IP55,933832,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504_IP55,933833,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504_IP55,933834,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504_IP55,933835,1
+Apparecchi elettrici,E_FM_Prese ad incasso 504_IP55,933836,1
+Apparecchi elettrici,E_FM_Prese ad incasso 506,933837,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,933838,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,933839,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,933840,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,933841,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,933842,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,933843,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,933844,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,933845,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,933846,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,933847,1
+Apparecchi elettrici,E_FM_Prese ad incasso_su scatola singola,933869,1
+Apparecchi elettrici,E_FM_Prese ad incasso_su scatola singola,933870,1
+Apparecchi elettrici,E_FM_Prese ad incasso_su scatola singola,933871,1
+Apparecchi elettrici,E_FM_Prese ad incasso_su scatola singola,933872,1
+Apparecchi elettrici,E_FM_Pulsante porta motorizzata da incasso,933873,1
+Apparecchi elettrici,E_FM_Punto alimentazione a vista,933874,1
+Apparecchi elettrici,E_FM_Punto alimentazione a vista,933875,1
+Apparecchi elettrici,E_FM_Punto alimentazione a vista,933876,1
+Apparecchi elettrici,E_FM_Punto alimentazione incasso,933877,1
+Apparecchi elettrici,E_FM_Punto alimentazione incasso,933878,1
+Apparecchi elettrici,E_FM_Punto alimentazione incasso,933879,1
+Apparecchi elettrici,E_FM_Torretta a pavimento a vista 8-16 mod,933880,1
+Apparecchi elettrici,E_FM_Torretta a pavimento a vista 8-16 mod,933881,1
+Apparecchi elettrici,E_FM_Trave testaletto,933882,1
+Apparecchi elettrici,E_FV_Inverter da parete,933936,1
+Apparecchi elettrici,E_FV_Inverter da parete,933937,1
+Apparecchi elettrici,E_FV_Inverter da parete,933938,1
+Apparecchi elettrici,E_FV_Sistema di accumulo da parete,933939,1
+Apparecchi elettrici,E_TV_Prese a vista,933940,1
+Apparecchi elettrici,E_TV_Prese a vista IP55,933941,1
+Apparecchi elettrici,E_TV_Prese incasso,933942,1
+Attrezzatura elettrica,E_DP_Batterie,933943,1
+Attrezzatura elettrica,E_DP_Centrale ILL EM,933944,1
+Attrezzatura elettrica,E_DP_Contatore ENEL,933945,1
+Attrezzatura elettrica,E_DP_Contatore ENEL,933946,1
+Attrezzatura elettrica,E_DP_CPSS,933947,1
+Attrezzatura elettrica,E_DP_Piastra contatore ENEL,933948,1
+Attrezzatura elettrica,E_DP_Piastra contatore ENEL,933949,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,933950,1
+Attrezzatura elettrica,E_DP_Trasformatore,933951,1
+Attrezzatura elettrica,E_DP_UPS,933952,1
+Attrezzatura elettrica,E_FM_Connettore QE,933953,1
+Apparecchi elettrici,E_FM_Torretta a pavimento incassata,933954,1
+Attrezzatura elettrica,E_Pannello_fotovoltaico,933955,1
+Apparecchi elettrici,E_Asta di captazione,933956,1
+Dispositivi allarme incendio,E_RI_Alimentatore,933957,1
+Dispositivi allarme incendio,E_RI_Barriera lineare,933958,1
+Dispositivi allarme incendio,E_RI_Centralina aspirazione,933959,1
+Dispositivi allarme incendio,E_RI_Centralina aspirazione,933960,1
+Dispositivi allarme incendio,E_RI_Elettromagnete,933961,1
+Dispositivi allarme incendio,E_RI_Moduli In-Out,933968,1
+Dispositivi allarme incendio,E_RI_Moduli In-Out,933969,1
+Dispositivi allarme incendio,E_RI_Moduli In-Out,933970,1
+Dispositivi allarme incendio,E_RI_Moduli In-Out,933971,1
+Dispositivi allarme incendio,E_RI_Moduli In-Out,933972,1
+Dispositivi allarme incendio,E_RI_Pannello ottico-acustico_Sirene,933987,1
+Dispositivi allarme incendio,E_RI_Pannello ottico-acustico_Sirene,933988,1
+Dispositivi allarme incendio,E_RI_Pannello ottico-acustico_Sirene,933989,1
+Dispositivi allarme incendio,E_RI_Pannello ripetizione allarmi,933990,1
+Dispositivi allarme incendio,E_RI_Pulsante di Sgancio,933991,1
+Dispositivi allarme incendio,E_RI_Pulsante Manuale,933992,1
+Dispositivi allarme incendio,E_RI_Pulsante Manuale,933993,1
+Dispositivi allarme incendio,E_RI_Pulsante sblocco magnete,933994,1
+Dispositivi allarme incendio,E_RI_Ripetitore ottico,933995,1
+Dispositivi allarme incendio,E_RI_Ripetitore ottico,933996,1
+Dispositivi allarme incendio,E_RI_Rivelatore di Gas,933997,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934006,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934007,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934008,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934009,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934010,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934011,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934012,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934013,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934014,1
+Dispositivi allarme incendio,E_RI_Serranda taglia fuoco,934015,1
+Dispositivi allarme incendio,E_RI_Traslatore Wireless,934016,1
+Dispositivi di illuminazione,E_LU_ Sensore di presenza-luminosità_a soffitto,934024,1
+Dispositivi di illuminazione,E_LU_ Sensore di presenza-luminosità_a soffitto,934025,1
+Dispositivi di illuminazione,E_LU_ Sensore di presenza-luminosità_a soffitto,934026,1
+Dispositivi di illuminazione,E_LU_ Sensore di presenza-luminosità_a soffitto,934027,1
+Dispositivi di illuminazione,E_LU_Accoppiatore KNX,934028,1
+Dispositivi di illuminazione,E_LU_Alimentatore bus KNX,934029,1
+Dispositivi di illuminazione,E_LU_Centralino accensione luci,934030,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934031,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934032,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934033,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934034,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934035,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934036,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934037,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934068,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934069,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934070,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934071,1
+Dispositivi di illuminazione,E_LU_Comandi a vista,934072,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934073,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934074,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934075,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934076,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934077,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934078,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934079,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934080,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934081,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934082,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934083,1
+Dispositivi di illuminazione,E_LU_Comandi a vista IP55,934084,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934085,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934086,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934087,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934088,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934089,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934090,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934091,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934092,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934093,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934094,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934095,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,934096,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934116,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934117,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934118,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934119,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934120,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934121,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934122,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934123,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934124,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934125,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934126,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso IP55,934127,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso_scatola singola,934142,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso_scatola singola,934143,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso_scatola singola,934144,1
+Dispositivi di illuminazione,E_LU_Gateway,934145,1
+Dispositivi di illuminazione,E_LU_Gateway IP,934146,1
+Dispositivi di illuminazione,E_LU_Proiettore su palo,934147,1
+Dispositivi di illuminazione,E_LU_Proiettore su palo,934148,1
+Dispositivi di illuminazione,E_LU_Proiettore su palo,934170,1
+Dispositivi di illuminazione,E_LU_Proiettore su palo,934171,1
+Dispositivi di illuminazione,E_LU_Punto luce a parete,934172,1
+Dispositivi di illuminazione,E_LU_Sensore di presenza a parete,934173,1
+Dispositivi di illuminazione,E_LU_Sensore di presenza a parete,934174,1
+Dispositivi di illuminazione,E_LU_Webserver KNX,934175,1
+Apparecchi per illuminazione,E_LU_600x600 LED,934176,1
+Apparecchi per illuminazione,E_LU_600x600 Luce morbida,934177,1
+Apparecchi per illuminazione,E_LU_600x600 Metacrilato,934178,1
+Apparecchi per illuminazione,E_LU_ Faro ad anello decorativo,934179,1
+Apparecchi per illuminazione,E_LU_ Faro ad anello decorativo,934180,1
+Apparecchi per illuminazione,E_LU_ Faro ad anello decorativo,934181,1
+Apparecchi per illuminazione,E_LU_ Faro ad anello decorativo,934182,1
+Apparecchi per illuminazione,E_LU_ Faro rotondo decorativo,934211,1
+Apparecchi per illuminazione,E_LU_ Faro rotondo decorativo,934212,1
+Apparecchi per illuminazione,E_LU_ Faro rotondo decorativo,934213,1
+Apparecchi per illuminazione,E_LU_ LED Lineare,934214,1
+Apparecchi per illuminazione,E_LU_ LED Lineare Pendinata,934215,1
+Apparecchi per illuminazione,E_LU_ LED Lineare stagna,934216,1
+Apparecchi per illuminazione,E_LU_ LED Lineare stagna,934217,1
+Apparecchi per illuminazione,E_LU_ LED Lineare stagna,934218,1
+Apparecchi per illuminazione,E_LU_ LED Lineare_plafone,934219,1
+Apparecchi per illuminazione,E_LU_ Sospensione conica,934220,1
+Apparecchi per illuminazione,E_LU_ Sospensione decorativo,934221,1
+Apparecchi per illuminazione,E_LU_Apparecchio a parete,934222,1
+Apparecchi per illuminazione,E_LU_Apparecchio da esterno,934223,1
+Apparecchi per illuminazione,E_LU_Circolare,934224,1
+Apparecchi per illuminazione,E_LU_Circolare,934225,1
+Apparecchi per illuminazione,E_LU_Circolare plafone,934226,1
+Apparecchi per illuminazione,E_LU_Lampada di emergenza,934227,1
+Apparecchi per illuminazione,E_LU_Lampada di emergenza,934228,1
+Apparecchi per illuminazione,E_LU_Lampada di emergenza_incasso-plafone,934229,1
+Apparecchi per illuminazione,E_LU_Lampada di emergenza_incasso-plafone,934230,1
+Apparecchi per illuminazione,E_LU_Lampada di emergenza_incasso-plafone,934231,1
+Apparecchi per illuminazione,E_LU_Lampada di emergenza_incasso-plafone,934232,1
+Apparecchi per illuminazione,E_LU_Lampada-ArredoUrbano,934233,1
+Apparecchi per illuminazione,E_LU_Uscita Sicurezza,934234,1
+Apparecchi per illuminazione,E_LU_Uscita Sicurezza,934235,1
+Dispositivi chiamata infermiera,E_CI_Alimentatore,934238,1
+Dispositivi chiamata infermiera,E_CI_Centrale,934239,1
+Dispositivi chiamata infermiera,E_CI_Chiamata annullo antibatterico,934240,1
+Dispositivi chiamata infermiera,E_CI_Concentratore,934241,1
+Dispositivi chiamata infermiera,E_CI_Gateway TCP IP,934242,1
+Dispositivi chiamata infermiera,E_CI_Indicatore luminoso fuori porta,934243,1
+Dispositivi chiamata infermiera,E_CI_Indicatore luminoso fuori porta,934244,1
+Dispositivi chiamata infermiera,E_CI_Modulo di chiamata-annullo-tirante,934245,1
+Dispositivi chiamata infermiera,E_CI_Modulo di chiamata-annullo-tirante,934246,1
+Dispositivi chiamata infermiera,E_CI_Modulo di chiamata-annullo-tirante,934247,1
+Dispositivi chiamata infermiera,E_CI_Pulsantiera paziente,934258,1
+Dispositivi chiamata infermiera,E_CI_Pulsantiera paziente,934259,1
+Dispositivi chiamata infermiera,E_CI_Stazione interfonica,934260,1
+Dispositivi chiamata infermiera,E_CI_Stazione interfonica,934261,1
+Dispositivi chiamata infermiera,E_CI_Terminale di reparto-camera-citofono,934262,1
+Dispositivi chiamata infermiera,E_CI_Terminale di reparto-camera-citofono,934263,1
+Dispositivi chiamata infermiera,E_CI_Terminale di reparto-camera-citofono,934264,1
+Dispositivi chiamata infermiera,E_CI_Terminale di reparto-camera-citofono,934265,1
+Apparecchi elettrici,E_Punto di giunzione a Croce,934285,1
+Apparecchi elettrici,E_Punto di giunzione a Croce,934286,1
+Apparecchi elettrici,E_Punto di giunzione a Croce,934287,1
+Apparecchi elettrici,E_Punto di giunzione a Croce,934288,1
+Attrezzature speciali,E_DP_Gradino copri paserella,934289,1
+Raccordi passerella,SGS_Channel Horizontal Bend,934290,1
+Raccordi passerella,SGS_Channel Horizontal Cross,934291,1
+Raccordi passerella,SGS_Channel Horizontal Tee,934292,1
+Raccordi passerella,SGS_Channel Reducer,934293,1
+Raccordi passerella,SGS_Channel Union,934294,1
+Raccordi passerella,SGS_Channel Vertical Inside Bend,934295,1
+Raccordi passerella,SGS_Channel Vertical Outside Bend,934296,1
+Raccordi passerella,SGS_Ladder Horizontal Bend,934297,1
+Raccordi passerella,SGS_Ladder Horizontal Cross,934298,1
+Raccordi passerella,SGS_Ladder Horizontal Tee,934299,1
+Raccordi passerella,SGS_Ladder Reducer,934300,1
+Raccordi passerella,SGS_Ladder Union,934301,1
+Raccordi passerella,SGS_Ladder Vertical Inside Bend,934302,1
+Raccordi passerella,SGS_Ladder Vertical Outside Bend,934303,1
+Dispositivi chiamata infermiera,E_CH_Pulsante,934304,1
+Dispositivi chiamata infermiera,E_CH_Avvisatori,934305,1
+Dispositivi chiamata infermiera,E_CH_Avvisatori,934306,1
+Dispositivi di comunicazione,E_CIT_Citofono esterno,934308,1
+Dispositivi di comunicazione,E_CIT_Citofono interno,934309,1
+Dispositivi di comunicazione,E_CIT_Citofono interno,934310,1
+Dispositivi di comunicazione,E_CIT_Serratura elettrica,934311,1
+Dispositivi di comunicazione,E_DS_Amplificatore,934312,1
+Dispositivi di comunicazione,E_DS_Base microfonica,934313,1
+Dispositivi di comunicazione,E_DS_Base microfonica,934314,1
+Dispositivi di comunicazione,E_DS_Diffusore_a tromba,934316,1
+Dispositivi di comunicazione,E_DS_Diffusore_a tromba,934317,1
+Dispositivi di comunicazione,E_DS_Diffusore_a vista,934327,1
+Dispositivi di comunicazione,E_DS_Diffusore_a vista,934328,1
+Dispositivi di comunicazione,E_DS_Diffusore_a vista,934329,1
+Dispositivi di comunicazione,E_DS_Diffusore_a vista,934330,1
+Dispositivi di comunicazione,E_DS_Diffusore_a vista,934331,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934332,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934333,1
+Dispositivi chiamata infermiera,E_CI_Chiamata annullo,934357,1
+Dispositivi chiamata infermiera,E_CI_Switch_NC,934358,1
+Dispositivi di comunicazione,SGS_EC_Centralina sistema eliminacode,934359,1
+Dispositivi di comunicazione,SGS_EC_Display eliminacode riepilogativo,934360,1
+Dispositivi di comunicazione,SGS_EC_Pulsantiera per sistema eliminacode,934361,1
+Dispositivi di comunicazione,TOTEM informativo,934362,1
+Dispositivi di comunicazione,SGS_EC_Centralina sistema eliminacode,934363,1
+Dispositivi di comunicazione,SGS_EC_Centralina sistema eliminacode,934364,1
+Attrezzatura elettrica,Rete di protezione moduli 2100x500,934365,1
+Attrezzatura elettrica,Griglia 2100x500,934366,1
+Attrezzatura elettrica,Griglia 2100x500,934367,1
+Attrezzatura elettrica,Griglia 2100x500,934368,1
+Attrezzatura elettrica,Griglia 2100x500,934369,1
+Attrezzatura elettrica,Rete di protezione moduli 2400x800,934380,1
+Attrezzatura elettrica,Griglia 2400x800,934381,1
+Attrezzatura elettrica,Griglia 2400x800,934382,1
+Attrezzatura elettrica,Griglia 2400x800,934383,1
+Attrezzatura elettrica,Griglia 2400x800,934384,1
+Attrezzatura elettrica,Griglia 2400x800,934385,1
+Attrezzatura elettrica,Griglia 2400x800,934386,1
+Attrezzatura elettrica,Griglia 2400x800,934387,1
+Attrezzatura elettrica,Griglia 2400x800,934388,1
+Attrezzatura elettrica,Griglia 2400x800,934389,1
+Attrezzatura elettrica,Griglia 2400x800,934390,1
+Attrezzatura elettrica,Rete di protezione moduli 2400x1000,934391,1
+Attrezzatura elettrica,Griglia 2400x1000,934392,1
+Attrezzatura elettrica,Griglia 2400x1000,934393,1
+Attrezzatura elettrica,Griglia 2400x1000,934394,1
+Attrezzatura elettrica,Griglia 2400x1000,934395,1
+Attrezzatura elettrica,Griglia 2400x1000,934396,1
+Attrezzatura elettrica,Griglia 2400x1000,934397,1
+Attrezzatura elettrica,Griglia 2400x1000,934398,1
+Attrezzatura elettrica,Griglia 2400x1000,934399,1
+Apparecchi elettrici,E_FM_Trave testaletto 1,934408,1
+Apparecchi elettrici,E_FM_Trave testaletto 2,934409,1
+Dispositivi di sicurezza,E_CIT_Pulsante targhetta portanome,934410,1
+Apparecchi elettrici,E_CIT_Videocitofono interno da tavolo,934411,1
+Dispositivi di comunicazione,E_CIT_Pulsantiera INOX av vip digitale,934412,1
+Attrezzatura elettrica,Cofanatura GE,934413,1
+Attrezzatura elettrica,Container,934414,1
+Attrezzatura elettrica,Gruppo Elettrogeno,934415,1
+Dispositivi di illuminazione,E_LU_ Punto luce a soffitto,934416,1
+Dispositivi di illuminazione,E_LU_Touch panel KNX,934417,1
+Dispositivi di illuminazione,E_LU_Accoppiatore KNX,934418,1
+Attrezzatura elettrica,E_RI_Centrali riv Fumi - Gas,934420,1
+Attrezzatura elettrica,E_RI_Centrali riv Fumi - Gas,934421,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934422,1
+Attrezzatura elettrica,E_RI_Centrali riv Fumi - Gas,934423,1
+Attrezzatura elettrica,E_RI_Centrali riv Fumi - Gas,934424,1
+Attrezzatura elettrica,E_RI_Centrali riv Fumi - Gas,934425,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934426,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934427,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934428,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934429,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934430,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934431,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934432,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934433,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934434,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934435,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934436,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934437,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934438,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934439,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934440,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934441,1
+Dispositivi allarme incendio,E_RI_Rivelatori,934442,1
+Attrezzatura elettrica,E_RI_Centrali riv Fumi - Gas,934443,1
+Attrezzatura elettrica,E_DS_Rack,934444,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934445,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934446,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934447,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934448,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934449,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934450,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934451,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934452,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,934453,1
+Attrezzatura elettrica,E_TD_Rack Dati,934478,1
+Dispositivi dati,E_TD_Prese incasso IP55,934479,1
+Dispositivi dati,E_TD_Prese incasso IP55,934480,1
+Dispositivi dati,E_TD_Prese incasso IP55,934481,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,934485,1
+Attrezzatura elettrica,E_FM_Connettore QE,934486,1
+Apparecchi elettrici,E_FM_Prese a vista,934487,1
+Apparecchi elettrici,E_FM_Prese a vista,934488,1
+Apparecchi elettrici,E_FM_Prese a vista,934489,1
+Apparecchi per illuminazione,E_LU_600x600 Darklight,934492,1
+Apparecchi per illuminazione,E_LU_600x600 Darklight,934493,1
+Apparecchi per illuminazione,E_LU_600x600 Darklight,934494,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,934517,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,934524,1
+Attrezzatura elettrica,E_FM_Connettore QE,934538,1
+Attrezzatura elettrica,E_FM_Connettore QE,934539,1
+Attrezzatura elettrica,E_FM_Connettore QE,934540,1
+Apparecchi elettrici,E_FM_Prese a vista,934541,1
+Apparecchi elettrici,E_FM_Prese a vista,934543,1
+Apparecchi elettrici,E_FM_Prese a vista,934545,1
+Raccordi passerella,SGS_TF_MeshWire_Bend_Horizontal,934599,1
+Raccordi passerella,SGS_TF_MeshWire_Bend_Horizontal_FreeRadius,934600,1
+Raccordi passerella,SGS_TF_MeshWire_Bend_Vertical Inside,934601,1
+Raccordi passerella,SGS_TF_MeshWire_Bend_Vertical Inside_FreeRadius,934602,1
+Raccordi passerella,SGS_TF_MeshWire_Bend_Vertical Outside,934603,1
+Raccordi passerella,SGS_TF_MeshWire_Bend_Vertical Outside_FreeRadius,934604,1
+Raccordi passerella,SGS_TF_MeshWire_Cross_Horizontal,934605,1
+Raccordi passerella,SGS_TF_MeshWire_Reducer_Horizontal,934606,1
+Raccordi passerella,SGS_TF_MeshWire_Tee_Horizontal,934607,1
+Raccordi passerella,SGS_TF_Ladder_Union_Horizontal,934608,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,934639,1
+Raccordi passerella,EAE_KX_IDY Two Way Application,934702,1
+Raccordi passerella,EAE_IDY,934703,1
+Raccordi passerella,EAE_IDY,934704,1
+Raccordi passerella,EAE_IDY,934705,1
+Raccordi passerella,EAE-KX IDY Support Set,934706,1
+Raccordi passerella,EAE-KX IDY Support Set,934707,1
+Raccordi passerella,EAE_KX_UAS-K5 Ceiling Hanger,934708,1
+Raccordi passerella,EAE_Cable Tray Extension Bolt M6x12,934709,1
+Raccordi passerella,EAE_Cable Tray Extension Bolt M6x12,934710,1
+Raccordi passerella,EAE_T Support  M6 M8 M10 M12,934711,1
+Raccordi passerella,EAE_T Support  M6 M8 M10 M12,934712,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934713,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934714,1
+Raccordi passerella,EAE_UAS-K5,934715,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934716,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934717,1
+Raccordi passerella,EAE_KX_Vertical Riser Fixing Unit,934718,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934719,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934720,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934721,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934722,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934723,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934724,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934725,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934726,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934727,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934728,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934729,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934730,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934731,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934732,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934733,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934734,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934735,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934736,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934737,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934738,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934739,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934740,1
+Raccordi passerella,EAE_Extension Nut M8 M10 M12,934741,1
+Raccordi passerella,EAE_Extension Nut M8 M10 M12,934742,1
+Raccordi passerella,EAE_Extension Nut M8 M10 M12,934743,1
+Raccordi passerella,EAE_Extension Nut M8 M10 M12,934744,1
+Raccordi passerella,EAE_KX_BRA Ceiling Hanger,934745,1
+Raccordi passerella,BINRAK channel,934746,1
+Raccordi passerella,EAE-KX Fixing Clamp for Binrak(Unistrut) Channel,934747,1
+Raccordi passerella,EAE-KX Fixing Clamp for Binrak(Unistrut) Channel,934748,1
+Raccordi passerella,EAE_A-A_U Ceiling Hanger,934749,1
+Raccordi passerella,EAE_Cable Tray Extension Bolt M6x12,934750,1
+Raccordi passerella,EAE_Cable Tray Extension Bolt M6x12,934751,1
+Raccordi passerella,EAE_U-Ceiling Mounting Fitting,934752,1
+Raccordi passerella,EAE_T Support  M6 M8 M10 M12,934753,1
+Raccordi passerella,AT3,934754,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934755,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934756,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934757,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934758,1
+Raccordi passerella,Driven Dowel,934759,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934760,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934761,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934762,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934763,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934764,1
+Raccordi passerella,EAE_Washer M8 M10 M12,934765,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934766,1
+Raccordi passerella,EAE_NUT M8 M10 M12,934767,1
+Raccordi condotto,SGS_PowerSupplyBox_XXX,934769,1
+Posti auto,Neutral,934770,1
+Modelli generici,Feeder,934771,1
+Raccordi condotto,SGS_PowerSupplyBox_XXX,934772,1
+Posti auto,Neutral,934773,1
+Modelli generici,Feeder,934774,1
+Attrezzatura elettrica,SGS_JunctionBox_XXX,934776,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,934820,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,934822,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,934824,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,934826,1
+Raccordi condotto,SGS_PowerSupplyBox_XXX,934829,1
+Posti auto,Neutral,934830,1
+Modelli generici,Feeder,934831,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,1963894,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,1963902,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,1982592,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,1982722,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,1982860,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,1983105,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,1983125,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,1983141,1
+Apparecchi per illuminazione,E_LU_600x600 Darklight,1984165,1
+Apparecchi per illuminazione,E_LU_600x600 Darklight,1984485,1
+Dispositivi di sicurezza,E_AI_Centrale,1984978,1
+Dispositivi di sicurezza,E_AI_Centrale,1985143,1
+Dispositivi di sicurezza,E_CA_Centrale,1985315,1
+Dispositivi di sicurezza,E_CA_Centrale,1985438,1
+Dispositivi chiamata infermiera,E_CH_Pulsante,1985599,1
+Dispositivi chiamata infermiera,E_CH_Pulsante,1985732,1
+Dispositivi chiamata infermiera,E_CI_Modulo di chiamata-annullo-tirante,1985903,1
+Dispositivi chiamata infermiera,E_CI_Modulo di chiamata-annullo-tirante,1985927,1
+Dispositivi di comunicazione,E_CIT_Videocitofono esterno,1986089,1
+Dispositivi di comunicazione,E_CIT_Videocitofono esterno,1986272,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,1986707,1
+Dispositivi di comunicazione,E_DS_Diffusore_da incasso,1986729,1
+Attrezzatura elettrica,E_DS_Rack,1986763,1
+Attrezzatura elettrica,E_DS_Rack,1986772,1
+Dispositivi di comunicazione,SGS_EC_Display eliminacode sportello,1986803,1
+Dispositivi di comunicazione,SGS_EC_Display eliminacode sportello,1987002,1
+Apparecchi elettrici,E_FM_Prese ad incasso,1987245,1
+Apparecchi elettrici,E_FM_Prese ad incasso,1987421,1
+Apparecchi elettrici,E_FM_Prese ad incasso,1987653,1
+Apparecchi elettrici,E_FM_Prese ad incasso,1987763,1
+Apparecchi elettrici,E_FM_Prese ad incasso,1987899,1
+Apparecchi elettrici,E_FM_Prese ad incasso,1988043,1
+Attrezzatura elettrica,E_Pannello_fotovoltaico,1988699,1
+Attrezzatura elettrica,E_Pannello_fotovoltaico,1988708,1
+Dispositivi chiamata infermiera,E_CI_Stazione interfonica,1988764,1
+Dispositivi chiamata infermiera,E_CI_Stazione interfonica,1988789,1
+Apparecchi per illuminazione,E_LU_Lampada di emergenza,1988916,1
+Apparecchi per illuminazione,E_LU_Lampada di emergenza,1988925,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,1989052,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,1989256,1
+Apparecchi elettrici,E_OR_Orologio Monofacciale - Bifacciale,1989439,1
+Apparecchi elettrici,E_OR_Orologio Monofacciale - Bifacciale,1989523,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,1989650,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,1989794,1
+Apparecchi elettrici,E_FM_Centralino da parete_Sgancio VVF,1989825,1
+Apparecchi elettrici,E_FM_Centralino da parete_Sgancio VVF,1989860,1
+Dispositivi allarme incendio,E_RI_Rivelatori,1990206,1
+Dispositivi allarme incendio,E_RI_Rivelatori,1990215,1
+Dispositivi dati,E_TD_Prese incasso,1990341,1
+Dispositivi dati,E_TD_Prese incasso,1990440,1
+Attrezzatura elettrica,E_TD_Rack Dati,1990628,1
+Attrezzatura elettrica,E_TD_Rack Dati,1990637,1
+Apparecchi elettrici,E_DP_Pozzetto con Picchetto di Terra,1990712,1
+Apparecchi elettrici,E_DP_Pozzetto con Picchetto di Terra,1990723,1
+Apparecchi elettrici,E_TV_Prese incasso,1990794,1
+Apparecchi elettrici,E_TV_Prese incasso,1990982,1
+Dispositivi di sicurezza,E_TVCC_Telecamera Dome,1991108,1
+Dispositivi di sicurezza,E_TVCC_Telecamera Dome,1991117,1
+Apparecchi elettrici,E_Asta di captazione,2007436,1
+Apparecchi elettrici,E_Asta di captazione,2007458,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2010750,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2010939,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2011044,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2014237,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2014676,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2014879,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2015188,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,2015482,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,2015485,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2015488,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,2016440,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,2016442,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2016443,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2022833,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,2022868,1
+Accessori per condotti,SGS_DP_PowerSupplyBox,2023829,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,2023986,1
+Raccordi passerella,E_DP_Forometry,2025966,1
+Apparecchi elettrici,SGS_DP_JunctionBox,2049414,1
+Apparecchi elettrici,SGS_DP_JunctionBox,2063117,1
+Apparecchi elettrici,E_FM_Prese a vista,2079495,1
+Apparecchi per illuminazione,E_LU_600x600 Darklight,2095234,1
+Raccordi condotto,M_Raccordo a T circolare - Dritto,2096077,1
+Apparecchi elettrici,SGS_EF_CHARGING STATION,2128263,1
+Apparecchi elettrici,SGS_EF_CHARGING STATION,2128397,1
+Apparecchi elettrici,SGS_EF_CHARGING STATION,2128461,1
+Apparecchi elettrici,SGS_EF_CHARGING STATION,2128750,1
+Apparecchi elettrici,SGS_EF_CHARGING STATION,2128917,1
+Apparecchi elettrici,E_FM_Prese a vista,2129102,1
+Attrezzatura elettrica,SGS_EF_PowerFactorCorrection,2232952,1
+Apparecchi per illuminazione,SGS_LF_WALL-LIGHTING FIXTURE,2236042,1
+Apparecchi per illuminazione,SGS_LF_WALL-LIGHTING FIXTURE,2241755,1
+Apparecchi per illuminazione,SGS_LF_BOLLARD,2245622,1
+Apparecchi per illuminazione,SGS_LF_BOLLARD,2245799,1
+Apparecchi per illuminazione,E_LU_Lampada di emergenza,2246168,1
+Attrezzatura elettrica,SGS_EE_CPSS,2249279,1
+Raccordi tubazione,M_Gomito - Generico,2263747,1
+Raccordi tubazione,M_Gomito - Generico,2264262,1
+Raccordi tubazione,M_Raccordo a T - Generico,2264286,1
+Raccordi passerella,E_DP_Forometry,2265479,1
+Apparecchi elettrici,SGS_EF_FIXED POINT,2283216,1
+Attrezzatura elettrica,E_FM_ Centralino da incasso a parete,2287454,1
+Attrezzatura elettrica,E_FM_Centralino da parete,2289462,1
+Dispositivi di comunicazione,E_CM_Stazione interfonica,2301401,1
+Dispositivi di comunicazione,E_CM_Stazione interfonica,2301695,1
+Raccordi tubazione,M_Raccordo a T - Generico,2304033,1
+Raccordi tubazione,M_Gomito - Generico,2304137,1
+Raccordi tubazione,M_Gomito - Generico,2304146,1
+Raccordi tubazione,M_Croce - Generica,2304197,1
+Raccordi tubazione,M_Raccordo a T - Generico,2304257,1
+Attrezzatura elettrica,SGS_EF_PowerFactorCorrection,2311203,1
+Raccordi passerella,SGS_TF_Solid_Tee_Horizontal,2316312,1
+Raccordi passerella,SGS_TF_Solid_Bend_Horizontal,2316316,1
+Apparecchi per illuminazione,SGS_LF_600x600_T1_Recessed,2319713,1
+Apparecchi per illuminazione,SGS_LF_600x600_T1,2323725,1
+Apparecchi per illuminazione,SGS_LF_600x600_T1,2333941,1
+Apparecchi per illuminazione,SGS_LF_600x600_T1,2338992,1
+Apparecchi per illuminazione,SGS_LF_600x600_T1_Recessed,2342394,1
+Apparecchi per illuminazione,SGS_LF_600x600_T1,2344494,1
+Apparecchi per illuminazione,SGS_LF_Circular_T1_Recessed,2349682,1
+Apparecchi per illuminazione,SGS_LF_Circular_T1_Recessed,2353361,1
+Apparecchi per illuminazione,SGS_LF_Circular_T1,2355128,1
+Apparecchi per illuminazione,SGS_LF_Circular_T1,2360248,1
+Apparecchi per illuminazione,SGS_LF_Circular_T1,2360345,1
+Apparecchi per illuminazione,SGS_LF_Circular_T1,2360489,1
+Apparecchi per illuminazione,SGS_LF_600x600_T2_Recessed,2368930,1
+Apparecchi per illuminazione,SGS_LF_600x600_T2_Recessed,2369044,1
+Apparecchi per illuminazione,SGS_LF_600x600_T2,2371031,1
+Apparecchi per illuminazione,SGS_LF_600x600_T2,2371166,1
+Apparecchi per illuminazione,SGS_LF_600x600_T3_Recessed,2373148,1
+Apparecchi per illuminazione,SGS_LF_600x600_T3_Recessed,2373268,1
+Apparecchi per illuminazione,SGS_LF_600x600_T3,2375132,1
+Apparecchi per illuminazione,SGS_LF_600x600_T3,2375202,1
+Apparecchi per illuminazione,SGS_LF_Rectangular_T1_Recessed,2377307,1
+Apparecchi per illuminazione,SGS_LF_Rectangular_T1_Recessed,2377435,1
+Apparecchi per illuminazione,SGS_LF_Rectangular_T1,2379574,1
+Apparecchi per illuminazione,SGS_LF_Rectangular_T1,2379662,1
+Apparecchi per illuminazione,SGS_LF_Rectangular_T1_Suspended,2381606,1
+Apparecchi per illuminazione,SGS_LF_Rectangular_T1_Suspended,2381696,1
+Apparecchi per illuminazione,SGS_LF_Waterproof Lighting Fixture,2408053,1
+Apparecchi per illuminazione,SGS_LF_Waterproof Lighting Fixture,2408278,1
+Apparecchi per illuminazione,SGS_LF_Waterproof Lighting Fixture,2410080,1
+Apparecchi per illuminazione,SGS_LF_Waterproof Lighting Fixture,2412261,1
+Apparecchi per illuminazione,SGS_LF_Waterproof Lighting Fixture,2418505,1
+Apparecchi per illuminazione,SGS_LF_Waterproof Lighting Fixture_Suspended,2425759,1
+Apparecchi per illuminazione,SGS_LF_Waterproof Lighting Fixture_Suspended,2425942,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2489109,1
+Apparecchi elettrici,E_FM_Prese ad incasso_IP55,2499797,1
+Apparecchi elettrici,E_FM_Prese ad incasso,2499879,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2513252,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2513292,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2513331,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2525630,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2543798,1
+Apparecchi elettrici,E_FM_Prese a vista,2544355,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2587343,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2613931,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2613932,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2613933,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2613934,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2613935,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2613936,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2613937,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2685845,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2685991,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2686001,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2686007,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2686013,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2686175,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2686259,1
+Raccordi passerella,SGS_CTF_REI_SEPTUM,2742666,1
+Dispositivi di illuminazione,E_LU_Comandi ad incasso,2746520,1
+Attrezzatura elettrica,SGS_EE_Electrical Panel,2881797,1
+Attrezzatura elettrica,SGS_EE_Electrical Panel,2900834,1
+Attrezzatura elettrica,SGS_EE_Electrical Panel,2907625,1
+Attrezzatura elettrica,SGS_EE_Electrical Panel,2913264,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2913379,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox503,2913397,1
+Attrezzatura elettrica,SGS_EE_Electrical Panel,2913432,1
+Attrezzatura elettrica,SGS_EE_Electrical Panel,2914405,1
+Apparecchi per illuminazione,SGS_LF_600x600_T1_Recessed,2914427,1
+Apparecchi per illuminazione,SGS_LF_600x600_T1_Recessed,2914455,1
+Raccordi passerella,SGS_CTF_DP_Forometry,2915996,1
+Attrezzatura elettrica,SGS_EE_Electrical Panel_Wall,3006848,1
+Attrezzatura elettrica,SGS_EE_Electrical Panel_RecessedWall,3015660,1
+Attrezzatura elettrica,SGS_EE_Electrical Panel_Wall_PGE,3046347,1
+Attrezzatura elettrica,SGS_EE_Electrical Panel_Wall_PGE,3061362,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3212769,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3213124,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3213157,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3213165,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3213173,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3213183,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3213191,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3230033,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3230034,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3230035,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3230036,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3230037,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3230038,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3230039,1
+Apparecchi elettrici,SGS_EF_Sockets_RecessedBox504,3312031,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox503,3384227,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox503,3384495,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox503,3384598,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox503,3384599,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox503,3384607,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox503,3384608,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox503,3403007,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox503,3405454,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox503,3405495,1
+Attrezzatura elettrica,SGS_EE_Data Rack,3414158,1
+Attrezzatura elettrica,SGS_EE_Data Rack,3422909,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox504,3512878,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox504,3518503,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox504,3518504,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox504,3518636,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox504,3518637,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox504,3518686,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox504,3518687,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox504,3518709,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox504,3518710,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox503,3526596,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox503,3526722,1
+Raccordi tubazione,M_Gomito - Generico,3527130,1
+Raccordi tubazione,M_Gomito - Generico,3527134,1
+Raccordi tubazione,M_Raccordo a T - Generico,3527138,1
+Raccordi tubazione,M_Raccordo a T - Generico,3527144,1
+Raccordi tubazione,M_Gomito - Generico,3527150,1
+Raccordi tubazione,M_Gomito - Generico,3527154,1
+Raccordi tubazione,M_Croce - Generica,3527160,1
+Raccordi tubazione,M_Raccordo a T - Generico,3527166,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,3533358,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,3540869,1
+Accessori per condotti,E_RI_Foro-Capillare di aspirazione,3544212,1
+Accessori per tubazioni,SGS_PA_EARTH_ASCENT-DESCENT,3552870,1
+Accessori per tubazioni,SGS_PA_EARTH_ASCENT-DESCENT,3552873,1
+Accessori per tubazioni,SGS_PA_LPS_ASCENT-DESCENT,3552905,1
+Accessori per tubazioni,SGS_PA_LPS_ASCENT-DESCENT,3552908,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3571917,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3572303,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3590687,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3590688,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3590696,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3590697,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3610479,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3610480,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3651262,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3651263,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3672384,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3672385,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3718715,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3718716,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3718797,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox503,3718870,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox503,3779938,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox503,3779939,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox503,3779940,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox503,3779941,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox503,3779942,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox503,3779943,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox504,3780138,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox504,3780139,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox504,3780140,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox504,3780141,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox504,3780142,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox504,3780143,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox504,3780144,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox504,3780145,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox504,3780650,1
+Dispositivi dati,SGS_DD_Sockets_WallMountingBox504,3780651,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857556,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857557,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857558,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857559,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857560,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857561,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857562,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857563,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857564,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857565,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857566,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857567,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857568,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3857569,1
+Accessori per tubazioni,SGS_PA_LPS_CrossConnectorClamp,3857746,1
+Accessori per tubazioni,SGS_PA_LPS_CrossConnectorClamp,3858905,1
+Accessori per tubazioni,SGS_PA_LPS_CrossConnectorClamp,3858916,1
+Accessori per tubazioni,SGS_PA_LPS_CrossConnectorClamp,3858922,1
+Accessori per tubazioni,SGS_PA_LPS_CrossConnectorClamp,3858927,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3858939,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3858940,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3858941,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3858942,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3858989,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3858990,1
+Apparecchi elettrici,SGS_EF_Sockets_WallMountingBox504,3859567,1
+Accessori per tubazioni,SGS_PA_EARTH_ConnectorClamp,3862122,1
+Accessori per tubazioni,SGS_PA_EARTH_ConnectorClamp,3862134,1
+Accessori per tubazioni,SGS_PA_EARTH_ConnectorClamp,3862140,1
+Accessori per tubazioni,SGS_PA_EARTH_ConnectorClamp,3862146,1
+Accessori per tubazioni,SGS_PA_EARTH_ConnectorClamp,3862159,1
+Raccordi tubo protettivo,SGS_CF_Manhole,3865524,1
+Raccordi tubo protettivo,SGS_CF_Manhole,3871686,1
+Apparecchi elettrici,SGS_EF_TV-SAT_Sockets_RecessedBox503,3900328,1
+Apparecchi elettrici,SGS_EF_TV-SAT_Sockets_RecessedBox503,3927864,1
+Apparecchi elettrici,SGS_EF_TV-SAT_WallMountingBox503,3927895,1
+Apparecchi elettrici,SGS_EF_TV-SAT_WallMountingBox503,3927905,1
+Apparecchi elettrici,SGS_EF_TV-SAT_Sockets_RecessedBox503,3928063,1
+Apparecchi elettrici,SGS_EF_TV-SAT_Sockets_RecessedBox503,3928064,1
+Apparecchi elettrici,SGS_EF_TV-SAT_WallMountingBox503,3928065,1
+Apparecchi elettrici,SGS_EF_TV-SAT_WallMountingBox503,3928066,1
+Apparecchi elettrici,SGS_EF_TV-SAT_Sockets_RecessedBox503,3928434,1
+Apparecchi elettrici,SGS_EF_TV-SAT_Sockets_RecessedBox503,3928588,1
+Apparecchi elettrici,SGS_EF_TV-SAT_WallMountingBox503,3928866,1
+Apparecchi elettrici,SGS_EF_TV-SAT_WallMountingBox503,3928867,1
+Apparecchi elettrici,SGS_EF_TV-SAT_WallMountingBox503,3929057,1
+Apparecchi elettrici,SGS_EF_TV-SAT_WallMountingBox503,3929058,1
+Apparecchi elettrici,SGS_EF_TV-SAT_Sockets_RecessedBox503,3929157,1
+Apparecchi elettrici,SGS_EF_TV-SAT_Sockets_RecessedBox503,3929158,1
+Dispositivi dati,SGS_DD_Sockets_RecessedBox504,3929371,1
+Raccordi tubo protettivo,SGS_CF_Manhole,3929585,1
+Raccordi tubo protettivo,SGS_CF_Manhole,3929603,1
+Raccordi tubo protettivo,SGS_CF_Manhole,3929642,1
+Raccordi tubo protettivo,SGS_CF_Manhole,3931372,1
+Raccordi tubo protettivo,SGS_CF_Manhole,3931424,1
+Raccordi tubo protettivo,SGS_CF_Manhole,3931492,1
+Apparecchi elettrici,SGS_EF_TE_RecessedBox_EquipotentialNode,3987697,1
+Apparecchi elettrici,SGS_EF_TE_RecessedBox_EquipotentialNode,3987698,1
+Apparecchi elettrici,SGS_EF_TE_RecessedBox_EquipotentialNode,3992506,1
+Apparecchi elettrici,SGS_EF_TE_RecessedBox_EquipotentialNode,3992641,1
+Raccordi tubo protettivo,SGS_CF_Manhole,4037840,1
+Raccordi tubo protettivo,SGS_CF_Manhole_CrossEarthRod,4044131,1
+Accessori per tubazioni,SGS_PA_LPS_SelfSupportingAirTerminationRod,4054220,1
+Accessori per tubazioni,SGS_PA_LPS_AirTerminationRod,4062586,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4146402,1
+Apparecchi elettrici,SGS_EF_Power_supply_RecessedBox,4186577,1
+Apparecchi elettrici,SGS_EF_Power_supply_RecessedBox,4186836,1
+Apparecchi elettrici,SGS_EF_Power_supply_RecessedBox,4186872,1
+Apparecchi elettrici,SGS_EF_Power_supply_WallMountingBox,4187027,1
+Apparecchi elettrici,SGS_EF_Power_supply_WallMountingBox,4187028,1
+Apparecchi elettrici,SGS_EF_Power_supply_WallMountingBox,4187029,1
+Apparecchi elettrici,SGS_EF_Power_supply_RecessedBox,4207208,1
+Apparecchi elettrici,SGS_EF_Power_supply_RecessedBox,4207282,1
+Apparecchi elettrici,SGS_EF_Power_supply_RecessedBox,4207360,1
+Apparecchi elettrici,SGS_EF_Power_supply_WallMountingBox,4207874,1
+Apparecchi elettrici,SGS_EF_Power_supply_WallMountingBox,4207875,1
+Apparecchi elettrici,SGS_EF_Power_supply_WallMountingBox,4207876,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4236627,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4248189,1
+Apparecchi elettrici,SGS_EF_TE_WallMountingBox_EquipotentialNode,4269659,1
+Apparecchi elettrici,SGS_EF_TE_WallMountingBox_EquipotentialNode,4273957,1
+Apparecchi elettrici,SGS_EF_TE_WallMountingBox_EquipotentialNode,4273958,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4294116,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4294137,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299090,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299091,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299092,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299429,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299430,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299431,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299432,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299433,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299434,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299457,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299458,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299459,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299460,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299461,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4299462,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4348905,1
+Dispositivi di illuminazione,SGS_LD_LightControl_RecessedBox503,4348906,1
+Cartigli,GN_ANN_TBS_IN_BOZZA,4359252,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4363815,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4363904,1
+Attrezzatura elettrica,Trasformatore,4367271,1
+Attrezzatura elettrica,Trasformatore,4367338,1
+Attrezzatura elettrica,Trasformatore,4367346,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4367452,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4369385,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4369409,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4369433,1
+Attrezzatura elettrica,E_TD_Rack Dati,4371909,1
+Attrezzatura elettrica,E_TD_Rack Dati,4372013,1
+Attrezzatura elettrica,E_DP_UPS,4372095,1
+Attrezzatura elettrica,E_DP_UPS,4372132,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4374153,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4374317,1
+Attrezzatura elettrica,E_DP_UPS,4375082,1
+Raccordi passerella,Channel Horizontal Bend,4388820,1
+Raccordi passerella,Channel Horizontal Bend,4388871,1
+Raccordi passerella,Channel Horizontal Bend,4392578,1
+Raccordi passerella,Channel Horizontal Tee,4392607,1
+Raccordi passerella,Channel Horizontal Bend,4392750,1
+Raccordi passerella,Channel Horizontal Bend,4392751,1
+Raccordi passerella,Channel Horizontal Bend,4392876,1
+Raccordi passerella,Channel Horizontal Bend,4392877,1
+Raccordi passerella,Channel Horizontal Bend,4399427,1
+Raccordi passerella,Channel Horizontal Bend,4399471,1
+Raccordi passerella,Channel Horizontal Bend,4399478,1
+Raccordi passerella,Channel Horizontal Bend,4399489,1
+Raccordi passerella,Channel Horizontal Tee,4399512,1
+Raccordi passerella,Channel Horizontal Bend,4399545,1
+Raccordi passerella,Channel Horizontal Bend,4399552,1
+Raccordi passerella,Channel Horizontal Bend,4399559,1
+Raccordi passerella,Channel Vertical Outside Bend,4399635,1
+Raccordi passerella,Channel Vertical Inside Bend,4399643,1
+Raccordi passerella,Channel Vertical Inside Bend,4399659,1
+Raccordi passerella,Channel Vertical Outside Bend,4399741,1
+Apparecchi elettrici,EL_EE_EF_PowerFactorCorrection,4401091,1
+Apparecchi elettrici,EL_EE_EF_PowerFactorCorrection,4404277,1
+Apparecchi elettrici,EL_EE_EF_PowerFactorCorrection,4404285,1
+Apparecchi elettrici,EL_EE_EF_PowerFactorCorrection,4404640,1
+Attrezzatura elettrica,Gruppo Elettrogeno,4404728,1
+Attrezzatura elettrica,Gruppo Elettrogeno,4404758,1
+Attrezzatura elettrica,Gruppo Elettrogeno,4404786,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4404916,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4404963,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4404990,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4405092,1
+Attrezzatura elettrica,Gruppo Elettrogeno,4405205,1
+Attrezzatura elettrica,E_DP_UPS,4405569,1
+Attrezzatura elettrica,E_DP_UPS,4405621,1
+Attrezzatura elettrica,E_DP_Batterie,4405629,1
+Attrezzatura elettrica,E_DP_Batterie,4405814,1
+Attrezzatura elettrica,E_DP_Batterie,4405827,1
+Attrezzatura elettrica,E_DP_Batterie,4405829,1
+Attrezzatura elettrica,E_DP_Batterie,4405844,1
+Attrezzatura elettrica,E_DP_Batterie,4405846,1
+Attrezzatura elettrica,E_DP_Batterie,4405848,1
+Attrezzatura elettrica,E_DP_Batterie,4405849,1
+Attrezzatura elettrica,SGS_Data_Center,4418374,1
+Cartigli,GN_ANN_TBS_StartingView,4420012,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4423536,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4423570,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4423871,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4424416,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4424440,1
+Attrezzatura elettrica,E_DP_Quadro elettrico,4424476,1
+Cartigli,GN_ANN_TBS_IN_BOZZA,4425699,1
+Cartigli,GN_ANN_TBS_Cartiglio,4425721,1
+Cartigli,GN_ANN_TBS_Cartiglio,4425773,1
+Cartigli,GN_ANN_TBS_Cartiglio,4425826,1
+Cartigli,GN_ANN_TBS_IN_BOZZA,4425853,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4428392,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4428416,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4428508,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4431420,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4431428,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4431570,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4431576,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4431684,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4431690,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4431924,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4431949,1
+Raccordi condotto,M_Gomito rettangolare - Ad angolo,4431973,1
+Raccordi passerella,Channel Horizontal Bend,4440935,1
+Raccordi passerella,Channel Horizontal Bend,4441819,1
+Raccordi passerella,Channel Horizontal Bend,4441869,1
+Raccordi passerella,Channel Horizontal Bend,4442883,1
+Raccordi passerella,Channel Horizontal Bend,4442895,1
+Raccordi passerella,Channel Horizontal Bend,4442986,1
+Raccordi passerella,Channel Horizontal Bend,4443248,1
+Raccordi passerella,Channel Horizontal Bend,4443256,1
+Raccordi passerella,Channel Horizontal Bend,4443944,1
+Raccordi passerella,Channel Vertical Inside Bend,4446069,1
+Raccordi passerella,Channel Vertical Inside Bend,4446357,1
+Raccordi passerella,Channel Vertical Inside Bend,4447443,1
+Raccordi passerella,Channel Vertical Inside Bend,4448194,1
+Raccordi passerella,Channel Vertical Outside Bend,4449909,1
+Raccordi passerella,Channel Horizontal Bend,4450299,1
+Raccordi passerella,Channel Horizontal Bend,4450353,1
+Raccordi passerella,Channel Vertical Inside Bend,4450415,1
+Raccordi passerella,Channel Vertical Outside Bend,4450443,1
+Raccordi passerella,Channel Vertical Inside Bend,4451222,1
+Raccordi passerella,Channel Vertical Inside Bend,4451230,1
+Raccordi passerella,Channel Vertical Outside Bend,4451333,1
+Raccordi passerella,Channel Horizontal Bend,4451349,1
+Raccordi passerella,Channel Vertical Inside Bend,4451646,1
+Raccordi passerella,Channel Vertical Outside Bend,4451765,1
+Raccordi passerella,Channel Horizontal Bend,4451768,1
+Raccordi passerella,Channel Vertical Outside Bend,4452137,1
+Raccordi passerella,Channel Horizontal Bend,4452152,1
+Raccordi passerella,Channel Vertical Inside Bend,4452324,1
+Raccordi passerella,Channel Vertical Outside Bend,4452497,1
+Raccordi passerella,Channel Horizontal Bend,4452517,1
+Raccordi passerella,Channel Vertical Outside Bend,4452581,1
+Raccordi passerella,Channel Horizontal Bend,4452740,1
+Raccordi passerella,Channel Vertical Inside Bend,4453017,1
+Raccordi passerella,Channel Vertical Outside Bend,4453154,1
+Raccordi passerella,Channel Horizontal Bend,4453176,1
+Raccordi passerella,Channel Vertical Outside Bend,4453499,1
+Raccordi passerella,Channel Horizontal Bend,4453502,1
+Raccordi passerella,Channel Vertical Inside Bend,4454303,1
+Raccordi passerella,Channel Vertical Outside Bend,4454637,1
+Raccordi passerella,Channel Horizontal Bend,4454645,1
+Raccordi passerella,Channel Horizontal Bend,4454985,1
+Raccordi passerella,Channel Horizontal Bend,4455015,1
+Raccordi passerella,Channel Vertical Outside Bend,4458510,1
+Raccordi passerella,Channel Vertical Inside Bend,4458602,1
+Raccordi passerella,Channel Vertical Outside Bend,4458631,1
+Raccordi passerella,Channel Vertical Inside Bend,4458733,1
+Raccordi passerella,Channel Vertical Outside Bend,4458814,1
+Raccordi passerella,Channel Vertical Inside Bend,4458830,1
+Raccordi passerella,Channel Vertical Outside Bend,4458905,1
+Raccordi passerella,Channel Vertical Inside Bend,4458917,1
+Raccordi passerella,Channel Vertical Outside Bend,4458968,1
+Raccordi passerella,Channel Vertical Inside Bend,4458986,1
+Cartigli,SEI_ANN_Keyplan_J.002,4461870,1
+Apparecchi elettrici,EL_EE_EF_PowerFactorCorrection,4477012,1
+Apparecchi elettrici,EL_EE_EF_PowerFactorCorrection,4477065,1

@@ -1,0 +1,470 @@
+Nome Materiale,ID Elemento,Verifica,Stato
+Default,18435,Codice non trovato nel database,0
+Default Floor,18436,Codice non trovato nel database,0
+Default Roof,18437,Codice non trovato nel database,0
+Default Wall,18438,Codice non trovato nel database,0
+Glass,18439,Codice non trovato nel database,0
+Earth,18935,Codice non trovato nel database,0
+"Concrete, Cast-in-Place gray",18939,Codice non trovato nel database,0
+"Brick, Common",18941,Codice non trovato nel database,0
+Concrete Masonry Units,18942,Codice non trovato nel database,0
+Metal Stud Layer,18946,Codice non trovato nel database,0
+Aluminum,18953,Codice non trovato nel database,0
+"Plywood, Sheathing",18957,Codice non trovato nel database,0
+"Softwood, Lumber",18960,Codice non trovato nel database,0
+Air,18974,Codice non trovato nel database,0
+Air Infiltration Barrier,18976,Codice non trovato nel database,0
+Vapor Retarder,18982,Codice non trovato nel database,0
+"Glass, Clear Glazing",18984,Codice non trovato nel database,0
+Gypsum Wall Board,18986,Codice non trovato nel database,0
+Phase - Demo,22806,Codice non trovato nel database,0
+Phase - Exist,22807,Codice non trovato nel database,0
+Phase - Temporary,22808,Codice non trovato nel database,0
+Carpet (1),24145,Codice non trovato nel database,0
+Vinyl Composition Tile,24184,Codice non trovato nel database,0
+"Roofing, EPDM Membrane",24244,Codice non trovato nel database,0
+Asphalt Shingle,24245,Codice non trovato nel database,0
+Acoustic Ceiling Tile 24 x 48,27489,Codice non trovato nel database,0
+Phase - New,29224,Codice non trovato nel database,0
+"Tile, Porcelain, 4in",56778,Codice non trovato nel database,0
+Poche,78544,Codice non trovato nel database,0
+Default Floor Area Face,79117,Codice non trovato nel database,0
+Default Light Source,379617,Codice non trovato nel database,0
+Default Form,470193,Codice non trovato nel database,0
+Default Mass Floor,517141,Codice non trovato nel database,0
+Default Mass Opening,517144,Codice non trovato nel database,0
+Default Mass Shade,517145,Codice non trovato nel database,0
+"Steel, Carbon",552017,Codice non trovato nel database,0
+"Iron, Ductile",552019,Codice non trovato nel database,0
+Stainless Steel,552020,Codice non trovato nel database,0
+Polyvinyl Chloride - Rigid,552565,Codice non trovato nel database,0
+Copper,552569,Codice non trovato nel database,0
+System-Zones,837761,Codice non trovato nel database,0
+Analytical Spaces,838270,Codice non trovato nel database,0
+Analytical Surface - Exterior Walls,838272,Codice non trovato nel database,0
+Analytical Surface - Roofs,838274,Codice non trovato nel database,0
+Analytical Surface - Slabs on Grade,838276,Codice non trovato nel database,0
+Analytical Surface - Interior Walls,838278,Codice non trovato nel database,0
+Analytical Surface - Interior Floors,838280,Codice non trovato nel database,0
+Analytical Surface - Ceilings,838282,Codice non trovato nel database,0
+Analytical Surface - Air Surfaces,838284,Codice non trovato nel database,0
+Analytical Surface - Underground Walls,838286,Codice non trovato nel database,0
+Analytical Surface - Operable Windows,838288,Codice non trovato nel database,0
+Analytical Surface - Operable Skylights,838290,Codice non trovato nel database,0
+Analytical Surface - Sliding Doors,838292,Codice non trovato nel database,0
+Analytical Surface - Air Openings,838294,Codice non trovato nel database,0
+Analytical Surface - Shades,838296,Codice non trovato nel database,0
+Fase - Demolizione,840798,Codice non trovato nel database,0
+Fase - Esistente,840799,Codice non trovato nel database,0
+Fase - Temporaneo,840800,Codice non trovato nel database,0
+Muro di default,850138,Codice non trovato nel database,0
+Tetto di default,850139,Codice non trovato nel database,0
+Vetro,850140,Codice non trovato nel database,0
+"Mattone, Comune",850409,Codice non trovato nel database,0
+Muratura in blocchi di calcestruzzo,850410,Codice non trovato nel database,0
+Rivestimento pilastro in metallo,850411,Codice non trovato nel database,0
+"Compensato, rivestimento",850412,Codice non trovato nel database,0
+Aria,850413,Codice non trovato nel database,0
+Barriera alle infiltrazioni d'aria,850414,Codice non trovato nel database,0
+Resistente al vapore,850415,Codice non trovato nel database,0
+Pannello in gesso,850416,Codice non trovato nel database,0
+Terra,850442,Codice non trovato nel database,0
+"Calcestruzzo, gettato in opera",850443,Codice non trovato nel database,0
+Pavimento di default,850445,Codice non trovato nel database,0
+"Copertura, membrana EPDM",850447,Codice non trovato nel database,0
+Piastrelle di ceramica,850448,Codice non trovato nel database,0
+"Bitume, Asfalto",850449,Codice non trovato nel database,0
+Pannello di controsoffittatura 600 x 600,850509,Codice non trovato nel database,0
+Fase - Nuova,850543,Codice non trovato nel database,0
+Porta - Maniglia,850660,Codice non trovato nel database,0
+Superficie del pavimento di default,850876,Codice non trovato nel database,0
+Sorgente d'illuminazione di default,851495,Codice non trovato nel database,0
+Forma di default,851753,Codice non trovato nel database,0
+Pavimento massa di default,851922,Codice non trovato nel database,0
+Apertura massa di default,851923,Codice non trovato nel database,0
+Ombra massa di default,851924,Codice non trovato nel database,0
+"Legno dolce, legname",851925,Codice non trovato nel database,0
+"Vetro, vetrata trasparente",851926,Codice non trovato nel database,0
+"Acciaio, carbonio",852169,Codice non trovato nel database,0
+Rame,852240,Codice non trovato nel database,0
+"Ferro, duttile",852241,Codice non trovato nel database,0
+Cloruro di polivinile - Rigido,852244,Codice non trovato nel database,0
+Acciaio inossidabile,852250,Codice non trovato nel database,0
+Superficie pavimento analitico,852350,Codice non trovato nel database,0
+Superficie solaio analitico,852351,Codice non trovato nel database,0
+Superficie muro analitico,852352,Codice non trovato nel database,0
+Sistema-Zone,852504,Codice non trovato nel database,0
+Vani analitici,852509,Codice non trovato nel database,0
+Muri esterni,852511,Codice non trovato nel database,0
+Tetti,852513,Codice non trovato nel database,0
+Solai di fondazione,852515,Codice non trovato nel database,0
+Muri interni,852517,Codice non trovato nel database,0
+Pavimenti interni,852519,Codice non trovato nel database,0
+Controsoffitti,852521,Codice non trovato nel database,0
+Superfici d'aria,852523,Codice non trovato nel database,0
+Muri interrati,852525,Codice non trovato nel database,0
+Finestre apribili,852527,Codice non trovato nel database,0
+Lucernari apribili,852529,Codice non trovato nel database,0
+Porte scorrevoli,852531,Codice non trovato nel database,0
+Aperture di aerazione,852533,Codice non trovato nel database,0
+Ombre,852535,Codice non trovato nel database,0
+Dynamo,852541,Codice non trovato nel database,0
+DynamoError,852542,Codice non trovato nel database,0
+Fase-Demo,852629,Codice non trovato nel database,0
+Fase-Esistente,852630,Codice non trovato nel database,0
+Fase-Temporaneo,852631,Codice non trovato nel database,0
+Sistemi-zone,852632,Codice non trovato nel database,0
+Superficie analitica - Muri esterni,852634,Codice non trovato nel database,0
+Superficie analitica - Tetti,852636,Codice non trovato nel database,0
+Superficie analitica - Solaio di fondazione,852638,Codice non trovato nel database,0
+Superficie analitica - Muri interni,852640,Codice non trovato nel database,0
+Superficie analitica - Pavimenti interni,852642,Codice non trovato nel database,0
+Superficie analitica - Controsoffitti,852644,Codice non trovato nel database,0
+Superficie analitica - Superfici d'aria,852646,Codice non trovato nel database,0
+Superficie analitica - Muri interrati,852648,Codice non trovato nel database,0
+Superficie analitica - Finestre apribili,852650,Codice non trovato nel database,0
+Superficie analitica - Lucernari apribili,852652,Codice non trovato nel database,0
+Superficie analitica - Porte scorrevoli,852654,Codice non trovato nel database,0
+Superficie analitica - Aperture di aerazione,852656,Codice non trovato nel database,0
+Superficie analitica - Avvolgibili,852658,Codice non trovato nel database,0
+Materiale per il rendering 255-255-255,852699,Codice non trovato nel database,0
+Materiale per il rendering 255-0-0,852700,Codice non trovato nel database,0
+Materiale per il rendering 0-0-255,852701,Codice non trovato nel database,0
+Materiale per il rendering 38-38-126,852702,Codice non trovato nel database,0
+Materiale per il rendering 255-255-0,852703,Codice non trovato nel database,0
+PVC - Bianco,852704,Codice non trovato nel database,0
+Liscia - Blu marina,852705,Codice non trovato nel database,0
+Liscia - Verde mare scuro,852706,Codice non trovato nel database,0
+Liscia - Nero,852707,Codice non trovato nel database,0
+Liscia - Rosso,852708,Codice non trovato nel database,0
+Soletta di default,852711,Codice non trovato nel database,0
+Materiale per il rendering 101-101-101,852712,Codice non trovato nel database,0
+Materiale per il rendering 0-255-255,852713,Codice non trovato nel database,0
+Materiale per il rendering 255-0-255,852714,Codice non trovato nel database,0
+Materiale per il rendering 0-191-255,852715,Codice non trovato nel database,0
+Materiale per il rendering 165-0-82,852716,Codice non trovato nel database,0
+Materiale per il rendering 0-127-0,852717,Codice non trovato nel database,0
+Materiale per il rendering 102-102-102,852718,Codice non trovato nel database,0
+Materiale per il rendering 0-0-0,852781,Codice non trovato nel database,0
+Materiale per il rendering 128-128-128,852782,Codice non trovato nel database,0
+Materiale per il rendering 127-0-255,852786,Codice non trovato nel database,0
+Plastic - UTC Edwards - White,852790,Codice non trovato nel database,0
+Plastic - UTC Edwards - Red,852791,Codice non trovato nel database,0
+Glass - UTC Edwards - Clear,852799,Codice non trovato nel database,0
+Steel - UTC Edwards -  Chrome,852803,Codice non trovato nel database,0
+Color RGB 249-249-249,852812,Codice non trovato nel database,0
+Color RGB 155-163-166,852813,Codice non trovato nel database,0
+Color RGB 209-209-209,852814,Codice non trovato nel database,0
+Xtech_Bosch_Blue,852823,Numero campi errato,0
+Xtech_Bosch_Blue,852823,Codice non trovato nel database,0
+Xtech_Bosch_ABS_White,852824,Numero campi errato,0
+Xtech_Bosch_ABS_White,852824,Codice non trovato nel database,0
+Default - Arredi,852828,Codice non trovato nel database,0
+Default - Controsoffitto,852829,Codice non trovato nel database,0
+Default - Finestre,852830,Codice non trovato nel database,0
+Default - Calcestruzzo,852831,Codice non trovato nel database,0
+Default - Vetro,852832,Codice non trovato nel database,0
+Default - Tetto,852833,Codice non trovato nel database,0
+Default - Topografia,852834,Codice non trovato nel database,0
+Materiale per il rendering 0-255-191,852841,Codice non trovato nel database,0
+Materiale per il rendering 127-0-0,852842,Codice non trovato nel database,0
+Materiale per il rendering 165-0-0,852843,Codice non trovato nel database,0
+Materiale per il rendering 0-127-31,852844,Codice non trovato nel database,0
+Materiale per il rendering 255-191-0,852845,Codice non trovato nel database,0
+Materiale per il rendering 0-127-255,852846,Codice non trovato nel database,0
+Materiale per il rendering 255-127-0,852847,Codice non trovato nel database,0
+Materiale per il rendering 0-165-0,852848,Codice non trovato nel database,0
+Plastic-Hill-Rom-Cream,852849,Codice non trovato nel database,0
+Display-Hill-Rom-SVGA,852851,Codice non trovato nel database,0
+Materiale per il rendering 0-63-255,852860,Codice non trovato nel database,0
+Materiale per il rendering 82-124-165,852861,Codice non trovato nel database,0
+Aluminum_RAL7035,852865,Numero campi errato,0
+Aluminum_RAL7035,852865,Codice non trovato nel database,0
+HighImpactABS_RAL7035,852867,Numero campi errato,0
+HighImpactABS_RAL7035,852867,Codice non trovato nel database,0
+JBL - Steel - Black Mat,852873,Codice non trovato nel database,0
+JBL - Grid - Black,852875,Codice non trovato nel database,0
+2dsblk,852879,Codice non trovato nel database,0
+matMaintenanceZone,852880,Codice non trovato nel database,0
+Materiale per il rendering 127-255-127 COLORATO PRISMA,852891,Codice non trovato nel database,0
+Coupe,852918,Codice non trovato nel database,0
+EV001108 - polyoléfine,852919,Codice non trovato nel database,0
+Acciaio,852928,Codice non trovato nel database,0
+Materiale per il rendering 191-127-255,852936,Codice non trovato nel database,0
+Render Material 255-255-0,852955,Codice non trovato nel database,0
+Render Material 0-255-255,852956,Codice non trovato nel database,0
+Render Material 255-255-255,852957,Codice non trovato nel database,0
+Scame - Termoplastico - RAL 7004,852960,Codice non trovato nel database,0
+Scame - Termoplastico - Bianco,852968,Codice non trovato nel database,0
+Scame - Termoplastico - Blu,852969,Codice non trovato nel database,0
+Scame - Termoplastico - Giallo,852970,Codice non trovato nel database,0
+Scame - Termoplastico - Grigio,852971,Codice non trovato nel database,0
+Scame - Termoplastico - Rosso,852972,Codice non trovato nel database,0
+Scame - Termoplastico - Verde,852973,Codice non trovato nel database,0
+Scame - Termoplastico - Viola,852974,Codice non trovato nel database,0
+Scame - Termoplastico - Nero,852977,Codice non trovato nel database,0
+Scame - Termoplastico - Trasparente,852980,Codice non trovato nel database,0
+Materiale per il rendering 192-192-192,852984,Codice non trovato nel database,0
+Aluminum 3003-H14,852987,Codice non trovato nel database,0
+Materiale per il rendering 255-63-0,853003,Codice non trovato nel database,0
+Materiale per il rendering 255-191-127,853004,Codice non trovato nel database,0
+Plastic,853008,Codice non trovato nel database,0
+"PVC, Flexible",853013,Codice non trovato nel database,0
+Polycarbonate 94V-2,853017,Codice non trovato nel database,0
+"Plastic, Transparent",853019,Codice non trovato nel database,0
+Materiale per il rendering 38-0-0,853020,Codice non trovato nel database,0
+Materiale per il rendering 0-57-76,853021,Codice non trovato nel database,0
+Materiale per il rendering 0-255-0,853022,Codice non trovato nel database,0
+Materiale per il rendering 165-165-82,853023,Codice non trovato nel database,0
+Materiale per il rendering 127-191-255,853024,Codice non trovato nel database,0
+Materiale per il rendering 127-0-95,853025,Codice non trovato nel database,0
+Materiale per il rendering 204-204-204,853026,Codice non trovato nel database,0
+Materiale per il rendering 153-153-153,853027,Codice non trovato nel database,0
+Materiale per il rendering 31-127-0,853028,Codice non trovato nel database,0
+DIS_Light_Source,853030,Numero campi errato,0
+DIS_Light_Source,853030,Codice non trovato nel database,0
+DIS_Grey,853032,Numero campi errato,0
+DIS_Grey,853032,Codice non trovato nel database,0
+Materiale per il rendering 127-63-0,853036,Codice non trovato nel database,0
+Materiale per il rendering 38-9-0,853037,Codice non trovato nel database,0
+DIS_White,853041,Numero campi errato,0
+DIS_White,853041,Codice non trovato nel database,0
+"Vetro, Vetratura trasparente",853049,Codice non trovato nel database,0
+Plastica PPS,853050,Codice non trovato nel database,0
+"Alluminio, Rosso anodizzato",853051,Codice non trovato nel database,0
+Materiale per il rendering 0-165-82,853054,Codice non trovato nel database,0
+Materiale per il rendering 255-0-127,853055,Codice non trovato nel database,0
+CLEARANCE,853056,Codice non trovato nel database,0
+Glas unsichtbar,853057,Codice non trovato nel database,0
+Materiale per il rendering 63-127-63,853059,Codice non trovato nel database,0
+Color RGB 255-255-255,853062,Codice non trovato nel database,0
+Color RAL 3020,853063,Codice non trovato nel database,0
+Color RGB 020-020-020,853064,Codice non trovato nel database,0
+Vetro Rosso,853066,Codice non trovato nel database,0
+Vetro Verde),853067,Codice non trovato nel database,0
+Plastic - Urmet Plastic - RAL9003 - Gloss,853084,Codice non trovato nel database,0
+Screen - Urmet Screen - Mat,853086,Codice non trovato nel database,0
+Materiale __RGBA_1.000_1.000_1.000,853087,Numero campi errato,0
+Materiale __RGBA_1.000_1.000_1.000,853087,Codice non trovato nel database,0
+Materiale __RGBA_0.695_0.743_0.790,853088,Numero campi errato,0
+Materiale __RGBA_0.695_0.743_0.790,853088,Codice non trovato nel database,0
+Plastic - Vivotek - White,853102,Codice non trovato nel database,0
+Glass - Vivotel - Clear,853103,Codice non trovato nel database,0
+Rete,853106,Codice non trovato nel database,0
+"Resina acetalica, Bianco",853107,Codice non trovato nel database,0
+Ferro ROSSO,853113,Codice non trovato nel database,0
+"Ferro, Fuso",853114,Codice non trovato nel database,0
+Alluminio 5052-H38,853209,Codice non trovato nel database,0
+"Ferro, Ghisa grigia ASTM A48 Grado 20",853213,Codice non trovato nel database,0
+"Hilti - Steel, Galvanized",853214,Codice non trovato nel database,0
+Aluminum - Lumos Solar - Black,853295,Codice non trovato nel database,0
+Metal - Lumos Solar - Stainless Steel,853296,Codice non trovato nel database,0
+Glass - Lumos Solar - Clear,853299,Codice non trovato nel database,0
+Monocrystalline - Lumos Solar - Black,853304,Codice non trovato nel database,0
+KPK - Lumos Solar - Black,853305,Codice non trovato nel database,0
+TPT - Lumos Solar - Clear,853306,Codice non trovato nel database,0
+TPO - Lumos Solar - Clear,853307,Codice non trovato nel database,0
+Plasterboard,853388,Codice non trovato nel database,0
+Ottone,853389,Codice non trovato nel database,0
+MT_ClearanceZone,853469,Numero campi errato,0
+MT_ClearanceZone,853469,Codice non trovato nel database,0
+MT_Equipment,853470,Numero campi errato,0
+MT_Equipment,853470,Codice non trovato nel database,0
+Metal,853478,Codice non trovato nel database,0
+Zona di rispetto,853479,Codice non trovato nel database,0
+Vetro MT,853480,Codice non trovato nel database,0
+Phase-Demo,853481,Codice non trovato nel database,0
+Phase-Exist,853482,Codice non trovato nel database,0
+Phase-Temp,853483,Codice non trovato nel database,0
+Analytical Floor Surface,853484,Codice non trovato nel database,0
+Analytical Slab Surface,853485,Codice non trovato nel database,0
+Analytical Wall Surface,853486,Codice non trovato nel database,0
+JMC Group - Acciaio - Acciaio inossidabile satinato,853510,Codice non trovato nel database,0
+JMC Group - Acciaio - Blu Mediterraneo - RAL 5012,853512,Codice non trovato nel database,0
+JMC Group - Acciaio - Blu Garda - RAL 5011,853514,Codice non trovato nel database,0
+JMC Group - Acciaio - Nero Stromboli - RAL 9005,853516,Codice non trovato nel database,0
+JMC Group - Acciaio - Grigio Dolomiti - RAL 7035,853518,Codice non trovato nel database,0
+JMC Group - Acciaio - Bianco Carrara - RAL 9016,853520,Codice non trovato nel database,0
+JMC Group - Plastic - Schermo 1,853522,Codice non trovato nel database,0
+JMC Group - Plastica - Lettore NFC,853523,Codice non trovato nel database,0
+White,853529,Codice non trovato nel database,0
+Blue,853530,Codice non trovato nel database,0
+Steel,853536,Codice non trovato nel database,0
+Yellow,853538,Codice non trovato nel database,0
+Comelit_Clearance,853550,Numero campi errato,0
+Comelit_Clearance,853550,Codice non trovato nel database,0
+Comelit_Display,853551,Numero campi errato,0
+Comelit_Display,853551,Codice non trovato nel database,0
+Comelit_Acciaio,853553,Numero campi errato,0
+Comelit_Acciaio,853553,Codice non trovato nel database,0
+Comelit_Acciaio LUCIDATO,853557,Numero campi errato,0
+Comelit_Acciaio LUCIDATO,853557,Codice non trovato nel database,0
+Clearance Areas,853560,Codice non trovato nel database,0
+"Acciaio, 55-450",853565,Codice non trovato nel database,0
+Parete container,853566,Codice non trovato nel database,0
+Basamento acciaio,853570,Codice non trovato nel database,0
+"Quadro elettrico Plastica, Bianca",853571,Codice non trovato nel database,0
+Attrezzatura GE,853572,Codice non trovato nel database,0
+Motore gruppo elettrogeno,853573,Codice non trovato nel database,0
+Условный материал-отделка,854315,Codice non trovato nel database,0
+Стадия - Снос,854316,Codice non trovato nel database,0
+Стадия - Существующие,854317,Codice non trovato nel database,0
+Стадия - Временные,854318,Codice non trovato nel database,0
+Условный материал - отделка,854319,Codice non trovato nel database,0
+NE,854341,Codice non trovato nel database,0
+AL,854342,Codice non trovato nel database,0
+Box,854343,Codice non trovato nel database,0
+Direction,854349,Codice non trovato nel database,0
+EAE Elektrik_Busbar,854350,Numero campi errato,0
+EAE Elektrik_Busbar,854350,Codice non trovato nel database,0
+ProductID,854351,Codice non trovato nel database,0
+Label,854386,Codice non trovato nel database,0
+Module_Name,854387,Numero campi errato,0
+Module_Name,854387,Codice non trovato nel database,0
+Direction_Error,854388,Numero campi errato,0
+Direction_Error,854388,Codice non trovato nel database,0
+Tap-off,854389,Codice non trovato nel database,0
+EAE Elektrik Busbar,854401,Codice non trovato nel database,0
+Poche1,2050557,Codice non trovato nel database,0
+Poche,2063195,Codice non trovato nel database,0
+Default,2122365,Codice non trovato nel database,0
+Render Material 204-204-204,2233177,Codice non trovato nel database,0
+Render Material 127-191-255,2233178,Codice non trovato nel database,0
+Trasparente,2281320,Codice non trovato nel database,0
+MaintenanceZone,2919429,Codice non trovato nel database,0
+Render Material 255-0-255,3389044,Codice non trovato nel database,0
+Ortbeton - bewehrt Verputzt,3448107,Codice non trovato nel database,0
+Kunststoff - grau 70-70-70,3448111,Codice non trovato nel database,0
+Holz - generisch 140-100-70,3448112,Codice non trovato nel database,0
+Glas - Isolierverglasung Bronze,3448115,Codice non trovato nel database,0
+Analytisch - Geschoßdecke,3448116,Codice non trovato nel database,0
+Analytisch - Fundamentplatte,3448117,Codice non trovato nel database,0
+Analytisch - Wand,3448118,Codice non trovato nel database,0
+Glas - Isolierverglasung klar,3448120,Codice non trovato nel database,0
+Umgebung - Gras,3448121,Codice non trovato nel database,0
+Körpermodell - Öffnung,3448122,Codice non trovato nel database,0
+Körpermodell - Schattierung,3448123,Codice non trovato nel database,0
+Körpermodell - Außenwand,3448124,Codice non trovato nel database,0
+Körpermodell - Innenwand,3448125,Codice non trovato nel database,0
+Körpermodell - Zone,3448126,Codice non trovato nel database,0
+Körpermodell - Verglasung,3448127,Codice non trovato nel database,0
+Körpermodell - Dachverglasung,3448128,Codice non trovato nel database,0
+Körpermodell - Körpergeschoss,3448129,Codice non trovato nel database,0
+Körpermodell,3448130,Codice non trovato nel database,0
+Metall - Baustahl S355,3448133,Codice non trovato nel database,0
+Metall - Betonstahl B500 A,3448135,Codice non trovato nel database,0
+Metall - Betonstahl B500 B,3448136,Codice non trovato nel database,0
+Lack - grau 80-80-80,3448139,Codice non trovato nel database,0
+Standard,3448144,Codice non trovato nel database,0
+Standardwand,3448145,Codice non trovato nel database,0
+Systemzonen,3448146,Codice non trovato nel database,0
+Unterirdische Wände,3448147,Codice non trovato nel database,0
+Außenwände,3448186,Codice non trovato nel database,0
+Bewegliche Dachfenster,3448187,Codice non trovato nel database,0
+Bewegliche Fenster,3448188,Codice non trovato nel database,0
+Decken,3448189,Codice non trovato nel database,0
+Dächer,3448190,Codice non trovato nel database,0
+Eingemessene Platten,3448191,Codice non trovato nel database,0
+Berechnete Räume,3448192,Codice non trovato nel database,0
+Unterirdische Platten,3448194,Codice non trovato nel database,0
+Unterirdische Decken,3448195,Codice non trovato nel database,0
+Schiebetüren,3448196,Codice non trovato nel database,0
+Türen außer Schiebetüren,3448197,Codice non trovato nel database,0
+Schattierungen,3448198,Codice non trovato nel database,0
+Luftöffnungen,3448199,Codice non trovato nel database,0
+Luftflächen,3448200,Codice non trovato nel database,0
+Innenwände,3448201,Codice non trovato nel database,0
+Geschossdecken innen,3448202,Codice non trovato nel database,0
+Festverglaste Fenster,3448203,Codice non trovato nel database,0
+Festverglaste Dachfenster,3448204,Codice non trovato nel database,0
+Erhöhte Geschossdecken,3448205,Codice non trovato nel database,0
+Glas,3448211,Codice non trovato nel database,0
+Standard - Lichtquelle,3448212,Codice non trovato nel database,0
+Geschossdecke (analytisch) - Oberfläche,3448213,Codice non trovato nel database,0
+Wand (analytisch) - Oberfläche,3448214,Codice non trovato nel database,0
+Platte (analytisch) - Oberfläche,3448215,Codice non trovato nel database,0
+Site - Grass,3448529,Codice non trovato nel database,0
+Default Mass,3448530,Codice non trovato nel database,0
+Metal - Bronze,3448531,Codice non trovato nel database,0
+Render Material 255-0-0,3530221,Codice non trovato nel database,0
+Render Material 0-0-255,3530222,Codice non trovato nel database,0
+Render Material 38-38-126,4069549,Codice non trovato nel database,0
+Render Material 0-127-0,4299533,Codice non trovato nel database,0
+Analytical Panels,4349619,Codice non trovato nel database,0
+Electrical Analytical Loads,4349708,Codice non trovato nel database,0
+Pannelli analitici,4358544,Codice non trovato nel database,0
+Carichi analitici elettrici,4358546,Codice non trovato nel database,0
+Color RAL 7035,4375186,Codice non trovato nel database,0
+Color RGB 218-227-224,4375189,Codice non trovato nel database,0
+Color RGB 173-196-207,4375201,Codice non trovato nel database,0
+Color RGB 075-109-145,4375202,Codice non trovato nel database,0
+Color RGB 050-050-050,4375203,Codice non trovato nel database,0
+Color RGB 080-080-080,4375205,Codice non trovato nel database,0
+Color RGB 128-134-182,4375207,Codice non trovato nel database,0
+Color RGB 165-165-165,4375208,Codice non trovato nel database,0
+Color RGB 082-082-082,4375210,Codice non trovato nel database,0
+Color RGB 064-082-100,4375213,Codice non trovato nel database,0
+Thermoplastic Resin,4382931,Codice non trovato nel database,0
+"Steel, Non-Alloy",4382933,Codice non trovato nel database,0
+RAL 7035,4382987,Codice non trovato nel database,0
+Materiale per il rendering 82-0-165,4406464,Codice non trovato nel database,0
+Materiale per il rendering 82-165-124,4406467,Codice non trovato nel database,0
+Materiale per il rendering 127-255-127,4406476,Codice non trovato nel database,0
+Materiale per il rendering 165-82-0,4406481,Codice non trovato nel database,0
+Materiale per il rendering 165-165-0,4406484,Codice non trovato nel database,0
+Materiale per il rendering 255-255-127,4406487,Codice non trovato nel database,0
+Materiale per il rendering 255-127-127,4406490,Codice non trovato nel database,0
+Materiale per il rendering 191-255-127,4406497,Codice non trovato nel database,0
+Materiale per il rendering 127-255-0,4406500,Codice non trovato nel database,0
+Materiale per il rendering 255-127-255,4406503,Codice non trovato nel database,0
+Materiale per il rendering 165-82-82,4406516,Codice non trovato nel database,0
+Materiale per il rendering 127-255-255,4406521,Codice non trovato nel database,0
+Materiale per il rendering 124-165-0,4406568,Codice non trovato nel database,0
+Materiale per il rendering 223-127-255,4406583,Codice non trovato nel database,0
+Materiale per il rendering 127-255-191,4406614,Codice non trovato nel database,0
+Materiale per il rendering 57-76-38,4406739,Codice non trovato nel database,0
+Materiale per il rendering 0-255-63,4406824,Codice non trovato nel database,0
+Materiale per il rendering 82-165-165,4406861,Codice non trovato nel database,0
+Render Material 82-165-124,4426976,Codice non trovato nel database,0
+Render Material 255-127-0,4426979,Codice non trovato nel database,0
+Render Material 165-165-0,4426982,Codice non trovato nel database,0
+Render Material 255-255-127,4426985,Codice non trovato nel database,0
+Render Material 255-127-127,4426988,Codice non trovato nel database,0
+Render Material 255-191-127,4426991,Codice non trovato nel database,0
+Render Material 165-82-82,4426996,Codice non trovato nel database,0
+Render Material 82-0-165,4426999,Codice non trovato nel database,0
+Render Material 165-0-0,4427010,Codice non trovato nel database,0
+Render Material 127-255-127,4427013,Codice non trovato nel database,0
+Render Material 128-128-128,4427020,Codice non trovato nel database,0
+Render Material 127-127-255,4427031,Codice non trovato nel database,0
+Render Material 0-63-255,4427038,Codice non trovato nel database,0
+Render Material 0-127-255,4427041,Codice non trovato nel database,0
+Render Material 255-191-0,4427044,Codice non trovato nel database,0
+Render Material 0-255-0,4427047,Codice non trovato nel database,0
+Render Material 192-192-192,4427050,Codice non trovato nel database,0
+Render Material 165-165-82,4427055,Codice non trovato nel database,0
+Render Material 82-165-165,4427066,Codice non trovato nel database,0
+Render Material 153-153-153,4427076,Codice non trovato nel database,0
+Render Material 0-165-165,4427665,Codice non trovato nel database,0
+Render Material 165-82-165,4427683,Codice non trovato nel database,0
+Render Material 127-255-255,4430941,Codice non trovato nel database,0
+Render Material 0-165-0,4430970,Codice non trovato nel database,0
+Render Material 255-127-255,4430988,Codice non trovato nel database,0
+Render Material 191-255-127,4430993,Codice non trovato nel database,0
+Render Material 102-102-102,4431001,Codice non trovato nel database,0
+Render Material 101-101-101,4431014,Codice non trovato nel database,0
+Poche,4432306,Codice non trovato nel database,0
+Default,4432307,Codice non trovato nel database,0
+Render Material 127-255-0,4432311,Codice non trovato nel database,0
+Render Material 165-82-0,4432312,Codice non trovato nel database,0
+Render Material 127-255-191,4432313,Codice non trovato nel database,0
+Render Material 255-127-191,4432314,Codice non trovato nel database,0
+Materiale per il rendering 165-82-165,4449812,Codice non trovato nel database,0
+Materiale per il rendering 0-165-165,4449840,Codice non trovato nel database,0
+Materiale per il rendering 255-127-159,4476924,Codice non trovato nel database,0
+Materiale per il rendering 76-57-0,4476939,Codice non trovato nel database,0
+Materiale per il rendering 63-0-127,4476944,Codice non trovato nel database,0
+Materiale per il rendering 63-127-0,4476949,Codice non trovato nel database,0
+Materiale per il rendering 76-38-47,4476952,Codice non trovato nel database,0
+Materiale per il rendering 38-76-38,4477275,Codice non trovato nel database,0
+Materiale per il rendering 76-0-0,4477477,Codice non trovato nel database,0
