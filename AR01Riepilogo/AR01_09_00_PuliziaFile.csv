@@ -3,7 +3,7 @@ ID,Raggruppamento,Descrizione,Formato,Percentuale
 22,Integrità e pulizia file,I file nativo e IFC sono salvati nella versione e nel formato previsti dal pGI,Nativo + ifc,100%
 23,Integrità e pulizia file,Presenza a modello di tutti gli elaborati prodotti correttamente rinominati rispetto alle indicazioni del pGI ,Nativo,-
 24,Integrità e pulizia file,Non sono presenti elementi completamente sovrapposti tra loro,ifc,-
-25,Integrità e pulizia file,Le IfcClass e i PredefinedType sono correttamente mappati rispetto alle categorie degli elementi del file nativo. Come da mappatura allegata al pGI e presente nel PIR,ifc,-
+25,Integrità e pulizia file,Le IfcClass e i PredefinedType sono correttamente mappati rispetto alle categorie degli elementi del file nativo. Come da mappatura allegata al pGI e presente nel PIR,ifc,0%
 26,Integrità e pulizia file,Impostazione vista "Starting View" in modello con informazioni relative al progetto tra cui revisione del modello e ultime modifiche,Nativo,75%
 30,Integrità e pulizia file,Non sono presenti livelli inutilizzati e/o superflui,ifc,-
 31,Integrità e pulizia file,Non sono presenti elementi in classe IfcBuildingElementProxy non preventivamente concordati con AdB,ifc,-

@@ -1,7 +1,7 @@
 ID,Raggruppamento,Descrizione,Formato,Percentuale
 37,Verifica Informativa,La compilazione dei parametri relativi alle Informazioni di progetto è completa e conforme a quanto indicato nel pGI,ifc,-
 38,Verifica Informativa,Il modello IFC esportato dal file nativo contiene tutti i parametri previsti nel pGI,ifc,-
-39,Verifica Informativa,Assegnazione della fase corretta agli elementi del modello ,ifc,-
+39,Verifica Informativa,Assegnazione della fase corretta agli elementi del modello ,ifc,100%
 41,Verifica Informativa,Il parametro IFCExportAs è congruente alle specifiche del pGI,Nativo,96.05%
 42,Verifica Informativa,"Le entità IfcProject, IfcSite, IfcBuilding, IfcBuildingStorey, IfcSpace, IfcSystem e IfcElementAssembly sono valorizzati come da specifiche riportate nel Pgi e PIR",ifc,-
 44,Verifica Informativa,Sono stati valorizzati tutti i parametri obbligatori presenti nell'allegato LOIN del pGI,ifc,-
