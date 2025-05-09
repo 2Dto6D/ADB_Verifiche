@@ -1,4 +1,4 @@
-ID,Raggruppamento,Descrizione,Percentuale,Stato
+ID,Raggruppamento,Descrizione,Formato,Percentuale
 21,Integrità e pulizia file,I file nativo e IFC rispettano la dimensione limite di 200 Mb,Nativo + ifc,100%
 22,Integrità e pulizia file,I file nativo e IFC sono salvati nella versione e nel formato previsti dal pGI,Nativo + ifc,100%
 23,Integrità e pulizia file,Presenza a modello di tutti gli elaborati prodotti correttamente rinominati rispetto alle indicazioni del pGI ,Nativo,-
