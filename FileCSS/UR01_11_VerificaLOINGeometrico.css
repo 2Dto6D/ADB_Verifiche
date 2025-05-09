@@ -1,0 +1,112 @@
+/* Stili per tabelle */
+.VerificaLOINGeometrico,
+.CorrispondenzaIFCTabella {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.VerificaLOINGeometrico th,
+.CorrispondenzaIFCTabella th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.VerificaLOINGeometrico td,
+.CorrispondenzaIFCTabella td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}
+/* Colori per stato */
+.checked-row {
+background-color: #d4edda;
+}
+
+.unchecked-row {
+background-color: #f8d7da;
+}
+
+/* Stili per checkbox disabilitati */
+input[type="checkbox"][disabled] {
+opacity: 1;
+background-color: white;
+border: 2px solid white;
+border-radius: 3px;
+}
+
+input[type="checkbox"][disabled] {
+appearance: none;
+width: 16px;
+height: 16px;
+background-color: #d4edda;
+border: 2px solid #d4edda;
+border-radius: 3px;
+display: inline-block;
+position: relative;
+}
+
+input[type="checkbox"][disabled]:checked {
+background-color: #008000;
+border: 2px solid #008000;
+}
+
+input[type="checkbox"][disabled]:not(:checked) {
+background-color: #ff6384;
+border: 2px solid #ff6384;
+}
+
+input[type="checkbox"][disabled]:checked::after {
+content: "✓";
+color: white;
+font-size: 12px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+input[type="checkbox"][disabled]:not(:checked)::after {
+content: "X";
+color: white;
+font-size: 12px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+.pagination-CorrispondenzaIFC {
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.pagination-CorrispondenzaIFC button {
+margin: 0 10px;
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+background-color: lightgray;
+cursor: pointer;
+}
+
+.pagination-CorrispondenzaIFC button:hover {
+background-color: gray;
+}
+
+.pagination-CorrispondenzaIFC button:active {
+background-color: #ccc;
+}
+
+/* Grafico a torta */
+#CorrispondenzaIFCGraficoATorta {
+max-width: 25%; /* Limita la larghezza massima al 70% del contenitore */
+width: 25%; /* Imposta la larghezza al 70% del contenitore */
+margin: 0 auto; /* Centra il grafico */
+display: block; /* Visualizzazione in blocco */
+}

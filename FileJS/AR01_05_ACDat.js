@@ -2,9 +2,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     const tablesToLoad = [
         { tableId: "ACDat", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Riepilogo/AR01_05_00_ACDat.csv" },
-        { tableId: "AperturaFile", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_05_00_AperturaFile.csv" },
+        { tableId: "AperturaFile", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_05_01_AperturaFile.csv" },
         { tableId: "NomenclaturaFile", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_05_02_DimensioneNomenclaturaFile_Data.csv" },
-        { tableId: "Report", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_05_03_Report.csv" }
+        { tableId: "Documenti", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_05_03_Documenti.csv" },
+        { tableId: "Report", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_05_04_Report.csv" }
     ];
 
     tablesToLoad.forEach(table => {

@@ -235,4 +235,3 @@ function loadCSVToTable(tableId, repo, filePath) {
             <p><strong>Verifiche incorrette:</strong> ${incorrect}</p>
         `;
     }
-    

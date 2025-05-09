@@ -1,7 +1,7 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
-    loadCSV('TipoCampo', '2Dto6D/ADB_Verifiche', 'FileCSVVerifiche/Campo1_Data.csv');
-    loadCSV('NomenclaturaParametri', '2Dto6D/ADB_Verifiche', 'FileCSVVerifiche/12_02_NomenclaturaParametri_Data.csv');
+    loadCSV('TipoCampo', '2Dto6D/ADB_Verifiche', '');
+    loadCSV('NomenclaturaParametri', '2Dto6D/ADB_Verifiche', '');
     loadCSV('NomenclaturaMateriali', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/AR01_12_00_NomenclaturaMateriali_Data.csv');
     loadCSV('FaseErrata', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/AR01_12_00_FaseErrata_Data.csv');
     const tablesToLoad = [
@@ -16,13 +16,13 @@ document.addEventListener("DOMContentLoaded", function () {
             canvasId: 'TipoCampoGraficoATorta',
             statsId: 'TipoCampostatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'FileCSVVerifiche/Campo1_Data.csv'
+            filePath: ''
         },
         {
             canvasId: 'NomenclaturaParametriGraficoATorta',
             statsId: 'NomenclaturaParametristatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'FileCSVVerifiche/12_02_NomenclaturaParametri_Data.csv'
+            filePath: ''
         },
         {
             canvasId: 'NomenclaturaMaterialiGraficoATorta',
@@ -351,13 +351,13 @@ function loadHistogramFromCSV({ csvUrl, chartId, statsId, title }) {
                 }
             });
             // Mostra riepilogo statistico
-            displayStatistics(parsedData, statsId);
+            displayStatisticsHistogram(parsedData, statsId);
         })
         .catch(error => console.error('Errore:', error));
 }
 
 // Funzione per mostrare il riepilogo statistico sotto l'istogramma
-function displayStatistics(data, statsId) {
+function displayStatisticsHistogram(data, statsId) {
     const statsContainer = document.getElementById(statsId);
     if (!statsContainer) {
         console.error(`Elemento con ID ${statsId} non trovato`);

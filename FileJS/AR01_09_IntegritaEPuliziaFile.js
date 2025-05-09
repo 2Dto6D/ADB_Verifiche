@@ -1,19 +1,22 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
     loadCSV('ParametriCondivisi', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/AR01_09_00_SharedParameters_Data.csv');
+    loadCSV('CorrispondenzaIFC', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/AR01_09_00_VerificaCorrispondenzaIFC.csv');
     const tablesToLoad = [
         { tableId: "IntegritàEPuliziaFile", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Riepilogo/AR01_09_00_PuliziaFile.csv" },
         { tableId: "PesoFile", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_09_00_200mb.csv" },
         { tableId: "VersioneFile", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_09_00_VersioneFile_Data.csv" },
-        { tableId: "StartingView", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_09_00_StartingView.csv" },
+        { tableId: "StartingView", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_09_00_StartingView_Data.csv" },
         { tableId: "Workset", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_09_00_PresenzaWorkset.csv" },
+        { tableId: "IFCMapping", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_09_00_IFCMapping.csv" }
     ];
 
     tablesToLoad.forEach(table => {
         loadCSVToTable(table.tableId, table.repo, table.filePath);
     });
     const summaryConfigs = [
-        { statsId: "ParametriCondivisistatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_09_00_SharedParameters_Data.csv" }
+        { statsId: "ParametriCondivisistatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_09_00_SharedParameters_Data.csv" },
+        { statsId: "CorrispondenzaIFCstatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/AR01_09_00_VerificaCorrispondenzaIFC.csv" }
     ];
 
     summaryConfigs.forEach(config => {

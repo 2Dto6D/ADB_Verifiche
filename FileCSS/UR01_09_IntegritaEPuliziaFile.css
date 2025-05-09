@@ -1,0 +1,118 @@
+/* Stili per tabelle */
+.IntegritàEPuliziaFile,
+.PesoFile,
+.VersioneFile,
+.StartingView,
+.ParametriCondivisiTabella,
+.CorrispondenzaIFCTabella,
+.Workset {
+    width: 85%;
+    table-layout: fixed;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.IntegritàEPuliziaFile th,
+.PesoFile th,
+.VersioneFile th,
+.StartingView th,
+.ParametriCondivisiTabella th,
+.CorrispondenzaIFCTabella th,
+.Workset th {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 10px;
+    word-wrap: break-word;
+}
+
+.IntegritàEPuliziaFile td,
+.PesoFile td,
+.VersioneFile td,
+.StartingView td,
+.ParametriCondivisiTabella td,
+.CorrispondenzaIFCTabella td,
+.Workset td {
+    border: 1px solid #000;
+    text-align: center;
+    padding: 8px;
+    word-wrap: break-word;
+}
+
+/* Stili per checkbox disabilitati */
+input[type="checkbox"][disabled] {
+opacity: 1;
+background-color: white;
+border: 2px solid white;
+border-radius: 3px;
+}
+
+input[type="checkbox"][disabled] {
+appearance: none;
+width: 16px;
+height: 16px;
+background-color: #d4edda;
+border: 2px solid #d4edda;
+border-radius: 3px;
+display: inline-block;
+position: relative;
+}
+
+input[type="checkbox"][disabled]:checked {
+background-color: #008000;
+border: 2px solid #008000;
+}
+
+input[type="checkbox"][disabled]:not(:checked) {
+background-color: #ff6384;
+border: 2px solid #ff6384;
+}
+
+input[type="checkbox"][disabled]:checked::after {
+content: "✓";
+color: white;
+font-size: 12px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+input[type="checkbox"][disabled]:not(:checked)::after {
+content: "X";
+color: white;
+font-size: 12px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+/* Paginazione - Bottone */
+.pagination-ParametriCondivisi,
+.pagination-CorrispondenzaIFC {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.pagination-ParametriCondivisi button,
+.pagination-CorrispondenzaIFC button {
+    margin: 0 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: lightgray;
+    cursor: pointer;
+    font-size: 16px; /* Aggiungi dimensione per migliorare la visibilità */
+}
+
+/* Stato hover e active per i bottoni */
+.pagination-ParametriCondivisi button:hover,
+.pagination-CorrispondenzaIFC button:hover {
+    background-color: gray;
+}
+
+.pagination-ParametriCondivisi button:active,
+.pagination-CorrispondenzaIFC button:active {
+    background-color: #ccc;
+}
