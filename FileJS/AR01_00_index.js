@@ -20,6 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
     chartsConfig.forEach(config => loadPieChartCSV(config));
 });
 
+
 const githubRawURL = (repo, filePath) => `https://raw.githubusercontent.com/${repo}/main/${filePath}`;
 
 function loadCSVToTable(tableId, repo, filePath) {
