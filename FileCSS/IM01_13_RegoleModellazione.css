@@ -135,8 +135,8 @@ display: block; /* Visualizzazione in blocco */
 /* Grafico a torta */
 #VerificaLocaliGraficoATorta,
 #FamiglieInPlaceGraficoATorta {
-max-width: 50%; /* Limita la larghezza massima al 70% del contenitore */
-width: 50%; /* Imposta la larghezza al 70% del contenitore */
+max-width: 25%; /* Limita la larghezza massima al 70% del contenitore */
+width: 25%; /* Imposta la larghezza al 70% del contenitore */
 margin: 0 auto; /* Centra il grafico */
 display: block; /* Visualizzazione in blocco */
 }
