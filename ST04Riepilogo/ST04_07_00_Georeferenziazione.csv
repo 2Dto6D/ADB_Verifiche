@@ -1,5 +1,5 @@
 ID,Raggruppamento,Descrizione,Formato,Percentuale
-58,Regole specifiche modellazione impiantistica,Tutti gli elementi impiantistici sono assegnati a circuiti o sistemi della disciplina a cui appartengono,ifc,0%
-59,Regole specifiche modellazione impiantistica,Assenza di estremità aperte delle reti impiantistiche,Nativo,0%
-60,Regole specifiche modellazione impiantistica,Tutti gli elementi impiantistici sono collegati tra loro,Nativo,0%
-61,Regole specifiche modellazione impiantistica,Tutti gli elementi impiantistici sono categorizzati come da indicazioni pGI,ifc,0%
+11,Georeferenziazione e Orientamento,Il sistema di coordinate è georeferenziato in longitudine e latitudine coerentemente con il sistema condivido,Nativo + ifc,100%
+12,Georeferenziazione e Orientamento,I modelli disciplinari sono posizionati alla corretta quota altimetrica,Nativo + ifc,100%
+13,Georeferenziazione e Orientamento,Il modello condivide il medesimo sistema di coordinate e si posiziona coerentemente rispetto al file URS,Nativo + ifc,100%
+14,Georeferenziazione e Orientamento,Il Nord Reale è correttamente impostato,Nativo + ifc,100%
