@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
+
 function loadCSVToTable(tableId, repo, filePath) {
     const csvUrl = `https://raw.githubusercontent.com/${repo}/main/${filePath}`;
 

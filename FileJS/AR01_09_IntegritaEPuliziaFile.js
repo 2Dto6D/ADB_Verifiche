@@ -25,6 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
+
 // Costanti e Variabili
 const rowsPerPage = 20; 
 let currentPage = {}; 

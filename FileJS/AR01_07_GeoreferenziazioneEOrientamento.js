@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
     loadCSVToTableEsito('2Dto6D/ADB_Verifiche', 'AR01Verifiche/AR01_07_02_LocationReport_Data.csv', 'LatLong');
 });
 
+
 // Funzione per caricare la tabella dal CSV
 function loadCSVToTable(tableId, repo, filePath) {
     const csvUrl = `https://raw.githubusercontent.com/${repo}/main/${filePath}`;
