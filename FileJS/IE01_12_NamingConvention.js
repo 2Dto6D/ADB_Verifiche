@@ -1,6 +1,6 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
-    loadCSV('TipoCampo', '2Dto6D/ADB_Verifiche', '');
+    loadCSV('TipoCampo', '2Dto6D/ADB_Verifiche', 'IE01_12_00_NomenclaturaElementi');
     loadCSV('NomenclaturaParametri', '2Dto6D/ADB_Verifiche', '');
     loadCSV('NomenclaturaMateriali', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/IE01_12_00_NomenclaturaMateriali_Data.csv');
     loadCSV('FaseErrata', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/IE01_12_00_FaseErrata_Data.csv');
@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
             canvasId: 'TipoCampoGraficoATorta',
             statsId: 'TipoCampostatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: ''
+            filePath: 'IE01_12_00_NomenclaturaElementi'
         },
         {
             canvasId: 'NomenclaturaParametriGraficoATorta',
