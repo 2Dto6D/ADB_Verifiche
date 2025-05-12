@@ -1,4 +1,4 @@
-Quantità,Nome File,Nome della famiglia,ID,Nome del tipo,Stato
+Quantità,Nome File,Nome della famiglia,Nome del tipo,ID,Stato
 1,9nnn_J.002_028_PE_ST_M3_02_00,INC_TelST_TS.CA_MensolaInclinata:CA-550x(520/200),INC_TelST_TS.CA_MensolaInclinata:CA-550x(520/200),721041,0
 1,9nnn_J.002_028_PE_ST_M3_02_00,INC_TelST_TS.CA_MensolaInclinata:CA-550x(520/200),INC_TelST_TS.CA_MensolaInclinata:CA-550x(520/200),721522,0
 1,9nnn_J.002_028_PE_ST_M3_02_00,INC_TelST_TS.CA_MensolaInclinata:CA-550x(520/200),INC_TelST_TS.CA_MensolaInclinata:CA-550x(520/200),721658,0
@@ -69,7 +69,6 @@ Quantità,Nome File,Nome della famiglia,ID,Nome del tipo,Stato
 1,9nnn_J.002_028_PE_ST_M3_02_00,INC_TelST_TS.CA_FondazioneRettangolareMagrone:50x78,,726096,0
 1,9nnn_J.002_028_PE_ST_M3_02_00,INC_TelST_TS.CA_FondazioneRettangolareMagrone:50x50,,726166,0
 1,9nnn_J.002_028_PE_ST_M3_02_00,INC_TelST_TS.CA_FondazioneRettangolareMagrone:50x50,,726248,0
-Qty.,Model,Type,Type Name,Tag,1
 1,9nnn_J.002_028_PE_ST_M3_02_00,ST_FON_PAL_PaloCalcestruzzo:ST_FON_PAL_PaloCalcestruzzo_600mm,,700597,1
 1,9nnn_J.002_028_PE_ST_M3_02_00,ST_FON_PAL_PaloCalcestruzzo:ST_FON_PAL_PaloCalcestruzzo_600mm,,700598,1
 1,9nnn_J.002_028_PE_ST_M3_02_00,ST_FON_PAL_PaloCalcestruzzo:ST_FON_PAL_PaloCalcestruzzo_600mm,,700599,1
