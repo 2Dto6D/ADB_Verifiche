@@ -8,9 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
         loadCSVToTable(table.tableId, table.repo, table.filePath);
     });
 
-    loadCSV('UnitaProgetto', '2Dto6D/ADB_Verifiche', 'UR01Verifiche/UR01_15_00_UnitaProgetto_Data.csv');
+    loadCSV('UnitaProgetto', '2Dto6D/ADB_Verifiche', 'UR01Verifiche/UR01_15_01_UnitaProgetto_Data.csv');
     const summaryConfigs = [
-        { statsId: "UnitaProgettostatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "UR01Verifiche/UR01_15_00_UnitaProgetto_Data.csv" }
+        { statsId: "UnitaProgettostatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "UR01Verifiche/UR01_15_01_UnitaProgetto_Data.csv" }
     ];
 
     summaryConfigs.forEach(config => {
