@@ -8,7 +8,8 @@ document.addEventListener("DOMContentLoaded", function () {
         { tableId: "VersioneFile", repo: "2Dto6D/ADB_Verifiche", filePath: "FA01Verifiche/FA01_09_00_VersioneFile_Data.csv" },
         { tableId: "StartingView", repo: "2Dto6D/ADB_Verifiche", filePath: "FA01Verifiche/FA01_09_00_StartingView_Data.csv" },
         { tableId: "Workset", repo: "2Dto6D/ADB_Verifiche", filePath: "FA01Verifiche/FA01_09_00_PresenzaWorkset.csv" },
-        { tableId: "IFCMapping", repo: "2Dto6D/ADB_Verifiche", filePath: "FA01Verifiche/FA01_09_00_IFCMapping.csv" }
+        { tableId: "IFCMapping", repo: "2Dto6D/ADB_Verifiche", filePath: "FA01Verifiche/FA01_09_00_IFCMapping.csv" },
+        { tableId: "BuildingElementProxy", repo: "2Dto6D/ADB_Verifiche", filePath: "FA01Verifiche/FA01_09_00_BuildingElementProxy.csv" }
     ];
 
     tablesToLoad.forEach(table => {
