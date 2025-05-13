@@ -112,7 +112,7 @@ function loadCSVToTable(tableId, repo, filePath) {
 
 // Tabella con Botoni 
 // Costanti e Variabili
-const rowsPerPage = 40; 
+const rowsPerPage = 180; 
 let currentPage = {}; 
 let dataOffset = {}; 
 
