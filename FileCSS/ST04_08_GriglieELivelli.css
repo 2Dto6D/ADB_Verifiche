@@ -1,7 +1,8 @@
 /* Stili per tabelle */
 .GriglieELivelli,
 .MonitorTabella,
-.NomenclaturaGriglieLivelliTabella {
+.NomenclaturaGriglieLivelliTabella,
+.LivelliMEPTabella {
     width: 90%;
     table-layout: fixed;
     margin: 0 auto;
@@ -10,7 +11,8 @@
 
 .GriglieELivelli th,
 .MonitorTabella th,
-.NomenclaturaGriglieLivelliTabella th {
+.NomenclaturaGriglieLivelliTabella th,
+.LivelliMEPTabella th {
     background-color: #f2f2f2;
     text-align: center;
     padding: 10px;
@@ -19,7 +21,8 @@
 
 .GriglieELivelli td,
 .MonitorTabella td,
-.NomenclaturaGriglieLivelliTabella td {
+.NomenclaturaGriglieLivelliTabella td,
+.LivelliMEPTabella td {
     border: 1px solid #000;
     text-align: center;
     padding: 8px;
@@ -69,14 +72,16 @@ input[type="checkbox"][disabled]:not(:checked)::after {
 }
 
 .pagination-Monitor,
-.pagination-NomenclaturaGriglieLivelli {
+.pagination-NomenclaturaGriglieLivelli,
+.pagination-LivelliMEP {
   display: flex;
   justify-content: center;
   margin-top: 30px;
 }
 
 .pagination-Monitor button,
-.pagination-NomenclaturaGriglieLivelli button {
+.pagination-NomenclaturaGriglieLivelli button,
+.pagination-LivelliMEP button {
   margin: 0 10px;
   padding: 10px 15px;
   border: none;
@@ -86,18 +91,21 @@ input[type="checkbox"][disabled]:not(:checked)::after {
 }
 
 .pagination-Monitor button:hover,
-.pagination-NomenclaturaGriglieLivelli button:hover{
+.pagination-NomenclaturaGriglieLivelli button:hover,
+.pagination-LivelliMEP button:hover { 
   background-color: gray;
 }
 
 .pagination-Monitor button:active,
-.pagination-NomenclaturaGriglieLivelli button:active {
+.pagination-NomenclaturaGriglieLivelli button:active,
+.pagination-LivelliMEP button:active {
   background-color: #ccc;
 }
 
 /* Grafico Istogramma */
 #MonitorAsBarChart,
-#NomenclaturaGriglieLivelliAsBarChart {
+#NomenclaturaGriglieLivelliAsBarChart,
+#LivelliMEPAsBarChart {
   margin: 20px auto;
   display: block;
   max-width: 90%;

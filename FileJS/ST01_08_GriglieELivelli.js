@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     loadCSV('Monitor', '2Dto6D/ADB_Verifiche', 'ST01Verifiche/ST01_08_01_CopyMonitorReport_Data.csv');
     loadCSV('NomenclaturaGriglieLivelli', '2Dto6D/ADB_Verifiche', 'ST01Verifiche/ST01_08_02_GriglieELivelli_Data.csv');
+    loadCSV('LivelliMEP', '2Dto6D/ADB_Verifiche', 'ST01Verifiche/ST01_08_00_LivelliMEP.csv');
     loadHistogramFromCSV({
         csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/ST01Verifiche/ST01_08_01_CopyMonitorReport_Data.csv',
         chartId: 'MonitorAsBarChart',
@@ -19,6 +20,12 @@ document.addEventListener('DOMContentLoaded', () => {
         csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/ST01Verifiche/ST01_08_02_GriglieELivelli_Data.csv',
         chartId: 'NomenclaturaGriglieLivelliAsBarChart',
         statsId: 'NomenclaturaGriglieLivellistatistics',
+        title: 'Istogramma delle Categorie'
+    });
+    loadHistogramFromCSV({
+        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/ST01Verifiche/ST01_08_00_LivelliMEP.csv',
+        chartId: 'LivelliMEPAsBarChart',
+        statsId: 'LivelliMEPstatistics',
         title: 'Istogramma delle Categorie'
     });
 });
@@ -277,13 +284,13 @@ function loadHistogramFromCSV({ csvUrl, chartId, statsId, title }) {
                 }
             });
             // Mostra riepilogo statistico
-            displayStatistics(parsedData, statsId);
+            displayStatisticsHistogram(parsedData, statsId);
         })
         .catch(error => console.error('Errore:', error));
 }
 
 // Funzione per mostrare il riepilogo statistico sotto l'istogramma
-function displayStatistics(data, statsId) {
+function displayStatisticsHistogram(data, statsId) {
     const statsContainer = document.getElementById(statsId);
     if (!statsContainer) {
         console.error(`Elemento con ID ${statsId} non trovato`);
