@@ -3,7 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const tablesToLoad = [
         { tableId: "VerificaInformativa", repo: "2Dto6D/ADB_Verifiche", filePath: "ST02Riepilogo/ST02_10_00_VerificaInformativa.csv" },
         { tableId: "ProjectInfo", repo: "2Dto6D/ADB_Verifiche", filePath: "ST02Verifiche/ST02_10_00_ProjectInfo.csv" },
-        { tableId: "IFCEntity", repo: "2Dto6D/ADB_Verifiche", filePath: "ST02Verifiche/ST02_10_00_IFCEntity.csv" }
+        { tableId: "IFCEntity", repo: "2Dto6D/ADB_Verifiche", filePath: "ST02Verifiche/ST02_10_00_IFCEntity.csv" },
+        { tableId: "AssegnazioneMateriali", repo: "2Dto6D/ADB_Verifiche", filePath: "ST02Verifiche/ST02_10_00_AssegnazioneMateriali.csv" }
     ];
 
     tablesToLoad.forEach(table => {

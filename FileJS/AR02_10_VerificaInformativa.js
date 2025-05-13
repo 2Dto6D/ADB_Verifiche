@@ -1,7 +1,10 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
     const tablesToLoad = [
-        { tableId: "VerificaInformativa", repo: "2Dto6D/ADB_Verifiche", filePath: "AR02Riepilogo/AR02_10_00_VerificaInformativa.csv" }
+        { tableId: "VerificaInformativa", repo: "2Dto6D/ADB_Verifiche", filePath: "AR02Riepilogo/AR02_10_00_VerificaInformativa.csv" },
+        { tableId: "ProjectInfo", repo: "2Dto6D/ADB_Verifiche", filePath: "AR02Verifiche/AR02_10_00_ProjectInfo.csv" },
+        { tableId: "IFCEntity", repo: "2Dto6D/ADB_Verifiche", filePath: "AR02Verifiche/AR02_10_00_IFCEntity.csv" },
+        { tableId: "AssegnazioneMateriali", repo: "2Dto6D/ADB_Verifiche", filePath: "AR02Verifiche/AR02_10_00_AssegnazioneMateriali.csv" }
     ];
 
     tablesToLoad.forEach(table => {
@@ -91,9 +94,9 @@ function loadCSVToTable(tableId, repo, filePath) {
 }
 
 // Costanti e Variabili
-const rowsPerPage = 20;
-let currentPage = {};
-let dataOffset = {};
+const rowsPerPage = 20; 
+let currentPage = {}; 
+let dataOffset = {}; 
 
 async function loadCSV(tableId, repo, filePath) {
     const csvUrl = githubRawURL(repo, filePath);
@@ -105,7 +108,7 @@ async function loadCSV(tableId, repo, filePath) {
         const rows = data.trim().split('\n').map(row => row.split(','));
         const tableHeader = document.getElementById(`${tableId}Header`);
         const tableBody = document.getElementById(`${tableId}Body`);
-
+        
         const statoIndex = rows[0].length - 1;
         const allVerified = rows.slice(1).every(row => row[statoIndex].trim() === '1');
 
@@ -161,7 +164,7 @@ function displayPage(tableId, page) {
 
 function createPaginationButtons(tableId) {
     const tableContainer = document.querySelector(`.${tableId}`);
-
+    
     if (!tableContainer) {
         console.error(`Contenitore per ${tableId} non trovato nel DOM`);
         return;
@@ -191,7 +194,7 @@ function createPaginationButtons(tableId) {
 // Grafico a Torta
 function loadPieChartCSV(config) {
     const csvUrl = githubRawURL(config.repo, config.filePath);
-
+    
     fetch(csvUrl)
         .then(response => {
             if (!response.ok) throw new Error('Network response was not OK');

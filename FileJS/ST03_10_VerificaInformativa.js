@@ -3,7 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const tablesToLoad = [
         { tableId: "VerificaInformativa", repo: "2Dto6D/ADB_Verifiche", filePath: "ST03Riepilogo/ST03_10_00_VerificaInformativa.csv" },
         { tableId: "ProjectInfo", repo: "2Dto6D/ADB_Verifiche", filePath: "ST03Verifiche/ST03_10_00_ProjectInfo.csv" },
-        { tableId: "IFCEntity", repo: "2Dto6D/ADB_Verifiche", filePath: "ST03Verifiche/ST03_10_00_IFCEntity.csv" }
+        { tableId: "IFCEntity", repo: "2Dto6D/ADB_Verifiche", filePath: "ST03Verifiche/ST03_10_00_IFCEntity.csv" },
+        { tableId: "AssegnazioneMateriali", repo: "2Dto6D/ADB_Verifiche", filePath: "ST03Verifiche/ST03_10_00_AssegnazioneMateriali.csv" }
     ];
 
     tablesToLoad.forEach(table => {
@@ -24,6 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
         title: 'Istogramma delle Categorie'
     });
 });
+
 const githubRawURL = (repo, filePath) => `https://raw.githubusercontent.com/${repo}/main/${filePath}`;
 
 function loadCSVToTable(tableId, repo, filePath) {

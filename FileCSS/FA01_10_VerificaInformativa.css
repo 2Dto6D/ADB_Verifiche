@@ -3,6 +3,7 @@
 .FaseErrataTabella,
 .ProjectInfo,
 .IFCEntity,
+.AssegnazioneMateriali,
 .ValorizzazioneIFCTabella {
   width: 85%;
   table-layout: fixed;
@@ -14,6 +15,7 @@
 .FaseErrataTabella th,
 .ProjectInfo th,
 .IFCEntity th,
+.AssegnazioneMateriali th,
 .ValorizzazioneIFCTabella th {
   background-color: #f2f2f2;
   text-align: center;
@@ -25,6 +27,7 @@
 .FaseErrataTabella td,
 .ProjectInfo td,
 .IFCEntity td,
+.AssegnazioneMateriali td,
 .ValorizzazioneIFCTabella td {
   border: 1px solid #000;
   text-align: center;
