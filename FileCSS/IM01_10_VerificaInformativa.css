@@ -2,6 +2,7 @@
 .VerificaInformativa,
 .FaseErrataTabella,
 .ProjectInfo,
+.IFCEntity,
 .ValorizzazioneIFCTabella {
   width: 85%;
   table-layout: fixed;
@@ -12,6 +13,7 @@
 .VerificaInformativa th,
 .FaseErrataTabella th,
 .ProjectInfo th,
+.IFCEntity th,
 .ValorizzazioneIFCTabella th {
   background-color: #f2f2f2;
   text-align: center;
@@ -22,6 +24,7 @@
 .VerificaInformativa td,
 .FaseErrataTabella td,
 .ProjectInfo td,
+.IFCEntity td,
 .ValorizzazioneIFCTabella td {
   border: 1px solid #000;
   text-align: center;
