@@ -6,4 +6,4 @@ ID,Raggruppamento,Descrizione,Formato,Percentuale
 42,Verifica Informativa,"Le entità IfcProject, IfcSite, IfcBuilding, IfcBuildingStorey, IfcSpace, IfcSystem e IfcElementAssembly sono valorizzati come da specifiche riportate nel Pgi e PIR",ifc,100%
 44,Verifica Informativa,Sono stati valorizzati tutti i parametri obbligatori presenti nell'allegato LOIN del pGI,ifc,-
 45,Verifica Informativa,I valori dei parametri obbligatori presenti nell'allegato LOIN del pGI ricadono all'interno delle liste di valori ammissibili allegate al pGI ove presenti,ifc,-
-46,Verifica Informativa,Assegnazione dei materiali a tutti gli elementi modellati,ifc,-
+46,Verifica Informativa,Assegnazione dei materiali a tutti gli elementi modellati,ifc,100%
