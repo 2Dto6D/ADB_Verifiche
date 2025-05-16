@@ -1,5 +1,5 @@
 Raggruppamento,Descrizione,Percentuale,Stato
-pGI e Allegati,Verifica tramite note e commenti del pGI e suoi allegati.65%,0
+pGI e Allegati,Verifica tramite note e commenti del pGI e suoi allegati.,65%,0
 Elaborati Progettuali,Verifica della congruenza dei modelli informativi rispetto agli elaborati 2D costituenti il pacchetto progettuale.,-,2
 Clash Detection,Verifica delle interferenze geometriche dei modelli (LC1 e LC2).,30%,0
 Point Cloud,Controllo coerenza tra modelli e Nuvola di punti,-,2
