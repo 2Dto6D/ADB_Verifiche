@@ -1,0 +1,83 @@
+/* Stili per tabelle */
+.IntegritàEPuliziaFile,
+.PesoFile,
+.VersioneFile,
+.PresenzaElaborati,
+.SovrapposizioniElementi,
+.IFCMapping,
+.StartingView,
+.LivelliInutilizzati,
+.BuildingElementProxy,
+.Workset,
+.ParametriCondivisiTabella,
+.CorrispondenzaIFCTabella {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.IntegritàEPuliziaFile th,
+.PesoFile th,
+.VersioneFile th,
+.PresenzaElaborati th,
+.SovrapposizioniElementi th,
+.IFCMapping th,
+.StartingView th,
+.LivelliInutilizzati th,
+.BuildingElementProxy th,
+.Workset th,
+.ParametriCondivisiTabella th,
+.CorrispondenzaIFCTabella th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.IntegritàEPuliziaFile td,
+.PesoFile td,
+.VersioneFile td,
+.PresenzaElaborati td,
+.SovrapposizioniElementi td,
+.IFCMapping td,
+.StartingView td,
+.LivelliInutilizzati td,
+.BuildingElementProxy td,
+.Workset td,
+.ParametriCondivisiTabella td,
+.CorrispondenzaIFCTabella td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}
+
+/* Bottoni per la paginazione */
+.pagination-ParametriCondivisi,
+.pagination-CorrispondenzaIFC {
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.pagination-ParametriCondivisi button,
+.pagination-CorrispondenzaIFC button {
+margin: 0 10px;
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+background-color: lightgray;
+cursor: pointer;
+font-size: 16px; /* Aggiungi dimensione per migliorare la visibilità */
+}
+
+.pagination-ParametriCondivisi button:hover,
+.pagination-CorrispondenzaIFC button:hover {
+background-color: gray;
+}
+
+.pagination-ParametriCondivisi button:active,
+.pagination-CorrispondenzaIFC button:active {
+background-color: #ccc;
+}

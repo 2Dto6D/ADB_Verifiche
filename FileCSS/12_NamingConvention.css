@@ -1,0 +1,97 @@
+/* Stili per tabelle */
+.NamingConvention,
+.TipoCampoTabella,
+.NomenclaturaParametriTabella,
+.NomenclaturaParametriTabella,
+.FaseErrataTabella,
+.NomenclaturaLocaliTabella,
+.NomenclaturaMaterialiTabella {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.NamingConvention th,
+.TipoCampoTabella th,
+.NomenclaturaParametriTabella th,
+.NomenclaturaParametriTabella th,
+.FaseErrataTabella th,
+.NomenclaturaLocaliTabella th,
+.NomenclaturaMaterialiTabella th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.NamingConvention td,
+.TipoCampoTabella td,
+.NomenclaturaParametriTabella td,
+.NomenclaturaParametriTabella td,
+.FaseErrataTabella td,
+.NomenclaturaLocaliTabella td,
+.NomenclaturaMaterialiTabella td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}
+
+/* Bottoni per la paginazione */
+.pagination-TipoCampo,
+.pagination-NomenclaturaParametri,
+.pagination-FaseErrata,
+.pagination-NomenclaturaLocali,
+.pagination-NomenclaturaMateriali {
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.pagination-TipoCampo button,
+.pagination-NomenclaturaParametri button,
+.pagination-FaseErrata button,
+.pagination-NomenclaturaLocali button,
+.pagination-NomenclaturaMateriali button {
+margin: 0 10px;
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+background-color: lightgray;
+cursor: pointer;
+}
+
+.pagination-TipoCampo button:hover,
+.pagination-NomenclaturaParametri button:hover,
+.pagination-FaseErrata button:hover,
+.pagination-NomenclaturaLocali button:hover,
+.pagination-NomenclaturaMateriali button:hover {
+background-color: gray;
+}
+
+.pagination-TipoCampo button:active,
+.pagination-NomenclaturaParametri button:active,
+.pagination-FaseErrata button:active,
+.pagination-NomenclaturaLocali button:active,
+.pagination-NomenclaturaMateriali button:active {
+background-color: #ccc;
+}
+
+/* Grafico a torta */
+#NomenclaturaParametriGraficoATorta,
+#TipoCampoGraficoATorta,
+#NomenclaturaLocaliGraficoATorta,
+#NomenclaturaMaterialiGraficoATorta {
+max-width: 25%; /* Limita la larghezza massima al 70% del contenitore */
+width: 25%; /* Imposta la larghezza al 70% del contenitore */
+margin: 0 auto; /* Centra il grafico */
+display: block; /* Visualizzazione in blocco */
+}
+
+/* Grafico Istogramma */
+#FaseErrataAsBarChart {
+margin: 20px auto;
+display: block;
+max-width: 50%;
+}

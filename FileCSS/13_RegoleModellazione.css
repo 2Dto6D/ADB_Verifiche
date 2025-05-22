@@ -1,0 +1,86 @@
+/* Stili per tabelle */
+.RegoleModellazione,
+.StructuralErrorTabella,
+.VerificaLocaliTabella,
+.ElementOffsetTabella,
+.FamiglieInPlaceTabella {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.RegoleModellazione th,
+.StructuralErrorTabella th,
+.VerificaLocaliTabella th,
+.ElementOffsetTabella th,
+.FamiglieInPlaceTabella th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.RegoleModellazione td,
+.StructuralErrorTabella td,
+.VerificaLocaliTabella td,
+.ElementOffsetTabella td,
+.FamiglieInPlaceTabella td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}
+
+/* Bottoni per la paginazione */
+.pagination-StructuralError,
+.pagination-VerificaLocali,
+.pagination-ElementOffset,
+.pagination-FamiglieInPlace {
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.pagination-StructuralError button,
+.pagination-VerificaLocali button,
+.pagination-ElementOffset button,
+.pagination-FamiglieInPlace button {
+margin: 0 10px;
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+background-color: lightgray;
+cursor: pointer;
+}
+
+.pagination-StructuralError button:hover,
+.pagination-VerificaLocali button:hover,
+.pagination-ElementOffset button:hover,
+.pagination-FamiglieInPlace button:hover {
+background-color: gray;
+}
+
+.pagination-StructuralError button:active,
+.pagination-VerificaLocali button:active,
+.pagination-ElementOffset button:active,
+.pagination-FamiglieInPlace button:active {
+background-color: #ccc;
+}
+
+/* Grafico a torta */
+#StructuralErrorGraficoATorta,
+#VerificaLocaliGraficoATorta,
+#FamiglieInPlaceGraficoATorta {
+max-width: 25%; /* Limita la larghezza massima al 70% del contenitore */
+width: 25%; /* Imposta la larghezza al 70% del contenitore */
+margin: 0 auto; /* Centra il grafico */
+display: block; /* Visualizzazione in blocco */
+}
+
+/* Grafico Istogramma */
+#ElementOffsetAsBarChart {
+margin: 20px auto;
+display: block;
+max-width: 50%;
+}
