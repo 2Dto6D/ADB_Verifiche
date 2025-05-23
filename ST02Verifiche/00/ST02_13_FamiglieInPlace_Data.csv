@@ -1,0 +1,625 @@
+Categoria,Famiglia,Id Elemento,Stato
+Annotazioni generiche,INC_AnnGen_Titolo,195502,1
+Annotazioni generiche,INC_AnnGen_Titolo,219955,1
+Annotazioni generiche,INC_AnnGen_Titolo,220684,1
+Annotazioni generiche,INC_AnnGen_SimbSYMB Saldatura d'angolo,220946,1
+Annotazioni generiche,INC_AnnGen_SimbSaldaturaSingolaConica,223727,1
+Annotazioni generiche,INC_AnnGen_SimbSaldaturaSingolaV,225357,1
+Elementi di dettaglio,INC_ElmDet_PiastraBasePilastro2Fori-ParteSuperiore,237151,1
+Elementi di dettaglio,INC_ElmDet_PiastraBasePilastro4ForiCroce-ParteSuperiore,237953,1
+Elementi di dettaglio,INC_ElmDet_PiastraRinforzo1Svasata-Prospetto,237961,1
+Elementi di dettaglio,INC_ElmDet_PiastraRinforzo2Svasata-Prospetto,237969,1
+Elementi di dettaglio,INC_ElmDet_PiastraRinforzoIrregolare1-Prospetto,237977,1
+Elementi di dettaglio,INC_ElmDet_PiastraRinforzoIrregolare2-Prospetto,238107,1
+Elementi di dettaglio,INC_ElmDet_PiastraRinforzoRettangolare-Prospetto,238115,1
+Elementi di dettaglio,INC_ElmDet_PiastraRinforzoTrapezoidale-Prospetto,238158,1
+Elementi di dettaglio,INC_ElmDet_ProfilatoL_ConnessioneBullonata2-Prospetto,238180,1
+Elementi di dettaglio,INC_ElmDet_ProfilatoL_ConnessioneBullonata2-Prospetto,238221,1
+Elementi di dettaglio,INC_ElmDet_ProfilatoL_ConnessioneBullonata3-Prospetto,238229,1
+Elementi di dettaglio,INC_ElmDet_ProfilatoL_ConnessioneBullonata3-Prospetto,238237,1
+Elementi di dettaglio,INC_ElmDet_ProfilatoL_ConnessioneBullonata1-Prospetto,238245,1
+Elementi di dettaglio,INC_ElmDet_ProfilatoL_ConnessioneBullonata-Sezione,238396,1
+Elementi di dettaglio,INC_ElmDet_ProfilatoL_ConnessioneSaldata-Prospetto,238541,1
+Elementi di dettaglio,INC_ElmDet_ProfilatoL_ConnessioneSaldata-Sezione,238587,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,240325,1
+Elementi di dettaglio,INC_ElmDet_BulloneTesta,240329,1
+Elementi di dettaglio,INC_ElmDet_BulloneLato,240333,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,253489,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,253691,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,253703,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,253806,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,253813,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,254147,1
+Elementi di dettaglio,INC_ElmDet_BulloneLato,255241,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,258233,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,301049,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,301084,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,301085,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,301105,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,302819,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,302820,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,302821,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,302861,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,302903,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,302904,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,302905,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303045,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303046,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,303067,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,303068,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303082,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303083,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,303096,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303206,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303207,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303208,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303228,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303229,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303230,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,303231,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,307162,1
+Elementi di dettaglio,INC_ElmDet_Vite,307173,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,307205,1
+Elementi di dettaglio,INC_ElmDet_Vite,307319,1
+Elementi di dettaglio,INC_ElmDet_Vite,307322,1
+Elementi di dettaglio,INC_ElmDet_Vite,307325,1
+Elementi di dettaglio,INC_ElmDet_Vite,307328,1
+Elementi di dettaglio,INC_ElmDet_Vite,307384,1
+Elementi di dettaglio,INC_ElmDet_Vite,307430,1
+Elementi di dettaglio,INC_ElmDet_Vite,307433,1
+Elementi di dettaglio,INC_ElmDet_Vite,307436,1
+Elementi di dettaglio,INC_ElmDet_Vite,307439,1
+Elementi di dettaglio,INC_ElmDet_Distanziatori,313231,1
+Elementi di dettaglio,INC_ElmDet_Hilti2Testa,313763,1
+Elementi di dettaglio,INC_ElmDet_TipoIPE400,313896,1
+Elementi di dettaglio,INC_ElmDet_M12Corpo,318343,1
+Elementi di dettaglio,INC_ElmDet_BulloneLato,319443,1
+Elementi di dettaglio,INC_ElmDet_BulloneLato,320084,1
+Elementi di dettaglio,INC_ElmDet_BulloneTesta,320145,1
+Elementi di dettaglio,INC_ElmDet_BulloneTesta,320242,1
+Annotazioni generiche,INC_AnnGen_Titolo,352372,1
+Annotazioni generiche,INC_AnnGen_Titolo,352375,1
+Annotazioni generiche,INC_AnnGen_Titolo,352376,1
+Annotazioni generiche,INC_AnnGen_Titolo,352377,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,352541,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,353180,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,353181,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,353182,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,353185,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,353186,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,353190,1
+Elementi di dettaglio,INC_ElmDet_BulloneLato,353196,1
+Elementi di dettaglio,INC_ElmDet_TipoL50x5,353384,1
+Elementi di dettaglio,INC_ElmDet_TipoL50x5,353385,1
+Elementi di dettaglio,INC_ElmDet_BulloneDado,353587,1
+Elementi di dettaglio,INC_ElmDet_Hilti2Testa,355409,1
+Elementi di dettaglio,INC_ElmDet_TipoUPN200,355511,1
+Elementi di dettaglio,INC_ElmDet_M12Corpo,355522,1
+Elementi di dettaglio,INC_ElmDet_TipoIPE400,355542,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,355859,1
+Elementi di dettaglio,INC_ElmDet_Vite,355870,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,355902,1
+Elementi di dettaglio,INC_ElmDet_Vite,355949,1
+Elementi di dettaglio,INC_ElmDet_Vite,355952,1
+Elementi di dettaglio,INC_ElmDet_Vite,355955,1
+Elementi di dettaglio,INC_ElmDet_Vite,355958,1
+Elementi di dettaglio,INC_ElmDet_Vite,355982,1
+Elementi di dettaglio,INC_ElmDet_Vite,356028,1
+Elementi di dettaglio,INC_ElmDet_Vite,356031,1
+Elementi di dettaglio,INC_ElmDet_Vite,356034,1
+Elementi di dettaglio,INC_ElmDet_Vite,356037,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,357121,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ8,365946,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ8,365947,1
+Elementi di dettaglio,INC_ElmDet_TipoHEA400,375837,1
+Elementi di dettaglio,INC_ElmDet_ElementoCLS,376142,1
+Elementi di dettaglio,INC_ElmDet_TipoHEA400,377491,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,379076,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,379077,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379078,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379168,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379169,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,379182,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379222,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379234,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379235,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379248,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379249,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,379262,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379293,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379294,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,379365,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379366,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379367,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,379401,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379462,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,379463,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,379483,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,379484,1
+Elementi di dettaglio,INC_ElmDet_Vite,380653,1
+Elementi di dettaglio,INC_ElmDet_Vite,380654,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,390614,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,390615,1
+Elementi di dettaglio,INC_ElmDet_Cavedio,390619,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,390629,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,390630,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,391422,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,391423,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,391424,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,391425,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,391426,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,392228,1
+Elementi di dettaglio,INC_ElmDet_M12Corpo,396207,1
+Elementi di dettaglio,INC_ElmDet_BulloneTesta,396256,1
+Elementi di dettaglio,INC_ElmDet_BulloneTesta,396257,1
+Elementi di dettaglio,INC_ElmDet_TipoUPN200,396324,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,396333,1
+Elementi di dettaglio,INC_ElmDet_Tassello,396586,1
+Elementi di dettaglio,INC_ElmDet_Tassello,396594,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,396776,1
+Elementi di dettaglio,INC_ElmDet_M12Corpo,397880,1
+Elementi di dettaglio,INC_ElmDet_BulloneTesta,397935,1
+Elementi di dettaglio,INC_ElmDet_BulloneTesta,397936,1
+Elementi di dettaglio,INC_ElmDet_TipoUPN200,398066,1
+Annotazioni generiche,INC_AnnGen_SimbSYMB Saldatura d'angolo,399667,1
+Annotazioni generiche,INC_AnnGen_SimbSYMB Saldatura d'angolo,399672,1
+Elementi di dettaglio,INC_ElmDet_TipoL45x5,399757,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,399846,1
+Annotazioni generiche,INC_AnnGen_SimbSYMB Saldatura d'angolo,399899,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,400739,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,400747,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,400750,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,400751,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,464619,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,465041,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ8,467098,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ8,467099,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,468822,1
+Elementi di dettaglio,INC_ElmDet_FerroStaffa,468823,1
+Elementi di dettaglio,INC_ElmDet_FerroStaffa,468824,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,468825,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,468826,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,468833,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,468834,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,468835,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,468836,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,468838,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,468839,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,468841,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,468848,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,468851,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,468852,1
+Elementi di dettaglio,INC_ElmDet_FerroStaffa,473953,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,473957,1
+Elementi di dettaglio,INC_ElmDet_FerroStaffa,473961,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,473964,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,481267,1
+Elementi di dettaglio,INC_ElmDet_Vite,481278,1
+Elementi di dettaglio,INC_ElmDet_Vite,481388,1
+Elementi di dettaglio,INC_ElmDet_Vite,481391,1
+Elementi di dettaglio,INC_ElmDet_Vite,481394,1
+Elementi di dettaglio,INC_ElmDet_Vite,481397,1
+Elementi di dettaglio,INC_ElmDet_Vite,481487,1
+Elementi di dettaglio,INC_ElmDet_TipoHEA340,481508,1
+Annotazioni generiche,INC_AnnGen_SimbEditabileEstremitàGrigliaSTR,481545,1
+Elementi di dettaglio,INC_ElmDet_Vite,481566,1
+Elementi di dettaglio,INC_ElmDet_TipoHEA340,481578,1
+Annotazioni generiche,INC_AnnGen_SimbEditabileEstremitàGrigliaSTR,481587,1
+Elementi di dettaglio,INC_ElmDet_Vite,481659,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneDoppi,501550,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,501551,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,501552,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,501554,1
+Elementi di dettaglio,INC_ElmDet_FerroStaffa,501773,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroC,502008,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroL,502128,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroI,502233,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroStaffa,502390,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,502528,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroL,508152,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroL,508154,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroL,508155,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroL,508157,1
+Elementi di dettaglio,INC_ElmDet_FerroStaffa,508158,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,508162,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,508163,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508164,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508165,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508166,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508167,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508168,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508169,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroC,508177,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroC,508179,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroI,508183,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroI,508184,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroL,508212,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroL,508213,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508217,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,508219,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroL,508220,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroL,508221,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,508226,1
+Annotazioni generiche,INC_AnnGen_Titolo,508229,1
+Annotazioni generiche,INC_AnnGen_Titolo,508231,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,508234,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,508235,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508236,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508237,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508238,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,508239,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,508240,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,508241,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,508242,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,508243,1
+Elementi di dettaglio,INC_ElmDet_SimboloFerroGancio,508244,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508246,1
+Elementi di dettaglio,INC_ElmDet_FerriSezioneSingoli,508247,1
+Elementi di dettaglio,INC_ElmDet_SimboloEstensioneZonaArmatura,533225,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,541586,1
+Elementi di dettaglio,INC_ElmDet_Vite,541597,1
+Elementi di dettaglio,INC_ElmDet_Vite,541598,1
+Elementi di dettaglio,INC_ElmDet_Vite,541599,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,592913,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,596216,1
+Elementi di dettaglio,INC_ElmDet_Vite,596227,1
+Elementi di dettaglio,INC_ElmDet_Vite,596331,1
+Elementi di dettaglio,INC_ElmDet_Vite,596334,1
+Elementi di dettaglio,INC_ElmDet_Vite,596337,1
+Elementi di dettaglio,INC_ElmDet_Vite,596340,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,596615,1
+Elementi di dettaglio,INC_ElmDet_Cavedio,596619,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,596629,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,596731,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,596974,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,596975,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,596976,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,596977,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,596978,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,597141,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,597142,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,597143,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,597570,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,597571,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,597572,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598088,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598089,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598090,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598091,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598092,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598093,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598094,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598095,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598096,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598101,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598102,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598103,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598104,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598105,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598106,1
+Elementi di dettaglio,INC_ElmDet_SingolaBarraArmaturaSezione,598107,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,598386,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,598387,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,598388,1
+Annotazioni generiche,INC_Annotazione generica - Titolo,599118,1
+Elementi di dettaglio,INC_ElmDet_BreakLine,599869,1
+Elementi di dettaglio,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ8,601765,1
+Elementi di dettaglio,INC_ElmDet_Distanziatori,603462,1
+Elementi di dettaglio,INC_ElmDet_ProfilatoL_ConnessioneBullonata4-Prospetto,604604,1
+Elementi di dettaglio,INC_ElmDet_ProfilatoL_ConnessioneBullonata4-Prospetto,604865,1
+Elementi di dettaglio,INC_ElmDet_Hilti2Testa,605432,1
+Elementi di dettaglio,INC_ElmDet_M12Corpo,605673,1
+Elementi di dettaglio,INC_ElmDet_Tassello,605859,1
+Elementi di dettaglio,INC_ElmDet_Vite,606114,1
+Elementi di dettaglio,"INC_ElmDet_Alveolare-27,5+50",606644,1
+Elementi di dettaglio,INC_ElmDet_Mattone-Prospetto,606801,1
+Elementi di dettaglio,INC_ElmDet_Cordolo,607096,1
+Elementi di dettaglio,INC_ElmDet_ElementoCLS,607403,1
+Elementi di dettaglio,INC_ElmDet_Mattone-Sezione,607671,1
+Elementi di dettaglio,INC_ElmDet_MattonePieno,607750,1
+Elementi di dettaglio,INC_ElmDet_Pignatta,607863,1
+Elementi di dettaglio,INC_ElmDet_PignattaTravetto,607986,1
+Elementi di dettaglio,INC_ElmDet_PredallesH-16+4Longitudinale,608137,1
+Elementi di dettaglio,INC_ElmDet_PredallesH-16+4Trasversale,608324,1
+Elementi di dettaglio,INC_ElmDet_PredallesH-20+4Longitudinale,608581,1
+Elementi di dettaglio,INC_ElmDet_PredallesH-20+4Trasversale,608768,1
+Elementi di dettaglio,INC_ElmDet_Tegole,608918,1
+Elementi di dettaglio,INC_ElmDet_Travetto,609041,1
+Elementi di dettaglio,INC_ElmDet_TipoHEA400,609264,1
+Elementi di dettaglio,INC_ElmDet_TipoIPE400,609340,1
+Elementi di dettaglio,INC_ElmDet_TipoL45x5,609462,1
+Elementi di dettaglio,INC_ElmDet_TipoL50x5,609608,1
+Elementi di dettaglio,INC_ElmDet_TipoUPN200,609753,1
+Cartigli,GN_ANN_TBS_StartingView,637722,1
+Cartigli,GN_ANN_TBS_Cartiglio,669552,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,699381,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,700597,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,700598,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,700599,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,700600,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705223,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705224,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705225,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705226,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705227,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705235,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705236,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705237,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705238,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705239,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705247,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705248,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705249,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705250,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705251,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705259,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705260,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705261,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705262,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705263,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705273,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705274,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705275,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705276,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705277,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705287,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705288,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705289,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705290,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705291,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705299,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705300,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705301,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705302,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705303,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705311,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705312,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705313,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705314,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705315,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705335,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705336,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705337,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705338,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705339,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705363,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705364,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705365,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705366,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705367,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705375,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705376,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705377,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705378,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705379,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705387,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705388,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705389,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705390,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705391,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705399,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705400,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705401,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705402,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705403,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705411,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705412,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705413,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705414,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705415,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705425,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705426,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705427,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705428,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705429,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705437,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705438,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705439,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705440,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705441,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705449,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705450,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705451,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705452,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705453,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705461,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705462,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705463,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705464,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705465,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705518,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705519,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705520,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705521,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705522,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705532,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705533,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705534,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705535,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705536,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705544,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705545,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705546,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705547,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705548,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705556,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705557,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705558,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705559,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705560,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705568,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705569,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705570,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705571,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705572,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705580,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705581,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705582,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705583,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705584,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705592,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705593,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705594,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705595,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705596,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705606,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705607,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705608,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705609,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705610,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705618,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705619,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705620,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705621,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705622,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705650,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705651,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705652,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705653,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705654,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705662,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705663,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705664,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705665,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705666,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705676,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705677,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705678,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705679,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705680,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705688,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705689,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705690,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705691,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705692,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705700,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705701,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705702,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705703,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705704,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705712,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705713,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705714,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705715,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705716,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705724,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705725,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705726,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705727,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705728,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705736,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705737,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705738,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705739,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705740,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705748,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705749,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705750,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705751,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705752,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705762,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705763,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705764,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705765,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705766,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705800,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705801,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705802,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705803,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,705804,1
+Porte,ST_POR_PRT_VarcoApertura,706955,1
+Porte,ST_POR_PRT_VarcoApertura,707085,1
+Porte,ST_POR_PRT_VarcoApertura,707349,1
+Porte,ST_POR_PRT_VarcoApertura,708052,1
+Porte,ST_POR_PRT_VarcoApertura,708233,1
+Porte,ST_POR_PRT_VarcoApertura,708404,1
+Porte,ST_POR_PRT_VarcoApertura,708454,1
+Porte,ST_POR_PRT_VarcoApertura,708557,1
+Porte,ST_POR_PRT_VarcoApertura,708617,1
+Porte,ST_POR_PRT_VarcoApertura,708695,1
+Porte,ST_POR_PRT_VarcoApertura,709221,1
+Porte,ST_POR_PRT_VarcoApertura,709374,1
+Porte,ST_POR_PRT_VarcoApertura,709561,1
+Porte,ST_POR_PRT_VarcoApertura,710293,1
+Porte,ST_POR_PRT_VarcoApertura,710294,1
+Porte,ST_POR_PRT_VarcoApertura,710295,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711556,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711814,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711891,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711903,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711914,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711925,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711936,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711947,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711958,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711969,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711980,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,713107,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,713415,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,713485,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,713614,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,713771,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,713991,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,714145,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,714285,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,714449,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,714474,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,714501,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,714546,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,714574,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,714612,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,714760,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,714816,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,714894,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,714923,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,714956,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,714999,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,715032,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,715066,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,715103,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,715136,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,715165,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,715200,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,715426,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,715529,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,715583,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,715593,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,715599,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,715609,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,715617,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,715623,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,715629,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,715635,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,715737,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,715831,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,715955,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,716056,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,716175,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,716261,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,716271,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,716281,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,716293,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,716301,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,716311,1
+Telaio strutturale,INC_TelST_TS.CA_Rettangolare,716321,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,716788,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,716849,1
+Simbolo direzione orditura,INC_DirezioneOrditura,719992,1
+Simbolo direzione orditura,INC_DirezioneOrditura,720076,1
+Simbolo direzione orditura,INC_DirezioneOrditura,720097,1
+Simbolo direzione orditura,INC_DirezioneOrditura,720118,1
+Simbolo direzione orditura,INC_DirezioneOrditura,720140,1
+Simbolo direzione orditura,INC_DirezioneOrditura,720197,1
+Simbolo direzione orditura,INC_DirezioneOrditura,720225,1
+Simbolo direzione orditura,INC_DirezioneOrditura,720264,1
+Telaio strutturale,INC_TelST_TS.CA_MensolaInclinata,721041,1
+Telaio strutturale,INC_TelST_TS.CA_MensolaInclinata,721522,1
+Telaio strutturale,INC_TelST_TS.CA_MensolaInclinata,721658,1
+Simbolo direzione orditura,INC_DirezioneOrditura,722306,1
+Telaio strutturale,INC_TelST_TS.CA_MensolaInclinata,722385,1
+Simbolo direzione orditura,INC_DirezioneOrditura,725738,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,725784,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,725886,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,726096,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,726166,1
+Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,726248,1

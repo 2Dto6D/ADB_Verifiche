@@ -1,0 +1,21 @@
+Nome Workset,Workset Id,Unique ID,Kind,n° elementi,Stato
+Workset1,0,f191f8db-8fd7-4eb9-b5f7-bd15d8e38c0e,UserWorkset,163,0
+"Viste, livelli e griglie condivise",182,df2c3ced-92ac-47f8-8aea-7af4069bed8b,UserWorkset,75,0
+01-ALL-Link URS,653,8c9f1adb-37a5-462c-8db8-5d2f83c6151e,UserWorkset,1,0
+02-ALL-Link CAD,654,9e80a812-960a-4abe-bd22-771cdbd37ec0,UserWorkset,0,0
+03-ALL-Link Masterplan,655,93f12ac4-5629-4020-ad02-d2a8986ded88,UserWorkset,0,0
+04-ALL-Link ARC,656,23c9fe5d-f7a9-4154-972a-31a94f3670fb,UserWorkset,0,0
+05-ALL-Link STR,657,eb46499e-b7a7-42d5-b648-13a36f68614b,UserWorkset,0,0
+06-ALL-Link MEP,658,9443b9af-4d43-49e6-b6de-017ad1b74f14,UserWorkset,0,0
+07-ALL-Link NuvolePunti,659,eec85912-327a-4512-936e-0fac1839c546,UserWorkset,0,0
+30-STR-Hide,660,57aa47f1-3ead-44b2-a069-fae7a8d08274,UserWorkset,36,0
+33-STR-Solaio,661,b763aff8-7013-46d9-aced-d52a771a1190,UserWorkset,0,0
+32-STR-Pilastri,662,ef30ad4e-47b5-49a7-ac56-ef422cd6f033,UserWorkset,128,0
+31-STR-Fondazioni,663,b133685d-8ab8-42b7-81ea-338fcc522d0e,UserWorkset,0,0
+34-STR-TraviPrincipali,664,37cc8f83-39d9-4a4f-a5a5-33663d93d780,UserWorkset,790,0
+35-STR-TraviSecondarie,665,5925c97a-86eb-4f1e-bf1a-0ab74673d053,UserWorkset,1115,0
+36-STR-Reticolari,666,31f23bd7-3348-4ed5-93c6-abf084dd56c5,UserWorkset,1100,0
+37-STR-Baraccato,667,2ec7f2e8-7044-4255-abfe-06238d1178ae,UserWorkset,0,0
+38-STR-VaniCA,668,28c09b38-8a0c-4538-b957-316d71953de0,UserWorkset,1,0
+08-ALL-Link SDF,984,6b70a935-6152-481e-84c1-092055d6eaac,UserWorkset,3,0
+09-ALL-Link AnteOperam,994,8d086dfd-0e6f-4814-8065-a31fa4e20238,UserWorkset,0,0

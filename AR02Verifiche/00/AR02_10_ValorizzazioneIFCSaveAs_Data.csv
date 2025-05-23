@@ -1,0 +1,1164 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,Verifica,Stato
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,889406,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,890343,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,894631,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,894658,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,895075,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,895187,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,910480,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,915952,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,915974,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,916163,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,916576,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,916598,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,916638,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,918147,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,919322,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,919344,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,919384,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1096734,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,Sabco_Side-Handrail_D-40,1185391,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,Sabco_Side-Handrail_D-40,1185422,IFC Class non valorizzato,0
+Corrimani,Tipo di corrimano,Sabco_Side-Handrail_D-40,1185467,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1209885,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1209926,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1209938,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1209950,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1209970,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1209988,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1210008,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1210026,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1210046,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1210133,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1264015,IFC Class non valorizzato,0
+Correnti superiori,Tipo di corrente superiore,Rectangular-20x50mm,1264032,IFC Class non valorizzato,0
+Muri,Muro di base,AR_MUR_RIV_20_Generico,1264359,IFC Class non valorizzato,0
+Muri,Muro di base,AR_MUR_RIV_20_Generico,1264386,IFC Class non valorizzato,0
+Muri,Muro di base,AR_MUR_RIV_20_Generico,1264412,IFC Class non valorizzato,0
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,680542,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,680655,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_230_Generico,680909,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,681665,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,681742,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,681807,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,681912,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,682223,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,682517,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,682690,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,683012,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_500_Generico,683256,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,683520,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,683813,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,683925,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,684149,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,684355,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,684460,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,684541,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,684639,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,684801,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,684879,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,684933,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,685412,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,685511,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01_FL-001,685974,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_175_Generico,687214,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,687431,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,687490,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,687618,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_175_Generico,687679,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,687823,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,687915,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_175_Generico,688113,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,688167,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,688255,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,688498,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,688645,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,688704,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,688783,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,688859,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,688997,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,689057,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,689234,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,689292,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,689344,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,689386,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,689541,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,689694,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,689748,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,689803,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,690864,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,690939,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,690984,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,691016,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,691308,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,691448,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,691602,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,691771,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,692004,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,692059,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,692147,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,692160,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,692191,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,692266,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,692377,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,692453,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,693790,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,693882,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,693985,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,694031,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,694270,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,694357,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,694406,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,694461,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,694523,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,694662,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,694741,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,694877,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,695159,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,696263,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,696338,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,696406,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,696541,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,696562,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,696646,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,696732,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,696788,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,697220,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_348_Generico,697318,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_348_Generico,697598,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,697766,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,697934,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,697997,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,698085,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,698263,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,698491,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,698577,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,698649,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,699195,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,699248,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,699318,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,699450,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,699581,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,699631,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,699763,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,699907,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,699974,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,700120,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,700220,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,700348,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,700422,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,700519,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,700593,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,700644,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,700751,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,701277,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,701306,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,701384,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,701427,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,701587,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,701631,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,701717,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,702258,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,702306,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,702362,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,702426,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,702475,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,702670,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,702808,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,702914,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,702977,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,703106,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,703190,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,703244,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,703522,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,703677,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,704435,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,704527,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,704574,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,704647,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,704709,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,704977,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,705161,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,705273,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,705481,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,705574,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,705755,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,705821,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,706210,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,706422,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,706550,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,706973,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,707078,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,707192,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,707327,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,707458,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,707587,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,707713,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,707755,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,707783,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,707938,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,708071,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,708142,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,708441,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,708655,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,708693,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,708790,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,708852,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,709606,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,709897,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,709974,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,710019,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,710066,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,710127,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_250_Generico,710241,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,710535,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,710637,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,710714,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,711270,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,711310,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_230_Generico,711383,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,711570,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_50_Generico,711679,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,711819,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,711928,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,712034,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,712111,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,712142,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,712211,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,712281,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,712378,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,712423,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,712476,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,712569,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,712603,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,713009,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,713391,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,714381,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,714454,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,714561,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,714562,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,714604,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,714657,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,714719,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,714780,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,714887,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,714987,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,715129,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,715387,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,715719,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,715806,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,715901,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,716051,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,716385,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,716584,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,716639,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,716838,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,716883,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,717272,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,717378,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,717439,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,717514,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,717575,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,717632,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,717716,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,717875,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,718019,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,718208,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,718238,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,718359,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_FL-001,718674,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,719257,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,719375,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,719466,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,719536,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,719669,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,719753,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,719835,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,720050,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,720207,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,720258,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,720363,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,720429,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,720589,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,720659,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_300_Generico,720811,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,721127,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,721211,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,721270,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,721416,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,721736,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,721796,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,721856,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,724865,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725027,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,725157,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,725267,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725397,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725508,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725597,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725735,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725869,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,725966,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,726014,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,726049,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,726165,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,726287,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,726460,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,726652,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,726754,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,726870,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,726975,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,727125,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,727286,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,727321,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,727351,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,727407,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,727906,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,727995,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728033,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728057,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728145,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728169,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728216,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728254,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728283,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728339,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728369,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,728449,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,728489,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728543,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728607,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728637,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728693,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728734,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728752,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728801,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728819,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728851,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728879,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,728929,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,729047,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,729116,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,729220,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,729349,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,729460,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2100,729511,Corretto,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,734167,Corretto,1
+OST_Casework,TELAIO PORTA BATTENTE,700,734170,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Casework,TELAIO PORTA BATTENTE,700,734171,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,734234,Corretto,1
+OST_Casework,TELAIO PORTA BATTENTE,700,734237,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Casework,TELAIO PORTA BATTENTE,700,734238,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,734316,Corretto,1
+OST_Casework,TELAIO PORTA BATTENTE,700,734319,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Casework,TELAIO PORTA BATTENTE,700,734320,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,734481,Corretto,1
+OST_Casework,TELAIO PORTA BATTENTE,700,734484,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Casework,TELAIO PORTA BATTENTE,700,734485,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,734528,Corretto,1
+OST_Casework,TELAIO PORTA BATTENTE,700,734531,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Casework,TELAIO PORTA BATTENTE,700,734532,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,734574,Corretto,1
+OST_Casework,TELAIO PORTA BATTENTE,700,734577,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Casework,TELAIO PORTA BATTENTE,700,734578,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,734719,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,734751,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,734767,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,734811,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,734877,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,734903,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,734941,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,734997,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,735027,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,735049,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,735077,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,735115,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,736042,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,736089,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,736127,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,736172,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,736334,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,736539,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,736625,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,736849,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,736961,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2400,737047,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,737208,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,737261,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,737288,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,737325,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,737491,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,737613,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,737683,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,737719,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,737743,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,737785,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,737817,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,748244,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,750518,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,750632,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,750741,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,750886,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,751876,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,751932,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,752009,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,755219,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,755298,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,755373,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,755442,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,755577,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,755613,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,755836,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,755895,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,755955,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,756025,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,758105,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,758224,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,758485,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,758599,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,758678,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,758711,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,758739,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,758898,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,758968,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,759070,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,759143,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,759364,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,759455,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,759511,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,759544,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,759807,Corretto,1
+OST_Roofs,Tetto di base,AR_TET_PIA_250,762811,Corretto,1
+OST_Roofs,Tetto di base,AR_TET_PIA_250,763872,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,763931,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,765448,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,765975,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,766172,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,766365,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,766612,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,766645,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,766735,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,767071,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,767118,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,767257,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,767394,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,767451,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,767548,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,767610,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,767688,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,767764,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,768081,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,768233,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,768327,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2100,768450,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2100,768504,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,768735,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,768849,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,768964,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2100,769072,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,769360,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,769433,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,769658,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,769783,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2100,770033,Corretto,1
+OST_Doors,AR_ POR_SCO_All_1A_Scomparsa,AR_ POR_SCO_All_1A_Scomparsa_900x2100,770066,Corretto,1
+OST_Doors,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse,AR_ POR_SCO_All_4A_Simmetrica con due ante fisse_4800x2400,770248,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,772800,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,772842,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,772951,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,773007,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,773057,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,773118,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,773515,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,773670,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,773826,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,774174,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,774543,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,774653,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,774758,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,838870,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,838994,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,839074,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1400x2400mm,839235,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839616,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839740,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839791,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839850,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,839990,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,840078,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,840143,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,840559,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,840697,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,840840,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,840930,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,841031,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,841275,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,841383,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,841558,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,841863,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,841994,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,842072,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,842188,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,842454,Corretto,1
+OST_Stairs,Scala,AR_SCA_PER_Cem_Scala piazza,842664,Corretto,1
+OST_Stairs,Scala,AR_SCA_PER_Cem_3000x4900_Scala piazza,842679,Corretto,1
+OST_Stairs,Scala,AR_SCA_PER_Cem_2100_Scala piazza,842721,Corretto,1
+OST_Stairs,Scala,AR_SCA_PER_Cem_Scala piazza,842739,Corretto,1
+OST_Stairs,Scala,AR_SCA_PER_Cem_Scala piazza,842755,Corretto,1
+OST_Stairs,Scala,AR_SCA_PER_Cem_3000x4900_Scala piazza,842770,Corretto,1
+OST_Stairs,Scala,AR_SCA_PER_Cem_2100_Scala piazza,842788,Corretto,1
+OST_Stairs,Scala,AR_SCA_PER_Cem_Scala piazza,842806,Corretto,1
+OST_Stairs,Scala,AR_SCA_RET_Gre_90000x28000_Scala piazza,842821,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_21000x28000_Scala piazza,842840,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMA_RET_Gre_21000x28000_Scala piazza,842841,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_21000x28000_Scala piazza,842843,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMA_RET_Gre_21000x28000_Scala piazza,842844,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,842847,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,842855,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,842864,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,842872,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,851934,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,852323,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,852513,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,852628,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,852712,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,852804,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,853046,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,853081,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,853244,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,853628,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2150x2400mm,853678,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870460,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870468,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870476,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870496,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870504,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870512,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870523,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,870531,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870595,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870607,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870621,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870629,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870638,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870715,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870723,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870806,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,870818,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,872546,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,872554,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,872562,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,872570,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,872578,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,872590,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,873213,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,873337,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,873534,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,873672,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,873795,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,873803,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,875777,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,877085,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,877399,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,877938,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,878014,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,878077,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,878143,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,878339,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,878407,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_50_Generico,879270,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_50_Generico,879368,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,879440,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,879471,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2150x2400mm,879537,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,879755,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,879809,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,879901,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2150x2400mm,880128,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2150x2400mm,880328,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2150x2400mm,880394,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2150x2400mm,880462,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2150x2400mm,880516,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2150x2100mm,880558,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,880614,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,880717,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,880913,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_BAT_BAT_All_1200x2100,881175,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,881425,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,881433,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,881441,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,881449,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,881457,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,881567,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,881648,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,882619,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,882627,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,882635,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,882960,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,882969,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,882978,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,882995,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,883217,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,883235,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_4100x7400_Blocco Emergenza,888498,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,888608,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,888867,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,888869,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,889055,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,889057,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,889291,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,889293,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,889378,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_4500x8400_Blocco Emergenza,890300,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,890301,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,890303,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4500_Blocco emergenza,890305,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,890307,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4500_Blocco emergenza,890309,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,890311,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4500_Blocco emergenza,890313,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,890315,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,890410,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4500_Blocco emergenza,890510,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_50_Generico,891051,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_4100x7400_Blocco Emergenza,893792,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,893918,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,894137,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,894139,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,894361,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,894363,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,894566,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,894568,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,894603,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,894607,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_4100x7400_Blocco Emergenza,895032,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,895033,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,895035,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,895037,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,895039,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,895041,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,895043,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,895045,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,895047,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_4100x7400_Blocco Emergenza,895144,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,895145,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,895147,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,895149,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,895151,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,895153,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,895155,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,895157,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,895159,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,895273,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,896005,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,903422,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_4100x7400_Blocco Emergenza,908252,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,909895,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2000x2100_Blocco emergenza,910200,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,910202,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_4100_Blocco emergenza,910392,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,910463,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_5700x87000_Blocco Emergenza,914487,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,914593,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,915737,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,915739,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,915909,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,915911,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,915930,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,915934,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,916088,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,916155,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_5700x87000_Blocco Emergenza,916543,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,916544,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,916546,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,916548,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,916550,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,916552,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,916554,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,916558,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,916624,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,916630,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_5700x87000_Blocco Emergenza,916778,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,917170,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,917497,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,917499,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,917967,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,917969,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,918123,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,919074,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_5700x87000_Blocco Emergenza,919289,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,919290,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,919292,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,919294,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_2700x3300_Blocco emergenza,919296,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,919298,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,919300,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,919304,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_5700_Blocco emergenza,919370,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,919376,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_34000x56000_F&B_P1,920381,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1400_F&B_P1,920779,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1400_F&B_P1,921163,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_1400_F&B_P1,921165,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1400_F&B_P1,921336,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_1400_F&B_P1,921338,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,921354,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,921358,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_34000x56000_F&B_P1,921596,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1400_F&B_P1,921597,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1400_F&B_P1,921599,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_1400_F&B_P1,921601,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1400_F&B_P1,921603,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_1400_F&B_P1,921605,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,921607,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,921611,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,922422,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,922539,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,923349,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_ASS_Gre_32000x63000_Retail piazza_P1,926766,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_1200_Retail piazza_P1,927754,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_1200_Retail piazza_P1,927902,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_Retail piazza_P1,927904,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_1200_Retail piazza_P1,928209,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_Retail piazza_P1,928211,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,928268,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,928272,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,928895,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,929008,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,929066,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,930237,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,994420,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1008813,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1008953,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1009866,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1010033,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,1010124,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,1010226,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,1014565,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1014968,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1015190,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1015431,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1015461,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1015823,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1015895,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1016058,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1016502,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1016626,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1016665,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1016670,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1016680,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017020,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017137,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017175,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017222,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017285,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017293,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017297,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017301,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017400,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017461,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017465,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017469,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017473,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017491,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017495,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017500,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017505,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017510,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017553,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017571,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017576,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017580,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017665,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017696,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017761,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017778,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017783,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017787,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017791,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017795,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017799,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017803,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017807,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017973,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017977,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1017981,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018040,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018249,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018364,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018368,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018372,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018380,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018384,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018388,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018392,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018405,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018513,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018634,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018731,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018870,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1018984,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019042,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019047,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019051,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019083,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019215,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019269,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019273,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019321,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019637,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019666,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019707,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019737,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019774,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019859,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1019963,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,1020180,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,1020458,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1021380,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1021384,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1021388,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1021392,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,1024102,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1029480,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,1029532,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2000x2100mm,1035158,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2000x2100mm,1035261,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2000x2100mm,1035321,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2000x2100mm,1035437,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1047965,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1048035,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1048066,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1048893,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1049258,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1049320,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1049353,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1500x2100mm,1050118,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1050359,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1050525,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1050577,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,1050776,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,1050837,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1500x2100mm,1050975,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,1051091,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_1800x2400mm,1051225,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1053191,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,1054030,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,1054157,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2150x2400mm,1054253,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,1054487,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1054740,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1054840,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1054951,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1054956,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1054960,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_230_Generico,1054965,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1054969,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1055523,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1055528,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1055533,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1055537,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,1055556,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,1055738,Corretto,1
+OST_Ramps,Rampa inclinata,AR_RMP_RET_Cem_15000x3000,1057210,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,1057272,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,1058289,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,1059714,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,1059948,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1061185,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1061378,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1061699,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1061766,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1061777,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1061781,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1061790,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1061973,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1062117,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1062138,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1062196,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1062358,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1062469,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1062585,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1062660,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1062798,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1062922,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1063011,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1063080,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1063179,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1063313,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1063418,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1063449,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1063487,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1064742,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,1064798,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,1065641,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,1065817,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1066359,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1066490,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1066581,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1066642,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_300_Generico,1066972,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1067210,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1067319,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1067420,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1067443,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1067474,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1067582,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1067634,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1067667,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1067737,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1067853,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1068183,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_220_Generico,1068314,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1068665,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1068796,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1068877,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1068930,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1069014,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1069136,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1069292,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01_FL-001,1081458,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,1082085,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,1082364,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,1082706,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.01a_FL-001,1082877,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,1083782,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,1083963,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,1084080,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,1084299,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,1084427,Corretto,1
+OST_Floors,Pavimento,AR_PAV_MAI_480_MS.02_Spq,1084660,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1094689,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,1096487,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,1096808,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,1096809,Corretto,1
+OST_Roofs,Tetto di base,AR_TET_PIA_250,1096812,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1096915,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_100_Applicato reticolare,1098709,Corretto,1
+OST_Casework,AR_ARR_GAT_Imbotte gate,AR_ARR_GAT_Imbotte gate_5700x1850,1104120,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1115321,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_150_Generico,1115583,Corretto,1
+OST_Casework,AR_ARR_GAT_Imbotte gate,AR_ARR_GAT_Imbotte gate_5500x1850,1116763,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RVE_Met_110_Montante rettangolare,1124535,Corretto,1
+OST_RailingHandRail,Tipo di corrimano,Sabco_Side-Handrail_D-40,1124540,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1156669,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,1156760,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2000x2100mm,1162017,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_Lin,1162805,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_Lin,1164013,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,1164658,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,1164743,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,1164938,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1165206,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,1165359,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,1165410,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,1165513,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1165635,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1165640,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,1165895,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,1166207,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,1166327,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1168630,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_FL-001,1169698,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_FL-001,1171171,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1171908,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1172065,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1172135,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1172208,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_220_Generico,1172302,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1172561,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1172917,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1173070,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1173374,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1173541,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1173631,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1173722,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1173813,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1173885,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1173951,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174020,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174125,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174213,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174288,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174348,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174448,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174555,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174607,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174696,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174816,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1174908,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1175000,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1175069,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1175187,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1175421,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03a_FL-001,1176917,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_Lin,1177547,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1177813,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1177948,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1177998,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1178065,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_300_Generico,1178378,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1179622,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1179627,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1179632,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1179637,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1179749,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1179753,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1179757,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1179873,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1180455,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1180501,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1180795,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1180800,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1180805,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1180809,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1180813,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1180817,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1180822,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Boiserie piazza,1180826,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2500x2400,1185243,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,1185312,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_500_Generico,1185313,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RVE_Met_110_Montante rettangolare,1185385,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RVE_Met_110_Montante rettangolare,1185412,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RVE_Met_110_Montante rettangolare,1185461,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1185502,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1185509,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1185510,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1185511,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1185512,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_FL-001,1185692,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,1185752,Corretto,1
+OST_Doors,AR_POR_BAT_All_2A_Simmetrica,AR_POR_BAT_All_2500x2400,1186112,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,1186299,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,1186367,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1190834,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1190930,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1190963,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1191054,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_100_Applicato reticolare,1193744,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1194584,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1194631,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1194664,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1194697,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1194745,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1194846,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1194876,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1194898,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1194908,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1194947,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1195102,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1195169,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1195176,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1195183,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1195195,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1195203,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1195230,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1195355,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1195506,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1195810,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1197618,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1198420,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1198453,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1198646,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1199687,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1200776,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1200918,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1200930,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1200942,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1201063,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1201072,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1201100,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1201272,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1201305,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1201321,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1201389,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1201401,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1201411,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1204599,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1204607,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1204615,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1204627,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1204711,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1204798,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1204830,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1204876,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1204942,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1204975,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205032,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205061,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205124,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205171,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205202,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205234,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205266,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205298,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205330,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1205407,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1205415,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1205427,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205473,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205481,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205491,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205500,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205515,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205547,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205640,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205684,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205734,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205746,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1205808,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1205869,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_100_Applicato reticolare,1207862,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,1208078,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,1208485,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,1208836,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_100_Generico,1209193,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1217513,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Uffici,1217596,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1217628,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1217663,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1217710,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1217787,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1217822,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1218057,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1218180,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1218253,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1218526,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,1221467,Corretto,1
+OST_Walls,Muro di base,AR_MUR_TAM_200_Generico,1221682,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1221784,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1221872,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1221937,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1222002,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1222567,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1222635,Corretto,1
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1222703,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1240532,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1240713,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1241119,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1247590,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_WC,1247690,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_150_Aree comuni,1247726,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_FL-001,1250978,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_FL-001,1251075,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03a_FL-001,1251696,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2400,1251814,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03a_FL-001,1251909,Corretto,1
+OST_Floors,Pavimento,AR_PAV_GET_120_MS.03_FL-001,1251959,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_150_Generico,1252892,Corretto,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_1300x115000_Lineare,1263441,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1300x2700_Rampa Piazza,1263616,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1300x2700_Rampa Piazza,1263726,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_1300x1500_Pianerottolo Piazza,1263728,Corretto,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_1300x2700_Rampa Piazza,1263802,Corretto,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_1300x1500_Pianerottolo Piazza,1263804,Corretto,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,1263993,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Met_h1100_Supporto scala,1263997,IFC CLASS e IFC PREDEF TYPE errati,0
+OST_Walls,Muro di base,AR_MUR_RIV_20_Generico,1264476,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1264730,Corretto,1
+OST_Walls,Muro di base,AR_MUR_DIV_200_Generico,1264812,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,1264865,Corretto,1
+OST_Doors,AR_ POR_BAT_All_1A_Opaca,AR_ POR_BAT_All_1A_Opaca_900x2100,1265071,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1266156,Corretto,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_50_Locali Tecnici,1266164,Corretto,1
