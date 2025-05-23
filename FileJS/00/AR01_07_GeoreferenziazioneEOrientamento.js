@@ -7,8 +7,8 @@ document.addEventListener("DOMContentLoaded", function () {
     tablesToLoad.forEach(table => {
         loadCSVToTable(table.tableId, table.repo, table.filePath);
     });
-    loadCSVToTableEsito('2Dto6D/ADB_Verifiche', 'AR01Verifiche/00/AR01_07_01_CoordinationReport_Data.csv', 'Coordination');
-    loadCSVToTableEsito('2Dto6D/ADB_Verifiche', 'AR01Verifiche/00/AR01_07_02_LocationReport_Data.csv', 'LatLong');
+    loadCSVToTableEsito('2Dto6D/ADB_Verifiche', 'AR01Verifiche/00/AR01_07_CoordinationReport_Data.csv', 'Coordination');
+    loadCSVToTableEsito('2Dto6D/ADB_Verifiche', 'AR01Verifiche/00/AR01_07_LocationReport_Data.csv', 'LatLong');
 });
 
 // Funzione per caricare la tabella dal CSV
