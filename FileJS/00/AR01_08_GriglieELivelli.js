@@ -8,17 +8,17 @@ document.addEventListener('DOMContentLoaded', () => {
     tablesToLoad.forEach(table => {
         loadCSVToTable(table.tableId, table.repo, table.filePath);
     });
-    loadCSV('Monitor', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/00/AR01_08_01_CopyMonitorReport_Data.csv');
-    loadCSV('NomenclaturaGriglieLivelli', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/00/AR01_08_02_GriglieELivelli_Data.csv');
+    loadCSV('Monitor', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/00/AR01_08_CopyMonitorReport_Data.csv');
+    loadCSV('NomenclaturaGriglieLivelli', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/00/AR01_08_GriglieELivelli_Data.csv');
     loadCSV('LivelliMEP', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/00/AR01_08_LivelliMEP.csv');
     loadHistogramFromCSV({
-        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR01Verifiche/00/AR01_08_01_CopyMonitorReport_Data.csv',
+        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR01Verifiche/00/AR01_08_CopyMonitorReport_Data.csv',
         chartId: 'MonitorAsBarChart',
         statsId: 'Monitorstatistics',
         title: 'Istogramma delle Categorie'
     });
     loadHistogramFromCSV({
-        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR01Verifiche/00/AR01_08_02_GriglieELivelli_Data.csv',
+        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR01Verifiche/00/AR01_08_GriglieELivelli_Data.csv',
         chartId: 'NomenclaturaGriglieLivelliAsBarChart',
         statsId: 'NomenclaturaGriglieLivellistatistics',
         title: 'Istogramma delle Categorie'
