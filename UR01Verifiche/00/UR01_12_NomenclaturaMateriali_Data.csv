@@ -1,0 +1,233 @@
+Nome Materiale,ID Elemento,Verifica,Stato
+Poche,454389,Codice non trovato nel database,0
+GL-Glass,601732,Codice non trovato nel database,0
+SC-Screed-Lightened,601734,Codice non trovato nel database,0
+PL-Plaster-Cement,601738,Codice non trovato nel database,0
+PL-Plaster-Cement-WaterbasedFinish,601739,Codice non trovato nel database,0
+GX-Generic,601743,Codice non trovato nel database,0
+GX-GenericStructure,601744,Codice non trovato nel database,0
+SC-Screed,601758,Codice non trovato nel database,0
+SC-Screed-Sloped,601759,Codice non trovato nel database,0
+SC-Screed-Reinforced,601760,Codice non trovato nel database,0
+SC-Screed-LightenedSloped,601761,Codice non trovato nel database,0
+SC-Screed-Lightened-LecacemClassic,601763,Codice non trovato nel database,0
+IS-EPS-Sheet-50mm,601775,Codice non trovato nel database,0
+IS-XPS-Sheet-50mm,601779,Codice non trovato nel database,0
+IS-WoodenWool,601783,Codice non trovato nel database,0
+IS-MineralWool,601784,Codice non trovato nel database,0
+PL-Plaster,601795,Codice non trovato nel database,0
+PL-Plaster-Lime,601796,Codice non trovato nel database,0
+PL-Plaster-Veneer,601797,Codice non trovato nel database,0
+PL-Plaster-Cement-EnamelFinish,601798,Codice non trovato nel database,0
+PL-SkimCoat,601799,Codice non trovato nel database,0
+PL-SkimCoat-Rasatutto,601800,Codice non trovato nel database,0
+PN-Paint,601803,Codice non trovato nel database,0
+PN-Paint-Waterbased,601804,Codice non trovato nel database,0
+PN-Paint-Enamel,601805,Codice non trovato nel database,0
+PN-Paint-SemiWaterbased,601806,Codice non trovato nel database,0
+PN-Paint-Silicate,601807,Codice non trovato nel database,0
+ME-Steel-Grating-Galvanized,601813,Codice non trovato nel database,0
+GS-Air,601818,Codice non trovato nel database,0
+IS-RockWool,601843,Codice non trovato nel database,0
+GL-GlassOpaque,601844,Codice non trovato nel database,0
+SN-MixStone-Tile-MaspeBiancoCarrara,601859,Codice non trovato nel database,0
+PB-Plastboard-Sheet-SiniatSolidtex,601866,Codice non trovato nel database,0
+PB-Plastboard-Sheet-SiniatPregyPlacBA13,601867,Codice non trovato nel database,0
+PB-Plastboard-Sheet-SiniatPregyFlamBA15,601868,Codice non trovato nel database,0
+PB-Plastboard-Sheet-SiniatPregyVapourBA13,601869,Codice non trovato nel database,0
+PB-Plastboard-Sheet-SiniatLaDuraBA15,601870,Codice non trovato nel database,0
+Render Material 255-255-255,612844,Codice non trovato nel database,0
+Render Material 0-255-0,612847,Codice non trovato nel database,0
+Render Material 255-0-255,612854,Codice non trovato nel database,0
+Render Material 255-0-191,612869,Codice non trovato nel database,0
+Render Material 128-128-128,612872,Codice non trovato nel database,0
+Render Material 255-255-0,612877,Codice non trovato nel database,0
+Render Material 0-127-255,612886,Codice non trovato nel database,0
+Render Material 0-255-255,612889,Codice non trovato nel database,0
+Render Material 255-127-0,612896,Codice non trovato nel database,0
+Render Material 255-127-255,612905,Codice non trovato nel database,0
+Render Material 165-124-0,612922,Codice non trovato nel database,0
+Render Material 0-255-191,612927,Codice non trovato nel database,0
+Render Material 255-63-0,612932,Codice non trovato nel database,0
+Render Material 0-165-0,612935,Codice non trovato nel database,0
+Render Material 127-223-255,612938,Codice non trovato nel database,0
+Render Material 255-191-0,612941,Codice non trovato nel database,0
+Render Material 0-82-165,612944,Codice non trovato nel database,0
+Render Material 101-101-101,612969,Codice non trovato nel database,0
+Render Material 255-127-223,612972,Codice non trovato nel database,0
+Render Material 255-0-0,612981,Codice non trovato nel database,0
+Render Material 63-255-0,612984,Codice non trovato nel database,0
+Render Material 0-63-255,612989,Codice non trovato nel database,0
+Render Material 255-255-127,612994,Codice non trovato nel database,0
+Render Material 0-124-165,612997,Codice non trovato nel database,0
+Render Material 204-204-204,613000,Codice non trovato nel database,0
+Render Material 0-191-255,613003,Codice non trovato nel database,0
+Render Material 192-192-192,613022,Codice non trovato nel database,0
+Render Material 223-127-255,613029,Codice non trovato nel database,0
+Render Material 165-0-165,613034,Codice non trovato nel database,0
+Render Material 255-159-127,613037,Codice non trovato nel database,0
+Render Material 127-255-0,613040,Codice non trovato nel database,0
+Render Material 159-127-255,613043,Codice non trovato nel database,0
+Render Material 191-127-255,613058,Codice non trovato nel database,0
+Render Material 82-165-0,613061,Codice non trovato nel database,0
+Render Material 153-153-153,613070,Codice non trovato nel database,0
+Render Material 255-223-127,613079,Codice non trovato nel database,0
+Render Material 255-127-127,613082,Codice non trovato nel database,0
+Render Material 165-82-0,613093,Codice non trovato nel database,0
+Render Material 63-127-0,613096,Codice non trovato nel database,0
+Render Material 145-165-82,613107,Codice non trovato nel database,0
+Render Material 191-255-0,613110,Codice non trovato nel database,0
+Render Material 0-255-63,613125,Codice non trovato nel database,0
+Render Material 255-191-127,613132,Codice non trovato nel database,0
+Render Material 102-102-102,613135,Codice non trovato nel database,0
+Render Material 191-0-255,613140,Codice non trovato nel database,0
+Render Material 0-127-0,613145,Codice non trovato nel database,0
+Render Material 82-165-165,613166,Codice non trovato nel database,0
+Render Material 0-165-124,613173,Codice non trovato nel database,0
+Render Material 127-127-255,613184,Codice non trovato nel database,0
+Render Material 0-0-255,613249,Codice non trovato nel database,0
+Render Material 41-165-0,613252,Codice non trovato nel database,0
+Render Material 165-41-0,613269,Codice non trovato nel database,0
+Render Material 0-165-165,613284,Codice non trovato nel database,0
+Render Material 165-0-41,613293,Codice non trovato nel database,0
+Render Material 165-82-103,613340,Codice non trovato nel database,0
+Render Material 82-124-165,613349,Codice non trovato nel database,0
+Render Material 57-76-0,613356,Codice non trovato nel database,0
+Render Material 127-191-255,613403,Codice non trovato nel database,0
+Render Material 0-0-0,613426,Codice non trovato nel database,0
+Render Material 0-165-41,613429,Codice non trovato nel database,0
+Render Material 82-103-165,613474,Codice non trovato nel database,0
+Render Material 82-165-82,613549,Codice non trovato nel database,0
+Render Material 255-0-63,613556,Codice non trovato nel database,0
+Render Material 223-255-127,613575,Codice non trovato nel database,0
+Render Material 191-255-127,613588,Codice non trovato nel database,0
+Render Material 0-255-127,613613,Codice non trovato nel database,0
+Render Material 0-127-31,613746,Codice non trovato nel database,0
+Render Material 127-255-223,613809,Codice non trovato nel database,0
+Render Material 127-255-255,613920,Codice non trovato nel database,0
+Render Material 165-165-0,613957,Codice non trovato nel database,0
+Render Material 165-82-165,614026,Codice non trovato nel database,0
+Render Material 127-0-31,614105,Codice non trovato nel database,0
+Render Material 127-159-255,614222,Codice non trovato nel database,0
+Render Material 165-0-0,614415,Codice non trovato nel database,0
+Render Material 0-76-19,614574,Codice non trovato nel database,0
+Render Material 127-63-0,619854,Codice non trovato nel database,0
+Render Material 127-0-0,619891,Codice non trovato nel database,0
+Render Material 82-145-165,619900,Codice non trovato nel database,0
+Render Material 63-95-127,619949,Codice non trovato nel database,0
+Render Material 38-0-0,620094,Codice non trovato nel database,0
+Render Material 82-165-103,620199,Codice non trovato nel database,0
+Render Material 127-127-63,620242,Codice non trovato nel database,0
+Render Material 95-127-0,620271,Codice non trovato nel database,0
+Render Material 127-255-127,620386,Codice non trovato nel database,0
+Render Material 124-165-0,620405,Codice non trovato nel database,0
+Render Material 127-255-191,620454,Codice non trovato nel database,0
+Render Material 95-0-127,620643,Codice non trovato nel database,0
+Render Material 38-76-38,620646,Codice non trovato nel database,0
+Render Material 76-38-0,620651,Codice non trovato nel database,0
+Render Material 57-38-126,620666,Codice non trovato nel database,0
+Render Material 0-63-127,620827,Codice non trovato nel database,0
+Render Material 76-0-19,620978,Codice non trovato nel database,0
+Render Material 23-38-19,621361,Codice non trovato nel database,0
+Render Material 38-47-126,621363,Codice non trovato nel database,0
+Render Material 124-0-165,651207,Codice non trovato nel database,0
+Render Material 63-63-127,651222,Codice non trovato nel database,0
+Render Material 0-127-127,651229,Codice non trovato nel database,0
+Render Material 0-38-38,651236,Codice non trovato nel database,0
+Render Material 127-79-63,651337,Codice non trovato nel database,0
+Render Material 57-76-38,651342,Codice non trovato nel database,0
+Render Material 76-38-76,651446,Codice non trovato nel database,0
+Render Material 0-31-127,652575,Codice non trovato nel database,0
+Render Material 127-0-255,652616,Codice non trovato nel database,0
+Render Material 255-0-127,652618,Codice non trovato nel database,0
+Materiale per il rendering 191-0-255,662775,Codice non trovato nel database,0
+Materiale per il rendering 255-255-255,662777,Codice non trovato nel database,0
+Materiale per il rendering 0-255-0,662779,Codice non trovato nel database,0
+Materiale per il rendering 255-0-255,662781,Codice non trovato nel database,0
+Materiale per il rendering 255-255-0,662784,Codice non trovato nel database,0
+Materiale per il rendering 0-255-255,662786,Codice non trovato nel database,0
+Materiale per il rendering 255-127-255,662789,Codice non trovato nel database,0
+Materiale per il rendering 128-128-128,662791,Codice non trovato nel database,0
+Materiale per il rendering 0-82-165,662793,Codice non trovato nel database,0
+Materiale per il rendering 255-127-0,662796,Codice non trovato nel database,0
+Materiale per il rendering 0-255-191,662798,Codice non trovato nel database,0
+Materiale per il rendering 0-63-255,662804,Codice non trovato nel database,0
+Materiale per il rendering 255-0-191,662806,Codice non trovato nel database,0
+Materiale per il rendering 255-0-0,662809,Codice non trovato nel database,0
+Materiale per il rendering 255-191-0,662811,Codice non trovato nel database,0
+Materiale per il rendering 63-255-0,662814,Codice non trovato nel database,0
+Materiale per il rendering 255-63-0,662819,Codice non trovato nel database,0
+Materiale per il rendering 82-165-165,662821,Codice non trovato nel database,0
+Materiale per il rendering 0-165-124,662823,Codice non trovato nel database,0
+Materiale per il rendering 223-127-255,662826,Codice non trovato nel database,0
+Materiale per il rendering 127-223-255,662828,Codice non trovato nel database,0
+Materiale per il rendering 159-127-255,662832,Codice non trovato nel database,0
+Materiale per il rendering 0-127-255,662835,Codice non trovato nel database,0
+Materiale per il rendering 0-127-0,662837,Codice non trovato nel database,0
+Materiale per il rendering 0-124-165,662839,Codice non trovato nel database,0
+Materiale per il rendering 127-255-0,662849,Codice non trovato nel database,0
+Materiale per il rendering 165-82-103,662851,Codice non trovato nel database,0
+Materiale per il rendering 0-191-255,662859,Codice non trovato nel database,0
+Materiale per il rendering 82-165-0,662863,Codice non trovato nel database,0
+Materiale per il rendering 255-159-127,662865,Codice non trovato nel database,0
+Materiale per il rendering 255-191-127,662880,Codice non trovato nel database,0
+Materiale per il rendering 82-165-82,662882,Codice non trovato nel database,0
+Materiale per il rendering 127-191-255,662885,Codice non trovato nel database,0
+Materiale per il rendering 255-0-63,662888,Codice non trovato nel database,0
+Materiale per il rendering 0-165-0,662890,Codice non trovato nel database,0
+Materiale per il rendering 191-255-127,662893,Codice non trovato nel database,0
+Materiale per il rendering 153-153-153,662898,Codice non trovato nel database,0
+Materiale per il rendering 255-223-127,662902,Codice non trovato nel database,0
+Materiale per il rendering 165-0-0,662910,Codice non trovato nel database,0
+Materiale per il rendering 0-0-0,662912,Codice non trovato nel database,0
+Materiale per il rendering 127-255-223,662940,Codice non trovato nel database,0
+Materiale per il rendering 255-255-127,662947,Codice non trovato nel database,0
+Materiale per il rendering 191-127-255,662956,Codice non trovato nel database,0
+Materiale per il rendering 0-76-19,662974,Codice non trovato nel database,0
+Materiale per il rendering 101-101-101,663585,Codice non trovato nel database,0
+Materiale per il rendering 192-192-192,663604,Codice non trovato nel database,0
+Materiale per il rendering 38-0-0,663607,Codice non trovato nel database,0
+Materiale per il rendering 76-38-76,663612,Codice non trovato nel database,0
+Materiale per il rendering 127-127-63,663618,Codice non trovato nel database,0
+Materiale per il rendering 102-102-102,663620,Codice non trovato nel database,0
+Materiale per il rendering 0-127-127,663625,Codice non trovato nel database,0
+Materiale per il rendering 82-124-165,663628,Codice non trovato nel database,0
+Materiale per il rendering 0-0-255,663646,Codice non trovato nel database,0
+Materiale per il rendering 0-31-127,663650,Codice non trovato nel database,0
+Materiale per il rendering 204-204-204,663656,Codice non trovato nel database,0
+Materiale per il rendering 82-145-165,663682,Codice non trovato nel database,0
+Materiale per il rendering 127-0-255,663693,Codice non trovato nel database,0
+Materiale per il rendering 255-0-127,663695,Codice non trovato nel database,0
+Materiale per il rendering 0-165-165,664986,Codice non trovato nel database,0
+Materiale per il rendering 95-0-127,665016,Codice non trovato nel database,0
+Materiale per il rendering 38-76-38,665019,Codice non trovato nel database,0
+Materiale per il rendering 165-82-0,665022,Codice non trovato nel database,0
+Materiale per il rendering 76-38-0,665025,Codice non trovato nel database,0
+Materiale per il rendering 57-38-126,665027,Codice non trovato nel database,0
+Materiale per il rendering 165-0-41,665029,Codice non trovato nel database,0
+Materiale per il rendering 165-82-165,665032,Codice non trovato nel database,0
+Materiale per il rendering 57-76-0,665034,Codice non trovato nel database,0
+Materiale per il rendering 127-255-191,665171,Codice non trovato nel database,0
+Materiale per il rendering 76-0-19,665206,Codice non trovato nel database,0
+Materiale per il rendering 23-38-19,665210,Codice non trovato nel database,0
+Materiale per il rendering 38-47-126,665212,Codice non trovato nel database,0
+Materiale per il rendering 255-127-127,665392,Codice non trovato nel database,0
+Materiale per il rendering 165-82-82,672210,Codice non trovato nel database,0
+Materiale per il rendering 63-127-0,672225,Codice non trovato nel database,0
+Materiale per il rendering 127-0-0,672228,Codice non trovato nel database,0
+Materiale per il rendering 0-95-127,672289,Codice non trovato nel database,0
+Materiale per il rendering 165-165-0,672326,Codice non trovato nel database,0
+Materiale per il rendering 66-38-76,672339,Codice non trovato nel database,0
+Materiale per il rendering 124-0-165,672416,Codice non trovato nel database,0
+Materiale per il rendering 63-63-127,672431,Codice non trovato nel database,0
+Materiale per il rendering 63-95-127,672434,Codice non trovato nel database,0
+Materiale per il rendering 66-76-38,672445,Codice non trovato nel database,0
+Materiale per il rendering 0-38-38,672448,Codice non trovato nel database,0
+Materiale per il rendering 127-127-255,672467,Codice non trovato nel database,0
+Materiale per il rendering 127-79-63,672572,Codice non trovato nel database,0
+Materiale per il rendering 57-76-38,672597,Codice non trovato nel database,0
+Materiale per il rendering 127-255-255,674413,Codice non trovato nel database,0
+Materiale per il rendering 127-63-0,681743,Codice non trovato nel database,0
+Materiale per il rendering 0-165-82,681882,Codice non trovato nel database,0
+Dynamo,692600,Codice non trovato nel database,0
+DynamoError,692601,Codice non trovato nel database,0
