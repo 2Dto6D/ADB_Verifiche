@@ -1,19 +1,31 @@
 /* Stili per tabelle */
-.SpecificheImpianti {
+.SpecificheImpianti,
+.AssegnazioneMEP,
+.CircuitiChiusi,
+.CollegamentiMEP,
+.CategorieMEP {
 width: 85%;
 table-layout: fixed;
 margin: 0 auto;
 border-collapse: collapse;
 }
 
-.SpecificheImpianti th {
+.SpecificheImpianti th,
+.AssegnazioneMEP th,
+.CircuitiChiusi th,
+.CollegamentiMEP th,
+.CategorieMEP th {
 background-color: #f2f2f2;
 text-align: center;
 padding: 10px;
 word-wrap: break-word;
 }
 
-.SpecificheImpianti td {
+.SpecificheImpianti td,
+.AssegnazioneMEP td,
+.CircuitiChiusi td,
+.CollegamentiMEP td,
+.CategorieMEP td {
 border: 1px solid #000;
 text-align: center;
 padding: 8px;
