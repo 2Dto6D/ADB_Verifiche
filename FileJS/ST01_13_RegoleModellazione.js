@@ -1,42 +1,42 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
     const tablesToLoad = [
-        { tableId: "RegoleModellazione", repo: "2Dto6D/ADB_Verifiche", filePath: "ST01Riepilogo/ST01_13_00_RegoleModellazione.csv" }
+        { tableId: "RegoleModellazione", repo: "2Dto6D/ADB_Verifiche", filePath: "STO1Riepilogo/02/STO1_13_RegoleModellazione.csv" }
     ];
 
     tablesToLoad.forEach(table => {
         loadCSVToTable(table.tableId, table.repo, table.filePath);
     });
-    loadCSV('StructuralError', '2Dto6D/ADB_Verifiche', 'ST01Verifiche/ST01_13_00_VincoloTraLivelli_Data.csv');
-    loadCSV('VerificaLocali', '2Dto6D/ADB_Verifiche', 'ST01Verifiche/ST01_13_00_VerificaLocali_Data.csv');
-    loadCSV('ElementOffset', '2Dto6D/ADB_Verifiche', 'ST01Verifiche/ST01_13_00_ElementOffset_Data.csv');
-    loadCSV('FamiglieInPlace', '2Dto6D/ADB_Verifiche', 'ST01Verifiche/ST01_13_00_FamiglieInPlace_Data.csv');
+    loadCSV('ElementOffset', '2Dto6D/ADB_Verifiche', 'STO1Verifiche/02/STO1_13_ElementOffset_Data.csv');
+    loadCSV('StructuralError', '2Dto6D/ADB_Verifiche', 'STO1Verifiche/02/STO1_13_VincoloTraLivelli_Data.csv');
+    loadCSV('VerificaLocali', '2Dto6D/ADB_Verifiche', 'STO1Verifiche/02/STO1_13_VerificaLocali_Data.csv');
+    loadCSV('FamiglieInPlace', '2Dto6D/ADB_Verifiche', 'STO1Verifiche/02/STO1_13_FamiglieInPlace_Data.csv');
 
     const chartsConfig = [
         {
             canvasId: 'StructuralErrorGraficoATorta',
             statsId: 'StructuralErrorstatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'ST01Verifiche/ST01_13_00_VincoloTraLivelli_Data.csv'
+            filePath: 'STO1Verifiche/02/STO1_13_VincoloTraLivelli_Data.csv'
         },
         {
             canvasId: 'VerificaLocaliGraficoATorta',
             statsId: 'VerificaLocalistatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'ST01Verifiche/ST01_13_00_VerificaLocali_Data.csv'
+            filePath: 'STO1Verifiche/02/STO1_13_VerificaLocali_Data.csv'
         },
         {
             canvasId: 'FamiglieInPlaceGraficoATorta',
             statsId: 'FamiglieInPlacestatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'ST01Verifiche/ST01_13_00_FamiglieInPlace_Data.csv'
+            filePath: 'STO1Verifiche/02/STO1_13_FamiglieInPlace_Data.csv'
         }
     ];
     
     chartsConfig.forEach(config => loadPieChartCSV(config));
     
     loadHistogramFromCSV({
-        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/ST01Verifiche/ST01_13_00_ElementOffset_Data.csv',
+        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/STO1Verifiche/02/STO1_13_ElementOffset_Data.csv',
         chartId: 'ElementOffsetAsBarChart',
         statsId: 'ElementOffsetStatistics',
         title: 'Istogramma delle Categorie'
@@ -114,7 +114,7 @@ function loadCSVToTable(tableId, repo, filePath) {
 // Tabella con Bottoni di Paginazione
     // Costanti e Variabili
 
-const rowsPerPage = 100; 
+const rowsPerPage = 20; 
 let currentPage = {}; 
 let dataOffset = {}; 
 

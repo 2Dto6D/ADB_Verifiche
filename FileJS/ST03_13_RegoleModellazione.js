@@ -1,42 +1,42 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
     const tablesToLoad = [
-        { tableId: "RegoleModellazione", repo: "2Dto6D/ADB_Verifiche", filePath: "ST03Riepilogo/ST03_13_00_RegoleModellazione.csv" }
+        { tableId: "RegoleModellazione", repo: "2Dto6D/ADB_Verifiche", filePath: "ST03Riepilogo/02/ST03_13_RegoleModellazione.csv" }
     ];
 
     tablesToLoad.forEach(table => {
         loadCSVToTable(table.tableId, table.repo, table.filePath);
     });
-    loadCSV('StructuralError', '2Dto6D/ADB_Verifiche', 'ST03Verifiche/ST03_13_00_VincoloTraLivelli_Data.csv');
-    loadCSV('VerificaLocali', '2Dto6D/ADB_Verifiche', 'ST03Verifiche/ST03_13_00_VerificaLocali_Data.csv');
-    loadCSV('ElementOffset', '2Dto6D/ADB_Verifiche', 'ST03Verifiche/ST03_13_00_ElementOffset_Data.csv');
-    loadCSV('FamiglieInPlace', '2Dto6D/ADB_Verifiche', 'ST03Verifiche/ST03_13_00_FamiglieInPlace_Data.csv');
+    loadCSV('ElementOffset', '2Dto6D/ADB_Verifiche', 'ST03Verifiche/02/ST03_13_ElementOffset_Data.csv');
+    loadCSV('StructuralError', '2Dto6D/ADB_Verifiche', 'ST03Verifiche/02/ST03_13_VincoloTraLivelli_Data.csv');
+    loadCSV('VerificaLocali', '2Dto6D/ADB_Verifiche', 'ST03Verifiche/02/ST03_13_VerificaLocali_Data.csv');
+    loadCSV('FamiglieInPlace', '2Dto6D/ADB_Verifiche', 'ST03Verifiche/02/ST03_13_FamiglieInPlace_Data.csv');
 
     const chartsConfig = [
         {
             canvasId: 'StructuralErrorGraficoATorta',
             statsId: 'StructuralErrorstatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'ST03Verifiche/ST03_13_00_VincoloTraLivelli_Data.csv'
+            filePath: 'ST03Verifiche/02/ST03_13_VincoloTraLivelli_Data.csv'
         },
         {
             canvasId: 'VerificaLocaliGraficoATorta',
             statsId: 'VerificaLocalistatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'ST03Verifiche/ST03_13_00_VerificaLocali_Data.csv'
+            filePath: 'ST03Verifiche/02/ST03_13_VerificaLocali_Data.csv'
         },
         {
             canvasId: 'FamiglieInPlaceGraficoATorta',
             statsId: 'FamiglieInPlacestatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'ST03Verifiche/ST03_13_00_FamiglieInPlace_Data.csv'
+            filePath: 'ST03Verifiche/02/ST03_13_FamiglieInPlace_Data.csv'
         }
     ];
     
     chartsConfig.forEach(config => loadPieChartCSV(config));
     
     loadHistogramFromCSV({
-        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/ST03Verifiche/ST03_13_00_ElementOffset_Data.csv',
+        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/ST03Verifiche/02/ST03_13_ElementOffset_Data.csv',
         chartId: 'ElementOffsetAsBarChart',
         statsId: 'ElementOffsetStatistics',
         title: 'Istogramma delle Categorie'
