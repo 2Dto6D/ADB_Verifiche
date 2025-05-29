@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>AR02-Integrità e Pulizia file</title>
+		<link rel="shortcut icon" href="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" type="image/x-icon">
+		<link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/00_styles.css">
+		<link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/09_IntegritaEPuliziaFile.css">
+		<link href="//fonts.googleapis.com/css?family=Roboto:400%2C700&display=swap" rel="stylesheet">
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/styles.js" defer></script>
+		<script src="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/00/AR02_09_IntegritaEPuliziaFile.js" defer></script>
+	</head>
+	<body>
+		<header>
+			<div class="Logo">
+				<a href="https://2dto6d.com/" target="_blank">
+					<img src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-completo-2dto6d-piccolo.png" alt="Logo">
+				</a>
+			</div>
+		</header>
+		<nav class="Menu">
+			<button class="hamburger" onclick="toggleMenu()">☰</button>
+			<div class="menu-content" id="menuContent">
+                <button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_00_index.html">Home AR02</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_01_PGIEAllegati.html">pGI e Allegati</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_03_ClashDetection.html">Clash Detection</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_05_ACDat.html">ACDat</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_07_GeoreferenziazioneEOrientamento.html">Georeferenziazione e Orientamento</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_08_GriglieELivelli.html">Griglie e Livelli</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_10_VerificaInformativa.html">Verifica Informativa</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_12_NamingConvention.html">Naming Convention</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_13_RegoleModellazione.html">Regole Modellazione</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_15_UnitaDiMisura.html">Unità di misura</a></button>
+			</div>
+		</nav>
+		<main class="Contenitore">
+			<div class="Card">
+				<div class="Titolo">
+					<h2>Integrità e Pulizia File</h2>
+					<p class="Descrizione">Verifica e valorizzazione dei parametri informativi in Infocad</p>
+				</div>
+				<br>
+                <table id="IntegritàEPuliziaFile" class="IntegritàEPuliziaFile">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class="Card1">
+                <h2>Verifica 21</h2>
+                <p class="Descrizione">I file nativo e IFC rispettano la dimensione limite di 200 Mb</p>
+                <br>
+                <table id="PesoFile" class="PesoFile">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class="Card1">
+                <h2>Verifica 22</h2>
+                <p class="Descrizione">I file nativo e IFC sono salvati nella versione e nel formato previsti dal pGI</p>
+                <br>
+                <table id="VersioneFile" class="VersioneFile">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+			<div class="Card1">
+                <h2>Verifica 25</h2>
+                <p class="Descrizione">Le IfcClass e i PredefinedType sono correttamente mappati rispetto alle categorie degli elementi del file nativo. Come da mappatura allegata al pGI e presente nel PIR</p>
+                <br>
+                <table id="IFCMapping" class="IFCMapping">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class="Card1">
+                <h2>Verifica 26</h2>
+                <p class="Descrizione">Impostazione vista "Starting View" in modello con informazioni relative al progetto tra cui revisione del modello e ultime modifiche</p>
+                <br>
+                <table id="StartingView" class="StartingView">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+			<div class="Card1">
+                <h2>Verifica 34</h2>
+                <p class="Descrizione">I workset sono stati eliminati dal modello di consegna</p>
+                <br>
+                <table id="Workset" class="Workset">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class="Card1">
+                <h2>Verifica 35</h2>
+                <p class="Descrizione">Tutti i parametri aggiunti nel modello utilizzano il medesimo file per i parametri condivisi</p>
+                <br>
+                <div class="ParametriCondivisi">
+                    <table class="ParametriCondivisiTabella">
+                        <thead id="ParametriCondivisiHeader"></thead>
+                        <tbody id="ParametriCondivisiBody"></tbody>
+                    </table>
+                    <br>
+                    <div class="pagination-ParametriCondivisi"></div>
+                </div>
+                <br>
+                <div id="ParametriCondivisistatistics"></div>
+            </div>
+            <div class="Card1">
+                <h2>Verifica 36</h2>
+                <p class="Descrizione">Il file IFC contiene tutte le geometrie presenti nel corrispettivo file nativo (a meno di quelle non esportate volontariamente)</p>
+                <br>
+                <div class="CorrispondenzaIFC">
+                    <table class="CorrispondenzaIFCTabella">
+                        <thead id="CorrispondenzaIFCHeader"></thead>
+                        <tbody id="CorrispondenzaIFCBody"></tbody>
+                    </table>
+                    <br>
+                    <div class="pagination-CorrispondenzaIFC"></div>
+                </div>
+                <br>
+                <div id="CorrispondenzaIFCstatistics"></div>
+            </div>
+        </main>
+		<footer id="footer" class="footer">
+			<div class="Vuoto"></div>
+			<div class="footer-logo">
+				<img class="LogoFooter" src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" alt="LogoFooter">
+				<p class="FooterBianco">2Dto6D di Neri Lorenzetto Bologna</p>
+			</div>
+			<div class="footer-content">
+				<div class="contact-referent">
+					<h3>Contatti</h3>
+					<ul>
+						<li>E-mail: info@2dto6d.com</li>
+						<li>PEC: 2dto6dsrls@twtcert.it</li>
+						<li>Partita IVA: 07133360482</li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer-content">
+				<div class="contact-referent">
+					<h3>Referenti</h3>
+					<ul>
+						<li>Sante Vagnozzi</li>
+						<li>Vittoria Bressan</li>
+						<li>Dario Sgolacchia</li>
+					</ul>
+				</div>
+			</div>
+			<div class="Vuoto"></div>
+			<div class="footer-bottom">
+				<p class="FooterBianco"><strong>Per qualsiasi dubbio, vi chiediamo gentilmente di contattarci a: adbverifiche@2dto6d.com</strong></p>
+				<br>
+				<br>
+				<small class="FooterBianco">&copy; 2025 Verifiche 2Dto6D. Tutti i diritti riservati.<br>
+					Il presente sito agisce esclusivamente come visualizzatore, con l'obiettivo di analizzare i modelli e i documenti realizzati dagli esecutori.<br>
+					Tutti i dati sono trattati nel rispetto della privacy e delle normative vigenti, garantendo la protezione delle informazioni in conformità alla legislazione applicabile.<br>
+				</small>
+			</div>
+		</footer>
+	<button class="scroll-top" onclick="scrollToTop()">&#8679;</button>
+	</body>
+	</html>
