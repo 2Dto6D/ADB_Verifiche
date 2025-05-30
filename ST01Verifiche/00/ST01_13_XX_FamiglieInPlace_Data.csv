@@ -1,0 +1,1662 @@
+Categoria,Id Elemento,Famiglia,Stato
+Annotazioni generiche,195502,INC_AnnGen_Titolo,1
+Annotazioni generiche,219955,INC_AnnGen_Titolo,1
+Annotazioni generiche,220684,INC_AnnGen_Titolo,1
+Annotazioni generiche,220946,INC_AnnGen_SimbSYMB Saldatura d'angolo,1
+Annotazioni generiche,223727,INC_AnnGen_SimbSaldaturaSingolaConica,1
+Annotazioni generiche,225357,INC_AnnGen_SimbSaldaturaSingolaV,1
+Elementi di dettaglio,237151,INC_ElmDet_PiastraBasePilastro2Fori-ParteSuperiore,1
+Elementi di dettaglio,237953,INC_ElmDet_PiastraBasePilastro4ForiCroce-ParteSuperiore,1
+Elementi di dettaglio,237961,INC_ElmDet_PiastraRinforzo1Svasata-Prospetto,1
+Elementi di dettaglio,237969,INC_ElmDet_PiastraRinforzo2Svasata-Prospetto,1
+Elementi di dettaglio,237977,INC_ElmDet_PiastraRinforzoIrregolare1-Prospetto,1
+Elementi di dettaglio,238107,INC_ElmDet_PiastraRinforzoIrregolare2-Prospetto,1
+Elementi di dettaglio,238115,INC_ElmDet_PiastraRinforzoRettangolare-Prospetto,1
+Elementi di dettaglio,238158,INC_ElmDet_PiastraRinforzoTrapezoidale-Prospetto,1
+Elementi di dettaglio,238180,INC_ElmDet_ProfilatoL_ConnessioneBullonata2-Prospetto,1
+Elementi di dettaglio,238221,INC_ElmDet_ProfilatoL_ConnessioneBullonata2-Prospetto,1
+Elementi di dettaglio,238229,INC_ElmDet_ProfilatoL_ConnessioneBullonata3-Prospetto,1
+Elementi di dettaglio,238237,INC_ElmDet_ProfilatoL_ConnessioneBullonata3-Prospetto,1
+Elementi di dettaglio,238245,INC_ElmDet_ProfilatoL_ConnessioneBullonata1-Prospetto,1
+Elementi di dettaglio,238396,INC_ElmDet_ProfilatoL_ConnessioneBullonata-Sezione,1
+Elementi di dettaglio,238541,INC_ElmDet_ProfilatoL_ConnessioneSaldata-Prospetto,1
+Elementi di dettaglio,238587,INC_ElmDet_ProfilatoL_ConnessioneSaldata-Sezione,1
+Elementi di dettaglio,240325,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,240329,INC_ElmDet_BulloneTesta,1
+Elementi di dettaglio,240333,INC_ElmDet_BulloneLato,1
+Elementi di dettaglio,253489,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,253691,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,253703,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,253806,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,253813,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,254147,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,255241,INC_ElmDet_BulloneLato,1
+Elementi di dettaglio,258233,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,301049,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,301084,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,301085,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,301105,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,302819,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,302820,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,302821,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,302861,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,302903,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,302904,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,302905,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303045,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303046,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303067,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,303068,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,303082,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303083,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303096,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,303206,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303207,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303208,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303228,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303229,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303230,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,303231,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,307162,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,307173,INC_ElmDet_Vite,1
+Elementi di dettaglio,307205,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,307319,INC_ElmDet_Vite,1
+Elementi di dettaglio,307322,INC_ElmDet_Vite,1
+Elementi di dettaglio,307325,INC_ElmDet_Vite,1
+Elementi di dettaglio,307328,INC_ElmDet_Vite,1
+Elementi di dettaglio,307384,INC_ElmDet_Vite,1
+Elementi di dettaglio,307430,INC_ElmDet_Vite,1
+Elementi di dettaglio,307433,INC_ElmDet_Vite,1
+Elementi di dettaglio,307436,INC_ElmDet_Vite,1
+Elementi di dettaglio,307439,INC_ElmDet_Vite,1
+Elementi di dettaglio,313231,INC_ElmDet_Distanziatori,1
+Elementi di dettaglio,313763,INC_ElmDet_Hilti2Testa,1
+Elementi di dettaglio,313896,INC_ElmDet_TipoIPE400,1
+Elementi di dettaglio,318343,INC_ElmDet_M12Corpo,1
+Elementi di dettaglio,319443,INC_ElmDet_BulloneLato,1
+Elementi di dettaglio,320084,INC_ElmDet_BulloneLato,1
+Elementi di dettaglio,320145,INC_ElmDet_BulloneTesta,1
+Elementi di dettaglio,320242,INC_ElmDet_BulloneTesta,1
+Annotazioni generiche,352372,INC_AnnGen_Titolo,1
+Annotazioni generiche,352375,INC_AnnGen_Titolo,1
+Annotazioni generiche,352376,INC_AnnGen_Titolo,1
+Annotazioni generiche,352377,INC_AnnGen_Titolo,1
+Elementi di dettaglio,352541,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,353180,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,353181,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,353182,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,353185,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,353186,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,353190,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,353196,INC_ElmDet_BulloneLato,1
+Elementi di dettaglio,353384,INC_ElmDet_TipoL50x5,1
+Elementi di dettaglio,353385,INC_ElmDet_TipoL50x5,1
+Elementi di dettaglio,353587,INC_ElmDet_BulloneDado,1
+Elementi di dettaglio,355409,INC_ElmDet_Hilti2Testa,1
+Elementi di dettaglio,355511,INC_ElmDet_TipoUPN200,1
+Elementi di dettaglio,355522,INC_ElmDet_M12Corpo,1
+Elementi di dettaglio,355542,INC_ElmDet_TipoIPE400,1
+Elementi di dettaglio,355859,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,355870,INC_ElmDet_Vite,1
+Elementi di dettaglio,355902,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,355949,INC_ElmDet_Vite,1
+Elementi di dettaglio,355952,INC_ElmDet_Vite,1
+Elementi di dettaglio,355955,INC_ElmDet_Vite,1
+Elementi di dettaglio,355958,INC_ElmDet_Vite,1
+Elementi di dettaglio,355982,INC_ElmDet_Vite,1
+Elementi di dettaglio,356028,INC_ElmDet_Vite,1
+Elementi di dettaglio,356031,INC_ElmDet_Vite,1
+Elementi di dettaglio,356034,INC_ElmDet_Vite,1
+Elementi di dettaglio,356037,INC_ElmDet_Vite,1
+Elementi di dettaglio,357121,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,365946,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ8,1
+Elementi di dettaglio,365947,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ8,1
+Elementi di dettaglio,375837,INC_ElmDet_TipoHEA400,1
+Elementi di dettaglio,376142,INC_ElmDet_ElementoCLS,1
+Elementi di dettaglio,377491,INC_ElmDet_TipoHEA400,1
+Elementi di dettaglio,379076,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,379077,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,379078,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379168,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379169,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379182,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,379222,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379234,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379235,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379248,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379249,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379262,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,379293,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379294,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379365,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,379366,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379367,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379401,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,379462,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379463,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,379483,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,379484,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,380653,INC_ElmDet_Vite,1
+Elementi di dettaglio,380654,INC_ElmDet_Vite,1
+Elementi di dettaglio,390614,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,390615,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,390619,INC_ElmDet_Cavedio,1
+Elementi di dettaglio,390629,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,390630,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,391422,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,391423,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,391424,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,391425,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,391426,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,392228,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,396207,INC_ElmDet_M12Corpo,1
+Elementi di dettaglio,396256,INC_ElmDet_BulloneTesta,1
+Elementi di dettaglio,396257,INC_ElmDet_BulloneTesta,1
+Elementi di dettaglio,396324,INC_ElmDet_TipoUPN200,1
+Elementi di dettaglio,396333,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,396586,INC_ElmDet_Tassello,1
+Elementi di dettaglio,396594,INC_ElmDet_Tassello,1
+Elementi di dettaglio,396776,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,397880,INC_ElmDet_M12Corpo,1
+Elementi di dettaglio,397935,INC_ElmDet_BulloneTesta,1
+Elementi di dettaglio,397936,INC_ElmDet_BulloneTesta,1
+Elementi di dettaglio,398066,INC_ElmDet_TipoUPN200,1
+Annotazioni generiche,399667,INC_AnnGen_SimbSYMB Saldatura d'angolo,1
+Annotazioni generiche,399672,INC_AnnGen_SimbSYMB Saldatura d'angolo,1
+Elementi di dettaglio,399757,INC_ElmDet_TipoL45x5,1
+Elementi di dettaglio,399846,INC_ElmDet_BreakLine,1
+Annotazioni generiche,399899,INC_AnnGen_SimbSYMB Saldatura d'angolo,1
+Elementi di dettaglio,400739,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,400747,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,400750,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,400751,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,464619,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,465041,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,467098,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ8,1
+Elementi di dettaglio,467099,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ8,1
+Elementi di dettaglio,468822,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,468823,INC_ElmDet_FerroStaffa,1
+Elementi di dettaglio,468824,INC_ElmDet_FerroStaffa,1
+Elementi di dettaglio,468825,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,468826,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,468833,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,468834,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,468835,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,468836,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,468838,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,468839,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,468841,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,468848,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,468851,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,468852,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,473953,INC_ElmDet_FerroStaffa,1
+Elementi di dettaglio,473957,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,473961,INC_ElmDet_FerroStaffa,1
+Elementi di dettaglio,473964,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,481267,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,481278,INC_ElmDet_Vite,1
+Elementi di dettaglio,481388,INC_ElmDet_Vite,1
+Elementi di dettaglio,481391,INC_ElmDet_Vite,1
+Elementi di dettaglio,481394,INC_ElmDet_Vite,1
+Elementi di dettaglio,481397,INC_ElmDet_Vite,1
+Elementi di dettaglio,481487,INC_ElmDet_Vite,1
+Elementi di dettaglio,481508,INC_ElmDet_TipoHEA340,1
+Annotazioni generiche,481545,INC_AnnGen_SimbEditabileEstremitàGrigliaSTR,1
+Elementi di dettaglio,481566,INC_ElmDet_Vite,1
+Elementi di dettaglio,481578,INC_ElmDet_TipoHEA340,1
+Annotazioni generiche,481587,INC_AnnGen_SimbEditabileEstremitàGrigliaSTR,1
+Elementi di dettaglio,481659,INC_ElmDet_Vite,1
+Elementi di dettaglio,501550,INC_ElmDet_FerriSezioneDoppi,1
+Elementi di dettaglio,501551,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,501552,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,501554,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,501773,INC_ElmDet_FerroStaffa,1
+Elementi di dettaglio,502008,INC_ElmDet_SimboloFerroC,1
+Elementi di dettaglio,502128,INC_ElmDet_SimboloFerroL,1
+Elementi di dettaglio,502233,INC_ElmDet_SimboloFerroI,1
+Elementi di dettaglio,502390,INC_ElmDet_SimboloFerroStaffa,1
+Elementi di dettaglio,502528,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,508152,INC_ElmDet_SimboloFerroL,1
+Elementi di dettaglio,508154,INC_ElmDet_SimboloFerroL,1
+Elementi di dettaglio,508155,INC_ElmDet_SimboloFerroL,1
+Elementi di dettaglio,508157,INC_ElmDet_SimboloFerroL,1
+Elementi di dettaglio,508158,INC_ElmDet_FerroStaffa,1
+Elementi di dettaglio,508162,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,508163,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,508164,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508165,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508166,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508167,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508168,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508169,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508177,INC_ElmDet_SimboloFerroC,1
+Elementi di dettaglio,508179,INC_ElmDet_SimboloFerroC,1
+Elementi di dettaglio,508183,INC_ElmDet_SimboloFerroI,1
+Elementi di dettaglio,508184,INC_ElmDet_SimboloFerroI,1
+Elementi di dettaglio,508212,INC_ElmDet_SimboloFerroL,1
+Elementi di dettaglio,508213,INC_ElmDet_SimboloFerroL,1
+Elementi di dettaglio,508217,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508219,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,508220,INC_ElmDet_SimboloFerroL,1
+Elementi di dettaglio,508221,INC_ElmDet_SimboloFerroL,1
+Elementi di dettaglio,508226,INC_ElmDet_BreakLine,1
+Annotazioni generiche,508229,INC_AnnGen_Titolo,1
+Annotazioni generiche,508231,INC_AnnGen_Titolo,1
+Elementi di dettaglio,508234,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,508235,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,508236,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508237,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508238,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508239,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,508240,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,508241,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,508242,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,508243,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,508244,INC_ElmDet_SimboloFerroGancio,1
+Elementi di dettaglio,508246,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,508247,INC_ElmDet_FerriSezioneSingoli,1
+Elementi di dettaglio,533225,INC_ElmDet_SimboloEstensioneZonaArmatura,1
+Elementi di dettaglio,541586,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,541597,INC_ElmDet_Vite,1
+Elementi di dettaglio,541598,INC_ElmDet_Vite,1
+Elementi di dettaglio,541599,INC_ElmDet_Vite,1
+Elementi di dettaglio,592913,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,596216,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,596227,INC_ElmDet_Vite,1
+Elementi di dettaglio,596331,INC_ElmDet_Vite,1
+Elementi di dettaglio,596334,INC_ElmDet_Vite,1
+Elementi di dettaglio,596337,INC_ElmDet_Vite,1
+Elementi di dettaglio,596340,INC_ElmDet_Vite,1
+Elementi di dettaglio,596615,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,596619,INC_ElmDet_Cavedio,1
+Elementi di dettaglio,596629,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,596731,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,596974,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,596975,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,596976,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,596977,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,596978,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,597141,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,597142,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,597143,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,597570,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,597571,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,597572,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ6,1
+Elementi di dettaglio,598088,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598089,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598090,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598091,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598092,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598093,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598094,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598095,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598096,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598101,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598102,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598103,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598104,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598105,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598106,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598107,INC_ElmDet_SingolaBarraArmaturaSezione,1
+Elementi di dettaglio,598386,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,598387,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,598388,INC_ElmDet_BreakLine,1
+Annotazioni generiche,599118,INC_Annotazione generica - Titolo,1
+Elementi di dettaglio,599869,INC_ElmDet_BreakLine,1
+Elementi di dettaglio,601765,INC_ElmDet_ReteElettrosaldataBasataSuLineaØ8,1
+Elementi di dettaglio,603462,INC_ElmDet_Distanziatori,1
+Elementi di dettaglio,604604,INC_ElmDet_ProfilatoL_ConnessioneBullonata4-Prospetto,1
+Elementi di dettaglio,604865,INC_ElmDet_ProfilatoL_ConnessioneBullonata4-Prospetto,1
+Elementi di dettaglio,605432,INC_ElmDet_Hilti2Testa,1
+Elementi di dettaglio,605673,INC_ElmDet_M12Corpo,1
+Elementi di dettaglio,605859,INC_ElmDet_Tassello,1
+Elementi di dettaglio,606114,INC_ElmDet_Vite,1
+Elementi di dettaglio,606644,INC_ElmDet_Alveolare-27,5+50,1
+Elementi di dettaglio,606801,INC_ElmDet_Mattone-Prospetto,1
+Elementi di dettaglio,607096,INC_ElmDet_Cordolo,1
+Elementi di dettaglio,607403,INC_ElmDet_ElementoCLS,1
+Elementi di dettaglio,607671,INC_ElmDet_Mattone-Sezione,1
+Elementi di dettaglio,607750,INC_ElmDet_MattonePieno,1
+Elementi di dettaglio,607863,INC_ElmDet_Pignatta,1
+Elementi di dettaglio,607986,INC_ElmDet_PignattaTravetto,1
+Elementi di dettaglio,608137,INC_ElmDet_PredallesH-16+4Longitudinale,1
+Elementi di dettaglio,608324,INC_ElmDet_PredallesH-16+4Trasversale,1
+Elementi di dettaglio,608581,INC_ElmDet_PredallesH-20+4Longitudinale,1
+Elementi di dettaglio,608768,INC_ElmDet_PredallesH-20+4Trasversale,1
+Elementi di dettaglio,608918,INC_ElmDet_Tegole,1
+Elementi di dettaglio,609041,INC_ElmDet_Travetto,1
+Elementi di dettaglio,609264,INC_ElmDet_TipoHEA400,1
+Elementi di dettaglio,609340,INC_ElmDet_TipoIPE400,1
+Elementi di dettaglio,609462,INC_ElmDet_TipoL45x5,1
+Elementi di dettaglio,609608,INC_ElmDet_TipoL50x5,1
+Elementi di dettaglio,609753,INC_ElmDet_TipoUPN200,1
+Cartigli,637722,GN_ANN_TBS_StartingView,1
+Cartigli,669552,GN_ANN_TBS_Cartiglio,1
+Pilastri strutturali,681944,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682354,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682409,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682419,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682520,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682521,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682522,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682523,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682534,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682535,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682536,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682537,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682550,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682551,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682552,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682553,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682564,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682565,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682566,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682567,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682578,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682579,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682580,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682581,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682594,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682595,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682596,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682597,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682608,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682609,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682610,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682611,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682650,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682651,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682652,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682653,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682668,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682669,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682670,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682671,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682684,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682685,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682686,INC_PilST_PS.AC_CircolareCavo,1
+Pilastri strutturali,682687,INC_PilST_PS.AC_CircolareCavo,1
+Telaio strutturale,686966,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687217,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687269,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687359,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687409,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687509,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687510,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687511,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687512,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687513,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687523,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687524,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687525,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687526,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687527,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687537,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687538,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687539,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687540,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687541,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687551,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687552,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687553,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687554,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687555,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687563,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687564,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687565,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687566,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687567,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687577,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687578,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687579,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687580,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687581,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687591,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687592,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687593,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687594,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687595,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687609,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687610,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687611,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687612,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687613,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687623,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687624,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687625,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687626,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687627,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687635,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687636,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687637,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687638,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687639,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687876,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687877,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687878,INC_TelST_TS.AC_HE,1
+Telaio strutturale,687974,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688090,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688099,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688108,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688163,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688164,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688165,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688166,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688217,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688218,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688219,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688220,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688229,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688230,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688231,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688232,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688243,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688244,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688245,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688246,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688255,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688256,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688257,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688258,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688269,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688270,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688271,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688272,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688281,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688282,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688283,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688284,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688295,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688296,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688297,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688298,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688307,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688308,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688309,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688310,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688325,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688326,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688327,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688328,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688337,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688338,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688339,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688340,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688376,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688411,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688675,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688715,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688744,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688781,INC_TelST_TS.AC_HE,1
+Telaio strutturale,688906,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689060,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689133,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689134,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689135,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689136,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689137,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689237,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689301,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689352,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689619,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689737,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689840,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689841,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689937,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689938,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689939,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689940,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689941,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689942,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689943,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689944,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689945,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689946,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689947,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689959,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689960,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689961,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689962,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689963,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689964,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689965,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689966,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689967,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689968,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689969,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689979,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689980,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689981,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689982,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689983,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689984,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689985,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689986,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689987,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689988,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689989,INC_TelST_TS.AC_HE,1
+Telaio strutturale,689999,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690000,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690001,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690002,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690003,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690004,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690005,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690006,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690007,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690008,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690009,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690019,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690020,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690021,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690022,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690023,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690024,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690025,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690026,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690027,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690028,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690029,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690039,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690040,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690041,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690042,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690043,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690044,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690045,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690046,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690047,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690048,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690049,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690059,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690060,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690061,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690062,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690063,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690064,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690065,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690066,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690067,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690068,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690069,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690079,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690080,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690081,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690082,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690083,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690084,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690085,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690086,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690087,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690088,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690089,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690097,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690098,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690099,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690100,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690101,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690102,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690103,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690104,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690105,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690106,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690107,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690117,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690118,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690119,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690120,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690121,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690122,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690123,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690124,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690125,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690126,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690127,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690252,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690366,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690597,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690761,INC_TelST_TS.AC_HE,1
+Telaio strutturale,690861,INC_TelST_TS.AC_HE,1
+Telaio strutturale,691257,INC_TelST_TS.AC_HE,1
+Telaio strutturale,691258,INC_TelST_TS.AC_HE,1
+Telaio strutturale,691809,INC_TelST_TS.AC_HE,1
+Telaio strutturale,691942,INC_TelST_TS.AC_HE,1
+Telaio strutturale,692040,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694263,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694560,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694561,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694562,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694563,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694564,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694565,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694566,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694567,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694568,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694569,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694570,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694571,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694572,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694573,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694574,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694575,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694576,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694577,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694578,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694579,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694580,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694581,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694582,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694583,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694584,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694585,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694586,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694587,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694588,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694589,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694590,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694591,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694592,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694593,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694594,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694595,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694596,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694597,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694598,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694599,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694602,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694603,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694606,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694607,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694608,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694609,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694610,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694611,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694612,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694613,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694614,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694615,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694616,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694617,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694618,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694619,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694620,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694621,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694622,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694623,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694624,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694625,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694626,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694627,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694628,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694629,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694630,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694631,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694632,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694633,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694634,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694635,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694636,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694637,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694638,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694639,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694640,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694641,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694642,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694643,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694687,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694688,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694689,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694690,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694692,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694693,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694694,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694695,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694696,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694697,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694698,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694699,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694701,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694702,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694703,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694704,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694705,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694706,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694707,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694708,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694710,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694711,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694712,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694713,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694714,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694715,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694716,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694717,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694719,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694720,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694721,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694722,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694723,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694724,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694725,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694726,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694728,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694729,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694730,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694731,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694732,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694733,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694734,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694735,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694737,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694738,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694739,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694740,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694741,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694742,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694743,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694744,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694746,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694747,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694748,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694749,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694750,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694751,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694752,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694753,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694755,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694756,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694757,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694758,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694760,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694761,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694762,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694764,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694765,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694766,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694767,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694768,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694769,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694770,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694771,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694773,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694774,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694775,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694776,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694777,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694778,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694779,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694780,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694782,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694783,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694784,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694785,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694787,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694852,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694854,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694855,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694856,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694857,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694858,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694859,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694860,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694861,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694862,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694863,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694864,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694865,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694866,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694867,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694868,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694869,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694870,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694871,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694872,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694873,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694874,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694875,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694876,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694877,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694878,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694879,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694880,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694881,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694882,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694883,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694884,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694885,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694886,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694887,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694888,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694889,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694890,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694891,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694892,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694893,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694894,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694895,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694896,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694897,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694898,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694899,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694900,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694901,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694902,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694903,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694904,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694905,INC_TelST_TS.AC_HE,1
+Telaio strutturale,694906,INC_TelST_TS.AC_HE,1
+Telaio strutturale,695291,INC_TelST_TS.AC_HE,1
+Telaio strutturale,695292,INC_TelST_TS.AC_HE,1
+Telaio strutturale,695293,INC_TelST_TS.AC_HE,1
+Telaio strutturale,695294,INC_TelST_TS.AC_HE,1
+Telaio strutturale,695295,INC_TelST_TS.AC_HE,1
+Telaio strutturale,695296,INC_TelST_TS.AC_HE,1
+Telaio strutturale,695297,INC_TelST_TS.AC_HE,1
+Telaio strutturale,695298,INC_TelST_TS.AC_HE,1
+Telaio strutturale,695939,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696111,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696112,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696113,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696114,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696115,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696116,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696117,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696118,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696134,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696135,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696136,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696137,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696138,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696139,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696140,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696141,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696313,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696371,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696373,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696385,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696386,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696400,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696401,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696413,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696414,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696693,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696694,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696695,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696696,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696697,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696698,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696699,INC_TelST_TS.AC_HE,1
+Telaio strutturale,696700,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697028,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697029,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697096,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697097,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697106,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697107,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697116,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697117,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697128,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697129,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697140,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697141,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697150,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697151,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697274,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697348,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697357,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697366,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697375,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697384,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697393,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697402,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697411,INC_TelST_TS.AC_HE,1
+Telaio strutturale,697420,INC_TelST_TS.AC_HE,1
+Telaio strutturale,699677,INC_TelST_TS.AC_HE,1
+Telaio strutturale,699711,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,700451,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,701206,INC_TelST_TS.AC_HE,1
+Telaio strutturale,701274,INC_TelST_TS.AC_HE,1
+Telaio strutturale,701275,INC_TelST_TS.AC_HE,1
+Telaio strutturale,701276,INC_TelST_TS.AC_HE,1
+Telaio strutturale,701451,INC_TelST_TS.AC_HE,1
+Telaio strutturale,701452,INC_TelST_TS.AC_HE,1
+Telaio strutturale,701453,INC_TelST_TS.AC_HE,1
+Telaio strutturale,701454,INC_TelST_TS.AC_HE,1
+Telaio strutturale,701763,INC_TelST_TS.AC_HE,1
+Telaio strutturale,701937,INC_TelST_TS.AC_HE,1
+Telaio strutturale,705030,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705039,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705048,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705057,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705066,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705073,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705082,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705102,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705257,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705258,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705259,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705260,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705261,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705262,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705263,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705264,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,705266,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,706868,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,706995,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707040,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707103,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707104,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707114,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707115,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707125,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707126,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707290,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707487,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707488,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707489,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707490,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707491,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707492,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707493,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707494,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707495,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,707496,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,711486,INC_TelST_TS.AC_HE,1
+Telaio strutturale,711509,INC_TelST_TS.AC_HE,1
+Telaio strutturale,711516,INC_TelST_TS.AC_HE,1
+Telaio strutturale,711726,INC_TelST_TS.AC_HE,1
+Telaio strutturale,711769,INC_TelST_TS.AC_HE,1
+Telaio strutturale,712283,INC_TelST_TS.AC_HE,1
+Telaio strutturale,712340,INC_TelST_TS.AC_HE,1
+Telaio strutturale,714677,INC_TelST_TS.AC_HE,1
+Telaio strutturale,714789,INC_TelST_TS.AC_HE,1
+Pilastri strutturali,718209,INC_PilST_PS.AC_HE,1
+Travi reticolari strutturali,723305,INC_RetST_RT.AC_Reticolare1CampateMolo,1
+Telaio strutturale,723308,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723309,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723310,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723311,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723312,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723313,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723314,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723315,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723316,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723317,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723318,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723319,INC_TelST_TS.AC_HE,1
+Telaio strutturale,723320,INC_TelST_TS.AC_HE,1
+Pilastri strutturali,724732,INC_PilST_PS.AC_HE,1
+Travi reticolari strutturali,724733,INC_RetST_RT.AC_Reticolare1CampateMolo,1
+Telaio strutturale,724735,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724736,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724737,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724738,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724739,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724740,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724741,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724742,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724743,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724744,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724745,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724746,INC_TelST_TS.AC_HE,1
+Telaio strutturale,724747,INC_TelST_TS.AC_HE,1
+Telaio strutturale,725117,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,725118,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,731713,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,731722,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,731730,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,732136,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,732214,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,732224,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,732230,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,732863,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733018,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733161,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733173,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733444,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733445,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733446,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733447,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733457,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733458,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733459,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733460,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733470,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733471,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733472,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733473,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733481,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733482,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733483,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733484,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733494,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733495,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733496,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733497,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733505,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733506,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733507,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733508,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733518,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733519,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733520,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733521,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733529,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733530,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733531,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733532,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733542,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733543,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733544,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733545,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733684,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733795,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,733935,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734017,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734428,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734429,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734430,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734431,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734586,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734587,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734588,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734589,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734601,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734602,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734603,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734604,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734614,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734615,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734616,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734617,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734623,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734624,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734625,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734626,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734686,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,734687,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,737294,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,737308,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,737699,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,737700,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,737701,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,737702,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738266,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738267,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738268,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738269,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738279,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738280,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738281,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738282,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738592,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738593,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738594,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,738595,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739017,INC_TelST_TS.AC_HE,1
+Telaio strutturale,739344,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739345,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739346,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739347,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739601,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739602,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739603,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739604,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739616,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739617,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739618,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739619,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739629,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739630,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739631,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739632,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739642,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739643,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739644,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739645,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739653,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739654,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739655,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739656,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739662,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739663,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739664,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739665,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739677,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739678,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739679,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739680,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739686,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739687,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739688,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739689,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739697,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739698,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739699,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739700,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739741,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739783,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739784,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739785,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739973,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739974,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739975,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739976,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739984,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739985,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739986,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739987,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739995,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739996,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739997,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,739998,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740006,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740007,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740008,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740009,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740097,INC_TelST_TS.AC_HE,1
+Telaio strutturale,740164,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740165,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740166,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740167,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740177,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740178,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740179,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740180,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740190,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740191,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740192,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740193,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740289,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740290,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740291,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,740292,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,741280,INC_TelST_TS.AC_HE,1
+Telaio strutturale,741956,INC_TelST_TS.AC_HE,1
+Telaio strutturale,742075,INC_TelST_TS.AC_HE,1
+Telaio strutturale,742202,INC_TelST_TS.AC_HE,1
+Telaio strutturale,742311,INC_TelST_TS.AC_HE,1
+Telaio strutturale,742446,INC_TelST_TS.AC_HE,1
+Telaio strutturale,742575,INC_TelST_TS.AC_HE,1
+Telaio strutturale,742683,INC_TelST_TS.AC_HE,1
+Telaio strutturale,742833,INC_TelST_TS.AC_HE,1
+Telaio strutturale,742908,INC_TelST_TS.AC_HE,1
+Telaio strutturale,742983,INC_TelST_TS.AC_HE,1
+Telaio strutturale,743008,INC_TelST_TS.AC_HE,1
+Telaio strutturale,743313,INC_TelST_TS.AC_HE,1
+Telaio strutturale,743323,INC_TelST_TS.AC_HE,1
+Telaio strutturale,743348,INC_TelST_TS.AC_HE,1
+Telaio strutturale,743358,INC_TelST_TS.AC_HE,1
+Telaio strutturale,743680,INC_TelST_TS.AC_HE,1
+Telaio strutturale,743687,INC_TelST_TS.AC_HE,1
+Telaio strutturale,743700,INC_TelST_TS.AC_HE,1
+Telaio strutturale,743710,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744011,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744027,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744037,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744047,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744387,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744409,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744434,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744679,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744811,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744824,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744840,INC_TelST_TS.AC_HE,1
+Telaio strutturale,744850,INC_TelST_TS.AC_HE,1
+Telaio strutturale,745188,INC_TelST_TS.AC_HE,1
+Telaio strutturale,745213,INC_TelST_TS.AC_HE,1
+Telaio strutturale,745247,INC_TelST_TS.AC_HE,1
+Telaio strutturale,745254,INC_TelST_TS.AC_HE,1
+Telaio strutturale,745589,INC_TelST_TS.AC_HE,1
+Telaio strutturale,745641,INC_TelST_TS.AC_HE,1
+Telaio strutturale,745663,INC_TelST_TS.AC_HE,1
+Telaio strutturale,745694,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746039,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746061,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746074,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746084,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746417,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746427,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746437,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746447,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746773,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746789,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746802,INC_TelST_TS.AC_HE,1
+Telaio strutturale,746830,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747192,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747202,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747209,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747231,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747517,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747527,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747537,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747556,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747854,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747864,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747880,INC_TelST_TS.AC_HE,1
+Telaio strutturale,747902,INC_TelST_TS.AC_HE,1
+Telaio strutturale,748194,INC_TelST_TS.AC_HE,1
+Telaio strutturale,748204,INC_TelST_TS.AC_HE,1
+Telaio strutturale,748223,INC_TelST_TS.AC_HE,1
+Telaio strutturale,748239,INC_TelST_TS.AC_HE,1
+Telaio strutturale,748597,INC_TelST_TS.AC_HE,1
+Telaio strutturale,748616,INC_TelST_TS.AC_HE,1
+Telaio strutturale,748632,INC_TelST_TS.AC_HE,1
+Telaio strutturale,748657,INC_TelST_TS.AC_HE,1
+Telaio strutturale,749016,INC_TelST_TS.AC_HE,1
+Telaio strutturale,749026,INC_TelST_TS.AC_HE,1
+Telaio strutturale,749036,INC_TelST_TS.AC_HE,1
+Telaio strutturale,749046,INC_TelST_TS.AC_HE,1
+Telaio strutturale,749366,INC_TelST_TS.AC_HE,1
+Telaio strutturale,749379,INC_TelST_TS.AC_HE,1
+Telaio strutturale,749413,INC_TelST_TS.AC_HE,1
+Telaio strutturale,749420,INC_TelST_TS.AC_HE,1
+Telaio strutturale,749979,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Telaio strutturale,750740,INC_TelST_TS.AC_RettangolareQuadrataCava,1
+Travi reticolari strutturali,760688,INC_RetST_RT.AC_ReticolarePontili,1
+Telaio strutturale,760691,INC_TelST_TS.AC_HE,1
+Telaio strutturale,760692,INC_TelST_TS.AC_HE,1
+Telaio strutturale,760693,INC_TelST_TS.AC_HE,1
+Telaio strutturale,760694,INC_TelST_TS.AC_HE,1
+Telaio strutturale,760695,INC_TelST_TS.AC_HE,1
+Telaio strutturale,760696,INC_TelST_TS.AC_HE,1
+Telaio strutturale,760697,INC_TelST_TS.AC_HE,1
+Telaio strutturale,760698,INC_TelST_TS.AC_HE,1
+Telaio strutturale,760699,INC_TelST_TS.AC_HE,1
+Telaio strutturale,760700,INC_TelST_TS.AC_HE,1
+Telaio strutturale,760701,INC_TelST_TS.AC_HE,1
+Travi reticolari strutturali,761026,INC_RetST_RT.AC_ReticolarePontili,1
+Telaio strutturale,761028,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761029,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761030,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761031,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761032,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761033,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761034,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761035,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761036,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761037,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761038,INC_TelST_TS.AC_HE,1
+Telaio strutturale,761422,INC_TelST_TS.AC_HE,1
+Telaio strutturale,762374,INC_TelST_TS.AC_HE,1
+Telaio strutturale,762533,INC_TelST_TS.AC_HE,1
+Telaio strutturale,762735,INC_TelST_TS.AC_HE,1
+Telaio strutturale,764754,INC_TelST_TS.AC_HE,1
+Telaio strutturale,764826,INC_TelST_TS.AC_HE,1
+Telaio strutturale,764827,INC_TelST_TS.AC_HE,1
+Telaio strutturale,764828,INC_TelST_TS.AC_HE,1
+Travi reticolari strutturali,765113,INC_RetST_RT.AC_ReticolarePontili,1
+Telaio strutturale,765116,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765117,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765118,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765119,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765120,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765121,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765122,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765123,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765124,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765125,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765126,INC_TelST_TS.AC_HE,1
+Travi reticolari strutturali,765380,INC_RetST_RT.AC_ReticolarePontili,1
+Telaio strutturale,765382,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765383,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765384,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765385,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765386,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765387,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765388,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765389,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765390,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765391,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765392,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765500,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765823,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765831,INC_TelST_TS.AC_HE,1
+Telaio strutturale,765839,INC_TelST_TS.AC_HE,1
+Telaio strutturale,766684,INC_TelST_TS.AC_HE,1
+Telaio strutturale,766685,INC_TelST_TS.AC_HE,1
+Telaio strutturale,766686,INC_TelST_TS.AC_HE,1
+Telaio strutturale,766687,INC_TelST_TS.AC_HE,1
+Travi reticolari strutturali,768414,INC_RetST_RT.AC_ReticolarePontili,1
+Telaio strutturale,768416,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768417,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768418,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768419,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768420,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768421,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768422,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768423,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768424,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768425,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768426,INC_TelST_TS.AC_HE,1
+Travi reticolari strutturali,768427,INC_RetST_RT.AC_ReticolarePontili,1
+Telaio strutturale,768429,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768430,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768431,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768432,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768433,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768434,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768435,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768436,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768437,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768438,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768439,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768440,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768441,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768442,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768443,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768444,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768445,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768446,INC_TelST_TS.AC_HE,1
+Telaio strutturale,768447,INC_TelST_TS.AC_HE,1
+Telaio strutturale,769135,INC_TelST_TS.AC_HE,1
+Telaio strutturale,769362,INC_TelST_TS.AC_HE,1
+Telaio strutturale,769644,INC_TelST_TS.AC_HE,1
+Telaio strutturale,769845,INC_TelST_TS.AC_HE,1
+Telaio strutturale,770198,INC_TelST_TS.AC_HE,1
+Telaio strutturale,770372,INC_TelST_TS.AC_HE,1
+Telaio strutturale,770571,INC_TelST_TS.AC_HE,1
+Telaio strutturale,770730,INC_TelST_TS.AC_HE,1
+Telaio strutturale,770731,INC_TelST_TS.AC_HE,1
+Telaio strutturale,770732,INC_TelST_TS.AC_HE,1
+Telaio strutturale,770733,INC_TelST_TS.AC_HE,1
+Telaio strutturale,770820,INC_TelST_TS.AC_HE,1
+Telaio strutturale,771073,INC_TelST_TS.AC_HE,1
+Telaio strutturale,771081,INC_TelST_TS.AC_HE,1
+Telaio strutturale,772206,INC_TelST_TS.AC_HE,1
+Telaio strutturale,772207,INC_TelST_TS.AC_HE,1
+Telaio strutturale,772208,INC_TelST_TS.AC_HE,1
+Telaio strutturale,772330,INC_TelST_TS.AC_HE,1
+Telaio strutturale,772683,INC_TelST_TS.AC_HE,1
+Telaio strutturale,772693,INC_TelST_TS.AC_HE,1
+Telaio strutturale,772756,INC_TelST_TS.AC_HE,1
+Telaio strutturale,772847,INC_TelST_TS.AC_HE,1
+Telaio strutturale,772855,INC_TelST_TS.AC_HE,1
+Telaio strutturale,773266,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,774192,INC_TelST_TS.AC_HE,1
+Telaio strutturale,774269,INC_TelST_TS.AC_HE,1
+Telaio strutturale,774279,INC_TelST_TS.AC_HE,1
+Telaio strutturale,774394,INC_TelST_TS.AC_HE,1
+Telaio strutturale,774395,INC_TelST_TS.AC_HE,1
+Telaio strutturale,774396,INC_TelST_TS.AC_HE,1
+Telaio strutturale,775469,INC_TelST_TS.AC_ProfilatoL,1
+Travi reticolari strutturali,776522,INC_RetST_RT.AC_ReticolarePontili,1
+Telaio strutturale,776525,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776526,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776527,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776528,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776529,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776530,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776531,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776532,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776533,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776534,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776535,INC_TelST_TS.AC_HE,1
+Travi reticolari strutturali,776610,INC_RetST_RT.AC_ReticolarePontili,1
+Telaio strutturale,776612,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776613,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776614,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776615,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776616,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776617,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776618,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776619,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776620,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776621,INC_TelST_TS.AC_HE,1
+Telaio strutturale,776622,INC_TelST_TS.AC_HE,1
+Travi reticolari strutturali,783812,INC_RetST_RT.AC_ReticolarePontili,1
+Telaio strutturale,783815,INC_TelST_TS.AC_HE,1
+Telaio strutturale,783816,INC_TelST_TS.AC_HE,1
+Telaio strutturale,783817,INC_TelST_TS.AC_HE,1
+Telaio strutturale,783818,INC_TelST_TS.AC_HE,1
+Telaio strutturale,783819,INC_TelST_TS.AC_HE,1
+Telaio strutturale,783820,INC_TelST_TS.AC_HE,1
+Telaio strutturale,783821,INC_TelST_TS.AC_HE,1
+Telaio strutturale,783822,INC_TelST_TS.AC_HE,1
+Telaio strutturale,783823,INC_TelST_TS.AC_HE,1
+Telaio strutturale,783824,INC_TelST_TS.AC_HE,1
+Telaio strutturale,783825,INC_TelST_TS.AC_HE,1
+Travi reticolari strutturali,784003,INC_RetST_RT.AC_ReticolarePontili,1
+Telaio strutturale,784005,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784006,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784007,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784008,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784009,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784010,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784011,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784012,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784013,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784014,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784015,INC_TelST_TS.AC_HE,1
+Telaio strutturale,784776,INC_TelST_TS.AC_HE,1
+Telaio strutturale,785290,INC_TelST_TS.AC_HE,1
+Telaio strutturale,785863,INC_TelST_TS.AC_HE,1
+Telaio strutturale,785864,INC_TelST_TS.AC_HE,1
+Telaio strutturale,785961,INC_TelST_TS.AC_HE,1
+Travi reticolari strutturali,788318,INC_RetST_RT.AC_ReticolarePontili1Campata,1
+Telaio strutturale,788321,INC_TelST_TS.AC_HE,1
+Telaio strutturale,788322,INC_TelST_TS.AC_HE,1
+Telaio strutturale,788323,INC_TelST_TS.AC_HE,1
+Telaio strutturale,789838,INC_TelST_TS.AC_HE,1
+Telaio strutturale,789839,INC_TelST_TS.AC_HE,1
+Travi reticolari strutturali,790196,INC_RetST_RT.AC_ReticolarePontili1Campata,1
+Telaio strutturale,790198,INC_TelST_TS.AC_HE,1
+Telaio strutturale,790199,INC_TelST_TS.AC_HE,1
+Telaio strutturale,790200,INC_TelST_TS.AC_HE,1
+Telaio strutturale,790201,INC_TelST_TS.AC_HE,1
+Telaio strutturale,790202,INC_TelST_TS.AC_HE,1
+Telaio strutturale,790379,INC_TelST_TS.AC_HE,1
+Telaio strutturale,790626,INC_TelST_TS.AC_HE,1
+Telaio strutturale,791568,INC_TelST_TS.AC_HE,1
+Telaio strutturale,791611,INC_TelST_TS.AC_HE,1
+Telaio strutturale,791665,INC_TelST_TS.AC_HE,1
+Telaio strutturale,791951,INC_TelST_TS.AC_HE,1
+Telaio strutturale,792343,INC_TelST_TS.AC_HE,1
+Telaio strutturale,793360,INC_TelST_TS.AC_HE,1
+Telaio strutturale,793372,INC_TelST_TS.AC_HE,1
+Telaio strutturale,793383,INC_TelST_TS.AC_HE,1
+Telaio strutturale,793394,INC_TelST_TS.AC_HE,1
+Telaio strutturale,793405,INC_TelST_TS.AC_HE,1
+Telaio strutturale,794311,INC_TelST_TS.AC_HE,1
+Telaio strutturale,794559,INC_TelST_TS.AC_HE,1
+Telaio strutturale,794567,INC_TelST_TS.AC_HE,1
+Telaio strutturale,794575,INC_TelST_TS.AC_HE,1
+Telaio strutturale,794610,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,795231,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,795782,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,795874,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796038,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796039,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796040,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796041,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796153,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796154,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796155,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796156,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796164,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796165,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796166,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796167,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796349,INC_TelST_TS.AC_HE,1
+Telaio strutturale,796350,INC_TelST_TS.AC_HE,1
+Telaio strutturale,796351,INC_TelST_TS.AC_HE,1
+Telaio strutturale,796352,INC_TelST_TS.AC_HE,1
+Telaio strutturale,796353,INC_TelST_TS.AC_HE,1
+Telaio strutturale,796354,INC_TelST_TS.AC_HE,1
+Telaio strutturale,796355,INC_TelST_TS.AC_HE,1
+Telaio strutturale,796356,INC_TelST_TS.AC_HE,1
+Telaio strutturale,796357,INC_TelST_TS.AC_HE,1
+Telaio strutturale,796432,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796433,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796434,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796435,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796436,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796437,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796438,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796439,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796516,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796517,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796518,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796519,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796520,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796521,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796522,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796523,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,796696,INC_TelST_TS.AC_HE,1
+Telaio strutturale,797218,INC_TelST_TS.AC_HE,1
+Telaio strutturale,797337,INC_TelST_TS.AC_HE,1
+Telaio strutturale,797338,INC_TelST_TS.AC_HE,1
+Telaio strutturale,797576,INC_TelST_TS.AC_HE,1
+Telaio strutturale,797587,INC_TelST_TS.AC_HE,1
+Telaio strutturale,797752,INC_TelST_TS.AC_HE,1
+Telaio strutturale,797961,INC_TelST_TS.AC_HE,1
+Telaio strutturale,798001,INC_TelST_TS.AC_HE,1
+Telaio strutturale,798002,INC_TelST_TS.AC_HE,1
+Telaio strutturale,798267,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,798892,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,798967,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,798968,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,799069,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,799070,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,799071,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,799072,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,799817,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,799852,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,799853,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800341,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800483,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800512,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800513,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800626,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800679,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800758,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800759,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800806,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800844,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800870,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,800871,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801087,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801088,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801089,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801090,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801091,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801092,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801093,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801094,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801095,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801096,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801097,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801098,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801099,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801100,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801101,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801102,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801669,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801823,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,801824,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803096,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803147,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803188,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803189,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803310,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803468,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803509,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803510,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803601,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803717,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803789,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,803790,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804074,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804075,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804076,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804077,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804078,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804079,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804080,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804081,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804082,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804083,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804084,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804085,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804086,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804087,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804088,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804089,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804629,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804630,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804631,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804632,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804817,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804818,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804819,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804820,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804821,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804822,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804823,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804824,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804825,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804826,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804827,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804828,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804950,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804951,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804952,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804953,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804954,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804955,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804956,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804957,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804958,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804959,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804960,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804961,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804962,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804963,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804964,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,804965,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,805142,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805212,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805224,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805628,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805715,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805726,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805737,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805814,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805815,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805816,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805817,INC_TelST_TS.AC_HE,1
+Telaio strutturale,805935,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,806684,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,806768,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,806769,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807397,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807398,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807399,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807400,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807414,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807415,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807416,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807417,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807425,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807426,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807427,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807428,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807498,INC_TelST_TS.AC_HE,1
+Telaio strutturale,807499,INC_TelST_TS.AC_HE,1
+Telaio strutturale,807500,INC_TelST_TS.AC_HE,1
+Telaio strutturale,807550,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807551,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807552,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807553,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807554,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807555,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807556,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807557,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807558,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807559,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807560,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807561,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807562,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807563,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807564,INC_TelST_TS.AC_ProfilatoL,1
+Telaio strutturale,807565,INC_TelST_TS.AC_ProfilatoL,1
