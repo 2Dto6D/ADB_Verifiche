@@ -82,16 +82,10 @@ background-color: #ccc;
 #NomenclaturaParametriGraficoATorta,
 #TipoCampoGraficoATorta,
 #NomenclaturaLocaliGraficoATorta,
-#NomenclaturaMaterialiGraficoATorta {
+#NomenclaturaMaterialiGraficoATorta,
+#FaseErrataGraficoATorta {
 max-width: 25%; /* Limita la larghezza massima al 70% del contenitore */
 width: 25%; /* Imposta la larghezza al 70% del contenitore */
 margin: 0 auto; /* Centra il grafico */
 display: block; /* Visualizzazione in blocco */
-}
-
-/* Grafico Istogramma */
-#FaseErrataAsBarChart {
-margin: 20px auto;
-display: block;
-max-width: 50%;
 }

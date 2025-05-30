@@ -1,10 +1,6 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
-    loadCSV('TipoCampo', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/00/IE01_12_NomenclaturaElementi.csv');
-    loadCSV('NomenclaturaParametri', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/00/IE01_12_NomenclaturaParametri_Data.csv');
-    loadCSV('NomenclaturaMateriali', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/00/IE01_12_NomenclaturaMateriali_Data.csv');
-    loadCSV('NomenclaturaLocali', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/00/IE01_12_NomenclaturaLocali_Data.csv');
-    loadCSV('FaseErrata', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/00/IE01_12_FaseErrata_Data.csv');
+
     const tablesToLoad = [
         { tableId: "NamingConvention", repo: "2Dto6D/ADB_Verifiche", filePath: "IE01Riepilogo/00/IE01_12_NamingConvention.csv" }
     ];
@@ -12,6 +8,13 @@ document.addEventListener("DOMContentLoaded", function () {
     tablesToLoad.forEach(table => {
         loadCSVToTable(table.tableId, table.repo, table.filePath);
     });
+
+    loadCSV('TipoCampo', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/00/IE01_12_NomenclaturaElementi.csv');
+    loadCSV('NomenclaturaParametri', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/00/IE01_12_NomenclaturaParametri_Data.csv');
+    loadCSV('NomenclaturaMateriali', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/00/IE01_12_NomenclaturaMateriali_Data.csv');
+    loadCSV('NomenclaturaLocali', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/00/IE01_12_NomenclaturaLocali_Data.csv');
+    loadCSV('FaseErrata', '2Dto6D/ADB_Verifiche', 'IE01Verifiche/00/IE01_12_FaseErrata_Data.csv');
+    
     const chartsConfig = [
         {
             canvasId: 'TipoCampoGraficoATorta',
@@ -36,17 +39,16 @@ document.addEventListener("DOMContentLoaded", function () {
             statsId: 'NomenclaturaLocalistatistics',
             repo: '2Dto6D/ADB_Verifiche',
             filePath: 'IE01Verifiche/00/IE01_12_NomenclaturaLocali_Data.csv'
+        },
+        {
+            canvasId: 'FaseErrataGraficoATorta',
+            statsId: 'FaseErratastatistics',
+            repo: '2Dto6D/ADB_Verifiche',
+            filePath: 'IE01Verifiche/00/IE01_12_FaseErrata_Data.csv'
         }
     ];
     
     chartsConfig.forEach(config => loadPieChartCSV(config));
-
-    loadHistogramFromCSV({
-        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IE01Verifiche/00/IE01_12_FaseErrata_Data.csv',
-        chartId: 'FaseErrataAsBarChart',
-        statsId: 'FaseErratastatistics',
-        title: 'Istogramma delle Categorie'
-    });
 });
 
 const githubRawURL = (repo, filePath) => `https://raw.githubusercontent.com/${repo}/main/${filePath}`;
@@ -278,107 +280,4 @@ function displayStatistics(total, stato1, stato0, statsId) {
     if (statsElement) {
         statsElement.innerHTML = stats;
     }
-}
-
-//  Istogramma
-// Funzione generica per caricare dati CSV e creare un istogramma
-function loadHistogramFromCSV({ csvUrl, chartId, statsId, title }) {
-    fetch(csvUrl)
-        .then(response => response.ok ? response.text() : Promise.reject('Errore nel caricamento del CSV'))
-        .then(data => {
-            const parsedData = Papa.parse(data, { header: true }).data;
-
-            // Raggruppa i dati per categoria e stato
-            const categories = {};
-            parsedData.forEach(row => {
-                const category = row.Categoria?.trim() || 'Altro';
-                const stato = row.Stato?.trim() === '1' ? 'checked' : 'unchecked';
-
-                if (!categories[category]) {
-                    categories[category] = { checked: 0, unchecked: 0 };
-                }
-                categories[category][stato]++;
-            });
-
-            // Prepara i dati per Chart.js
-            const labels = Object.keys(categories);
-            const checkedData = labels.map(label => categories[label].checked);
-            const uncheckedData = labels.map(label => categories[label].unchecked);
-
-            // Crea il grafico a barre
-            const ctx = document.getElementById(chartId);
-            if (!ctx) {
-                console.error(`Canvas con ID ${chartId} non trovato`);
-                return;
-            }
-
-            new Chart(ctx.getContext('2d'), {
-                type: 'bar',
-                data: {
-                    labels: labels,
-                    datasets: [
-                        {
-                            label: 'Elementi Corretti',
-                            data: checkedData,
-                            backgroundColor: '#28a745',
-                        },
-                        {
-                            label: 'Elementi Incorretti',
-                            data: uncheckedData,
-                            backgroundColor: '#dc3545',
-                        }
-                    ]
-                },
-                options: {
-                    responsive: true,
-                    plugins: {
-                        legend: {
-                            position: 'top',
-                        },
-                        title: {
-                            display: true,
-                            text: title
-                        }
-                    },
-                    scales: {
-                        x: {
-                            title: {
-                                display: true,
-                                text: 'Categorie'
-                            }
-                        },
-                        y: {
-                            title: {
-                                display: true,
-                                text: 'Numero di Elementi'
-                            },
-                            beginAtZero: true
-                        }
-                    }
-                }
-            });
-            // Mostra riepilogo statistico
-            displayStatisticsHistogram(parsedData, statsId);
-        })
-        .catch(error => console.error('Errore:', error));
-}
-
-// Funzione per mostrare il riepilogo statistico sotto l'istogramma
-function displayStatisticsHistogram(data, statsId) {
-    const statsContainer = document.getElementById(statsId);
-    if (!statsContainer) {
-        console.error(`Elemento con ID ${statsId} non trovato`);
-        return;
-    }
-
-    const total = data.length;
-    const correct = data.filter(row => row.Stato?.trim() === '1').length;
-    const incorrect = total - correct;
-    const correctPercentage = total > 0 ? ((correct / total) * 100).toFixed(2) : 0;
-
-    statsContainer.innerHTML = `
-        <p><strong>Totale verifiche:</strong> ${total}</p>
-        <p><strong>Verifiche corrette:</strong> ${correct} (${correctPercentage}%)</p>
-        <p><strong>Verifiche incorrette:</strong> ${incorrect}</p>
-    `;
 }

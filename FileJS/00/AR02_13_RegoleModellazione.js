@@ -14,12 +14,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const chartsConfig = [
         {
-            canvasId: 'StructuralErrorGraficoATorta',
-            statsId: 'StructuralErrorstatistics',
-            repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'AR02Verifiche/00/AR02_13_VincoloTraLivelli_Data.csv'
-        },
-        {
             canvasId: 'VerificaLocaliGraficoATorta',
             statsId: 'VerificaLocalistatistics',
             repo: '2Dto6D/ADB_Verifiche',
@@ -39,6 +33,12 @@ document.addEventListener("DOMContentLoaded", function () {
         csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR02Verifiche/00/AR02_13_ElementOffset_Data.csv',
         chartId: 'ElementOffsetAsBarChart',
         statsId: 'ElementOffsetStatistics',
+        title: 'Istogramma delle Categorie'
+    });
+    loadHistogramFromCSV({
+        csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR02Verifiche/00/AR02_13_VincoloTraLivelli_Data.csv',
+        chartId: 'StructuralErrorAsBarChart',
+        statsId: 'StructuralErrorStatistics',
         title: 'Istogramma delle Categorie'
     });
 });

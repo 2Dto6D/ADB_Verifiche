@@ -69,7 +69,6 @@ background-color: #ccc;
 }
 
 /* Grafico a torta */
-#StructuralErrorGraficoATorta,
 #VerificaLocaliGraficoATorta,
 #FamiglieInPlaceGraficoATorta {
 max-width: 25%; /* Limita la larghezza massima al 70% del contenitore */
@@ -79,7 +78,8 @@ display: block; /* Visualizzazione in blocco */
 }
 
 /* Grafico Istogramma */
-#ElementOffsetAsBarChart {
+#ElementOffsetAsBarChart,
+#StructuralErrorAsBarChart {
 margin: 20px auto;
 display: block;
 max-width: 50%;
