@@ -1,3 +1,3 @@
 ID,Raggruppamento,Descrizione,Formato,Percentuale
-55,Regole di modellazione,Verifica che l'offset degli elementi di famiglie caricabili e sistema sia sempre zero o positivo rispetto al livello di appartenenza e comunque inferiore all'interpiano,ifc,-
-56,Regole di modellazione,Corretta modellazione dei locali: delimitati da superficie interna di pareti pavimenti e controsoffitti ,Nativo,-
+55,Regole di modellazione,Verifica che l'offset degli elementi di famiglie caricabili e sistema sia sempre zero o positivo rispetto al livello di appartenenza e comunque inferiore all'interpiano.,ifc,-
+56,Regole di modellazione,"Corretta modellazione dei locali: delimitati da superficie interna di pareti, pavimenti e controsoffitti.",Nativo,-
