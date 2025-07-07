@@ -1,0 +1,2169 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,IFC Class,Stato
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1486661,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1486704,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1486750,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1486797,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1502737,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1502755,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1503307,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1503321,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1506596,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1506600,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1506633,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1506634,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1506638,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1506641,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1506643,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1506669,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1506670,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1506674,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1506677,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1506679,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1506683,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1506684,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1506693,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508252,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508253,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1508254,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508255,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508256,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508260,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1508263,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1508264,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508271,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508273,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508277,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508278,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508282,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508285,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508287,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508291,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508292,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508293,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508294,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508296,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508300,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508301,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508305,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508362,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508363,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1508364,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508365,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508366,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508370,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1508373,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1508374,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508381,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508383,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508387,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508388,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508392,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508395,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508397,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508401,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508402,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508403,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508404,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508406,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508410,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508411,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508415,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508472,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508473,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1508474,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508475,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508476,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508480,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1508483,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1508484,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508491,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508493,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508497,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508498,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508502,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508505,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508507,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508511,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508512,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508513,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508514,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508516,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1508520,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1508521,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1508525,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1509953,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1509962,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1511015,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1511016,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1511324,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1511325,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1511357,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1511358,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1511369,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1511370,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1513118,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1513122,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1513243,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1513525,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1513526,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1513527,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1513529,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1513576,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1513577,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1513583,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1513584,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1515867,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1515868,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1515874,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1515880,IfcBuildingElementProxy,0
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1515881,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1515883,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1515887,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1515888,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1515890,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1515892,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1515896,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1515899,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1515901,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1515905,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1515907,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1515917,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1517869,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1517870,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1517874,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1517876,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1518284,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518285,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518289,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518291,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1518334,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518335,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518339,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518341,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1518353,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518354,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518358,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518360,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518541,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1518542,IfcDuctFitting,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1518543,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1518550,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1518654,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1518882,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1518895,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1518900,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1518950,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1522221,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1522236,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1522245,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1522422,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1522429,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1522628,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1522800,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1522816,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1522830,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1522844,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1522858,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1522872,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1523023,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1523026,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523040,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523041,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1523043,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1523045,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523058,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523059,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1523061,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1523063,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523078,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523079,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1523081,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1523083,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523102,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523103,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1523105,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1523107,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523122,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523123,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1523125,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1523127,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1523470,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523472,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523473,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1523475,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1523477,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523479,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1523480,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1523482,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1523484,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1528999,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1529710,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1530144,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1532457,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1558727,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1558748,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1558767,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1571817,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1571839,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1572707,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1572774,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1572790,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1572938,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1573390,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1573393,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1573396,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1573399,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1573401,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1573404,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574018,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574021,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574024,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574027,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574047,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574049,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574238,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574241,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574243,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574246,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574248,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574251,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574361,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1574362,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574363,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574364,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574365,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1574366,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1574367,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574368,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1574369,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574370,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574371,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574373,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574375,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574377,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574379,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574381,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574383,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574385,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574387,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574389,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574391,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574393,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574395,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574397,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574399,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574401,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574403,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574405,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574426,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1574427,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574428,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574429,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574430,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1574431,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1574432,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574433,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1574434,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574435,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574436,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574438,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574440,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574442,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574444,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574446,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574448,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574450,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574452,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574454,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574456,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574458,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574460,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574462,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574464,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574466,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574468,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574470,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574492,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1574493,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574494,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574495,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574496,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1574497,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1574498,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574499,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1574500,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574501,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574502,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574504,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574506,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574508,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574510,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574512,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574514,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574516,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574518,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574520,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574522,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574524,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574526,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574528,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574530,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574532,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574534,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574536,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574558,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1574559,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574560,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574561,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574562,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1574563,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1574564,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574565,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1574566,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574567,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574568,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574570,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574572,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574574,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574576,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574578,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574580,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574582,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574584,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574586,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574588,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574590,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574592,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574594,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574596,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574598,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574600,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574602,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1574622,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1574623,IfcFlowMovingDevice,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1574628,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574629,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1574630,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574631,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574644,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574646,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574648,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574650,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574652,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1574654,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1574800,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574801,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1574802,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574803,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574804,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574805,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1574806,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1574807,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574808,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574810,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1574814,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574815,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574816,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574817,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574819,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1574823,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574824,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574825,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574826,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574828,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1574832,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574833,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574834,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574838,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1574839,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1574858,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574859,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574860,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1574861,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1574862,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575063,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575064,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1575065,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575067,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575068,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1575069,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575071,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575073,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575077,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575078,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575079,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575080,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575082,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575086,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575087,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575088,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575089,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575091,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575095,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575096,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575097,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575101,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575102,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1575121,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575122,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575123,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575124,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1575125,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575217,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1575218,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575230,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575247,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575260,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575271,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575353,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575354,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1575355,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575356,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575357,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575358,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1575359,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1575360,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575361,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575363,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575367,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575368,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575369,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575370,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575372,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575376,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575377,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575378,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575379,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575381,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575385,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575386,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575387,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575391,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575392,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1575411,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575412,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575413,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575414,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1575415,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575468,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575469,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1575474,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575476,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575478,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575482,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575483,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575484,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575485,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575487,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575491,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575494,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575496,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1575500,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575502,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1575507,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1575526,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575527,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575529,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1575677,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1576294,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1576368,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1576369,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1576403,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1576444,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1576593,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1576877,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1576878,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1576929,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1576953,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1576987,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1577007,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1577026,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1577029,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1577105,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1578494,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1578503,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1578512,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1578521,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1578522,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1578526,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1578530,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1578531,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1578657,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1578673,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1578685,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1578699,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1578715,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1578731,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1578872,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1579842,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1580041,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1580174,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1580181,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1580407,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1580410,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1580412,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1580415,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1580435,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1580438,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1580453,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1580456,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1580574,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1580740,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1580743,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1580745,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1580748,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1583269,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1583278,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1583279,IfcDuctFitting,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1583300,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1583302,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1583315,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1583317,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1583333,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1583336,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1583399,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1583607,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1583743,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1583794,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1583797,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1583855,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1583882,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1583886,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584026,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584031,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1584055,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584056,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584057,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1584068,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584069,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584070,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1584081,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584082,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584083,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1584094,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584095,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584096,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584121,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584233,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584237,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584242,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584250,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584251,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584258,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584259,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584264,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584265,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584271,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584272,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584277,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584278,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584284,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584285,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584290,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584291,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1584296,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584297,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1584313,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584825,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584831,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584856,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584862,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584867,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584870,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584874,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584877,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584880,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584883,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1584887,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1584901,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1585299,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1585399,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1585406,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1585413,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1585415,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1585420,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1585777,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1585788,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1585791,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1585910,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1585916,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1585922,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1585929,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1586097,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1586109,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586190,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586197,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586199,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586201,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586203,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586210,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586212,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586214,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586216,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586218,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1586220,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1586221,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1586222,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1586223,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1586224,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1586225,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1586226,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1586227,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586234,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586247,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586297,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586301,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1586302,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586303,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586304,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1586305,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1586306,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586307,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586351,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586352,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1586353,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586354,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586355,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586356,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586357,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586358,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586359,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586361,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586365,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586366,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586367,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586368,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586370,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586374,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586375,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586376,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586377,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586379,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586383,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586384,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586385,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586389,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586390,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1586391,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586392,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586393,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586394,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586395,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586396,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586397,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586399,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586403,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586404,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586405,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586406,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586408,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586412,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586413,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586414,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586415,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586417,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586421,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586422,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586423,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586427,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586428,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1586429,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586430,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586431,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586432,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586433,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586434,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586435,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586437,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586441,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586442,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586443,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586444,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586446,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586450,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586451,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586452,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586453,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586455,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586459,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586460,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586461,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586465,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586466,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1586467,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586468,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586469,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586470,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586471,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586472,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586473,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586475,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586479,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586480,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586481,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586482,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586484,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586488,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586489,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586490,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586491,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586493,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586497,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586498,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586499,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586503,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586504,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586507,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586508,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586511,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586512,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586515,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586516,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1586583,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586584,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586585,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586586,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1586587,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586588,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586589,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586590,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1586591,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586592,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586593,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586594,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1586595,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586596,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586597,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586598,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1586599,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1586600,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1586601,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1586602,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586607,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586608,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1586609,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586610,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586611,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586612,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586613,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586614,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586615,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586617,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586621,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586622,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586623,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586624,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586626,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586630,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586631,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586632,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586633,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586635,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586639,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586640,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586641,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586645,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586646,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1586665,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586666,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586667,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586668,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1586669,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586671,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586672,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1586673,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586674,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586675,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586676,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586677,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1586678,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586679,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586681,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586685,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586686,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586687,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586688,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586690,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586694,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586695,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586696,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586697,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586699,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586703,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586704,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586705,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586709,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1586710,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1586729,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586730,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586731,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586732,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1586733,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1586998,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1586999,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1587000,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587001,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587002,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587003,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1587004,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1587005,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587006,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587008,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587012,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587013,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587014,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587015,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587017,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587021,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587022,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587023,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587024,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587026,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587030,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587031,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587032,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587036,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587037,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1587056,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587057,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587058,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587059,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1587060,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587146,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587179,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587258,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587259,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587305,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587314,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587341,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587342,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587354,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587374,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587383,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587423,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587432,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587444,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587475,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587476,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1587477,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587478,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587480,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587484,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587485,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587486,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587487,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587489,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587493,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587494,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587496,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587500,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587501,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1587504,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587507,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1587508,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587509,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587510,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587511,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587512,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587513,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587514,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587515,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1587517,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587518,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1587521,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587522,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587523,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587524,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587525,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587526,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587527,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587528,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587529,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587530,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587531,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587532,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587533,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587534,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587535,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587536,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587537,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587574,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587575,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587576,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587577,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1587578,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1587599,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587618,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587623,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587632,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1587634,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587669,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1587670,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1587717,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587779,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587780,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587786,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587787,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587792,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587793,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587799,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587800,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587805,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587806,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587812,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587813,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587818,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587819,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1587824,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1587825,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588770,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588771,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588772,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588773,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588774,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588775,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588776,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588777,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588778,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588779,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588780,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588781,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588782,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588783,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588784,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588785,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588822,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588823,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588824,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588825,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588826,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588827,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588828,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588829,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588830,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588831,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588832,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588833,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588834,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588835,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588836,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588837,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588848,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588849,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588850,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588851,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588852,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588853,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588854,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588855,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588856,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588857,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588858,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588859,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588860,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588861,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588862,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588863,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588874,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588875,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588876,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588877,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588878,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588879,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588880,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588881,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588882,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588883,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588884,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588885,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588886,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588887,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588888,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588889,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588900,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588901,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588902,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588903,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588904,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588905,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588906,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588907,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588908,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588909,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588910,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588911,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588912,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588913,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588914,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588915,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588926,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588927,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588928,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588929,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588930,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588931,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588932,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588933,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588934,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588935,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588936,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588937,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588938,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588939,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588940,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588941,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588952,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588953,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588954,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588955,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588956,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588957,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588958,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588959,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588960,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588961,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588962,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588963,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588964,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588965,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588966,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588967,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588978,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588979,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588980,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588981,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588982,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588983,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588984,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588985,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588986,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588987,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588988,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588989,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588990,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588991,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1588992,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1588993,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589004,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589005,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589006,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589007,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589008,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589009,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589010,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589011,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589012,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589013,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589014,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589015,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589016,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589017,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589018,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589019,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589030,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589031,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589032,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589033,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589034,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589035,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589036,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589037,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589038,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589039,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589040,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589041,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589042,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589043,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589044,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589045,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589056,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589057,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589058,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589059,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589060,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589061,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589062,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589063,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589064,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589065,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589066,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589067,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589068,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589069,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589070,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589071,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589082,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589083,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589084,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589085,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589086,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589087,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589088,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589089,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589090,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589091,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589092,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589093,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589094,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589095,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1589096,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1589097,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589362,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589409,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589419,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589429,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589443,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589453,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589463,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589473,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589485,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589495,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589602,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1589639,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1589897,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1589983,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1590024,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1590027,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1590030,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1590033,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1590036,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1590039,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1590042,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1590045,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1590048,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1590051,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590057,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1590060,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590062,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1590065,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590068,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1590071,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590073,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1590076,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590078,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1590081,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590083,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1590086,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590088,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1590091,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590093,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1590096,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590098,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1590101,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590103,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1590106,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1590124,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1590131,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1590139,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1590298,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1590635,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1590806,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1590817,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1590839,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1590840,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1590883,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1590884,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1590885,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1590886,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1590887,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1590888,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1590890,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1590891,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590892,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590894,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590896,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590898,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590900,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590902,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590904,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590906,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590908,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590910,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590912,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590914,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590916,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590918,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590920,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590922,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590924,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590926,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1590928,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1590929,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1590930,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1590931,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1590932,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1590933,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1590934,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1590935,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590936,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590938,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590940,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590942,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590944,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590946,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590948,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590950,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590952,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590954,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590956,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590958,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590960,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590962,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590964,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590966,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590968,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590970,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1590972,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1590973,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1590974,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1590975,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1590976,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1590977,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1590978,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1590979,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590980,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590982,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590984,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590986,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590988,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590990,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590992,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590994,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1590996,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1590998,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591000,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591002,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591004,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591006,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591008,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591010,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591012,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591014,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1591016,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1591017,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591018,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1591019,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1591020,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1591021,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591022,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591023,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591024,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591026,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591028,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591030,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591032,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591034,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591036,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591038,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591040,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591042,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591044,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591046,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591048,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591050,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591052,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591054,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591056,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591058,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1591060,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1591061,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591062,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1591063,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1591064,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1591065,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591066,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591067,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591068,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591070,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591072,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591074,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591076,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591078,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591080,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591082,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591084,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591086,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591088,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591090,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591092,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591094,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591096,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591098,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591100,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591102,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591194,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591195,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591200,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591201,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591206,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591207,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591212,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591213,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591218,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591219,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591224,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591225,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591230,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591231,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591236,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591237,IfcDuctFitting,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1591263,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591264,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1591265,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591266,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591267,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591268,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591270,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591272,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591274,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591276,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1591278,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1591406,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1591419,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1591487,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591488,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1591489,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591490,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591491,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591492,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1591493,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1591494,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591495,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591497,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1591501,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591502,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591503,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591504,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591506,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1591510,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591511,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591512,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591513,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591515,IfcDuctSegment,1
+OST_DuctTerminal,Diffusore lineare,Lenght 2000mm,1591519,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591520,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591521,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591525,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1591526,IfcDuctSegment,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1591529,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591530,IfcBuildingElementProxy,0
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591531,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591532,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591533,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591535,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591536,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591537,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591538,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591539,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591540,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591541,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591542,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591543,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591544,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591545,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591546,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591547,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591548,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591549,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1591550,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591620,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591621,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591659,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591680,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591681,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591687,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591688,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591694,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591695,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591701,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591702,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591708,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591709,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591715,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591716,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591722,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591723,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1591729,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1591730,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1591771,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1591827,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600016,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600038,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600091,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600092,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600102,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600103,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600119,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600120,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600136,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600137,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600147,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600148,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600172,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600198,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600243,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600262,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600264,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600278,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600280,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600294,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600296,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600320,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600339,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600390,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600392,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600395,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600397,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600400,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600402,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600405,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600407,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600410,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600413,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600518,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600521,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600549,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1600557,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1600607,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600610,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600776,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600777,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600782,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600783,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600788,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600789,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600794,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600795,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600800,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600801,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600806,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600807,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600812,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600813,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600818,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600819,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600824,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600825,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600830,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600831,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600836,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1600837,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1600842,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1600843,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601245,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601246,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1601247,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601248,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1601249,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601250,IfcDuctSegment,1
+OST_MechanicalEquipment,Systemair_TFC_280_P_Sileo_Black_RFA_2024_LevelBased,TFC 225 P Sileo Black,1601251,IfcFlowMovingDevice,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1601252,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1601253,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1601273,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601407,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601445,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1601446,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601448,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601449,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1601450,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1601452,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1601473,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1601474,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1601475,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1601476,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601477,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601478,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1601479,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601480,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1601481,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1601482,IfcDuctSegment,1
+OST_MechanicalEquipment,Systemair_TFC_280_P_Sileo_Black_RFA_2024_LevelBased,TFC 225 P Sileo Black,1601483,IfcFlowMovingDevice,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1601484,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1601485,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1601486,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1601558,IfcDuctFitting,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1603034,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1610802,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1610803,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1610804,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1610805,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1610806,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1610808,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1610809,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1610810,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1610812,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1610814,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1610816,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1610818,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1610820,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1610822,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1610824,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1610826,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1610828,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1610830,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1610832,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1610834,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1610836,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1610838,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1610840,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1610842,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1610844,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1610846,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1610847,IfcDuctFitting,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1611095,IfcAirTerminal,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1611096,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1611097,IfcDuctSegment,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1611098,IfcAirTerminal,1
+OST_DuctTerminal,SC_Anodized Aluminium Grilles - Return (Duct),1000x400,1611099,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1611101,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1611102,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1611103,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1611104,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1611105,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1611107,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1611109,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1611111,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1611113,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1611115,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1611117,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1611119,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1611121,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1611123,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1611125,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1611127,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1611129,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1611131,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1611133,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1611135,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1611137,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1611139,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1612499,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1612500,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1619924,IfcAirTerminal,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1620690,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1621271,IfcDuctSegment,1
+OST_MechanicalEquipment,Fancoil canalizzato,FCZI P_901_MedSpeed,1621272,IfcFlowMovingDevice,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1621416,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1621542,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1621604,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1621650,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1621652,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1621665,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1621667,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1621678,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1621680,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1622114,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1622759,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1622760,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1622761,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1622762,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1622763,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1622764,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1622765,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1622766,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1622889,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1622890,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1622891,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1622892,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1622893,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1622894,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular deviation with 2 Depths,default,1622895,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1622896,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1627820,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1627914,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1627915,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1627916,IfcDuctFitting,1
+OST_DuctAccessory,VAV Terminal Units Rettangolare,RSVQ-K N1 200x100,1627917,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1627919,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1627920,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1628067,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1628068,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1628076,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1628077,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1628084,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1628085,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1628093,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1628094,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1628101,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1628102,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1628110,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1628111,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1628118,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1628119,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1628126,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1628127,IfcDuctFitting,1
+OST_MechanicalEquipment,Fancoil a cassetta 4 tubi,GCS1.UWW.SE5,1633479,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1633539,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1633818,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634004,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634014,IfcDuctSegment,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634096,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634097,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634099,IfcDuctSegment,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634112,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634113,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634115,IfcDuctSegment,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634162,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634163,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634165,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634166,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634167,IfcDuctSegment,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634169,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634170,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634172,IfcDuctSegment,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634174,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634175,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634177,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634195,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634196,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634201,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634202,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634207,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634208,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634213,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634214,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634219,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634220,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634225,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634226,IfcDuctFitting,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634250,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634258,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634354,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634362,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634370,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634376,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634384,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634392,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634400,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634406,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634414,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634422,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634430,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634438,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634696,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634697,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634698,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634700,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634701,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634703,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634704,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634706,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634707,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634709,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634710,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634712,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634713,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634715,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634716,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634718,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634719,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634721,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634722,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634724,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634725,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634727,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1634728,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634735,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634736,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634737,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634738,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634739,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634740,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634741,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634742,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634743,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634744,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634745,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634746,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634747,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634748,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634749,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634750,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634751,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634752,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634753,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634754,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1634755,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634756,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634759,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634760,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1634761,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634762,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1634763,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1634764,IfcDuctSegment,1
+OST_MechanicalEquipment,Systemair_TFC_280_P_Sileo_Black_RFA_2024_LevelBased,TFC 225 P Sileo Black,1634765,IfcFlowMovingDevice,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1634766,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1634767,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1634769,IfcDuctFitting,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634770,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634771,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634772,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634773,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634774,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634775,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634776,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634777,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634778,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634779,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1634780,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1635174,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635383,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635585,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635588,IfcDuctFitting,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635612,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635710,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635711,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635712,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635714,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635715,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635717,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635718,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635720,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635721,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635723,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635724,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635726,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635727,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635729,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635730,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635732,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635733,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635735,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635736,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635738,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635739,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635741,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635742,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635744,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635745,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635746,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635747,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635748,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635749,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635750,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635751,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635752,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635753,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635754,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635755,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635756,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635757,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635758,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635759,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635760,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635761,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635762,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635763,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635764,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635765,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635766,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635767,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1635768,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635769,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1635770,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635771,IfcDuctSegment,1
+OST_MechanicalEquipment,Systemair_TFC_280_P_Sileo_Black_RFA_2024_LevelBased,TFC 225 P Sileo Black,1635772,IfcFlowMovingDevice,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1635773,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635774,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1635775,IfcDuctFitting,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635776,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635777,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635778,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635779,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635780,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635781,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635782,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635783,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635784,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635785,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635786,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Connector,Default,1635787,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635788,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635789,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635791,IfcDuctFitting,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635792,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635843,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635844,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1635846,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1635847,IfcDuctSegment,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635853,IfcAirTerminal,1
+OST_DuctTerminal,Systemair_Balance-E-160_Return_valve_RFA_2024_LevelBased,Balance-E-160 Return valve,1635854,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635873,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635874,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Takeoff,Standard,1635879,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione da rettangolare a circolare - Angolo,45 Degree,1635880,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1649583,IfcAirTerminal,1
+OST_MechanicalEquipment,Fancoil canalizzato,FCZI P_301_MedSpeed,1649584,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1649585,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1649586,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1649587,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1649589,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1649591,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1649593,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1649595,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1649601,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1649602,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1649603,IfcDuctSegment,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1649604,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1649605,IfcDuctSegment,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1649606,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1649607,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1649612,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1649614,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1649616,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1649879,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1649881,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1649914,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1649916,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1649918,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1649920,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1649922,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1649924,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1649926,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1649932,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1649934,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1649936,IfcDuctSegment,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1649937,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1649938,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1649939,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1649941,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1649943,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1649955,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1649957,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1649987,IfcAirTerminal,1
+OST_MechanicalEquipment,Fancoil canalizzato,FCZI P_301_MedSpeed,1649988,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1649989,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1649990,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1649991,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1649993,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1649995,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1649997,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1649999,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650005,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1650006,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650007,IfcDuctSegment,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1650008,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650009,IfcDuctSegment,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1650010,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1650011,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1650012,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1650014,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1650016,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1650028,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1650030,IfcDuctFitting,1
+OST_MechanicalEquipment,Fancoil canalizzato,FCZI P_301_MedSpeed,1650124,IfcFlowMovingDevice,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1650179,IfcDuctFitting,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1650256,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1650258,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1650314,IfcAirTerminal,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650315,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1650316,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1650318,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1650320,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1650322,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1650324,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650329,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650330,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650331,IfcDuctSegment,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1650332,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1650333,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1650334,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1650336,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1650338,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1650348,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1650350,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1650354,IfcAirTerminal,1
+OST_MechanicalEquipment,Fancoil canalizzato,FCZI P_301_MedSpeed,1650355,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650356,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1650357,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1650358,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1650360,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1650362,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1650364,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1650366,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650372,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1650373,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650374,IfcDuctSegment,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1650375,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1650376,IfcDuctSegment,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1650377,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1650378,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1650379,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1650381,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1650383,IfcDuctFitting,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1650395,IfcDuctSegment,1
+OST_DuctFitting,M_Deviatore circolare - Asimmetrico,Standard,1650397,IfcDuctFitting,1
+OST_MechanicalEquipment,Fancoil canalizzato,FCZI P_301_MedSpeed,1650401,IfcFlowMovingDevice,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1650402,IfcDuctFitting,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1650404,IfcDuctFitting,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1650406,IfcDuctFitting,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651210,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651344,IfcFlowMovingDevice,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1651456,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1651490,IfcDuctSegment,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651561,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651565,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651567,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651569,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651571,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651573,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651575,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651577,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651579,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651581,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651583,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651585,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1651587,IfcFlowMovingDevice,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652149,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652205,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652614,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652616,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652629,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652631,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652638,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652640,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652647,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652649,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652656,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652658,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652665,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652667,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652674,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652676,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652683,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652685,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652692,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652694,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652701,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652703,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652710,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652712,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652719,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652721,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652728,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652730,IfcDuctSegment,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1652844,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1652854,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1652988,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1652998,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653000,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653026,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1653034,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653036,IfcDuctSegment,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1653070,IfcFlowMovingDevice,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1653104,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653238,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Curve,default,1653347,IfcDuctFitting,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1653449,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653450,IfcDuctSegment,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1653459,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653460,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653498,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653579,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653664,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653688,IfcDuctSegment,1
+OST_MechanicalEquipment,M_Batteria Postriscaldamento,900x300,1653845,IfcFlowMovingDevice,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653846,IfcDuctSegment,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1653887,IfcDuctSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654033,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654085,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654197,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1654199,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654200,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1654208,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1654211,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654219,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1654221,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654222,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1654230,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1654233,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654312,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654340,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654375,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654388,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1654390,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1654399,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1654402,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654418,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1654429,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1654431,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1654440,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1654443,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655231,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655244,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655307,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655320,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655346,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655359,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655385,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655398,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655424,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655437,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655463,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655476,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655502,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655504,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655506,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655510,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655513,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655515,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655517,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655519,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655523,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655526,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655541,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655543,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655545,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655549,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655552,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655554,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655556,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655558,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655562,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655565,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655580,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655582,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655584,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655588,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655591,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655593,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655595,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655597,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655601,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655604,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655619,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655621,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655623,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655627,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655630,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655632,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655634,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655636,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655640,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655643,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655658,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655660,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655662,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655666,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655669,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655671,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655673,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655675,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655679,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655682,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655697,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655699,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655701,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655705,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655708,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655710,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655712,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655714,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655718,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655721,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655736,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655738,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655740,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655744,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655747,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655749,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1655751,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1655753,IfcPipeFitting,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1655757,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1655760,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656542,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656553,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1656555,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656556,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1656564,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1656567,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656584,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656595,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1656597,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656598,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1656606,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1656609,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656660,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1656662,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656663,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1656672,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1656682,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656715,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1656717,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656718,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1656727,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1656737,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656789,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1656791,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656792,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1656801,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1656811,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656837,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1656839,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656840,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1656849,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1656859,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656888,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1656890,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656891,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1656900,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1656910,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656936,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1656938,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656939,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1656948,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1656958,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656992,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1656994,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1656995,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1657004,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1657014,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657043,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1657045,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657046,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1657055,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1657065,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657099,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1657101,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657102,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1657111,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1657121,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657156,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1657158,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657159,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1657168,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1657178,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657212,IfcPipeSegment,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1657221,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657224,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657235,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1657237,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657238,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1657246,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1657249,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1657253,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657266,IfcPipeSegment,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1657274,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657277,IfcPipeSegment,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657288,IfcPipeSegment,1
+OST_PipeFitting,Filettato T,Zincato,1657290,IfcPipeFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1657291,IfcPipeSegment,1
+OST_PipeFitting,Filettato Riduzione MF,Zincato,1657299,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1657302,IfcPipeFitting,1
+OST_PipeFitting,Filettato Gomito FF,Zincato 90,1657306,IfcPipeFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1657421,IfcDuctSegment,1
+OST_DuctFitting,M_Transizione rettangolare - Angolo,91 Degree,1657440,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1657443,IfcDuctSegment,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1657450,IfcDuctFitting,1
+OST_DuctCurves,Condotto rettangolare,SG_Rett zincato,1657458,IfcDuctSegment,1
+OST_DuctFitting,M_Gomito rettangolare - Raggio,0.6 W,1657463,IfcDuctFitting,1
+OST_DuctTerminal,Diffusore lineare,Diffusore lineare - U,1657646,IfcAirTerminal,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1657647,IfcDuctSegment,1
+OST_FlexDuctCurves,Condotto flessibile circolare,Flessibile - Circolare,1657650,IfcDuctSegment,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1657682,IfcDuctFitting,1
+OST_PipeCurves,Tubazione,Acciaio Zincato,1660082,IfcPipeSegment,1
+OST_MechanicalEquipment,Fancoil a cassetta 4 tubi,GCS1.UWW.SE5,1660237,IfcAirTerminal,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1660853,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1660867,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1660885,IfcDuctFitting,1
+OST_DuctFitting,P3 - Rectangular Endcap,20 cm,1660887,IfcDuctFitting,1
