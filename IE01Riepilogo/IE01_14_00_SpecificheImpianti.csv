@@ -1,5 +1,0 @@
-ID,Raggruppamento,Descrizione,Formato,Percentuale
-58,Regole specifiche modellazione impiantistica,Tutti gli elementi impiantistici sono assegnati a circuiti o sistemi della disciplina a cui appartengono,ifc,0%
-59,Regole specifiche modellazione impiantistica,Assenza di estremità aperte delle reti impiantistiche,Nativo,0%
-60,Regole specifiche modellazione impiantistica,Tutti gli elementi impiantistici sono collegati tra loro,Nativo,0%
-61,Regole specifiche modellazione impiantistica,Tutti gli elementi impiantistici sono categorizzati come da indicazioni pGI,ifc,0%

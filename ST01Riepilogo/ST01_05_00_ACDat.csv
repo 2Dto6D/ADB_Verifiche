@@ -1,5 +1,0 @@
-ID,Raggruppamento,Descrizione,Formato,Percentuale
-5,ACDat,I file caricati in ACDat sono apribili e non presentano warning relativi al caricamento,Nativo + ifc,100%
-6,ACDat,I nomi dei file di modello nativo e IFC rispettano le indicazioni presenti nel pGI,Nativo + ifc,87.5%
-7,ACDat,I nomi di eventuali documenti/elaborati caricati e collegati rispettano le indicazioni presenti nel pGI,-,0%
-9,ACDat,Alla consegna del modello è contestualmente consegnato un Report della modellazione informativa,-,20%

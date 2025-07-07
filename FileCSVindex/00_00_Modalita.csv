@@ -1,4 +1,0 @@
-Cella,Esito,Descrizione
-CODE,Verifica tramite tool code checking,Verifiche eseguite su modelli in formato RVT o IFC tramite software di model checking quali BIMCollab Zoom e BIMCollab Nexus
-ESTR,Verifica tramite estrazione di dati da modello,Verifiche eseguite su modelli in formato RVT o IFC tramite software di BIM Authoring Autodesk Revit 2024 anche con l'ausilio di estrazioni dati con Dynamo e Excel
-MANU,Verifica manuale visiva,Verifiche visive manuali eseguite su modelli in formato RVT o IFC all'interno software di BIM Authoring Autodesk Revit 2024 e di visualizzatore IFC
