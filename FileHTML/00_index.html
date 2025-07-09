@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Nome del sito -->
+		<title>Verifica Modelli</title>
+		<!-- Icona del sito -->
+		<link rel="shortcut icon" href="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" type="image/x-icon">
+		<!-- CSS -->
+		<link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/styles.css">
+        <link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/index.css">
+		<!-- Font Google -->
+		<link href="//fonts.googleapis.com/css?family=Roboto:400%2C700&display=swap" rel="stylesheet">
+		<!-- Javascript -->
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/styles.js" defer></script>
+		<script src="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/00_index.js" defer></script>
+	</head>
+	<!-- Corpo del sito -->
+	<body>
+		<header>
+			<div>
+                <h3>VERIFICA MODELLI</h3>
+			</div>
+		</header>
+        <nav class="Menu">
+			<!-- Hamburger Menu -->
+			<button class="hamburger" onclick="toggleMenu()">☰</button>
+			<div class="menu-content" id="menuContent">
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/UR01_00_index.html">UR01</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR01_00_index.html">AR01</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/AR02_00_index.html">AR02</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/FA01_00_index.html">FA01</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/ST01_00_index.html">ST01</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/ST02_00_index.html">ST02</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/ST03_00_index.html">ST03</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/ST04_00_index.html">ST04</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/IE01_00_index.html">IE01</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/00/IM01_00_index.html">IM01</a></button>
+			</div>
+		</nav>
+        <main class="Contenitore">
+            <div class="Start">
+                <div class="Immagini">
+                    <img class="P2Dto6D" src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-completo-2dto6d-piccolo.png" alt="Logo">
+                    <h3 class="Titolo">in collaborazione con</h3>
+                    <img class="Cliente" src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-adb.svg" alt="Cliente">
+                </div>
+            </div>
+            <div class="Card">
+                <h3 class="Bianco">Dati Generali</h3>
+                <table id="Dati" class="Dati">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class="Card1">
+                <h3>Linee Guida</h3>
+                <article class="ScrittaLineeGuida">
+                    <a>Questo Report contiene il processo di verifica eseguito tramite una checklist strutturata di controlli. Il Report è sviluppato in HTML e si compone di più sezioni.<br>
+                    La sezione CHECKLIST fornisce una panoramica complessiva dell'esito della verifica e dei risultati dei singoli controlli.<br>
+                    Ogni controllo è identificato tramite un ID univoco. Per ciascun controllo elencato, sono indicati: descrizione, metodo di verifica adottato, esito della verifica, percentuale di superamento della verifica (per alcune verifiche, si tratta di un dato qualitativo e non analitico),link alla scheda di riferimento (se presente) contenente il dettaglio della verifica per elemento ed eventuali note aggiuntive sull'esito. La procedura di verifica prevede l'identificazione degli elementi da verificare, l'esecuzione della verifica utilizzando i metodi specificati e, infine, la raccolta e l'analisi dei risultati.<br>
+                    Di seguito le principali logiche di controllo adottate da AdB. La colonna in/out dettaglia le verifiche che AdB effettuerà per il servizio specifico.
+                    </a>
+                </article>
+                <div>
+                    <table id="LineeGuida" class="LineeGuida">
+                        <thead></thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="Card1">
+                <h3>Modalità di Verifica</h3>
+                <table id="Modalita" class="Modalita">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class="Card1">
+                <h3>Elenco verifiche</h3>
+                <article class="ScrittaElencoVerifiche">
+                    <p>Ad ogni controllo è assegnato un Esito. Nella tabella di seguito è riportato nella colonna Stato.<br>
+                        Di seguito una descrizione degli esiti assegnati:
+                    </p>
+                    <!-- Bottoni (checkbox) per gli esiti -->
+                    <label><input type="checkbox" disabled checked><strong> Superata</strong></label><br>
+                    <label><input type="checkbox" disabled><strong> Non superata</strong></label><br>
+                    <label><a class="yellow-checkbox"></a><strong> Non oggetto di verifica</strong></label>
+                    <p>Indica la percentuale media degli elementi che superano il controllo. <br>
+                        Può essere una percentuale analitica, se è disponibile un numero di elementi da conteggiare, oppure valutata qualitativamente. <br>
+                        Sarà dettagliata nelle successive pagine relative alle verifiche.</p>
+                </article>
+                <div class="Grafico">
+                    <!-- Tabella delle verifiche -->
+                    <table id="VerificheGenerali"></table>
+                    <br>
+                    <h3>Stato di salute generale del Modello</h3>
+                    <br>
+                    <canvas id="VerificheGeneraliGraficoATorta" width="400" height="400"></canvas>
+                    <br>
+                    <div id="VerificheGeneralistatistics"></div>
+                </div>
+            </div>
+            <br>
+            <br>
+        </main>
+        <footer id="footer" class="footer">
+            <div class="Vuoto"></div>
+            <div class="footer-logo">
+                <img class="LogoFooter" src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" alt="LogoFooter">
+                <p class="FooterBianco">2Dto6D di Neri Lorenzetto Bologna</p>
+            </div>
+            <div class="footer-content">
+                <div class="contact-referent">
+                    <h3>Contatti</h3>
+                    <ul>
+                        <li>E-mail: info@2dto6d.com</li>
+                        <li>PEC: 2dto6dsrls@twtcert.it</li>
+                        <li>Partita IVA: 07133360482</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-content">
+                <div class="contact-referent">
+                    <h3>Referenti</h3>
+                    <ul>
+                        <li>Sante Vagnozzi</li>
+                        <li>Vittoria Bressan</li>
+                        <li>Dario Sgolacchia</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="Vuoto"></div>
+            <div class="footer-bottom">
+                <p class="FooterBianco"><strong>Per qualsiasi dubbio, vi chiediamo gentilmente di contattarci a: adbverifiche@2dto6d.com</strong></p>
+                <br>
+                <br>
+                <small class="FooterBianco">&copy; 2025 Verifiche 2Dto6D. Tutti i diritti riservati.<br>
+                    Il presente sito agisce esclusivamente come visualizzatore, con l'obiettivo di analizzare i modelli e i documenti realizzati dagli esecutori.<br>
+                    Tutti i dati sono trattati nel rispetto della privacy e delle normative vigenti, garantendo la protezione delle informazioni in conformità alla legislazione applicabile.<br>
+                </small>
+            </div>
+        </footer>
+    <button class="scroll-top" onclick="scrollToTop()">&#8679;</button>
+</body>
+</html>
