@@ -1,10 +1,10 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
-    loadCSVIndex('2Dto6D/ADB_Verifiche', 'FileCSVindex/00/00_00_Verifiche.csv', 'VerificheGenerali');
+    loadCSVIndex('2Dto6D/ADB_Verifiche', 'FileCSVindex/00/00_Verifiche.csv', 'VerificheGenerali');
     const tablesToLoad = [
-        { tableId: "Dati", repo: "2Dto6D/ADB_Verifiche", filePath: "FileCSVindex/00/00_00_DatiGenerali.csv" },
-        { tableId: "LineeGuida", repo: "2Dto6D/ADB_Verifiche", filePath: "FileCSVindex/00/00_00_Cluster.csv" },
-        { tableId: "Modalita", repo: "2Dto6D/ADB_Verifiche", filePath: "FileCSVindex/00/00_00_Modalita.csv" }
+        { tableId: "Dati", repo: "2Dto6D/ADB_Verifiche", filePath: "FileCSVindex/00/00_DatiGenerali.csv" },
+        { tableId: "LineeGuida", repo: "2Dto6D/ADB_Verifiche", filePath: "FileCSVindex/00/00_Cluster.csv" },
+        { tableId: "Modalita", repo: "2Dto6D/ADB_Verifiche", filePath: "FileCSVindex/00/00_Modalita.csv" }
     ];
 
     tablesToLoad.forEach(table => {
@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
             canvasId: 'VerificheGeneraliGraficoATorta',
             statsId: 'VerificheGeneralistatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'FileCSVindex/00/00_00_Verifiche.csv'
+            filePath: 'FileCSVindex/00/00_Verifiche.csv'
         }
     ];
     
