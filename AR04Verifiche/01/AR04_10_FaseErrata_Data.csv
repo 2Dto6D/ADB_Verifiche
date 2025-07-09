@@ -1,0 +1,266 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,Fase,Verifica,Stato
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744495,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744532,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744554,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744580,J002_SDP,Fase corretta,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744606,J002_SDP,Fase corretta,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744726,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744909,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744910,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744911,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744912,J002_SDP,Fase corretta,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744913,J002_SDP,Fase corretta,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744916,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744945,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744946,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744947,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744948,J002_SDP,Fase corretta,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,744949,J002_SDP,Fase corretta,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,744952,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,745127,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,745128,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,745129,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,745130,J002_SDP,Fase corretta,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,745131,J002_SDP,Fase corretta,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,745134,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1206369,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1206776,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1219301,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1219409,J002_SDP,Fase corretta,1
+Scale,Scala gettata in opera,AR_SCA_ASS_FL-002_20mm,1219683,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1219794,J002_SDP,Fase corretta,1
+Pianerottoli,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,1219841,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1220051,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1220783,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1221176,J002_SDP,Fase corretta,1
+Scale,Scala gettata in opera,AR_SCA_ASS_FL-002_20mm,1221305,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1221343,J002_SDP,Fase corretta,1
+Pianerottoli,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,1221523,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1221708,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1221946,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1222034,J002_SDP,Fase corretta,1
+Scale,Scala gettata in opera,AR_SCA_ASS_FL-002_20mm,1222764,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1222765,J002_SDP,Fase corretta,1
+Pianerottoli,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,1222769,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1222775,J002_SDP,Fase corretta,1
+Scale,Scala gettata in opera,AR_SCA_ASS_FL-002_20mm,1222941,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1222942,J002_SDP,Fase corretta,1
+Pianerottoli,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,1222946,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1222952,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1223021,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_460mm_PI.01,1223249,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_460mm_PI.03,1224378,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1225050,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1225108,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1225148,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226041,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226072,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226199,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226228,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226757,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226842,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226897,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1228544,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1229141,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229267,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229325,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229419,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229465,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229503,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1229726,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229970,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1230021,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_CON_CPA_67mm_CI.09,1232234,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1233496,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1233544,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1233606,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1233686,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1233750,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1234073,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1234135,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1235145,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1235396,J002_SDP,Fase corretta,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1235457,J002_SDP,Fase corretta,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1335843,J002_SDP,Fase corretta,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1336408,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_256mm_PE.22,1340440,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_482mm_PE.21,1340526,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_256mm_PE.22,1340626,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_482mm_PE.21,1340700,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_256mm_PE.22,1340821,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_482mm_PE.21,1340891,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_256mm_PE.22,1340977,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_482mm_PE.21,1341030,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_256mm_PE.22,1341197,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_482mm_PE.21,1341252,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_482mm_PE.21,1341430,J002_SDP,Fase corretta,1
+Tetti,Tetto di base,AR_TET_PIA_482mm_PE.21,1341498,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1342497,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1342538,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1342577,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1342602,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_30mm_PI.13,1344262,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1344433,J002_SDP,Fase corretta,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1344514,J002_SDP,Fase corretta,1
+Scale,Scala gettata in opera,AR_SCA_ASS_FL-002_20mm,1345218,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1345219,J002_SDP,Fase corretta,1
+Pianerottoli,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,1345223,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1345229,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345241,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345242,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345243,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345244,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345245,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345246,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345247,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345248,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345249,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345250,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345251,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345252,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345253,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345254,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345255,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345363,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345364,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345365,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345519,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345520,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345521,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345522,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1345665,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1345783,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_460mm_PI.01,1346002,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_460mm_PI.03,1346009,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1346025,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1346209,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1346210,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1346211,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1346872,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1347123,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1347124,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1347125,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1347143,J002_SDP,Fase corretta,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1347276,J002_SDP,Fase corretta,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1347632,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1347785,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1347887,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_460mm_PI.01,1348240,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1348330,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1348674,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1348750,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1348799,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1348959,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349119,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349120,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349121,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349122,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1349265,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1349324,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349497,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349601,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349665,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349778,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349832,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349895,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350036,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350037,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350038,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350039,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350040,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350041,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1350122,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1350231,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1350596,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350798,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1350913,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350988,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1352128,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1352317,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1352856,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1352993,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1353708,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_460mm_PI.01,1355205,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1355558,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1355657,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1355700,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1355770,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1356061,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356241,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356330,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356410,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356522,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356563,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356701,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356859,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356860,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356861,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356862,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356925,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1357219,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1357402,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1357403,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1357404,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1357651,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357697,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357704,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357805,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357812,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1358730,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1358795,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1359269,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1359690,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1359813,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1360684,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_460mm_PI.01,1360790,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1361066,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1361139,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361223,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361299,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361338,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361448,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1361500,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1361539,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361676,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361796,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361860,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361953,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1362141,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1362171,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1362300,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1363065,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363503,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363562,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363591,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363674,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363749,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363804,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363839,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363895,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363935,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1364008,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1364228,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1364870,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1365085,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365509,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365555,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365617,J002_SDP,Fase corretta,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365624,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1367677,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_30mm_PI.13,1367688,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1367703,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_CON_CPA_67mm_CI.09,1367867,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1368198,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1368294,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_CON_CPA_67mm_CI.09,1368572,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1369113,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1369143,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1369230,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1369292,J002_SDP,Fase corretta,1
+Muri,Muro di base,AR_CON_CPA_67mm_CI.09,1369362,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1369504,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1369704,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1370144,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1370717,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1370856,J002_SDP,Fase corretta,1
+Apertura rettangolare su muro diritto,,,1372224,J002_SDP,Fase corretta,1

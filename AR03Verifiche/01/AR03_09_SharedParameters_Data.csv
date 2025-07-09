@@ -1,0 +1,398 @@
+Nome Parametro,GUID Parametro,Stato
+RDESffRoomID,5164ec70-7d83-4a3a-bd69-2ed5746b78df,0
+SR View Calculation Settings,9d8b5628-4234-4222-bff5-96debc68ec8a,0
+SR Document GUID,1a43bb43-c87f-4723-9b36-17c30e158c82,0
+Decimal Color,57530dd5-86bb-49ed-ab82-fe989b9f8f6c,0
+Browser Organization Level 02,8b527f45-50a5-4e65-a901-c3cdb93d38b8,1
+Browser Organization Level 01,af407b79-8266-4951-b3cd-1bb0f67a37ad,1
+XXX_TBS_I_Zona,7dbd4545-5c25-4b27-b323-6e34ca1535de,1
+XXX_TBS_I_Fase,740585e8-ed9f-4306-8972-9e0bfcb8edd8,1
+XXX_TBS_I_SistemaArgomento,126b7b3d-90ae-4894-a7d0-d7948369dc10,1
+XXX_TBS_I_Tipo,b0fde7d3-7116-48e1-b6d6-8545797a7d98,1
+XXX_TBS_I_CodiceEnac,78811dce-3f39-4568-ac21-4668472bb993,1
+XXX_TBS_I_DrawnBy01,b362b3eb-dbcb-44cc-8540-9ea88602886e,1
+XXX_TBS_I_DrawnBy03,3383aace-33b1-46fb-bc25-2a9a805655f5,1
+XXX_TBS_I_CheckedBy01,392e3eca-bff0-4de4-b9c5-92e7e926eecc,1
+XXX_TBS_I_CheckedBy02,531c16e1-6c80-450c-8ff2-59e48e0fd2f7,1
+XXX_TBS_I_CheckedBy03,30bdb28e-2d3c-4b09-97f8-ca3df2825cb3,1
+XXX_TBS_I_ApprovedBy01,1cc0c69c-0bdb-4178-b6c2-7d8b0a24ba60,1
+XXX_TBS_I_ApprovedBy02,6dd614ac-8bac-4f44-b267-6eb9049660ef,1
+XXX_TBS_I_ApprovedBy03,0e70b637-9f49-44b9-bdb9-14040b040652,1
+XXX_TBS_I_DrawnBy02,d3b9e4f6-031f-4cab-ac1d-296e883769c2,1
+XXX_TBS_I_Progressivo,85d34c7d-1f10-4282-b7af-df18d0ace306,1
+XXX_TBS_I_ProgressivoTipo,e2d2601f-ce7e-44ce-ac23-68205d59d7e6,1
+_Sottodisciplina,9132427e-415c-4298-a062-7665a9d87ade,0
+_Gruppo strutturale,642088b0-36e2-405f-8c79-cef32271b402,0
+_Zona,5ea03def-f9fb-425d-acf7-2a5198a8a7ce,0
+PST_MEC_I_TipoValvola,6f6db7c9-a397-4a49-a1b5-09117ad89744,0
+PST_MEC_T_Capacita,ec876828-30c8-4c70-801a-2abb45ec14ff,0
+PST_MEC_T_CapacitaDiRaffreddamento,eefca8cc-4695-48bc-81ad-c85cd2bff1a5,0
+PST_MEC_T_CapacitaDiRiscaldamento,8976b8e4-0068-4788-b00c-23b96c008e6a,0
+PST_MEC_T_CapacitaNominale,2d651b2e-0d30-4dda-b4af-fbbf6e6c7dd5,0
+PST_MEC_T_CapacitaRecuperoCalore,d7544049-56b4-4991-8bf3-b4698c45648c,0
+PST_MEC_T_MaterialeCondotti,6f93e8a3-f712-4a52-a215-a9feb2562f99,0
+PST_MEC_T_PerditaDiCarico,0edd98f1-3697-4270-b843-62024178a6f4,0
+PST_MEC_T_PortataFluidoRefrigerato,e21d4160-d1cb-4e08-9dbd-dc4919270722,0
+PST_MEC_T_PortataFluidoRiscaldato,b9957356-fce8-4106-8861-6f838575570b,0
+PST_MEC_T_PortataMassima,02fe7bb8-a5d3-47d9-ac07-d3489c927cf3,0
+PST_MEC_T_PotenzaTermica,ce687b71-a7c6-40f6-80ce-49ee901c7199,0
+PST_MEC_T_PotenzaTermicaMinima,19b30721-486a-4c18-8126-d105799d239a,0
+PST_MEC_T_PotenzaTermicaRaffrescamento,a7aa237b-1fdf-4d2d-a34a-202a82dc0899,0
+PST_MEC_T_PotenzaTermicaRiscaldamento,517012d9-6b78-4e29-8184-2ed39a8550db,0
+PST_MEC_T_PotenzaTermincaMassima,cbced884-3e00-402c-a717-673119805741,0
+PST_MEC_T_PressioneMassima,e534a912-26e5-4b76-aa71-c6feb7fe3ade,0
+PST_MEC_T_PressioneMinima,9e0cbde9-39cb-43d5-84f6-7daf170b0576,0
+PST_MEC_T_PressioneResidua,efa48677-eed6-449a-a4c3-a69d16a77cb3,0
+PST_MEC_T_Prevalenza,ffff411c-d82f-80d5-a3cb-fcd10df83fe3,0
+PST_MEC_T_TemperaturaFluidoRefrigerato,071ac040-5a6e-43ab-81fe-00655f4a2d17,0
+PST_MEC_T_TemperaturaFluidoRiscaldato,9197a99a-9308-44e5-8a3c-407a2ef28212,0
+PST_MEC_T_TemperaturaMassima,41681941-a542-415f-8056-655dc6046049,0
+PST_MEC_T_TemperaturaMinima,2aa6d219-8384-4ada-80bd-94660c1c2fe9,0
+PST_MEC_T_TemperaturaOperativa,bd715e3c-e345-43bc-83a2-4239d467de31,0
+PST_MEC_T_TipoDiFluido,2ecacfac-e344-4aee-b9a5-2684838bd34a,0
+PST_MEC_T_TipoDiMotore,19ae512a-769b-4e74-9474-71d431bd9923,0
+PST_MEC_T_VelocitaFluido,e0188c4b-aef4-438c-b676-6b161292dc97,0
+PST_MEP_T_Materiale,9f1e51a0-8c27-42d4-8157-391b50c9f8c4,0
+PST_STR_I_CaricoAccidentaleDiProgetto,ced0bd4c-8cc6-4bab-9710-9c9575792446,0
+PST_STR_I_CopriferroNetto,c4f0f637-35cd-41f6-a0d3-0a25f61f2d0d,0
+PST_STR_I_IncidenzaArmatura,4456d6bc-267b-4772-b328-97275eba21f0,0
+PST_STR_I_Resilienza,bcdede99-8a3f-4288-89f8-0d527bd0b9c1,0
+PST_STR_I_TipoZincatura,4d240a70-dce1-458e-904d-312d1a435a33,0
+PST_STR_T_FormaDellaSezione,35a39a09-0d9e-47f0-826d-ffa731222592,0
+PST_STR_T_TipoBullonatura,b897688f-595c-45cf-990e-1885788f2016,0
+PST_STR_T_TipoDiProfilo,ce351017-3a9a-418b-9e13-e1eb250ccd9e,0
+PST_STR_T_TipoSaldatura,238ef96e-1e58-4405-b694-7e5f07da7245,0
+PST_STR_T_TipoTirafondi,d7f42aff-4c88-493d-a4c3-a6f042901e23,0
+PDM_GEN_I_Altezza,10af411c-d82f-80b7-9a5a-d5336a4cdaa1,0
+PDM_GEN_I_Diametro,10af411c-d82f-801e-b0b7-eadb200f5139,0
+PDM_GEN_I_Larghezza,10af411c-d82f-8071-915b-c98952ec6aaf,0
+PDM_GEN_I_Lunghezza,10af411c-d82f-805e-a447-fe9556f0de37,0
+PDM_GEN_I_Peso,10af411c-d82f-803c-98f6-df9154dc3291,0
+PDM_GEN_I_Profondita,10af411c-d82f-80d9-8108-c5e829cb2210,0
+PDM_GEN_I_Spessore,10af411c-d82f-8070-b7fa-cd96c86bae48,0
+PDM_MEP_I_DiametroEsterno,10af411c-d82f-801b-aa5c-f518d14a7453,0
+PDM_MEP_I_DiametroInterno,10af411c-d82f-80e1-b83b-c2ef25b23002,0
+PDM_SCA_I_AltezzaPedate,10df411c-d82f-801c-94f6-cdefb81988d8,0
+PDM_SCA_I_NumeroAlzate,10df411c-d82f-8042-8b87-c516eafafaab,0
+PDM_SCA_I_ProfonditaPedate,10df411c-d82f-8074-a1b7-ecdde40707f2,0
+PDM_RIN_I_AltezzaRinghiera,10df411c-d82f-805e-8a38-c42de349c466,0
+Client Address,d11db1ef-3dc2-407d-984e-f3a47d883f92,0
+Client Telephone Number,fb8aeb88-01e5-4b47-9b3e-c783c0dd9185,0
+Designer Chamber City,3e69457d-b461-43c8-aac7-09fae3d3d139,0
+Designer Chamber Number,624786b9-9822-4d5b-a3a8-0aa79937409d,0
+Manual Scale,0c2c2689-4f19-40f6-bda5-f7ce2c868bb0,0
+Designer Chamber Type,588f169c-964e-41b3-98dd-3d99dcebae7f,0
+Sheet Title_1,4f12aece-2298-41da-85f8-9d4d3f774374,0
+Sheet Title_2,b39bb345-37a8-417f-825d-197f4c135ced,0
+Sheet Title_3,8cdcfdc5-ecc9-42fa-a0bf-8f5fe91814fe,0
+Designer Name,fbafaca0-d4fe-4029-a731-82604f6c4bde,0
+Sheet Title_4,ae08e15e-a4f7-4b56-9c35-cf6e99d28dc3,0
+Designer Firm,f8a7fe2e-ebef-46c6-aef4-5da556f2de96,0
+Model Number,666a9ea0-8e24-44e5-abb8-6be1d23ac7a6,0
+Model Title,e330175d-e8ae-4464-a808-b6e296035f24,0
+Object,bb7b77cf-cece-4083-95d7-b00c57e37bf1,0
+PID_GEN_I_Infrastruttura,4e793175-3950-4be4-b5d3-7afb13fc2216,0
+PID_GEN_I_IdentificativoPerIlGestore/Proprietario,ccd7a767-fcfe-4371-933f-8d35dc57ad33,0
+PID_GEN_I_EntrataInEsercizio,e55bc511-82fc-45d1-a6d7-8bd3439c3cb9,0
+PID_GEN_I_EnteConcedente/Proprietario,1a06334b-1fab-4213-8bf9-96f5f228a1c2,0
+PID_GEN_I_EnteVigilante,1a8be5e0-15c9-41be-b251-24dca70d04f5,0
+PID_GEN_I_CodiceIop,e774fa6f-79e5-42ef-b75d-e3b540c8f243,0
+PID_GEN_I_Concessionario,09b509f8-0a4c-4aa7-be30-dcc28f1b7066,0
+PID_GEN_I_CoordinateGeografiche(Centro),9672b446-e567-4c36-b4a6-3380a7837ee9,0
+PID_GEN_I_Ellissoide,13914be1-1135-4e2b-8b77-08d8766e12c5,0
+PID_GEN_I_SistemaDiRiferimento,a96d4bf8-76d6-4686-96ba-1d4186672c38,0
+PID_GEN_I_NomeInfrastruttura,0bd30917-84fd-47de-9bde-18bb1cdc648a,0
+PID_GEN_I_NomeOpera,b7288b14-0276-439b-9c4a-62de9c5ad52c,0
+PID_GEN_I_Opera,22c8693c-7216-4e36-9331-bac58701b321,0
+IfcDescription,8df7e965-feaf-403f-8290-d4c289c99840,0
+SiteDescription,70e9b810-1d94-4dd8-9c47-1223d10cfc91,0
+SiteLongName,1691cccc-14bf-4859-a1ef-a4a3c03a3345,0
+SiteName,bff4553d-62d0-4ce8-86d3-fa3d2ba9944c,0
+PAG_GEN_I_AffidabilitaGeometrica,726143f4-f686-4884-ac17-6e7c5cc59c05,0
+PAG_GEN_T_Aspetto,23ad05f2-d184-4cf4-a221-16f372a42cfc,0
+PAG_GEN_T_ComportamentoParametrico,764b39b7-6ade-4b02-a00e-476bdd538fdb,0
+PAG_GEN_T_Dettaglio,b5a829a5-6ccf-43ab-b03f-0aadac40a9a6,0
+PAG_GEN_T_Dimensionalita,bedd9cb3-60b6-439e-a1fc-c883bc73e10a,0
+PAG_GEN_I_GeometriaDaDocTecnica,0b6cfb98-4f48-435f-9c1b-68d5606bfe46,0
+PAG_GEN_I_GeometriaDaRilievo,02f27dba-bed6-4468-bd0a-35f6ea1e2897,0
+PAG_GEN_I_GeometriaNonRilevata,5ee0c6ce-9e77-4f81-b522-2b06901e039a,0
+PAG_GEN_T_Posizione,e806d22f-05df-4382-a185-b3a44bd76333,0
+PAI_GEN_I_AffidabilitaInformativa,991cbb69-3686-4cb1-a578-4bb6169a1c8c,0
+PAI_GEN_I_InfoDaDocTecnica,db8e32db-e629-41a2-8b51-1cd4c3083531,0
+PAI_GEN_I_InfoDaRilievo,ef4ae1c5-ff8b-4110-afbc-291c0beb8c9e,0
+PAI_GEN_I_InfoNonRilevata,911605b4-7fd8-413f-a250-c341428bb21e,0
+PAI_GEN_T_Sottocategoria,9be3aa45-f3c3-4437-9404-dfdf0d07f132,0
+PID_GEN_I_CodiceIstanza,5384ac1a-45aa-4d09-bff2-edb5ca95709c,0
+PID_GEN_I_NumeroProgressivo,dd744edc-faa7-4055-81d4-54b29704ab58,0
+PID_GEN_I_Wbs0,c00bb11a-7c75-4afe-a52e-085e6b1408a5,0
+PID_GEN_I_Wbs1,a363d708-85b5-4f93-a7d9-cf555f794365,0
+PID_GEN_I_Wbs2,3eb8d9d8-42fe-41c3-9720-4b2e603858cb,0
+PID_GEN_I_Wbs3,0ba4cfd7-5c1f-40ac-a6fb-467f17fd56b1,0
+PID_GEN_T_ClashGruppo,80110314-b4e1-4879-b2c2-e80d2c19d0b7,0
+PID_GEN_T_ClashPriorita,b9edf6e7-29f8-4312-a342-28af14a560b3,0
+PID_GEN_T_Classe,cffb2d53-db47-49ca-a492-f48ac284790c,0
+PID_GEN_T_CodiceTipo,98a198a3-4ebe-4db2-8b9d-5ef8ddf61794,0
+PID_GEN_T_DescrizioneElemento,ffff411c-d82f-80ae-9400-fd4bd0ea6de6,0
+PID_GEN_T_DescrizioneTipo,0b82505d-8b4b-48e0-ad46-aac8b35ee660,0
+PID_GEN_T_LayerIfc,c7a76ad6-3904-4de2-82aa-07fa830d2ec3,0
+PID_GEN_T_Sottoclasse,fbe288d9-1c6b-4678-a5db-10f8477d5be0,0
+PID_LOC_I_DestinazioneUsoLocale,cda6d2df-7281-4a02-abdc-3bffee54ff0f,0
+PID_GEN_I_NomeIfc,4ef2e96c-fe3b-4678-9121-043e3177d1fc,0
+PID_GEN_I_TipoOggettoIfc,a2cd034a-9140-45f6-a45f-33d24de18a75,0
+PID_MEP_I_FunzioneImpianti01,ecd03ef4-aaa0-4d07-970f-6a6a73a4da83,0
+PID_MEP_I_FunzioneImpianti02,30b7f57f-6cb3-4a93-8051-e2daf251e9b9,0
+PDO_GEN_T_Altro,7e3b1577-4b92-4e9b-a53a-281001386730,0
+PDO_GEN_T_CartellaCde,1b925a47-6e90-4f04-80c0-7354fe2c7984,0
+PDO_GEN_T_Certificati,36da58bd-69eb-44b2-8902-8eabed825dc0,0
+PDO_GEN_I_ElaboratiGrafici,14d8eb31-771c-482e-a6e3-f7e1f688ae3e,0
+PDO_GEN_T_ManualiDUso,109d304e-9da5-4f7d-9850-e5fcff6f0993,0
+PDO_GEN_T_PianoDiManutenzione,90703283-6855-4c20-8b36-cb2f10c9dcbf,0
+PDO_GEN_T_Prove,02fe31cb-c35b-43de-8437-2db52f3caa07,0
+PDO_GEN_T_SchedeTecniche,6c77250a-3aa6-4013-9b19-1d249c46f82b,0
+PCO_PRO_I_CoordinateElevazione,1665f165-87a3-4313-bc36-5d4dd05d9790,0
+PCO_PRO_I_CoordinateEstOvest,a015076e-b8a6-43c9-8289-8a1f15e01dbc,0
+PCO_PRO_I_CoordinateNordSud,e2be7bcb-8837-424b-b541-30d695d5b1da,0
+PGE_GEN_I_CodiceCespiteAdb,ef432672-4e3c-4acc-844c-82c097325c4b,0
+PGE_GEN_I_Commento,3ebb779a-83a5-478a-98a0-57cf821792f4,0
+PGE_GEN_I_InfoCadCategoriaAsset,b31a8fb0-3600-49c5-9e90-c5ba33d2ee2c,0
+PGE_GEN_I_InfoCadDescrizioneVano,0b324c26-feb8-4f00-ba5a-77d6fcf4e2f4,0
+PGE_GEN_I_InfoCadEdificio,59c5c7d7-4544-4a80-8616-18740a854ec5,0
+PGE_GEN_I_InfoCadMacrocategoriaAsset,88fb43d7-2f9f-4741-b934-0aff97a0603c,0
+PGE_GEN_I_InfoCadPiano,8861d18e-0f6a-44b2-8908-1bec1cc65750,0
+PGE_GEN_I_InfoCadTagCodeAsset,bbc1db76-deed-4b31-94c1-d732822d34b7,0
+PGE_GEN_I_InfoCadTagVano,4713d9e0-2fed-4f8f-b8a0-52b4bd2a8802,0
+PGE_GEN_I_Marca,f5a37cbd-8df4-4470-9f89-13626b3ce357,0
+PGE_GEN_I_Modello,703766d3-ecfd-4a80-a4ae-a1fa481377c4,0
+PGE_GEN_I_NomeProdotto,0a82aaca-55cf-4373-9326-d2a6418498e5,0
+PST_FIN_T_Accessori,14888407-b00f-4ff8-ad06-dc543faa4e83,0
+PST_FIN_T_AperturaMotorizzata,c9d0ed85-c869-42f1-9162-9526deee922a,0
+PST_FIN_T_AperturaMotorizzataAriaFinestra,90d8b6d7-23be-4b78-acbb-e53287ef99c3,0
+PST_LOC_I_CompartimentoAntincendio,ddb8af57-b78c-48d9-bf2d-83d781f7d89d,0
+PST_LOC_I_ClassificazioneFuoco,a1d7cc4d-d355-4d39-a6ee-a094c6d9f31c,0
+PST_MUR_T_DescrizioneFinitura,7bae69e9-5a8a-4f39-b9ce-a20f509ef16d,0
+PST_MUR_I_AltezzaFinituraMuro,1552c6c5-4489-4bef-bc0a-4cc69b6d2665,0
+PST_MUR_I_AltezzaMassima,911423a2-d915-407b-a6fa-6c1accfa667e,0
+PST_POR_I_UscitaDiEmergenza,75dded97-1a8a-485d-bd70-368b000b0a1f,0
+PST_POR_T_AccessorioPorta,3e6c5bdd-0b10-4bc7-b748-f5c76acb5305,0
+PST_POR_T_AltezzaHardwareEsterno,e3a7f4d7-1d8b-402f-a40a-3399512b7f42,0
+PST_POR_T_AltezzaHardwareInterno,88924e03-a299-4aff-89ed-25cfff0721dc,0
+PST_POR_T_AperturaMotorizzata,44c8a955-b3f4-4980-af3f-c714fdb21f3c,0
+PST_POR_T_AperturaMotorizzataAriaPorta,d7dda86d-f863-4370-a94f-88bf65a9851c,0
+PST_POR_T_CilindroElettronico,e3c44364-dd46-442c-b338-b6fa56688128,0
+PST_POR_T_ClasseAntieffrazione,2a7bf794-a81a-41b3-8f18-838c96d2ae33,0
+PST_POR_T_DimensioniForoMuroPorta,6a8448d8-4d3d-4352-ae45-25b48e43dc7d,0
+PST_POR_T_DistanzaHardwareEsterno,8bff56b6-2ea5-4881-94d7-f46a8fa48edd,0
+PST_POR_T_DistanzaHardwareInterno,20675d93-cf0e-4175-a467-ea9bcea4c730,0
+PST_POR_T_FattoreSolare,ee06e888-6961-4ed0-9af8-72eb9c643e7e,0
+PST_POR_T_FermaportaElettromagnetico,346daf22-0128-4b58-9e29-c3c5fc92e6ba,0
+PST_POR_T_PresenzaBadge,bbc49a20-17ea-433f-bbc3-d23185cfd9d9,0
+PST_POR_T_ManigliaEsterna,edced77c-d493-440c-9b96-146ea43fcef9,0
+PST_POR_T_ManigliaInterna,10bb302d-1d4a-451b-816e-adb673b6ab95,0
+PST_POR_T_ManiglioneAntipanico,0fc102c1-94f4-4e29-9f46-1fb77435c003,0
+PST_POR_T_ManiglioneASpinta,3bcf3993-69af-4ca6-a448-b0a8ba3eb667,0
+PST_POR_T_PstrikeMagnetico,41eab9d0-5797-4ced-ba00-fb503bff0ac8,0
+PST_POR_T_ResistenzaAcqua,15d996d4-2c7c-4390-8bc8-ce0554932954,0
+PST_POR_T_SerraturaElettrica,21431363-059f-4e94-9f74-04e6a546f880,0
+PST_POR_T_SpessorePannello,9601442b-7e7c-4113-8951-9db093c3756e,0
+PST_POR_T_TipoApertura,08adb6a0-c9e0-4632-b1fb-fa3cfeb81903,0
+PST_FIN_T_DimensioniForoMuroFinestra,63ff0153-5fdc-4a3e-a45a-c0a80d95fc50,0
+PST_MUR_T_CodiceFinitura,e684c671-1ef3-49d0-851a-9069b7cae69d,0
+PDM_GEN_T_Altezza,dfb01d9d-1467-4063-b151-575df4f1cc5b,0
+PDM_CVE_T_AltezzaExtracorsa,cd213523-51c3-468a-97e7-df27a6608c98,0
+PDM_CVE_T_AltezzaPortaAscensore,11849465-9532-469e-aba8-960dd81946f2,0
+PDM_GEN_T_Diametro,85229b4a-59a2-4d45-bdf0-a7dff1f3a12a,0
+PDM_MEP_T_DiametroEsterno,e2d79a0b-4d6e-4e54-9d4d-cbeea8d1589c,0
+PDM_MEP_T_DiametroInterno,55350f1b-290e-4669-b556-3604e05dc23d,0
+PDM_GEN_T_Larghezza,fb2424c5-8342-4ed2-be56-7bdd0b54dc7c,0
+PDM_CVE_T_LarghezzaCabinaAscensore,7619669d-3666-4e9d-9f42-a599181ab9e4,0
+PDM_CVE_T_LarghezzaPortaAscensore,634334cb-e077-4b16-a462-b631452fd9ef,0
+PDM_GEN_T_Lunghezza,8b60d971-9a3c-4928-8ac5-5e8a3e66a200,0
+PDM_GEN_T_Profondita,041fb5e0-b27a-40f4-986c-e2d7fb38ccac,0
+PDM_CVE_T_ProfonditaCabinaAscensore,e5c556f7-90a6-4609-bde1-482791c2c22e,0
+PDM_GEN_T_Spessore,56d4c17d-cc01-4744-8d8b-3f516e2a67c9,0
+PDM_LOC_I_Area,8f66cffe-39f6-46eb-b19e-674945bf7384,0
+PDM_GEN_T_Peso,1244bb3c-c494-4683-bbd7-c73d6c429b1d,0
+PDM_GEN_I_SuperficieEsterna,761a9687-d240-4f3e-b92d-b31aa32c8d66,0
+PST_ANE_T_ConducibilitaTermica,6faa4e94-124a-4093-a95b-ff22773f83cb,0
+PST_ANE_T_Consumo,321f16ed-62e2-4681-b64c-a018516be42a,0
+PST_ANE_T_Cop,41d2e2b2-2d60-405c-ae43-e6f247c34b70,0
+PST_ANE_T_DispersioneTermica,f1402b89-8c39-428a-9439-3a031bf29828,0
+PST_ANE_T_RapportoEer,1fc91b42-357b-4e87-b1c5-196b973c14af,0
+PST_ANE_T_ResistenzaTermica,af3d4376-b1e3-40df-bc17-20f903fa546c,0
+PST_ANE_T_Scop,2e4be94f-271c-4279-afac-355912eed97f,0
+PST_ANE_T_Seer,2781600a-d7f7-41d6-83e1-970c62cb00a6,0
+PST_ANE_T_Trasmittanza,4f9757a0-37f1-4328-b06d-9ffaa1add8c0,0
+PST_CVE_T_CapienzaAscensore,bba4ef20-c342-4b57-9883-94aba9bb70bc,0
+PST_ELE_I_CategoriaPrestazionale,eba87b89-0483-431c-9519-f01606dd14c9,0
+PST_ELE_I_CorrenteNominale,c694130a-2572-4b30-9b7c-1b2ac8505a21,0
+PST_ELE_I_CorrenteNominaleBarratura,8ce76c9a-0b55-406d-9a0e-11079afae42a,0
+PST_ELE_I_PortataDiCorrente,b502e429-0f8b-427a-8ce2-7368a8bebbb7,0
+PST_ELE_I_PotereInterruzioneIcc,1fa69471-20e0-4439-95fd-bc4932cdda46,0
+PST_ELE_I_SistemaDiAlimentazione,94e97ded-1811-4863-8ecf-0db5e00f6841,0
+PST_ELE_I_TipoDiComando,7e51abaf-e4fb-4051-bdb3-2614479d5a02,0
+PST_ELE_I_TipoDiComponente,9e1a0730-306e-493a-9ea2-c521e92dcf97,0
+PST_ELE_I_TipoDiControllo,4bff705c-dbfe-468d-bb33-8806563fb8c9,0
+PST_ELE_I_TipoDiPosa,2a0e9a56-572c-4294-9fe8-fa1777651c2c,0
+PST_ELE_I_TipologiaDiSistema,071dba41-c139-4028-880d-6bcb645a8fd2,0
+PST_ELE_T_AlimentazioneElettrica,70234f61-2082-453b-a5e6-b43414d0dcfd,0
+PST_ELE_T_CorrenteImp,28098db6-1c76-49e4-84ce-bc5ffb116fec,0
+PST_ELE_T_CorrenteIsc,73364b6f-1441-46c0-87b9-84161eb6e45d,0
+PST_ELE_T_EfficienzaModulo,14f87d60-86dd-4bd7-ae28-8d831a0f7edc,0
+PST_ELE_T_FormaCostruttiva,bde6256d-135f-497f-99c3-aa6bf041cf30,0
+PST_ELE_T_FrequenzaCircuito,25004a2f-f51f-4142-a4da-2690beb6124f,0
+PST_ELE_T_GradoDiProtezioneIp,7faa6c28-dc2b-4cf5-a0fb-6de0a15b4d2c,0
+PST_ELE_T_NumeroPoli,070ab146-d95e-410e-a7d0-9b7f72da1c62,0
+PST_ELE_T_PotenzaAssorbita,e17bf031-b572-45d5-b995-247e990d892d,0
+PST_ELE_T_PotenzaNominale,51d00991-846e-4671-bea3-70e619f844d2,0
+PST_ELE_T_PotenzaOperativa,560432f4-0641-4eb6-977f-8f6f35abaa54,0
+PST_ELE_T_ResistenzaElettrica,40a36eb4-9b0e-4843-a3df-8c7a7cd4b380,0
+PST_ELE_T_TensioneIsolamento,ffff411c-d82f-80fb-a45f-eb23d1953d71,0
+PST_ELE_T_TensioneNominale,5b2f6b18-7147-44bd-8e87-c9c9d6774e59,0
+PST_ELE_T_TipoBatterie,a3d490d2-85db-48ff-a017-1ccafcd8b462,0
+PST_ELE_T_TipoConnettore,743b4b28-e40f-44e3-86ce-85b462202730,0
+PST_ELE_T_TipoDiComponente,d432c9f5-b57c-464a-a223-a30c11d89c91,0
+PST_ELE_T_TipoDiInstallazione,ae2954f9-9f5a-4e0c-8f8c-b9467c9c5419,0
+PST_ELE_T_TipoDiSupporto,b19cb6e3-1428-4463-b063-23ced2f98292,0
+PST_ELE_T_TipoTelecamera,ba06d68c-fd0e-4eab-bf47-7961f0f22991,0
+PST_ELE_T_VoltaggioVcc,69a20b8f-be9f-4506-8366-83f6aced7b20,0
+PST_ELE_T_VoltaggioVmp,c012da4b-e470-424d-a151-63578751e9c2,0
+PST_EST_T_FattoreKSprinkler,0511e70d-af15-4cb3-b815-916a1e5f668d,0
+PST_EST_T_Gittata,346eb65d-c9e2-411c-b56d-dd5155b82dbf,0
+PST_EST_T_TempoDiScarica,2b4c3932-602a-47c8-bc7f-92534a4ecbe7,0
+PST_GEN_I_TipoCoibentazione,85137a52-a8c1-4ac1-a249-4e6c62999f18,0
+PST_GEN_T_IsolamentoAcustico,dc6533e4-bcc4-4e09-ba51-7f6f122aee28,0
+PST_GEN_T_PotenzaSonora,ffff411c-d82f-807c-a56e-f2d0b81080ab,0
+PST_GEN_T_ResistenzaFuoco,f0571379-3b47-4f74-bb9b-5df3c70dd6ae,0
+PST_GEN_T_ResistenzaUrto,3f6fbc20-9c1a-4adc-8b1d-29aef7fe776e,0
+PST_GEN_T_ResistenzaVento,8c933826-2057-49d6-8e39-bb21fbf05be6,0
+PST_GEN_T_TipoIsolamento,661def80-3801-449c-a1d7-394a3854e5d9,0
+PST_GEN_T_Velocita,3b1e3c0b-aacb-43d9-ab2c-9206ed9700bc,0
+PST_ILL_I_ColoreLuce,9a2bb6fc-82e4-4677-830c-c18c832f7bc4,0
+PST_ILL_I_SistemaDiRegolazione,bf9daf11-9358-40eb-b453-53b7b3e59095,0
+PST_ILL_I_TemperaturaColore,e401cb66-0622-4785-b317-bcbf1bd69a99,0
+PST_ILL_I_TipoDiOttica,ca89ec8a-687b-40f2-b4ee-ad372cc68135,0
+PST_ILL_T_AutonomiaBatterie,6a5c469c-c4b3-4973-b424-6376a2bcd18e,0
+PST_ILL_T_FlussoLuminoso,6f4a9c86-041b-424c-b47d-7f307a67cea9,0
+PST_ILL_T_TipoDiAlimentazione,3f760fae-1c88-4548-aa8c-b95d7998097f,0
+PST_MAT_I_FinituraCoibentazione,b9387d55-3318-40ed-8d0e-ed90ec77c6f7,0
+PST_MAT_T_AssorbimentoAcqua,793e29e9-76bf-4b99-a1d4-93a814226f27,0
+PST_MAT_T_ClasseAcciaio,e85440d6-14ef-48c2-aab4-fb149ff93ed5,0
+PST_MAT_T_ClasseDiConsistenza,14a1893d-0aa7-453c-b478-9464d218a7c9,0
+PST_MAT_T_ClasseDiEsposizione,327c8a29-9684-4004-8af0-ab518efdd8f7,0
+PST_MAT_T_ClasseDiResistenza,b8bea6fd-b13c-4821-aee5-c8545d889ac4,0
+PST_MAT_T_MaterialeTelaio,52dd0230-40fe-4ef6-b860-e109f6e21d3e,0
+PST_MAT_T_MinimoContenutoCemento,d80847b8-c82a-436d-9c5d-54b4a004e4a1,0
+PST_MAT_T_RapportoAcquaCemento,e37c3843-54a4-4e80-a7c1-4b104ebe5d94,0
+PST_MAT_T_ResistenzaACompressione,55d8c03f-58e7-426a-aceb-fc3af67d4e42,0
+PST_MAT_T_TensioneDiRottura,d2d12455-7951-47a3-bbbb-660634dddbd8,0
+PST_MAT_T_TensioneDiSnervamento,7601e48a-5070-4a62-bc95-1750e9666739,0
+PST_MAT_T_TipoDiAggregato,7d49390e-e74d-438c-8445-40020ea78e16,0
+PST_MAT_T_TipoDiCemento,a2ad8d49-12e3-4a89-8e3b-8220d405e152,0
+PST_MEC_I_ConducibilitaCoibentazione,f072101b-3360-4ed8-912c-ca116edc6aa4,0
+PST_MEC_I_DeltaTemperaturaAcquaCalda,667fb182-afe7-4b93-a7bb-d592f253a10d,0
+PST_MEC_I_DeltaTemperaturaAcquaRefrigerata,716c0674-235c-4797-8c6b-099cd1141b0f,0
+PST_MEC_I_EfficienzaDiFiltrazione,3c52db85-bb38-491e-81a4-d212a617cb38,0
+PST_MEC_I_EfficienzaRecuperatore,8915c76c-0c6e-411b-a143-3bdb7810a3cf,0
+PST_MEC_I_MassimaPotenzaElettrica,f0188724-f3bb-4a05-b01b-c367b08ef59a,0
+PST_MEC_I_NumeroUsciteCollettore,a6371a0b-bf07-42cc-9138-a846c79e393e,0
+PST_MEC_I_Pfa,c828f4d2-2cfd-40fe-9402-253df61932e2,0
+PST_MEC_I_Portata,f729f05c-052c-4eb1-b7f9-450eb5281945,0
+PST_MEC_I_PortataAriaEsterna,ffff411c-d82f-8067-89b5-e0e9d96c932b,0
+PST_MEC_I_PortataMandata,db97374d-b127-49b7-bfb0-278fe38e73b6,0
+PST_MEC_I_PortataRipresa,2f4fe2af-c633-4795-b5cd-3b362d0ad8c8,0
+PST_MEC_I_PotenzaFrigoriferaBatteria,7e584aa5-9c81-4fe9-8a8f-3f6c4841c688,0
+PST_MEC_I_PotenzaTermicaBatteria,ea2700ea-1ed5-40e2-9bd7-bb576f95b3e9,0
+PST_MEC_I_PotenzaTermicaBatteriaPost,8faee3d5-ff13-4616-a966-96de43662a3c,0
+PST_MEC_I_PrevalenzaNettaMandata,62cecf6e-2e0f-4199-99aa-5aa4f8f5a8aa,0
+PST_MEC_I_PrevalenzaNettaRipresa,64ce5a0c-1bbc-4093-98fa-ab5702b5a8c9,0
+PST_MEC_I_ReazioneAlFuoco,23f133ef-446a-4684-9c89-aee2dd179ea0,0
+PST_MEC_I_TemperaturaAcquaCaldaMandata,6556260d-e4a2-45c6-9acf-7fa002fd64e7,0
+PST_MEC_I_TemperaturaAcquaRefrigerataMandata,0108c8ad-9326-45a7-83f0-990c23276937,0
+PST_MEC_I_TemperaturaSetPointEstate,482f8150-5565-494c-bb1f-d14ea9fd6d01,0
+PST_MEC_I_TemperaturaSetPointInverno,5880fcae-1f1c-4f42-8879-37797d980954,0
+PST_MEC_I_TipoAccessorio,08c606ac-2960-497c-a5a7-9200d3623f12,0
+PST_MEC_I_TipoDiUnita,1c95dbfd-e152-434a-b57e-f0e776e33270,0
+PST_MEC_I_TipoLamaDAria,126d03e1-dbbd-43a7-ad07-a9e53e3e30d2,0
+PST_MEC_I_TipoUta,d6e9b260-b035-41b9-a7e1-acf5c9c4b66d,0
+Manufacturer country,4234eb45-eebc-4ffa-9e49-f2f2ca9c1b8f,0
+Manufacturer name,3077e960-a896-405f-bb06-2b705de55327,0
+Masterformat 2014 Code,12e7daa5-f0aa-4548-8985-757af7487f9b,0
+Masterformat 2014 Description,49a7661d-49ac-4caf-a33b-2fd88a4160ce,0
+Material main,8832e9f9-079e-4277-9201-53ef57298a6b,0
+Material secondary,e5acfff5-4753-4163-923a-68acfab3f46c,0
+NBS Reference Code,15a4a052-e177-4426-a087-763deb9888fb,0
+NBS Reference Description,76f2cd5e-c6a8-4474-9b21-234d33c06f9d,0
+OmniClass Code,ab516ad9-9852-4cd9-a9a9-52a33e5c273f,0
+OmniClass Description,0ab7925f-77d7-4291-822b-6e9e76d6a03f,0
+Product certification,dd8090bd-838c-4eda-ac7d-a449d0e8776f,0
+Product family,268ab0e1-7098-4277-b26b-f94f5e9956b0,0
+Product group,a5f2d543-a86c-460e-afd2-6764c5f3f6dc,0
+Product Guid,665571c9-a858-4b27-8769-de7efd2e473a,0
+Product url,76e21a60-4915-47cd-8839-89bbd3384f1b,0
+Date of publishing,e2bcabd7-8af1-4c70-bbe8-1342f776d33b,0
+QR code,3e52b35a-8984-44ad-9fe7-c255175b20bc,0
+Region Africa,b1c8d75e-6254-4473-bade-e1695108d534,0
+Region Antarctica,813a073b-a752-43bf-9c2c-9bfd4eb21824,0
+Region Asia,cefa142a-f251-4acd-9b88-8bc463486b7b,0
+Region Europe,b9dc4ab8-a9eb-4e06-877f-dab351f1b185,0
+Region Middle East,ca66bebf-9b7f-4ecb-82ed-ac3654b2a7dc,0
+Region North America,a7e1209e-4cc7-4c92-89b8-cae19a577d9d,0
+Region Oceania,70da0726-8eda-4390-9693-f4d87c618d0a,0
+Region South America,25642c20-abea-48fe-92c8-bf7f53fd7cac,0
+Product SKU,19411ce6-0bc3-42e0-9a32-655fc5ddeb5e,0
+Technical description,98aca222-fedf-46b0-b939-e890af9ef9ea,0
+Livello di appartenenza,Parametro non condiviso,0
+Manufacturer Address,00000000-0000-0000-0000-000000000003,0
+Manufacturer Phone,00000000-0000-0000-0000-000000000004,0
+Manufacturer Phone - Toll Free,1876075b-66a1-4892-a1b2-417fcdbd9ae7,0
+Manufacturer Fax,00000000-0000-0000-0000-000000000005,0
+UTI_TE_Nome,3e3e3667-f0c4-4353-90c3-b56fd3879404,0
+UTI_TE_Funzione,49e6a1b0-6f23-4f24-9409-4a233cda89f8,0
+UTI_TE_Piano,743c06ce-9ec6-4f5a-adda-3bce6ca68065,0
+UTI_TE_Numero,c0ee7eff-23e2-4819-bb95-17a271daa478,0
+MC Version Saved,8ec36484-f749-433d-a800-e96c39707968,0
+PRO_TE_Codice elemento tecnico HOST,14194d7f-4c10-44ec-98f9-11593378f3a7,0
+Product data url,0101d8bc-35b7-4410-a3e2-10d7ab0e8c40,0
+Uniclass 1.4 Code,d3cc2fa7-d482-46f4-aebf-e164bbba1736,0
+Uniclass 1.4 Description,712fed06-f073-48be-9633-b87507fb9653,0
+Uniclass 2015 Code,c189487e-9036-4e7a-a5d2-a2569e1bb03f,0
+Uniclass 2015 Name,c5f27551-675e-4876-b965-3ea73bac896d,0
+Uniclass 2.0 Code,2213bfac-92e9-4112-ade2-80b4bff9e551,0
+Uniclass 2.0 Description,863437e3-03e8-4b56-8d08-7dd678a93e3b,0
+Uniformat II Code,e83ad4bb-6370-4cba-8a06-6807a79f2c8a,0
+Uniformat II Description,2f002dae-0e0e-4d2b-8294-8a3b4035dd41,0
+UNSPSC Code,85779580-ff27-40bb-b54b-49f66ba18233,0
+Weight Net (Kg),93dc3529-ecbd-4f36-ba1d-33df81c3e06b,0
+Nominal width,34e35d8b-4d6b-422a-b48e-fd26b356d044,0
+BIMobject category,28e46436-9f65-4f81-a151-8936f18c1313,0
+Brand url,42ccd0c5-f4ce-4263-8362-20a14ecaa76b,0
+COBIe Type Category,0947cdfd-7198-40e8-9286-6fff119b0d17,0
+Design country,cc71c19d-4e95-42c0-a7b6-25e76ac3429f,0
+EAN code,a45a0050-2a39-4b29-bb1f-1b1430c9954d,0
+Edition number,0ea9a83f-e4b8-4a03-b9c6-f14000c40a16,0
+Nominal height,a186e6e2-4dd7-4d22-93bb-a21a4f4bf84f,0
+IFC Classification,9f479213-7548-4240-a976-228704bacee8,0
+Installation instructions,a8a5e712-3947-4243-a7c4-12482fd7fb73,0
+Youtube clip,e8d3a46e-7d27-4199-80d7-1a91054364f4,0
+NameOverride,Parametro non condiviso,0
+Manufacturer,Parametro non condiviso,0
+ModelLabel,Parametro non condiviso,0
+ModelReference,Parametro non condiviso,0
+VIS_TE_Argomento della vista,5810bb5b-4e7e-472c-b38a-2019202b965b,0
+VIS_TE_Sottoargomento della vista,f277e03d-349e-4b8d-9192-1909810868cf,0
+VIS_TE_Status della vista,3a2a8453-97dc-4e21-8fb6-90af1d64d165,0
+IfcDescription,a5d57ace-5d40-4f93-93ae-090e47997cfa,1
+IfcName,06a8b8aa-a6bd-40d9-ad74-158600dd5e27,1
+IfcObjectType,94ff86d3-bebc-4dac-a5c9-67e80de0f83f,1
+IDE_GEN_I_Wbs3,1dcd2308-0d78-4990-a96e-81f5b7b1873c,1
+GEO_GEN_T_Dettaglio,6db9f715-525b-4a3c-a178-f395f28b541b,1
+IDE_GEN_I_Wbs5,087c9819-1292-4c11-8159-cf54e8ecfc28,1
+GEO_GEN_T_Posizione,691f0524-1e2a-47b7-b504-b8c7f21f4300,1
+IDE_GEN_I_Wbs4,3a91b93b-5327-44e9-972f-2977473c636f,1
+IDE_GEN_I_Wbs0,34cf2c85-b5aa-4ca2-a345-799d32d71a0e,1
+IDE_GEN_T_Sottoclasse,0b88458a-5e3b-41f0-a990-ac65db098cef,1
+IDE_GEN_I_Wbs6,fc61bd91-07a5-4f2d-abb4-4fd646383d51,1
+IDE_GEN_I_Wbs2,9582489d-8535-4411-86d7-bcdc9cc76c59,1
+GEO_GEN_T_Dimensionalità,d85289be-6622-472d-90d2-22bd67ac7337,1
+IDE_GEN_T_Classe,19b046e4-448b-4cbf-8c1c-5fc9ac2bccc6,1
+IDE_GEN_I_Wbs1,6c6290e7-94e0-4815-b163-c03e4ac32f0e,1

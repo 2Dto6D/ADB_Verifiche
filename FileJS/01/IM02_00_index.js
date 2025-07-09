@@ -1,8 +1,8 @@
 // Funzione per caricare il CSV da GitHub e visualizzarlo
 document.addEventListener("DOMContentLoaded", function () {
-    loadCSVIndex('2Dto6D/ADB_Verifiche', 'ADB01index/01/IM01_Verifiche.csv', 'Verifiche');
+    loadCSVIndex('2Dto6D/ADB_Verifiche', 'ADB01index/01/IM02_Verifiche.csv', 'Verifiche');
     const tablesToLoad = [
-        { tableId: "Dati", repo: "2Dto6D/ADB_Verifiche", filePath: "ADB01index/01/IM01_DatiGenerali.csv" },
+        { tableId: "Dati", repo: "2Dto6D/ADB_Verifiche", filePath: "ADB01index/01/IM02_DatiGenerali.csv" },
     ];
 
     tablesToLoad.forEach(table => {
@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
             canvasId: 'VerificheGraficoATorta',
             statsId: 'Verifichestatistics',
             repo: '2Dto6D/ADB_Verifiche',
-            filePath: 'ADB01index/01/IM01_Verifiche.csv'
+            filePath: 'ADB01index/01/IM02_Verifiche.csv'
         }
     ];
     
