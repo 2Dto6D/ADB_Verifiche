@@ -1,0 +1,48 @@
+/* Stili per tabelle */
+.UnitaDiMisura,
+.UnitaProgettoTabella {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.UnitaDiMisura th,
+.UnitaProgettoTabella th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.UnitaDiMisura td,
+.UnitaProgettoTabella td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}
+
+/* Bottoni per la paginazione */
+.pagination-UnitaProgetto {
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.pagination-UnitaProgetto button {
+margin: 0 10px;
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+background-color: lightgray;
+cursor: pointer;
+}
+
+.pagination-UnitaProgetto button:hover {
+background-color: gray;
+}
+
+.pagination-UnitaProgetto button:active {
+background-color: #ccc;
+}

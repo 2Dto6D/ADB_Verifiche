@@ -1,0 +1,81 @@
+/* Stili per tabelle */
+.VerificaInformativa,
+.ParametriIFC,
+.ParametriLOIN,
+.ValoriParametriLOIN,
+.FaseErrataTabella,
+.ProjectInfo,
+.IFCEntity,
+.AssegnazioneMateriali,
+.ValorizzazioneIFCTabella {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.VerificaInformativa th,
+.ParametriIFC th,
+.ParametriLOIN th,
+.ValoriParametriLOIN th,
+.FaseErrataTabella th,
+.ProjectInfo th,
+.IFCEntity th,
+.AssegnazioneMateriali th,
+.ValorizzazioneIFCTabella th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.VerificaInformativa td,
+.ParametriIFC td,
+.ParametriLOIN td,
+.ValoriParametriLOIN td,
+.FaseErrataTabella td,
+.ProjectInfo td,
+.IFCEntity td,
+.AssegnazioneMateriali td,
+.ValorizzazioneIFCTabella td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}
+
+/* Bottoni per la paginazione */
+.pagination-FaseErrata,
+.pagination-ValorizzazioneIFC {
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.pagination-FaseErrata button,
+.pagination-ValorizzazioneIFC button {
+margin: 0 10px;
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+background-color: lightgray;
+cursor: pointer;
+}
+
+.pagination-FaseErrata button:hover,
+.pagination-ValorizzazioneIFC button:hover {
+background-color: gray;
+}
+
+.pagination-FaseErrata button:active,
+.pagination-ValorizzazioneIFC button:active {
+background-color: #ccc;
+}
+
+/* Grafico Istogramma */
+#ValorizzazioneIFCAsBarChart,
+#FaseErrataAsBarChart {
+margin: 20px auto;
+display: block;
+max-width: 50%;
+}

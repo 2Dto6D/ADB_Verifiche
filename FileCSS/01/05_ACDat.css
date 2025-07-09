@@ -1,0 +1,33 @@
+/* Stili per tabelle */
+.ACDat,
+.NomenclaturaFile,
+.Documenti,
+.Report,
+.AperturaFile {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.ACDat th,
+.NomenclaturaFile th,
+.Documenti th,
+.Report th,
+.AperturaFile th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.ACDat td,
+.NomenclaturaFile td,
+.Documenti td,
+.Report td,
+.AperturaFile td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}

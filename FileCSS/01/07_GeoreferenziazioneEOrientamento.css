@@ -1,0 +1,27 @@
+/* Stili per tabelle */
+.GeoreferenziazioneEOrientamento,
+.Coordination,
+.LatLong {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.GeoreferenziazioneEOrientamento th,
+.Coordination th,
+.LatLong th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.GeoreferenziazioneEOrientamento td,
+.Coordination td,
+.LatLong td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}

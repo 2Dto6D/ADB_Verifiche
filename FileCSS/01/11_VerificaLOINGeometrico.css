@@ -1,0 +1,56 @@
+/* Stili per tabelle */
+.VerificaLOINGeometrico,
+.ElementiLOINTabella {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.VerificaLOINGeometrico th,
+.ElementiLOINTabella th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.VerificaLOINGeometrico td,
+.ElementiLOINTabella td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}
+
+/* Bottoni per la paginazione */
+.pagination-ElementiLOIN {
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.pagination-ElementiLOIN button {
+margin: 0 10px;
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+background-color: lightgray;
+cursor: pointer;
+}
+
+.pagination-ElementiLOIN button:hover {
+background-color: gray;
+}
+
+.pagination-ElementiLOIN button:active {
+background-color: #ccc;
+}
+
+/* Grafico a torta */
+#ElementiLOINGraficoATorta {
+max-width: 25%; /* Limita la larghezza massima al 70% del contenitore */
+width: 25%; /* Imposta la larghezza al 70% del contenitore */
+margin: 0 auto; /* Centra il grafico */
+display: block; /* Visualizzazione in blocco */
+}
