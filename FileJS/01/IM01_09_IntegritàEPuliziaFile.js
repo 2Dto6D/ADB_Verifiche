@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
 	loadCSV('CorrispondenzaIFC', '2Dto6D/ADB_Verifiche', 'IM01Verifiche/01/IM01_09_VerificaCorrispondenzaIFC_Data.csv');
 
 	loadHistogramFromCSV({
-		csvUrl: 'https,//raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IM01Verifiche/01/IM01_09_SovrapposizioniElementi_Data.csv',
+		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IM01Verifiche/01/IM01_09_SovrapposizioniElementi_Data.csv',
 		chartId: 'SovrapposizioneElementiAsBarChart',
 		statsId: 'SovrapposizioneElementiStatistics',
 		title: 'Istogramma delle Categorie'

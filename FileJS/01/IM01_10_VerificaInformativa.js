@@ -14,13 +14,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 	loadHistogramFromCSV({
-		csvUrl: 'https,//raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IM01Verifiche/01/IM01_10_FaseErrata_Data.csv',
+		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IM01Verifiche/01/IM01_10_FaseErrata_Data.csv',
 		chartId: 'FaseErrataAsBarChart',
 		statsId: 'FaseErrataStatistics',
 		title: 'Istogramma delle Categorie'
 	});
 	loadHistogramFromCSV({
-		csvUrl: 'https,//raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IM01Verifiche/01/IM01_10_ValorizzazioneIFCSaveAs_Data.csv',
+		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IM01Verifiche/01/IM01_10_ValorizzazioneIFCSaveAs_Data.csv',
 		chartId: 'ValorizzazioneIFCAsBarChart',
 		statsId: 'ValorizzazioneIFCStatistics',
 		title: 'Istogramma delle Categorie'
