@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
 		{ tableId: "VerificaInformativa", repo:"2Dto6D/ADB_Verifiche", filePath:"AR01Riepilogo/01/AR01_10_VerificaInformativa.csv" },
 		{ tableId: "ProjectInfo", repo:"2Dto6D/ADB_Verifiche", filePath:"AR01Verifiche/01/AR01_10_ProjectInfo.csv" },
 		{ tableId: "IFCEntity", repo:"2Dto6D/ADB_Verifiche", filePath:"AR01Verifiche/01/AR01_10_IFCEntity.csv" },
-		{ tableId: "ParametriLOIN", repo:"2Dto6D/ADB_Verifiche", filePath:"AR01Verifiche/01/AR01_10_ParametriLOIN.csv" },
 
 	];
 
@@ -13,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
 	});
 	loadCSV('FaseErrata', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/01/AR01_10_FaseErrata_Data.csv');
 	loadCSV('ValorizzazioneIFC', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/01/AR01_10_ValorizzazioneIFCSaveAs_Data.csv');
+	loadCSV('ParametriLOIN', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/01/AR01_10_ParametriLOIN.csv');
 
 
 	loadHistogramFromCSV({
@@ -28,7 +28,14 @@ document.addEventListener("DOMContentLoaded", function () {
 		title: 'Istogramma delle Categorie'
 	});
 
+	const summaryConfigs = [
+		{ statsId: "ParametriLOINstatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/01/AR01_10_ParametriLOIN.csv"},
 
+	];
+
+	summaryConfigs.forEach(config => {
+		loadCSVForStatistics(config.statsId, config.repo, config.filePath);
+	});
 });
 
 const githubRawURL = (repo, filePath) => `https://raw.githubusercontent.com/${repo}/main/${filePath}`;
@@ -277,6 +284,56 @@ function loadHistogramFromCSV({ csvUrl, chartId, statsId, title }) {
 
 // Funzione per mostrare il riepilogo statistico sotto l'istogramma
 function displayStatisticsHistogram(data, statsId) {
+	const statsContainer = document.getElementById(statsId);
+	if (!statsContainer) {
+		console.error(`Elemento con ID ${statsId} non trovato`);
+		return;
+	}
+
+	const total = data.length;
+	const correct = data.filter(row => row.Stato?.trim() === '1').length;
+	const incorrect = total - correct;
+	const correctPercentage = total > 0 ? ((correct / total) * 100).toFixed(2) : 0;
+
+	statsContainer.innerHTML = `
+		<p><strong>Totale verifiche:</strong> ${total}</p>
+		<p><strong>Verifiche corrette:</strong> ${correct} (${correctPercentage}%)</p>
+		<p><strong>Verifiche incorrette:</strong> ${incorrect}</p>
+	`;
+}
+
+
+// Statistiche
+async function loadCSVForStatistics(statsId, repo, filePath) {
+	const csvUrl = `https://raw.githubusercontent.com/${repo}/main/${filePath}`;
+	try {
+		const response = await fetch(csvUrl);
+		if (!response.ok) throw new Error('Errore nel caricamento del file CSV');
+		const data = await response.text();
+		const rows = data.trim().split('\n').map(row => row.split(','));
+
+		if (rows.length < 2) {
+			console.warn(`Il CSV ${filePath} non contiene dati validi`);
+			return;
+		}
+
+		// Trova l'indice della colonna "Stato"
+		const header = rows[0];
+		const statoIndex = header.indexOf("Stato");
+		if (statoIndex === -1) {
+			console.warn(`Colonna "Stato" non trovata in ${filePath}`);
+			return;
+		}
+
+		// Converti i dati in oggetti
+		const parsedData = rows.slice(1).map(row => ({ Stato: row[statoIndex] }));
+		displayStatistics(parsedData, statsId);
+	} catch (error) {
+		console.error(`Errore nel caricamento dei dati per ${statsId}:`, error);
+	}
+}
+
+function displayStatistics(data, statsId) {
 	const statsContainer = document.getElementById(statsId);
 	if (!statsContainer) {
 		console.error(`Elemento con ID ${statsId} non trovato`);
