@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
 	loadCSV('VerificaLocali', '2Dto6D/ADB_Verifiche', 'AR04Verifiche/01/AR04_13_VerificaLocali_Data.csv');
 
 	loadHistogramFromCSV({
-		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR04Verifiche/01/AR0413_ElementOffset_Data.csv',
+		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR04Verifiche/01/AR04_13_ElementOffset_Data.csv',
 		chartId: 'ElementOffsetAsBarChart',
 		statsId: 'ElementOffsetStatistics',
 		title: 'Istogramma delle Categorie'
