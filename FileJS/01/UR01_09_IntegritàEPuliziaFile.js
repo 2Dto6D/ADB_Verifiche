@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
 	loadCSV('SovrapposizioneElementi', '2Dto6D/ADB_Verifiche', 'UR01Verifiche/01/UR01_09_SovrapposizioniElementi_Data.csv');
 	loadCSV('LivelliInutilizzati', '2Dto6D/ADB_Verifiche', 'UR01Verifiche/01/UR01_09_LivelliInutilizzati_Data.csv');
 	loadCSV('BuildingElementProxy', '2Dto6D/ADB_Verifiche', 'UR01Verifiche/01/UR01_09_BuildingElementProxy_Data.csv');
+	loadCSV('ParametriCondivisi', '2Dto6D/ADB_Verifiche', 'UR01Verifiche/01/UR01_09_SharedParameters_Data.csv');
 
 
 	loadHistogramFromCSV({
@@ -25,6 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
 	const summaryConfigs = [
 		{ statsId: "LivelliInutilizzatistatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "UR01Verifiche/01/UR01_09_LivelliInutilizzati_Data.csv"},
 		{ statsId: "BuildingElementProxystatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "UR01Verifiche/01/UR01_09_BuildingElementProxy_Data.csv"},
+		{ statsId: "ParametriCondivisistatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "UR01Verifiche/01/UR01_09_SharedParameters_Data.csv"},
 
 	];
 
