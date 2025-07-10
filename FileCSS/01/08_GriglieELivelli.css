@@ -1,7 +1,5 @@
 /* Stili per tabelle */
 .GriglieELivelli,
-.GrigliePGI,
-.MonitorTabella,
 .NomenclaturaGriglieLivelliTabella,
 .LivelliMEPTabella {
 width: 85%;
@@ -11,8 +9,6 @@ border-collapse: collapse;
 }
 
 .GriglieELivelli th,
-.GrigliePGI th,
-.MonitorTabella th,
 .NomenclaturaGriglieLivelliTabella th,
 .LivelliMEPTabella th {
 background-color: #f2f2f2;
@@ -22,8 +18,6 @@ word-wrap: break-word;
 }
 
 .GriglieELivelli td,
-.GrigliePGI td,
-.MonitorTabella td,
 .NomenclaturaGriglieLivelliTabella td,
 .LivelliMEPTabella td {
 border: 1px solid #000;
@@ -33,7 +27,6 @@ word-wrap: break-word;
 }
 
 /* Bottoni per la paginazione */
-.pagination-Monitor,
 .pagination-NomenclaturaGriglieLivelli,
 .pagination-LivelliMEP {
 display: flex;
@@ -41,7 +34,6 @@ justify-content: center;
 margin-top: 30px;
 }
 
-.pagination-Monitor button,
 .pagination-NomenclaturaGriglieLivelli button,
 .pagination-LivelliMEP button {
 margin: 0 10px;
@@ -52,23 +44,15 @@ background-color: lightgray;
 cursor: pointer;
 }
 
-.pagination-Monitor button:hover,
 .pagination-NomenclaturaGriglieLivelli button:hover,
-.pagination-LivelliMEP button:hover { 
+.pagination-LivelliMEP button:hover {
 background-color: gray;
 }
 
-.pagination-Monitor button:active,
-.pagination-NomenclaturaGriglieLivelli button:active,
-.pagination-LivelliMEP button:active {
-background-color: #ccc;
-}
-
 /* Grafico Istogramma */
-#MonitorAsBarChart,
 #NomenclaturaGriglieLivelliAsBarChart,
 #LivelliMEPAsBarChart {
+max-width: 50%;
 margin: 20px auto;
 display: block;
-max-width: 50%;
 }

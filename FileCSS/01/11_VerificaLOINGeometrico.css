@@ -43,14 +43,10 @@ cursor: pointer;
 background-color: gray;
 }
 
-.pagination-ElementiLOIN button:active {
-background-color: #ccc;
-}
-
-/* Grafico a torta */
+/* Grafico a Torta */
 #ElementiLOINGraficoATorta {
-max-width: 25%; /* Limita la larghezza massima al 70% del contenitore */
-width: 25%; /* Imposta la larghezza al 70% del contenitore */
-margin: 0 auto; /* Centra il grafico */
-display: block; /* Visualizzazione in blocco */
+max-width: 25%;
+width: 25%;
+margin: 0 auto;
+display: block;
 }

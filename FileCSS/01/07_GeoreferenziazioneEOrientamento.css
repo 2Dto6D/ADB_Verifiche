@@ -1,7 +1,9 @@
 /* Stili per tabelle */
 .GeoreferenziazioneEOrientamento,
+.LatLong,
 .Coordination,
-.LatLong {
+.CoordinateCondivise,
+.NordReale {
 width: 85%;
 table-layout: fixed;
 margin: 0 auto;
@@ -9,8 +11,10 @@ border-collapse: collapse;
 }
 
 .GeoreferenziazioneEOrientamento th,
+.LatLong th,
 .Coordination th,
-.LatLong th {
+.CoordinateCondivise th,
+.NordReale th {
 background-color: #f2f2f2;
 text-align: center;
 padding: 10px;
@@ -18,8 +22,10 @@ word-wrap: break-word;
 }
 
 .GeoreferenziazioneEOrientamento td,
+.LatLong td,
 .Coordination td,
-.LatLong td {
+.CoordinateCondivise td,
+.NordReale td {
 border: 1px solid #000;
 text-align: center;
 padding: 8px;

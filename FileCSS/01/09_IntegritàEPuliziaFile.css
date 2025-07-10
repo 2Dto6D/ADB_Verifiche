@@ -2,13 +2,10 @@
 .IntegritàEPuliziaFile,
 .PesoFile,
 .VersioneFile,
-.PresenzaElaborati,
-.SovrapposizioniElementi,
+.SovrapposizioneElementiTabella,
 .IFCMapping,
-.StartingView,
-.LivelliInutilizzati,
-.BuildingElementProxy,
-.Workset,
+.LivelliInutilizzatiTabella,
+.BuildingElementProxyTabella,
 .ParametriCondivisiTabella,
 .CorrispondenzaIFCTabella {
 width: 85%;
@@ -20,13 +17,10 @@ border-collapse: collapse;
 .IntegritàEPuliziaFile th,
 .PesoFile th,
 .VersioneFile th,
-.PresenzaElaborati th,
-.SovrapposizioniElementi th,
+.SovrapposizioneElementiTabella th,
 .IFCMapping th,
-.StartingView th,
-.LivelliInutilizzati th,
-.BuildingElementProxy th,
-.Workset th,
+.LivelliInutilizzatiTabella th,
+.BuildingElementProxyTabella th,
 .ParametriCondivisiTabella th,
 .CorrispondenzaIFCTabella th {
 background-color: #f2f2f2;
@@ -38,13 +32,10 @@ word-wrap: break-word;
 .IntegritàEPuliziaFile td,
 .PesoFile td,
 .VersioneFile td,
-.PresenzaElaborati td,
-.SovrapposizioniElementi td,
+.SovrapposizioneElementiTabella td,
 .IFCMapping td,
-.StartingView td,
-.LivelliInutilizzati td,
-.BuildingElementProxy td,
-.Workset td,
+.LivelliInutilizzatiTabella td,
+.BuildingElementProxyTabella td,
 .ParametriCondivisiTabella td,
 .CorrispondenzaIFCTabella td {
 border: 1px solid #000;
@@ -54,6 +45,9 @@ word-wrap: break-word;
 }
 
 /* Bottoni per la paginazione */
+.pagination-SovrapposizioneElementi,
+.pagination-LivelliInutilizzati,
+.pagination-BuildingElementProxy,
 .pagination-ParametriCondivisi,
 .pagination-CorrispondenzaIFC {
 display: flex;
@@ -61,6 +55,9 @@ justify-content: center;
 margin-top: 30px;
 }
 
+.pagination-SovrapposizioneElementi button,
+.pagination-LivelliInutilizzati button,
+.pagination-BuildingElementProxy button,
 .pagination-ParametriCondivisi button,
 .pagination-CorrispondenzaIFC button {
 margin: 0 10px;
@@ -69,15 +66,19 @@ border: none;
 border-radius: 10px;
 background-color: lightgray;
 cursor: pointer;
-font-size: 16px; /* Aggiungi dimensione per migliorare la visibilità */
 }
 
+.pagination-SovrapposizioneElementi button:hover,
+.pagination-LivelliInutilizzati button:hover,
+.pagination-BuildingElementProxy button:hover,
 .pagination-ParametriCondivisi button:hover,
 .pagination-CorrispondenzaIFC button:hover {
 background-color: gray;
 }
 
-.pagination-ParametriCondivisi button:active,
-.pagination-CorrispondenzaIFC button:active {
-background-color: #ccc;
+/* Grafico Istogramma */
+#SovrapposizioneElementiAsBarChart {
+max-width: 50%;
+margin: 20px auto;
+display: block;
 }

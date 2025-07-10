@@ -1,6 +1,6 @@
 /* Stili per tabelle */
 .ElaboratiProgettuali,
-.CoerenzaElaborati {
+.CoerenzaEleborati {
 width: 85%;
 table-layout: fixed;
 margin: 0 auto;
@@ -8,7 +8,7 @@ border-collapse: collapse;
 }
 
 .ElaboratiProgettuali th,
-.CoerenzaElaborati th {
+.CoerenzaEleborati th {
 background-color: #f2f2f2;
 text-align: center;
 padding: 10px;
@@ -16,7 +16,7 @@ word-wrap: break-word;
 }
 
 .ElaboratiProgettuali td,
-.CoerenzaElaborati td {
+.CoerenzaEleborati td {
 border: 1px solid #000;
 text-align: center;
 padding: 8px;

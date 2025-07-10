@@ -1,9 +1,9 @@
 /* Stili per tabelle */
 .ACDat,
+.AperturaFile,
 .NomenclaturaFile,
 .Documenti,
-.Report,
-.AperturaFile {
+.Report {
 width: 85%;
 table-layout: fixed;
 margin: 0 auto;
@@ -11,10 +11,10 @@ border-collapse: collapse;
 }
 
 .ACDat th,
+.AperturaFile th,
 .NomenclaturaFile th,
 .Documenti th,
-.Report th,
-.AperturaFile th {
+.Report th {
 background-color: #f2f2f2;
 text-align: center;
 padding: 10px;
@@ -22,10 +22,10 @@ word-wrap: break-word;
 }
 
 .ACDat td,
+.AperturaFile td,
 .NomenclaturaFile td,
 .Documenti td,
-.Report td,
-.AperturaFile td {
+.Report td {
 border: 1px solid #000;
 text-align: center;
 padding: 8px;

@@ -1,13 +1,13 @@
 /* Stili per tabelle */
 .VerificaInformativa,
+.ProjectInfo,
 .ParametriIFC,
+.FaseErrataTabella,
+.ValorizzazioneIFCTabella,
+.IFCEntity,
 .ParametriLOIN,
 .ValoriParametriLOIN,
-.FaseErrataTabella,
-.ProjectInfo,
-.IFCEntity,
-.AssegnazioneMateriali,
-.ValorizzazioneIFCTabella {
+.AssegnazioneMateriali {
 width: 85%;
 table-layout: fixed;
 margin: 0 auto;
@@ -15,14 +15,14 @@ border-collapse: collapse;
 }
 
 .VerificaInformativa th,
+.ProjectInfo th,
 .ParametriIFC th,
+.FaseErrataTabella th,
+.ValorizzazioneIFCTabella th,
+.IFCEntity th,
 .ParametriLOIN th,
 .ValoriParametriLOIN th,
-.FaseErrataTabella th,
-.ProjectInfo th,
-.IFCEntity th,
-.AssegnazioneMateriali th,
-.ValorizzazioneIFCTabella th {
+.AssegnazioneMateriali th {
 background-color: #f2f2f2;
 text-align: center;
 padding: 10px;
@@ -30,14 +30,14 @@ word-wrap: break-word;
 }
 
 .VerificaInformativa td,
+.ProjectInfo td,
 .ParametriIFC td,
+.FaseErrataTabella td,
+.ValorizzazioneIFCTabella td,
+.IFCEntity td,
 .ParametriLOIN td,
 .ValoriParametriLOIN td,
-.FaseErrataTabella td,
-.ProjectInfo td,
-.IFCEntity td,
-.AssegnazioneMateriali td,
-.ValorizzazioneIFCTabella td {
+.AssegnazioneMateriali td {
 border: 1px solid #000;
 text-align: center;
 padding: 8px;
@@ -67,15 +67,10 @@ cursor: pointer;
 background-color: gray;
 }
 
-.pagination-FaseErrata button:active,
-.pagination-ValorizzazioneIFC button:active {
-background-color: #ccc;
-}
-
 /* Grafico Istogramma */
-#ValorizzazioneIFCAsBarChart,
-#FaseErrataAsBarChart {
+#FaseErrataAsBarChart,
+#ValorizzazioneIFCAsBarChart {
+max-width: 50%;
 margin: 20px auto;
 display: block;
-max-width: 50%;
 }
