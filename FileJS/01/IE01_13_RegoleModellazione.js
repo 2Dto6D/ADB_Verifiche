@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 	loadHistogramFromCSV({
-		csvUrl: 'https,//raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IE01Verifiche/01/IE01_13_ElementOffset_Data.csv',
+		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IE01Verifiche/01/IE01_13_ElementOffset_Data.csv',
 		chartId: 'ElementOffsetAsBarChart',
 		statsId: 'ElementOffsetStatistics',
 		title: 'Istogramma delle Categorie'

@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 	loadHistogramFromCSV({
-		csvUrl: 'https,//raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IE01Verifiche/01/IE01_10_FaseErrata_Data.csv',
+		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/IE01Verifiche/01/IE01_10_FaseErrata_Data.csv',
 		chartId: 'FaseErrataAsBarChart',
 		statsId: 'FaseErrataStatistics',
 		title: 'Istogramma delle Categorie'
