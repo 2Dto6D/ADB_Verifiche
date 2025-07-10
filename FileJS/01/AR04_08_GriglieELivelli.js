@@ -10,13 +10,13 @@ document.addEventListener("DOMContentLoaded", function () {
 	loadCSV('LivelliMEP', '2Dto6D/ADB_Verifiche', 'AR04Verifiche/01/AR04_08_VerificaPresenzaLivelliImpianti_Data.csv');
 
 	loadHistogramFromCSV({
-		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR04Verifiche/01/AR0408_NomenclaturaGriglieELivelli_Data.csv',
+		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR04Verifiche/01/AR04_08_NomenclaturaGriglieELivelli_Data.csv',
 		chartId: 'NomenclaturaGriglieLivelliAsBarChart',
 		statsId: 'NomenclaturaGriglieLivelliStatistics',
 		title: 'Istogramma delle Categorie'
 	});
 	loadHistogramFromCSV({
-		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR04Verifiche/01/AR0408_VerificaPresenzaLivelliImpianti_Data.csv',
+		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR04Verifiche/01/AR04_08_VerificaPresenzaLivelliImpianti_Data.csv',
 		chartId: 'LivelliMEPAsBarChart',
 		statsId: 'LivelliMEPStatistics',
 		title: 'Istogramma delle Categorie'
