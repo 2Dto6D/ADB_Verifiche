@@ -5,8 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		{ tableId: "ProjectInfo", repo:"2Dto6D/ADB_Verifiche", filePath:"ST04Verifiche/01/ST04_10_ProjectInfo.csv" },
 		{ tableId: "ParametriIFC", repo:"2Dto6D/ADB_Verifiche", filePath:"ST04Verifiche/01/ST04_10_ParametriIFC.csv" },
 		{ tableId: "IFCEntity", repo:"2Dto6D/ADB_Verifiche", filePath:"ST04Verifiche/01/ST04_10_IFCEntity.csv" },
-		{ tableId: "ValoriParametriLOIN", repo:"2Dto6D/ADB_Verifiche", filePath:"ST04Verifiche/01/ST04_10_ValoriParametriLOIN.csv" },
-		{ tableId: "AssegnazioneMateriali", repo:"2Dto6D/ADB_Verifiche", filePath:"ST04Verifiche/01/ST04_10_AssegnazioneMateriali.csv" }
+
 	];
 
 	tablesToLoad.forEach(table => {
@@ -15,7 +14,8 @@ document.addEventListener("DOMContentLoaded", function () {
 	loadCSV('FaseErrata', '2Dto6D/ADB_Verifiche', 'ST04Verifiche/01/ST04_10_FaseErrata_Data.csv');
 	loadCSV('ValorizzazioneIFC', '2Dto6D/ADB_Verifiche', 'ST04Verifiche/01/ST04_10_ValorizzazioneIFCSaveAs_Data.csv');
 	loadCSV('ParametriLOIN', '2Dto6D/ADB_Verifiche', 'ST04Verifiche/01/ST04_10_ParametriLOIN.csv');
-
+	loadCSV('ValoriParametriLOIN', '2Dto6D/ADB_Verifiche', 'ST04Verifiche/01/ST04_10_ValoriParametriLOIN.csv');
+	loadCSV('AssegnazioneMateriali', '2Dto6D/ADB_Verifiche', 'ST04Verifiche/01/ST04_10_AssegnazioneMateriali.csv');
 
 	loadHistogramFromCSV({
 		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/ST04Verifiche/01/ST04_10_FaseErrata_Data.csv',
@@ -32,7 +32,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 	const summaryConfigs = [
 		{ statsId: "ParametriLOINstatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "ST04Verifiche/01/ST04_10_ParametriLOIN.csv"},
-
+		{ statsId: "ValoriParametriLOINstatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "ST04Verifiche/01/ST04_10_ValoriParametriLOIN.csv"},
+		{ statsId: "AssegnazioneMaterialistatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "ST04Verifiche/01/ST04_10_AssegnazioneMateriali.csv"}
 	];
 
 	summaryConfigs.forEach(config => {
@@ -108,7 +109,7 @@ function loadCSVToTable(tableId, repo, filePath) {
 }
 
 // Costanti e Variabili
-const rowsPerPage = 150;
+const rowsPerPage = 20;
 let currentPage = {};
 let dataOffset = {};
 
