@@ -1,745 +1,647 @@
-Categoria,Nome Elemento,ID Elemento,Verifica,Offset Rilevato,Stato
-Porte,AR_POR_SCO_Leg_1A_Normale,722978,Oggetto conforme.,0.0,1
-Porte,AR_POR_SCO_Leg_1A_Normale,725079,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAT_Leg_1A,728817,Oggetto conforme.,0.0,1
-Porte,AR_ POR_BAT_Vet_2A_Simmetrica,746632,Oggetto conforme.,0.0,1
-Porte,AR_ POR_BAT_Vet_2A_Simmetrica,746729,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAT_Leg_1A,746957,Oggetto conforme.,0.0,1
-Porte,AR_POR_SCO_Leg_1A_Normale,834050,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_GAT_BancoGate,861651,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_GAT_BancoGate,861708,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_GAT_BancoGate,861841,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_GAT_BancoGate,862563,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_GAT_BancoGate,862607,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_GAT_BancoGate,862642,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_GAT_BancoGate,862727,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_TornelliAccesso,899691,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_TornelliAccesso,917046,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_TornelliAccesso,917298,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_TornelliAccesso,917421,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_TornelliAccesso,917443,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_TornelliAccesso,917592,Oggetto conforme.,0.0,1
-Porte,AR_ POR_BAT_Vet_2A_Simmetrica,1090784,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_BladesSx,1110545,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1128952,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1128996,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1129858,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140351,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140480,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140481,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140482,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140483,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140530,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140531,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140532,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140533,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140539,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140541,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140600,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140601,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140602,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140603,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140604,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140605,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140606,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140607,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140608,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140609,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140610,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140611,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140612,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1140613,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1140615,Oggetto conforme.,0.20999999999999999,1
-Porte,AR_POR_SCO_Leg_1A_Normale,1249239,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_Circolazione002,1278392,Offset Negativo.,-0.029999999999999999,0
-Modelli generici,AR_GEN_MGE_IngressoMolo,1410548,Offset Negativo.,-0.029999999999999999,0
-Modelli generici,AR_GEN_MGE_IngressoMolo00,1434039,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_IngressoMolo01,1436158,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_IngressoMolo03,1449899,Offset Negativo.,-0.029999999999999999,0
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,1502693,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1532545,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1532546,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1532547,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1532548,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1532549,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1532550,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1532551,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1532552,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1532553,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1532554,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1532555,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1532556,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1532557,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1532558,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1532559,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1532560,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1532561,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1532562,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1532563,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1532564,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1532565,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,1533920,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboFasciatoio,1538272,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Chiuso,1540643,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Chiuso,1540644,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1540646,Oggetto conforme.,1.7,1
-Modelli generici,AR_GEN_MGE_Circolazione00,1543194,Offset Negativo.,-0.029999999999999999,0
-Apparecchi idraulici,IM_DIS_AID_SAN_WCDisabili,1572857,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1572859,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,1579608,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,1579718,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_Circolazione003,1580580,Offset Negativo.,-0.029999999999999999,0
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,1581652,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,1581653,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1581654,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1581655,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1581656,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1581657,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1581658,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1581659,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1581660,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,1582987,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,1582988,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1582989,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1582990,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1582991,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1582992,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1582993,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,1589151,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,1589152,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1589153,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1589154,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1589155,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1589156,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1589157,Oggetto conforme.,-0.0,1
-Modelli generici,AR_GEN_MGE_Circolazione004,1592357,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_BladesSx,1602145,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1602178,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesSx,1602200,Oggetto conforme.,0.20999999999999999,1
-Modelli generici,AR_GEN_MGE_BladesDx,1602201,Oggetto conforme.,0.20999999999999999,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,1603077,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,1603078,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603079,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603080,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603081,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1603082,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603083,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Chiuso,1603085,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Chiuso,1603086,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603088,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,1603093,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,1603094,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603095,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603096,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603097,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603098,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603099,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1603100,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603101,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,1603102,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,1603103,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603104,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603105,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603106,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1603107,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603108,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Chiuso,1603109,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Chiuso,1603110,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603112,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboSingolo,1603118,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,1603119,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,1603120,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WCBaby,1603122,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603123,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboFasciatoio,1603124,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,1603126,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboSingolo,1603127,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,1603128,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603129,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603130,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603131,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603132,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603133,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1603134,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603135,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603136,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603137,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603138,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603139,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603140,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1603141,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603142,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,1603143,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,1603144,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603145,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603146,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603147,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1603148,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603149,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603150,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603151,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603152,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603153,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603154,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1603155,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603156,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603157,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603158,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603159,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603160,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603161,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1603162,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603163,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,1603164,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,1603165,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603166,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603167,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603168,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,1603169,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603170,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603171,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603172,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603173,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603174,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603175,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603176,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603177,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,1603178,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,1603179,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603180,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603181,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603182,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603183,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603184,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603185,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603186,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603187,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603188,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603189,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603190,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603191,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603192,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603193,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603194,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603195,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603196,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603197,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603198,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603326,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603327,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603328,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603329,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603330,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603331,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603332,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,1603333,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,1603334,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603335,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603336,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603337,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603338,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603339,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603340,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603341,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603342,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603343,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603344,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603345,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603346,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603347,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603348,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603349,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603350,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603351,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603352,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603353,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboSingolo,1603551,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,1603552,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,1603553,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,1603555,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,1603556,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603558,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603559,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603560,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603561,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603562,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603563,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603564,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Chiuso,1603565,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Chiuso,1603566,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603568,Oggetto conforme.,1.7,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603572,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603573,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603574,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603575,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603576,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603577,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603578,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603579,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603580,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603581,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603582,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603583,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603584,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603585,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,1603586,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,1603587,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603589,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603590,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603591,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603592,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603593,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603594,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603595,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Chiuso,1603596,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Chiuso,1603597,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603599,Oggetto conforme.,1.7,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603603,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603604,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603605,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603606,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603607,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603608,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603609,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,1603610,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,1603611,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,1603612,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,1603613,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1603614,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,1603615,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,1603616,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,1603617,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,1603618,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WCDisabili,1612984,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1612987,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WCDisabili,1612989,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1612990,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WCDisabili,1613133,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1613134,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WCBaby,1614739,Offset Negativo.,-0.02,0
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,1614740,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboFasciatoio,1614931,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_BladesOvest,1630516,Oggetto conforme.,0.76000000000000001,1
-Modelli generici,AR_GEN_MGE_BladesOvest,1630519,Oggetto conforme.,0.76000000000000001,1
-Modelli generici,AR_GEN_MGE_BladesOvestRettangolare,1631595,Oggetto conforme.,0.76000000000000001,1
-Modelli generici,AR_GEN_MGE_Circolazione005,1647609,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_Circolazione006,1650344,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_Circolazione007,1655841,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_Circolazione008,1664631,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DivisorioOrinatoio,1665506,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DivisorioOrinatoio,1665508,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDisabili,1668179,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDisabili,1668182,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DivisorioOrinatoio,1668183,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DivisorioOrinatoio,1668187,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DivisorioOrinatoio,1668189,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DivisorioOrinatoio,1668193,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDisabili,1668196,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1668230,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDisabili,1668439,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1668440,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WCDisabili,1668687,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1668688,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDisabili,1668689,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1668690,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WCDisabili,1669054,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1669055,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDisabili,1669056,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1669057,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1669247,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DispenserSapone,1695146,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_AsciugamaniElettrico,1707975,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboCleaning,1708186,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboCleaning,1708254,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DispenserSapone,1709937,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_AsciugamaniElettrico,1709939,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DispenserSapone,1710092,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_AsciugamaniElettrico,1710253,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DispenserSapone,1710447,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_AsciugamaniElettrico,1710449,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_AsciugamaniElettrico,1712690,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DispenserSapone,1712691,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_DispenserSapone,1712693,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_AsciugamaniElettrico,1712695,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,1712696,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_Molo015,1722561,Oggetto conforme.,0.20999999999999999,1
-Arredi,AR_ARR_ARR_AsciugamaniElettrico,1727097,Oggetto conforme.,0.5,1
-Modelli generici,AR_GEN_MGE_Molo016,1727302,Offset Negativo.,-0.02,0
-Arredi,AR_ARR_SED_SeduteAttesa_8,1790500,Oggetto conforme.,-0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1809793,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1813778,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1813780,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1813782,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1813807,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1813811,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1813815,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1813817,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1844080,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1847338,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1847925,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1848032,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1848250,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1856242,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1856279,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1856442,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1856443,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1856452,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1856453,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1856493,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1856494,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,1859722,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,1863243,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_4,1866503,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8,1866955,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1867138,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1867186,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1867210,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1867211,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1867235,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1867236,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1867307,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1867329,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870728,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870729,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870730,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870731,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870732,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870733,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870734,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870735,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870908,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870909,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870966,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870967,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870968,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870969,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1870970,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871455,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871823,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871824,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871825,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871826,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871827,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871828,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871829,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871830,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871831,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871832,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1871834,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1872641,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1872642,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,1872643,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1872826,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,1872897,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1873248,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1879121,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1879429,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1882521,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1883557,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1884138,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1884186,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1884902,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1885137,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1888427,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895380,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895381,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895382,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895383,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1895384,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895385,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895386,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895387,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895388,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895389,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895390,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895391,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1895392,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,1895393,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,1896926,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,1897130,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,1901529,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,1901633,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1902514,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,1917708,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1923030,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1923093,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1923203,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1923296,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1923297,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1923483,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1923484,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1923540,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1923541,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1923542,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1923543,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1923544,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1923545,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1924296,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1924297,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1924298,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1924299,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1924300,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1924301,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1924302,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1924303,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1924304,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1924305,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1924306,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1924307,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,1924308,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1924309,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_3+3,1926500,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1935287,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,1935289,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1942078,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1942079,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1942082,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1942083,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1942084,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1942085,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1942086,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1942087,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_8+8,1942088,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetroSingolo,2009877,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetroSingolo,2030552,Oggetto conforme.,0.0,1
-Modelli generici,AR_GEN_MGE_IngressoMolo02,2055927,Offset Negativo.,-0.02,0
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,2193555,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,2193556,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Chiuso,2193558,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,2193565,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,2193566,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,2193568,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2193596,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WCBaby,2193597,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2193614,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2193615,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,2193616,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2193617,Oggetto conforme.,-0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Chiuso,2193618,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,2193620,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboCleaning,2195745,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,2195897,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,2195898,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,2195899,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,2196096,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,2196097,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2196098,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,2196099,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2196100,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,2196101,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2196102,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,2196103,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,2196104,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2196105,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,2196106,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2196107,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,2196108,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2196109,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Sinistra,2196110,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_divisoriobox,2196111,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2196112,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,2196113,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2196114,Offset Negativo.,-0.070000000000000007,0
-Arredi,AR_ARR_ARR_PortaRotolo,2196115,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2196116,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,2196117,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,2196118,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2196119,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_GancioAppendino,2196120,Oggetto conforme.,1.7,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2196121,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,2196122,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2196123,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,2196279,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,2196280,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboTriplo,2196281,Oggetto conforme.,0.0,1
-Porte,AR_POR_SCO_Leg_1A_Normale,2228840,Oggetto conforme.,0.81000000000000005,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,2230581,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WCDisabili,2231069,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDisabili,2231650,Oggetto conforme.,0.80000000000000004,1
-Arredi,AR_ARR_ARR_DispenserSapone,2232170,Oggetto conforme.,0.0,1
-Porte,AR_POR_SCO_Leg_1A_Normale,2235106,Oggetto conforme.,0.81000000000000005,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,2236451,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_AsciugamaniElettrico,2245680,Oggetto conforme.,0.5,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,2245681,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WCDisabili,2245682,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDisabili,2245683,Oggetto conforme.,0.80000000000000004,1
-Arredi,AR_ARR_ARR_DispenserSapone,2245684,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_ManiglioniDisabili,2245697,Oggetto conforme.,0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2278294,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2278295,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,2278296,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2278297,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2278301,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2278302,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,2278303,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2278304,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2278307,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2278308,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,2278309,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2278310,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2278311,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2278312,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,2278313,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2278314,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2278315,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2278316,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,2278317,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2278318,Oggetto conforme.,-0.0,1
-Sistemi di arredo,AR_ARR_ARR_ModuloWc,2278319,Oggetto conforme.,-0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2278320,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_ARR_PortaRotolo,2278321,Offset Negativo.,-0.080000000000000002,0
-Arredi,AR_ARR_ARR_Scopino,2278322,Oggetto conforme.,-0.0,1
-Porte,AR_POR_BAT_Leg_1A,2281687,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAT_Leg_1A,2281825,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAT_Leg_1A,2284918,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Leg_1A,2285136,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Leg_1A,2285391,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,2288416,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Leg_1A,2289060,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Leg_1A,2289685,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Leg_1A,2290037,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Leg_1A,2290265,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Leg_1A,2290451,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Leg_1A,2297548,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,2304096,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,2358332,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Acc_1A_EI60,2358540,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Acc_1A_EI60,2358763,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Acc_2A_ManiglioneAntipanico,2359263,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAT_Acc_2A_ManiglioneAntipanico,2367191,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAT_Acc_1A_EI60,2374913,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAT_Acc_1A_EI60,2378100,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Acc_1A_EI60,2378261,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Acc_1A_EI60,2378560,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Acc_1A_EI60,2378694,Offset Negativo.,-0.01,0
-Porte,AR_POR_BAT_Acc_1A_EI60,2378803,Offset Negativo.,-0.01,0
-Porte,AR_POR_SCO_Leg_1A_Normale,2405998,Oggetto conforme.,0.0,1
-Porte,AR_POR_SCO_Leg_1A_Normale,2444081,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,2543676,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,2543677,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,2543971,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,2544101,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,2544208,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,2544253,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_GAT_BancoGate,2544924,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_TornelliAccesso,2544925,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2544947,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_3+3,2544948,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_3+3,2544949,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_3+3,2544950,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_3+3,2544951,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,2544953,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,2544954,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,2544955,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2544956,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,2544957,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,2544958,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,2544959,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2544960,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2545039,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2545076,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2545126,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2545151,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2545176,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2545215,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,2546554,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,2547036,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5,2566055,Oggetto conforme.,-0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2577133,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5,2577589,Oggetto conforme.,-0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,2577663,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,2577671,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5,2577680,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5,2577681,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2583867,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2583868,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2583925,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2583926,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2583949,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2583950,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2583973,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2583974,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2583997,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2583998,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2584021,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2584022,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2584151,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2584152,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2584157,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2584158,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2584159,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2584160,Oggetto conforme.,-0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2587255,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2588324,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2588743,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2589080,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2589453,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2589863,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2589922,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2590001,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2590093,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2590306,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2590360,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2590824,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2591248,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2591817,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592098,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592234,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592295,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592296,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592303,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592304,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592435,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592436,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592437,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592438,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2592582,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593064,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593066,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593067,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593069,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593070,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593071,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593072,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593073,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593075,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593076,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593077,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593079,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593080,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593082,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593083,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,2593084,Oggetto conforme.,-0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_5+5,2593085,Oggetto conforme.,-0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,2593147,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAP_BarrieraPortaVetrata,2593148,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,2593149,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593152,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593153,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593154,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593155,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593156,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593157,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593158,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593159,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593160,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593161,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593162,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593163,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593164,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593165,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_ARR_TornelliAccesso,2593171,Oggetto conforme.,0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,2593173,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593176,Oggetto conforme.,0.0,1
-Arredi,AR_ARR_SED_SeduteAttesa_6+6,2593182,Oggetto conforme.,-0.0,1
-Arredi fissi,AR_ARR_BAR_BarrieraVetro,2593222,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593549,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore01,2593750,Oggetto conforme.,0.0,1
-Porte,AR_ POR_BAT_Vet_2A_Simmetrica,2594067,Oggetto conforme.,0.0,1
-Porte,AR_ POR_BAT_Vet_2A_Simmetrica,2594068,Oggetto conforme.,0.0,1
-Arredi,AR_ ARR_NAS_NastroTenditore00,2595202,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2597360,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_WC,2597363,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboSingolo,2597624,Oggetto conforme.,0.0,1
-Apparecchi idraulici,IM_DIS_AID_SAN_LavaboSingolo,2597767,Oggetto conforme.,0.0,1
-Porte,AR_POR_BAT_Acc_2A_ManiglioneAntipanico,2646750,Oggetto conforme.,0.0,1
+Categoria,Id Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Muri,693185,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,693756,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,693846,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,693918,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,694014,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,697441,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,697483,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,4.4299999999999997,Offset base negativo.,0
+Muri,697516,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,4.4299999999999997,Offset base negativo.,0
+Muri,697707,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,697784,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,697830,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,697923,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,697989,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,698040,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,698093,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,698142,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,698316,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,4.4299999999999997,Offset base negativo.,0
+Muri,698594,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,698755,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,698982,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,699170,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,699204,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,699259,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,699313,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,699383,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,699443,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,699494,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,699540,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,699817,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,699961,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,700023,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,700083,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,700161,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,700244,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,700329,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,700410,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,700583,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,700754,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,700809,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,700870,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,700948,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,700987,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,701052,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,701094,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,701161,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,701224,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,701464,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,722885,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,723254,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,724028,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,724029,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,724094,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,724158,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,724221,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,724305,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725019,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725020,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725021,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725022,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,725023,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725024,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725027,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725028,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725029,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725031,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725033,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725034,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725035,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,725036,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,725037,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,725038,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725039,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725040,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725041,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725042,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725043,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725044,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725045,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725046,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725047,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,725048,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725049,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725050,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725051,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725052,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725053,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725054,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,725056,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725057,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725058,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,725059,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-4.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,725060,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725061,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725062,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725063,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725064,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725065,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725067,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725077,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725078,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,725083,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,725088,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,725089,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,726026,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,727502,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.02,-1.0600000000000001,Offset base negativo.,0
+Muri,728395,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,728455,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-0.5,Elemento non vincolato correttamente tra livelli.,0
+Muri,742771,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,743469,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-0.42999999999999999,Offset base negativo.,0
+Muri,743550,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-0.5,Offset base negativo.,0
+Muri,744019,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-0.0,Offset base negativo.,0
+Muri,744155,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,745708,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-0.0,Offset base negativo.,0
+Muri,746167,ST_LIV_PE_P01_+5.08m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-0.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,746537,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-0.0,Offset base negativo.,0
+Muri,748566,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,748629,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,748883,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,748998,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,749485,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,749544,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,749703,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,749757,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,749914,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,749938,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.56000000000000005,Offset base negativo.,0
+Muri,749979,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.13,Offset base negativo.,0
+Muri,750151,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,750442,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.56000000000000005,Offset base negativo.,0
+Muri,751057,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,751099,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,751239,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,751293,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,751514,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,751611,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,751661,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,752749,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,753068,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,753075,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,753171,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,753231,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,753289,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,753327,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,753425,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,753647,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,753828,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,753852,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,753888,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,753995,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,753997,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,753998,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,754085,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,754106,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,754198,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,754311,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,754465,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,754466,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,754467,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,754468,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,801501,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,801519,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,801548,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,801658,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,832950,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.13,Offset base negativo.,0
+Muri,833006,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.13,Offset base negativo.,0
+Muri,833073,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,833105,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,833155,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,833281,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,833360,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,833390,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,833471,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,833631,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,833672,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,833736,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.700000000000002,Offset base negativo.,0
+Muri,833801,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,833832,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,834048,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,834049,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.700000000000002,Offset base negativo.,0
+Muri,834125,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,834126,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,834127,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,834128,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,834297,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,834728,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.11,-0.13,Offset base negativo.,0
+Muri,835205,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,836073,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,836381,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.79000000000000004,0.0,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,836928,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,837010,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,837080,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.13,Offset base negativo.,0
+Muri,837161,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,837197,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,837271,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,837515,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.78000000000000003,Offset base negativo.,0
+Muri,837789,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-0.0,Offset base negativo.,0
+Muri,838590,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,838837,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,838856,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,838899,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,839105,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,839243,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,839329,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,839349,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,839373,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,839426,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,862041,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,862184,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,862393,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,862492,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,947788,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,947905,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,947906,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,947907,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,947908,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,947923,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,947924,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,947925,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,948901,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,948902,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,948903,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,949172,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,949303,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,949404,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,949886,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,949887,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,949888,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,950552,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,950553,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,950554,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,950645,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,972533,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.44,Offset base negativo.,0
+Muri,972655,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.4500000000000002,Offset base negativo.,0
+Muri,973550,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.13,Offset base negativo.,0
+Muri,973608,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-1.6100000000000001,Offset base negativo.,0
+Muri,973662,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1000139,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,-0.75,Offset base negativo.,0
+Muri,1006101,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1006348,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,1006349,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1006350,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1006351,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1007432,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,2.8500000000000001,-3.3700000000000001,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1008403,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1008676,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1014907,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.3999999999999999,Elemento senza vincolo superiore.,0
+Muri,1018589,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.3999999999999999,Elemento senza vincolo superiore.,0
+Muri,1018771,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,3.7299999999999858,Elemento senza vincolo superiore.,0
+Muri,1019629,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1027899,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.5,Elemento senza vincolo superiore.,0
+Muri,1032522,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,6.2808999999999999,Elemento senza vincolo superiore.,0
+Muri,1043501,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1043580,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1044057,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,3.7299999999999875,Elemento senza vincolo superiore.,0
+Muri,1044136,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,3.7403972958098897,Elemento senza vincolo superiore.,0
+Muri,1071124,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,6.3310310229518594,Elemento senza vincolo superiore.,0
+Muri,1071662,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,6.3310310229518594,Elemento senza vincolo superiore.,0
+Muri,1071831,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,6.3310310229518594,Elemento senza vincolo superiore.,0
+Muri,1071994,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,6.3310310229518594,Elemento senza vincolo superiore.,0
+Muri,1072178,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,6.5399999999998784,Elemento senza vincolo superiore.,0
+Muri,1072295,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,3.6999999999999993,Elemento senza vincolo superiore.,0
+Muri,1072755,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,6.2808999999999999,Elemento senza vincolo superiore.,0
+Muri,1087648,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.0699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1088015,AR_LIV_PE_P01_+5.20m,Non collegata,4.5599999999999996,5.4900000000000215,Elemento senza vincolo superiore.,0
+Muri,1088016,AR_LIV_PE_P01_+5.20m,Non collegata,4.5599999999999996,5.4900000000000189,Elemento senza vincolo superiore.,0
+Muri,1088213,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,2.7999999999999998,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1088418,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.0699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1093977,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-0.0,Offset base negativo.,0
+Muri,1141065,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,3.1000000000000001,-3.5699999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1142795,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,3.7850000000000001,-2.2759999999999998,Elemento non vincolato correttamente tra livelli.,0
+Muri,1143629,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,3.7000000000000002,-2.2759999999999998,Elemento non vincolato correttamente tra livelli.,0
+Muri,1151173,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-1.03,Offset base negativo.,0
+Muri,1155573,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.0,-0.33000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1190432,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,1212744,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.13,Offset base negativo.,0
+Muri,1212847,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1216324,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1216439,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,4.1399999999999997,Offset base negativo.,0
+Muri,1218863,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.13,Offset base negativo.,0
+Muri,1218889,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1229883,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1242718,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-4.2000000000000002,Offset base negativo.,0
+Muri,1242721,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-4.2000000000000002,Offset base negativo.,0
+Muri,1247632,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1248352,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1248631,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1248711,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1248955,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1249223,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1249240,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1249440,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento senza vincolo superiore.,0
+Muri,1249441,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,3.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1249442,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento senza vincolo superiore.,0
+Muri,1249483,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.0,Offset base negativo.,0
+Muri,1257351,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1257455,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1257620,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1257628,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1257644,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1257831,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1257835,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1257837,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1259118,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,2.3999999999999999,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1259277,AR_LIV_PE_P00_+0.00m,Non collegata,2.3999999999999999,0.59999999999999998,Elemento senza vincolo superiore.,0
+Muri,1259347,AR_LIV_PE_P00_+0.00m,Non collegata,2.3999999999999999,0.29999999999999999,Elemento senza vincolo superiore.,0
+Muri,1283552,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.4500000000000002,Offset base negativo.,0
+Muri,1283553,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.4500000000000002,Offset base negativo.,0
+Muri,1283575,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1283578,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1283579,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.2999999999999998,Offset base negativo.,0
+Muri,1283580,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1283581,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1283582,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1283583,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1283584,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1283585,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1283586,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1283613,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1283614,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1283615,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1283630,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1283645,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1283751,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1283752,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.9499999999999824,Elemento senza vincolo superiore.,0
+Muri,1283753,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.9499999999999824,Elemento senza vincolo superiore.,0
+Muri,1283836,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,-0.75,Offset base negativo.,0
+Muri,1283837,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.4500000000000002,Offset base negativo.,0
+Muri,1283840,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.63,Offset base negativo.,0
+Muri,1283841,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1283843,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,4.4500000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1283844,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1283846,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1283849,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,4.4500000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1283850,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,4.4500000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1284084,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1284085,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1284086,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1284087,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1284091,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1284092,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.700000000000002,Elemento senza vincolo superiore.,0
+Muri,1284096,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1284097,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1284098,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1284099,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1290007,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.13,Offset base negativo.,0
+Muri,1290928,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.02,-0.13,Offset base negativo.,0
+Muri,1291898,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,3.5,Offset base negativo.,0
+Muri,1292314,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,3.5,Offset base negativo.,0
+Muri,1292456,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,3.5,Offset base negativo.,0
+Muri,1292580,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,3.5,Offset base negativo.,0
+Muri,1292709,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,3.5,Offset base negativo.,0
+Muri,1293630,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,3.5,Offset base negativo.,0
+Muri,1293728,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,3.5,Offset base negativo.,0
+Muri,1293810,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,3.5,Offset base negativo.,0
+Muri,1293852,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,3.5,Offset base negativo.,0
+Muri,1295383,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1295418,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1295633,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1295747,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1295802,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1295849,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1296142,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,2.5,4.9500000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1297181,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Correttamente vincolato tra livelli.,OK
+Muri,1298174,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1298663,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Correttamente vincolato tra livelli.,OK
+Muri,1298983,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1299169,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.0,Offset base negativo.,0
+Muri,1299258,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.0,Offset base negativo.,0
+Muri,1300053,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1300140,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1301297,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1301365,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1301420,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1301468,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,-0.02,4.9500000000000002,Offset base negativo.,0
+Muri,1301722,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1301723,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1306661,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1306926,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1306982,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1307062,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1307144,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1307348,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1307349,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1307350,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1307351,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1307455,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1309835,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1309836,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1309837,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1309838,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1309853,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1309854,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1309855,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1309856,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1310314,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,4.4500000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310330,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310332,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310333,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310335,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310336,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310337,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310338,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310341,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.25,3.1000000000000001,Offset base negativo.,0
+Muri,1310342,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.25,3.1000000000000001,Offset base negativo.,0
+Muri,1310343,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1310344,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1310350,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.25,3.1000000000000001,Offset base negativo.,0
+Muri,1310351,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.9300000000000002,Offset base negativo.,0
+Muri,1310352,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,3.9300000000000002,Offset base negativo.,0
+Muri,1310353,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,5.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310355,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,5.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310357,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310359,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310361,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310362,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310363,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.9300000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310364,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310377,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.9300000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310380,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310382,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-4.2000000000000002,Offset base negativo.,0
+Muri,1310383,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310384,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.02,-4.2000000000000002,Offset base negativo.,0
+Muri,1310385,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,5.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310386,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,3.2000000000000002,5.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310387,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,5.0,Offset base negativo.,0
+Muri,1310388,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,4.4299999999999997,Offset base negativo.,0
+Muri,1310389,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,4.4299999999999997,Offset base negativo.,0
+Muri,1310391,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1310393,ST_LIV_PE_P01_+5.08m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,7.2999999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1310450,ST_LIV_PE_P01_+5.08m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,7.2999999999999998,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1310970,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1311006,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.2999999999999998,Elemento non vincolato correttamente tra livelli.,0
+Muri,1311308,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,5.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,1311359,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.9300000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1311360,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.9300000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1311361,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,5.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,1311394,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,1311396,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,4.4299999999999997,Offset base negativo.,0
+Muri,1311397,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,4.4299999999999997,Offset base negativo.,0
+Muri,1311399,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.2999999999999998,Elemento non vincolato correttamente tra livelli.,0
+Muri,1311400,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.2999999999999998,Elemento non vincolato correttamente tra livelli.,0
+Muri,1312618,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,5.0,Offset base negativo.,0
+Muri,1312924,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,5.0,Offset base negativo.,0
+Muri,1312926,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,5.0,Offset base negativo.,0
+Muri,1316121,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento senza vincolo superiore.,0
+Muri,1316122,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,3.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1316123,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento senza vincolo superiore.,0
+Muri,1316124,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,3.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1320998,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,5.0,Offset base negativo.,0
+Muri,1320999,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,5.0,Offset base negativo.,0
+Muri,1321000,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,5.0,Offset base negativo.,0
+Muri,1321001,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,5.0,Offset base negativo.,0
+Muri,1321088,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1321090,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,5.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,1321092,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1321094,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1321096,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1321099,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1321100,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,3.2000000000000002,5.0,Elemento non vincolato correttamente tra livelli.,0
+Muri,1321376,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1334986,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,1335689,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1335846,AR_LIV_PE_P00_+0.00m,Non collegata,0.81000000000000005,2.8900000000000001,Elemento senza vincolo superiore.,0
+Muri,1335934,AR_LIV_PE_P00_+0.00m,Non collegata,0.81000000000000005,2.8900000000000001,Elemento senza vincolo superiore.,0
+Muri,1336175,AR_LIV_PE_P00_+0.00m,Non collegata,0.81000000000000005,3.0,Elemento senza vincolo superiore.,0
+Muri,1336610,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.9100000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1336611,AR_LIV_PE_P00_+0.00m,Non collegata,0.81000000000000005,3.0,Elemento senza vincolo superiore.,0
+Muri,1336689,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.9100000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1336800,AR_LIV_PE_P00_+0.00m,Non collegata,0.81000000000000005,3.1000000000000001,Elemento senza vincolo superiore.,0
+Muri,1336919,AR_LIV_PE_P00_+0.00m,Non collegata,0.81000000000000005,3.1000000000000001,Elemento senza vincolo superiore.,0
+Muri,1336982,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1337686,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.9100000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1337818,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1338380,AR_LIV_PE_P00_+0.00m,Non collegata,0.81000000000000005,2.8900000000000001,Elemento senza vincolo superiore.,0
+Muri,1340527,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1340528,ST_LIV_PE_P02_+10.28m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.72999999999999998,2.2200000000000002,Offset base negativo.,0
+Muri,1340530,ST_LIV_PE_P02_+10.28m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.72999999999999998,2.2200000000000002,Offset base negativo.,0
+Muri,1342293,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1342394,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1343430,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1343522,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.1000000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,1343766,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1345671,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1346366,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1347712,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1348144,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.0,Offset base negativo.,0
+Muri,1348350,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.0,Offset base negativo.,0
+Muri,1348513,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento senza vincolo superiore.,0
+Muri,1348612,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.0,Offset base negativo.,0
+Muri,1348613,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.0,Offset base negativo.,0
+Muri,1348614,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento senza vincolo superiore.,0
+Muri,1348709,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.0,Offset base negativo.,0
+Muri,1349189,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,1349694,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1353022,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1353850,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1361652,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7000000000000002,Offset base negativo.,0
+Muri,1376583,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,6.620000000000001,Offset base negativo.,0
+Muri,1376897,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.25,3.7000000000000002,Offset base negativo.,0
+Muri,1381583,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,6.7999999999999599,Elemento senza vincolo superiore.,0
+Muri,1381716,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1381783,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,6.7999999999999599,Elemento senza vincolo superiore.,0
+Muri,1381828,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1383665,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1383716,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1383750,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1383804,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,3.6999999999999988,Elemento senza vincolo superiore.,0
+Muri,1383841,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1383964,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1384580,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1384626,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1384692,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1384737,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1384853,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1385257,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1385306,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1385372,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1385445,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1385494,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1388072,AR_LIV_PE_P00_+0.00m,Non collegata,0.81000000000000005,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1388202,AR_LIV_PE_P00_+0.00m,Non collegata,0.81000000000000005,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1388262,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1388356,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1388526,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1388677,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1388931,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1388976,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1391143,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1391190,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1391262,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1391441,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1391502,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,1429940,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1446891,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1446892,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1446897,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7000000000000002,Elemento senza vincolo superiore.,0
+Muri,1446959,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1446960,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1446973,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1446974,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1447031,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1447032,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1447085,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1447127,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1447150,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1447244,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1447245,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1447246,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1447247,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1447249,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1447287,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1447306,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1447325,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1447326,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1447327,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1447328,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1448744,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1448745,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1449007,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1449008,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1449009,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1449010,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,3.1000000000000001,Offset base negativo.,0
+Muri,1449011,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1449012,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458171,AR_LIV_PE_P01_+5.20m,Non collegata,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1458172,AR_LIV_PE_P01_+5.20m,Non collegata,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1458173,AR_LIV_PE_P01_+5.20m,Non collegata,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1458177,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458178,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458179,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458180,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458203,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458204,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458205,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458209,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458211,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458212,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458213,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458330,AR_LIV_PE_P01_+5.20m,Non collegata,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1458331,AR_LIV_PE_P01_+5.20m,Non collegata,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1458334,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458335,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458341,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458342,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458343,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458344,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458345,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458346,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458449,AR_LIV_PE_P01_+5.20m,Non collegata,-0.12,3.1000000000000001,Offset base negativo.,0
+Muri,1458452,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458453,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458454,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458520,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458716,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458717,AR_LIV_PE_P01_+5.20m,Non collegata,-0.02,2.7999999999999998,Offset base negativo.,0
+Muri,1458719,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458720,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458790,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1458791,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,1603121,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,1607323,AR_LIV_PE_P00_+0.00m,Non collegata,2.4249999999999998,1.2750028133451747,Elemento senza vincolo superiore.,0
+Muri,1612992,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1613131,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.9699999999999838,Offset base negativo.,0
+Muri,1614205,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,1614210,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,1614439,AR_LIV_PE_P01_+5.20m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.12,-4.5,Offset base negativo.,0
+Muri,1621055,AR_LIV_PE_P00_+0.00m,Non collegata,3.4300000000000002,0.2699813980574115,Elemento senza vincolo superiore.,0
+Muri,1621632,AR_LIV_PE_P00_+0.00m,Non collegata,3.4300000000000002,1.1073592371789029,Elemento senza vincolo superiore.,0
+Muri,1650405,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,3.7000000000000002,-2.2759999999999998,Elemento non vincolato correttamente tra livelli.,0
+Muri,1720636,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1720899,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1721096,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,1937175,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,2036263,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.5,Offset base negativo.,0
+Muri,2036381,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.02,3.5,Offset base negativo.,0
+Muri,2193600,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,2193601,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,2228382,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,2228617,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,2228743,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-1.5700000000000001,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,2229539,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,2230512,AR_LIV_PE_P00_+0.00m,Non collegata,0.79000000000000004,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,2230619,AR_LIV_PE_P00_+0.00m,Non collegata,0.79000000000000004,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,2230963,AR_LIV_PE_P00_+0.00m,Non collegata,0.79000000000000004,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,2233435,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.7000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Muri,2233921,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.79000000000000004,-1.5700000000000001,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,2234471,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,2234607,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,2234798,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P00_+0.00m,0.81000000000000005,3.8100000000000001,Elemento non vincolato correttamente tra livelli.,0
+Muri,2235063,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.56999999999999995,-0.13,Elemento vincolato tra livelli di discipline diverse.,0
+Muri,2236135,AR_LIV_PE_P00_+0.00m,Non collegata,0.79000000000000004,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,2236202,AR_LIV_PE_P00_+0.00m,Non collegata,0.79000000000000004,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,2236276,AR_LIV_PE_P00_+0.00m,Non collegata,0.79000000000000004,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,2236352,AR_LIV_PE_P00_+0.00m,Non collegata,0.79000000000000004,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,2478175,AR_LIV_PE_P00_+0.00m,Non collegata,0.79000000000000004,2.7999999999999998,Elemento senza vincolo superiore.,0
+Muri,2577597,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,6.3310310229518594,Elemento senza vincolo superiore.,0
+Muri,2584521,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,3.6999999999999993,Elemento senza vincolo superiore.,0
+Muri,2586251,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,3.6999999999999993,Elemento senza vincolo superiore.,0
+Muri,2596233,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,3.7299999999999858,Elemento senza vincolo superiore.,0
+Muri,2597345,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,2597361,AR_LIV_PE_P00_+0.00m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.22,-0.13,Offset base negativo.,0
+Muri,2644373,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,2644418,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,2644518,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,2644564,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,2644616,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
+Muri,2644645,AR_LIV_PE_P01_+5.20m,Non collegata,0.0,2.2999999999999998,Elemento senza vincolo superiore.,0
