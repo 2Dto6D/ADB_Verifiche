@@ -1,483 +1,647 @@
-Categoria,Nome Elemento,ID Elemento,Verifica,Offset Rilevato,Stato
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,699381,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705223,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705235,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705247,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705259,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705273,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705287,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705299,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705311,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705335,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705363,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705375,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705387,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705399,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705411,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705425,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705437,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705449,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705461,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705518,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705532,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705544,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705556,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705568,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705580,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705592,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705606,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705618,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705650,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705662,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705676,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705688,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705700,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705712,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705724,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705736,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705762,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705800,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,707085,Oggetto conforme.,4.6500000000000004,1
-Porte,ST_POR_PRT_VarcoApertura,708617,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,709561,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,710294,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,710295,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711556,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711814,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711891,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711903,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711914,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711925,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711936,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711947,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711958,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711969,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,711980,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,716788,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,726166,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,726248,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,726906,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,726980,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727004,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727058,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727064,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727299,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727350,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727365,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727527,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727539,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727634,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727694,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727715,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727820,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,727907,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728029,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728145,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728151,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728156,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728161,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728208,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728217,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728246,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728251,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728350,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728380,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728392,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728415,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728436,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728450,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728458,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,728631,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,735577,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,737501,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,738905,Oggetto conforme.,0.12,1
-Porte,ST_POR_PRT_VarcoApertura,739130,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,739355,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,739670,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,740118,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,740540,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,749398,Oggetto conforme.,0.12,1
-Porte,ST_POR_PRT_VarcoApertura,749399,Oggetto conforme.,0.12,1
-Porte,ST_POR_PRT_VarcoApertura,749400,Oggetto conforme.,0.81000000000000005,1
-Porte,ST_POR_PRT_VarcoApertura,749401,Oggetto conforme.,0.81000000000000005,1
-Porte,ST_POR_PRT_VarcoApertura,749402,Oggetto conforme.,0.12,1
-Porte,ST_POR_PRT_VarcoApertura,749403,Oggetto conforme.,0.12,1
-Porte,ST_POR_PRT_VarcoApertura,749404,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,749405,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,749528,Oggetto conforme.,0.12,1
-Porte,ST_POR_PRT_VarcoApertura,749529,Oggetto conforme.,0.12,1
-Porte,ST_POR_PRT_VarcoApertura,749530,Oggetto conforme.,0.81000000000000005,1
-Porte,ST_POR_PRT_VarcoApertura,749531,Oggetto conforme.,0.81000000000000005,1
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,752066,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,800103,Oggetto conforme.,0.0,1
-Porte,ST_POR_PRT_VarcoApertura,804194,Oggetto conforme.,4.6500000000000004,1
-Porte,ST_POR_PRT_VarcoApertura,804283,Oggetto conforme.,4.6500000000000004,1
-Porte,ST_POR_PRT_VarcoApertura,804353,Oggetto conforme.,4.6299999999999999,1
-Porte,ST_POR_PRT_VarcoApertura,806484,Oggetto conforme.,4.6299999999999999,1
-Porte,ST_POR_PRT_VarcoApertura,807997,Oggetto conforme.,4.4500000000000002,1
-Porte,ST_POR_PRT_VarcoApertura,808440,Oggetto conforme.,4.4299999999999997,1
-Porte,ST_POR_PRT_VarcoApertura,810038,Oggetto conforme.,4.4500000000000002,1
-Porte,ST_POR_PRT_VarcoApertura,810935,Oggetto conforme.,4.6500000000000004,1
-Porte,ST_POR_PRT_VarcoApertura,810997,Oggetto conforme.,4.6500000000000004,1
-Porte,ST_POR_PRT_VarcoApertura,814668,Oggetto conforme.,4.6299999999999999,1
-Fondazioni strutturali,ST_FON_PLT_Testata45Pali,819570,Offset Negativo.,-0.67000000000000004,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819571,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819572,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819573,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819574,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819575,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819576,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819577,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819578,Oggetto conforme.,0.75,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819579,Oggetto conforme.,0.75,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819580,Oggetto conforme.,0.75,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819581,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819582,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819583,Oggetto conforme.,0.75,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819584,Oggetto conforme.,0.75,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819585,Oggetto conforme.,0.75,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819586,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819587,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819588,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819589,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819590,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819591,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819592,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819593,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819594,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819595,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819596,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819597,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819598,Offset Negativo.,-0.71999999999999997,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819599,Offset Negativo.,-0.71999999999999997,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819600,Offset Negativo.,-0.71999999999999997,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819601,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819602,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819603,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819604,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819605,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819606,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819607,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819608,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819609,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819610,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819611,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819612,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819613,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819614,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819615,Oggetto conforme.,0.28000000000000003,1
-Fondazioni strutturali,ST_FON_PLT_Testata28PaliT1T2,824791,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824792,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824793,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824794,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824795,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824796,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824797,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824798,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824799,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824800,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824801,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824802,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824803,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824804,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824805,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824806,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824807,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824808,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824809,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824810,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824811,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824812,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824813,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824814,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824815,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824816,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824817,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824818,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824819,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PLT_Testata28PaliT1T2,825286,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825287,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825288,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825289,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825290,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825291,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825292,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825293,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825294,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825295,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825296,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825297,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825298,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825299,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825300,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825301,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825302,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825303,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825304,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825305,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825306,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825307,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825308,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825309,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825310,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825311,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825312,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825313,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825314,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,829728,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PLT_Testata48PaliT3,829897,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,829898,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,829899,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,829900,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,829901,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832082,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832083,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832084,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832085,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832086,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832087,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832088,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832089,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832090,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832091,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832092,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832093,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832094,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832095,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832096,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832097,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832098,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832099,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832100,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832101,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832102,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832103,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832104,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832105,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832106,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832107,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832108,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832109,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832110,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832111,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832112,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832113,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832114,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832115,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832116,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832117,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832118,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832119,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832120,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832121,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832122,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832123,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832124,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832125,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PLT_Testata36PaliT4,834142,Oggetto conforme.,0.0,1
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834143,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834144,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834145,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834146,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834147,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834148,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834161,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834162,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834163,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834164,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834165,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834166,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834167,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834168,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834169,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834170,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834171,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834172,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834173,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834174,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834175,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834176,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834177,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834178,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834179,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834180,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834181,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834182,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834183,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834184,Offset Negativo.,-1.5700000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834185,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834186,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834187,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834188,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834189,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834190,Offset Negativo.,-0.90000000000000002,0
-Fondazioni strutturali,ST_FON_PLT_Testata4Pali,836947,Offset Negativo.,-0.67000000000000004,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843631,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843632,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843633,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843634,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843636,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843637,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843638,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843639,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843640,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843641,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843642,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843643,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843644,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843645,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843646,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843647,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843648,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843649,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843650,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843651,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843652,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843653,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843654,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843655,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843656,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843657,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843658,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843659,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843660,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843661,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843662,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843663,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843664,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843665,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843666,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843667,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843668,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843669,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843670,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843671,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843672,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843673,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843674,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843675,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843676,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843677,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843678,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843679,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843680,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843681,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843682,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843683,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843684,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843685,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843686,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843687,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843688,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843689,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843690,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843691,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843692,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843693,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843694,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843695,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843696,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843697,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843698,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843699,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843700,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843701,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843702,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843703,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843704,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843705,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843706,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843707,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843708,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843709,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843710,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843711,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843712,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843713,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843714,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843715,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843716,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843717,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843718,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843719,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843720,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843721,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843722,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843723,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843724,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843725,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843726,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843727,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843728,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843729,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843730,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843731,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843732,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843733,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843734,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843735,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843736,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843737,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843738,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843739,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843740,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843741,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843742,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843743,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843744,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843745,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843746,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843747,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843748,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843749,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843750,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843751,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843752,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843753,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843754,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843755,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843756,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843757,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843758,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843759,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843760,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843761,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843762,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843763,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843764,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843765,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843766,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843767,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843768,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843769,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843770,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843771,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843772,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843773,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843774,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843775,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843776,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843777,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843778,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843779,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843780,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843781,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843782,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843783,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843784,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843785,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843786,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843787,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843788,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843789,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843790,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843791,Offset Negativo.,-1.1000000000000001,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843794,Offset Negativo.,-1.77,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843795,Offset Negativo.,-1.77,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843796,Offset Negativo.,-1.77,0
-Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843797,Offset Negativo.,-1.77,0
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,847737,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,848248,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,848347,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,851070,Oggetto conforme.,0.0,1
-Telaio strutturale,INC_TelST_TS.CA_FondazioneRettangolareMagrone,851209,Oggetto conforme.,0.0,1
+Categoria,Nome Elemento,ID Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,699381,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705223,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705235,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705247,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705259,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705273,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705287,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705299,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705311,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705335,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705363,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705375,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705387,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705399,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705411,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705425,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705437,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705449,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705461,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705518,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705532,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705544,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705556,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705568,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705580,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705592,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705606,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705618,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705650,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705662,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705676,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705688,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705700,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705712,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705724,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705736,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705762,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705800,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,707085,AR_LIV_PE_P00_+0.00m,-,-,4.6500000000000004,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,708617,ST_LIV_PE_P01_+5.08m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,709561,ST_LIV_PE_P01_+5.08m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,710294,ST_LIV_PE_P01_+5.08m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,710295,ST_LIV_PE_P01_+5.08m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,738905,ST_LIV_PE_P01_+5.08m,-,-,0.12,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,739130,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,739355,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,739670,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,740118,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,740540,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749398,ST_LIV_PE_P01_+5.08m,-,-,0.12,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749399,ST_LIV_PE_P01_+5.08m,-,-,0.12,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749400,AR_LIV_PE_P00_+0.00m,-,-,0.81000000000000005,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749401,AR_LIV_PE_P00_+0.00m,-,-,0.81000000000000005,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749402,ST_LIV_PE_P01_+5.08m,-,-,0.12,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749403,ST_LIV_PE_P01_+5.08m,-,-,0.12,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749404,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749405,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749528,ST_LIV_PE_P01_+5.08m,-,-,0.12,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749529,ST_LIV_PE_P01_+5.08m,-,-,0.12,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749530,AR_LIV_PE_P00_+0.00m,-,-,0.81000000000000005,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,749531,AR_LIV_PE_P00_+0.00m,-,-,0.81000000000000005,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,752066,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,804194,AR_LIV_PE_P00_+0.00m,-,-,4.6500000000000004,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,804283,AR_LIV_PE_P00_+0.00m,-,-,4.6500000000000004,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,804353,AR_LIV_PE_P00_+0.00m,-,-,4.6299999999999999,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,806484,AR_LIV_PE_P00_+0.00m,-,-,4.6299999999999999,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,807997,AR_LIV_PE_P00_+0.00m,-,-,4.4500000000000002,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,808440,AR_LIV_PE_P00_+0.00m,-,-,4.4299999999999997,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,810038,AR_LIV_PE_P00_+0.00m,-,-,4.4500000000000002,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,810935,AR_LIV_PE_P00_+0.00m,-,-,4.6500000000000004,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,810997,AR_LIV_PE_P00_+0.00m,-,-,4.6500000000000004,Oggetto conforme.,1
+Porte,ST_POR_PRT_VarcoApertura,814668,AR_LIV_PE_P00_+0.00m,-,-,4.6299999999999999,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata45Pali,819570,ST_LIV_PE_P00_-0.48m,-,-,-0.67000000000000004,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819571,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819572,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819573,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819574,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819575,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819576,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819577,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819578,ST_LIV_PE_P00_-0.48m,-,-,0.75,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819579,ST_LIV_PE_P00_-0.48m,-,-,0.75,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819580,ST_LIV_PE_P00_-0.48m,-,-,0.75,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819581,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819582,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819583,ST_LIV_PE_P00_-0.48m,-,-,0.75,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819584,ST_LIV_PE_P00_-0.48m,-,-,0.75,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819585,ST_LIV_PE_P00_-0.48m,-,-,0.75,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819586,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819587,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819588,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819589,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819590,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819591,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819592,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819593,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819594,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819595,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819596,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819597,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819598,ST_LIV_PE_P00_-0.48m,-,-,-0.71999999999999997,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819599,ST_LIV_PE_P00_-0.48m,-,-,-0.71999999999999997,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819600,ST_LIV_PE_P00_-0.48m,-,-,-0.71999999999999997,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819601,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819602,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819603,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819604,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819605,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819606,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819607,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819608,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819609,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819610,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819611,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819612,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819613,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819614,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,819615,ST_LIV_PE_P00_-0.48m,-,-,0.28000000000000003,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata28PaliT1T2,824791,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824792,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824793,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824794,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824795,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824796,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824797,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824798,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824799,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824800,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824801,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824802,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824803,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824804,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824805,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824806,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824807,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824808,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824809,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824810,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824811,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824812,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824813,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824814,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824815,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824816,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824817,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824818,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,824819,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PLT_Testata28PaliT1T2,825286,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825287,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825288,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825289,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825290,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825291,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825292,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825293,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825294,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825295,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825296,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825297,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825298,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825299,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825300,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825301,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825302,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825303,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825304,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825305,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825306,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825307,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825308,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825309,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825310,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825311,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825312,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825313,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,825314,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,829728,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PLT_Testata48PaliT3,829897,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,829898,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,829899,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,829900,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,829901,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832082,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832083,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832084,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832085,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832086,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832087,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832088,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832089,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832090,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832091,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832092,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832093,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832094,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832095,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832096,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832097,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832098,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832099,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832100,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832101,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832102,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832103,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832104,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832105,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832106,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832107,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832108,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832109,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832110,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832111,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832112,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832113,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832114,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832115,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832116,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832117,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832118,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832119,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832120,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832121,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832122,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832123,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832124,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,832125,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PLT_Testata36PaliT4,834142,ST_LIV_PE_P00_-0.48m,-,-,0.0,Oggetto conforme.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834143,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834144,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834145,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834146,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834147,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834148,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834161,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834162,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834163,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834164,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834165,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834166,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834167,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834168,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834169,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834170,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834171,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834172,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834173,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834174,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834175,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834176,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834177,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834178,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834179,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834180,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834181,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834182,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834183,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834184,ST_LIV_PE_P00_-0.48m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834185,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834186,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834187,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834188,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834189,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,834190,ST_LIV_PE_P00_-0.48m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,836947,ST_LIV_PE_P00_-0.48m,-,-,-0.67000000000000004,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843631,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843632,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843633,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843634,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843636,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843637,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843638,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843639,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843640,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843641,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843642,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843643,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843644,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843645,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843646,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843647,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843648,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843649,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843650,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843651,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843652,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843653,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843654,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843655,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843656,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843657,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843658,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843659,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843660,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843661,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843662,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843663,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843664,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843665,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843666,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843667,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843668,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843669,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843670,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843671,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843672,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843673,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843674,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843675,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843676,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843677,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843678,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843679,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843680,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843681,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843682,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843683,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843684,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843685,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843686,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843687,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843688,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843689,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843690,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843691,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843692,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843693,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843694,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843695,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843696,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843697,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843698,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843699,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843700,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843701,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843702,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843703,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843704,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843705,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843706,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843707,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843708,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843709,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843710,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843711,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843712,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843713,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843714,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843715,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843716,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843717,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843718,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843719,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843720,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843721,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843722,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843723,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843724,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843725,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843726,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843727,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843728,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843729,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843730,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843731,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843732,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843733,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843734,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843735,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843736,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843737,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843738,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843739,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843740,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843741,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843742,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843743,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843744,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843745,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843746,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843747,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843748,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843749,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843750,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843751,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843752,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843753,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843754,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843755,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843756,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843757,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843758,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843759,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843760,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843761,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843762,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843763,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843764,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843765,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843766,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843767,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843768,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843769,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843770,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843771,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843772,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843773,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843774,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843775,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843776,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843777,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843778,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843779,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843780,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843781,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843782,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843783,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843784,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843785,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843786,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843787,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843788,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843789,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843790,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843791,ST_LIV_PE_P00_-0.48m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843794,ST_LIV_PE_P00_-0.48m,-,-,-1.77,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843795,ST_LIV_PE_P00_-0.48m,-,-,-1.77,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843796,ST_LIV_PE_P00_-0.48m,-,-,-1.77,Offset Negativo conforme con la modellazione.,1
+Fondazioni strutturali,ST_FON_PAL_PaloCalcestruzzo,843797,ST_LIV_PE_P00_-0.48m,-,-,-1.77,Offset Negativo conforme con la modellazione.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,684459,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.67000000000000004,4.2199999999999998,Offset superiore eccede l'interpiano.,0
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,684956,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.67000000000000004,4.2199999999999998,Offset superiore eccede l'interpiano.,0
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,685012,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.67000000000000004,4.2199999999999998,Offset superiore eccede l'interpiano.,0
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,685106,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.67000000000000004,4.2199999999999998,Offset superiore eccede l'interpiano.,0
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,706227,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,706228,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,706229,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,706230,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,706714,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,707171,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,707268,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,707524,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,707525,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,707526,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,707699,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,707895,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,707932,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,708832,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,708833,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,708834,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,708835,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,708998,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,709088,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,710287,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,710289,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,710290,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,710291,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,710292,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,719643,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,722652,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,722690,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,722729,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,731604,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,731710,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,732026,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,732043,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,732730,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,732785,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,732947,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,733176,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,733214,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,744198,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749387,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749388,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749389,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749390,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749391,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749394,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749395,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749396,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749397,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749518,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749519,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749520,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749521,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749522,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749524,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749525,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749526,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,749527,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmatoFondazione,752715,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmatoFondazione,752716,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmatoFondazione,752717,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmatoFondazione,752718,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmatoFondazione,753028,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmatoFondazione,753029,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmatoFondazione,753030,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmatoFondazione,753031,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,753480,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,753481,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,753482,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,753483,ST_LIV_PE_P00_-0.48m,Non collegata,-0.62,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,804501,ST_LIV_PE_P00_-0.48m,Non collegata,0.0,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,810425,ST_LIV_PE_P00_-0.48m,Non collegata,0.0,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,811428,ST_LIV_PE_P00_-0.48m,Non collegata,0.0,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,825169,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,825441,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,832356,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,832511,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,836215,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.67000000000000004,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,836256,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P02_+10.28m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,846192,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.55000000000000004,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,846201,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.55000000000000004,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,846202,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.55000000000000004,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,846203,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.55000000000000004,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,846415,ST_LIV_PE_P00_-0.48m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-0.55000000000000004,Correttamente vincolato tra livelli.,1
+Muri,ST_MUR_POR_300mm_CalcestruzzoArmato,857804,ST_LIV_PE_P00_-0.48m,Non collegata,0.0,-3.2000000000000002,Elemento vincolato correttamente tra livelli.,1
+Telaio strutturale,50x50,711556,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,711814,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,711891,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,711903,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,711914,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,711925,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,711936,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,711947,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,711958,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,711969,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,711980,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,713107,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,713415,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,713485,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,713614,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,25x35,713771,ST_LIV_PE_P00_-0.48m,-,0.35000000000000003,0.35000000000000003,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,714449,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,714474,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,714501,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,714546,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,714574,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,714612,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,714816,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,25x35,714894,ST_LIV_PE_P00_-0.48m,-,0.35000000000000003,0.35000000000000003,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,25x35,715200,ST_LIV_PE_P00_-0.48m,-,0.35000000000000003,0.35000000000000003,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,715426,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,715529,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,715583,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,715593,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,715599,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,715609,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,715617,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,715623,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,715629,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x78,715635,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,25x35,715831,ST_LIV_PE_P00_-0.48m,-,0.35000000000000003,0.35000000000000003,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,716788,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,716849,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,CA-340x(440/200),721041,ST_LIV_PE_P01_+5.08m,-,-0.38000000000000028,-0.37999999999999973,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,725784,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,726166,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,726248,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,726906,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,726980,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727004,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727058,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727064,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727299,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727350,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727365,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727527,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727539,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727634,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727694,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727715,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727820,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,727907,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728029,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728145,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728151,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728156,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728161,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728208,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728217,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728246,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728251,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728350,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728380,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728392,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728415,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728436,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728450,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728458,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,728631,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,25x35,734481,ST_LIV_PE_P00_-0.48m,-,0.35000000000000003,0.34999999999999998,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,735577,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,25x35,736016,ST_LIV_PE_P00_-0.48m,-,0.35000000000000192,0.34999999999999992,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,25x35,736399,ST_LIV_PE_P00_-0.48m,-,0.35000000000000003,0.34999999999999998,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,25x35,736913,ST_LIV_PE_P00_-0.48m,-,0.35000000000000003,0.34999999999999926,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,737501,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,741787,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,30x106,767021,ST_LIV_PE_P00_-0.48m,-,1.0599999999999985,1.0599999999999987,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,769176,ST_LIV_PE_P00_-0.48m,-,1.0599999999999998,1.0599999999999998,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,769895,ST_LIV_PE_P00_-0.48m,-,1.0600000000000001,1.0600000000000001,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,771997,ST_LIV_PE_P00_-0.48m,-,1.0600000000000001,1.0599999999999998,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,774056,ST_LIV_PE_P00_-0.48m,-,1.0600000000000001,1.0600000000000001,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,774564,ST_LIV_PE_P00_-0.48m,-,1.0600000000000001,1.0599999999999994,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,774980,ST_LIV_PE_P00_-0.48m,-,1.0600000000000003,1.0599999999999994,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,795013,ST_LIV_PE_P00_-0.48m,-,1.0599999999999987,1.0600000000000001,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,795188,ST_LIV_PE_P00_-0.48m,-,1.0599999999999998,1.0599999999999996,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,795370,ST_LIV_PE_P00_-0.48m,-,1.0600000000000005,1.0600000000000001,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,795487,ST_LIV_PE_P00_-0.48m,-,1.0599999999999918,1.0600000000000001,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,795891,ST_LIV_PE_P00_-0.48m,-,1.0600000000000001,1.0600000000000001,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,795941,ST_LIV_PE_P00_-0.48m,-,1.0600000000000116,1.0600000000000001,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,796289,ST_LIV_PE_P00_-0.48m,-,1.0599999999999987,1.0600000000000014,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,797460,ST_LIV_PE_P00_-0.48m,-,1.0599999999999685,1.0600000000000005,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,799257,ST_LIV_PE_P00_-0.48m,-,1.0600000000000001,1.0600000000000001,Offset superiore all'interpiano.,0
+Telaio strutturale,30x106,799269,ST_LIV_PE_P00_-0.48m,-,1.0600000000000001,1.0600000000000001,Offset superiore all'interpiano.,0
+Telaio strutturale,50x50,800103,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,CA-340x(440/200),806373,ST_LIV_PE_P01_+5.08m,-,-0.82219839898665814,-0.82219839898665759,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,CA-340x(440/200),808666,ST_LIV_PE_P01_+5.08m,-,-1.017956761070536,-1.0179567610705353,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,CA-340x(440/200),815214,ST_LIV_PE_P01_+5.08m,-,-0.61000000000000321,-0.61000000000000265,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,847737,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,848248,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,848347,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,851070,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Telaio strutturale,50x50,851209,ST_LIV_PE_P00_-0.48m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Scale,793521,ST_SCA_Car_250mm_StraightRun,AR_LIV_PE_P00_+0.00m,AR_LIV_PE_P00_+0.00m,0.0,-3.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Scale,856780,ST_SCA_Car_250mm_HalfTurn,ST_LIV_PE_P00_-0.48m,ST_LIV_PE_P00_-0.48m,0.0,-3.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Scale,857658,ST_SCA_Car_250mm_HalfTurn,ST_LIV_PE_P00_-0.48m,ST_LIV_PE_P00_-0.48m,0.0,-3.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Scale,859150,ST_SCA_Car_250mm_HalfTurn,ST_LIV_PE_P00_-0.48m,ST_LIV_PE_P00_-0.48m,0.0,-3.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Scale,862476,ST_SCA_Car_250mm_HalfTurn,ST_LIV_PE_P00_-0.48m,ST_LIV_PE_P00_-0.48m,0.0,-3.2000000000000002,Elemento non vincolato correttamente tra livelli.,0
+Pavimenti,ST_PAV_GET_250mm_CalcestruzzoArmato,691685,ST_LIV_PE_PC1_+12.50m,-,-,-2.9499999999999891,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_MST_130mm_MistoGrecato,692372,ST_LIV_PE_P01_+5.08m,-,-,0.0,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_250mm_CalcestruzzoArmato,706642,ST_LIV_PE_P02_+10.28m,-,-,-0.72999999999998899,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_250mm_CalcestruzzoArmato,708150,ST_LIV_PE_P02_+10.28m,-,-,-0.72999999999998899,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_250mm_CalcestruzzoArmato,709748,ST_LIV_PE_P02_+10.28m,-,-,-0.72999999999998899,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_250mm_CalcestruzzoArmato,710298,ST_LIV_PE_P02_+10.28m,-,-,-0.72999999999998999,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_100mm_Magrone,722289,ST_LIV_PE_P00_-0.48m,-,-,-0.80000000000000016,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_250mm_CalcestruzzoArmato,749570,ST_LIV_PE_PC1_+12.50m,-,-,-2.7400000000000198,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_250mm_CalcestruzzoArmato,749607,ST_LIV_PE_PC1_+12.50m,-,-,-2.7400000000000211,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_MST_130mm_MistoGrecato,754092,ST_LIV_PE_P02_+10.28m,-,-,-0.52000000000002045,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_200mm_CalcestruzzoArmato,781949,AR_LIV_PE_P00_+0.00m,-,-,4.5799999999999903,Elemento hostato su livello con disciplina errata.,0
+Pavimenti,ST_PAV_GET_200mm_CalcestruzzoArmato,803573,ST_LIV_PE_P01_+5.08m,-,-,-0.50000000000001199,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_MST_110mm_MistoGrecato,805295,ST_LIV_PE_P01_+5.08m,-,-,-0.49222206469946339,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_MST_110mm_MistoGrecato,809211,ST_LIV_PE_P01_+5.08m,-,-,-0.68776368167237911,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_200mm_CalcestruzzoArmato,810086,ST_LIV_PE_P01_+5.08m,-,-,-0.70000000000000007,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_200mm_CalcestruzzoArmato,810374,ST_LIV_PE_P01_+5.08m,-,-,-0.68000000000001226,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_MST_110mm_MistoGrecato,810619,ST_LIV_PE_P01_+5.08m,-,-,-0.68776368167237911,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_MST_110mm_MistoGrecato,815104,ST_LIV_PE_P01_+5.08m,-,-,0.049999999999999468,Elemento vincolato correttamente.,1
+Pavimenti,ST_PAV_GET_100mm_Magrone,846199,ST_LIV_PE_P00_-0.48m,-,-,-0.80000000000000016,Elemento vincolato correttamente.,1

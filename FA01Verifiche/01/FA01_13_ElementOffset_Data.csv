@@ -1,55 +1,272 @@
-Categoria,Nome Elemento,ID Elemento,Verifica,Offset Rilevato,Stato
-Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1089791,Oggetto conforme.,0.68999999999999995,1
-Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1090911,Oggetto conforme.,0.68999999999999995,1
-Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1091003,Oggetto conforme.,0.68999999999999995,1
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1127651,Oggetto conforme.,0.0,1
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128062,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128095,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128335,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128343,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128351,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1307423,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1307497,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1308645,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1308780,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1309012,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1309150,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1309449,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1309990,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1310119,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1311211,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1311333,Offset Negativo.,-0.20000000000000001,0
-Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1312467,Oggetto conforme.,-0.0,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1331918,Oggetto conforme.,0.29999999999999999,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1332001,Oggetto conforme.,0.29999999999999999,1
-Porte,FA_POR_BAT_Acc_1A_SopraluceAlett,1372465,Oggetto conforme.,0.0,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1375756,Oggetto conforme.,0.29999999999999999,1
-Porte,FA_POR_BAT_Acc_1A_SopraluceAlett,1375836,Oggetto conforme.,0.0,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1375975,Oggetto conforme.,0.29999999999999999,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376366,Oggetto conforme.,0.29999999999999999,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376367,Oggetto conforme.,0.29999999999999999,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376403,Oggetto conforme.,0.29999999999999999,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1392527,Oggetto conforme.,0.29999999999999999,1
-Porte,FA_POR_BAT_Acc_2A_Alett,1392547,Offset Negativo.,-0.059999999999999998,0
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1392772,Oggetto conforme.,0.29999999999999999,1
-Porte,FA_POR_BAT_Acc_2A_Alett,1392837,Offset Negativo.,-0.059999999999999998,0
-Porte,FA_POR_BAT_Acc_2A_Alett,1392894,Offset Negativo.,-0.059999999999999998,0
-Porte,FA_POR_BAT_Acc_2A_Alett,1392948,Offset Negativo.,-0.059999999999999998,0
-Porte,FA_POR_BAT_Acc_2A_Alett,1393001,Offset Negativo.,-0.059999999999999998,0
-Porte,FA_POR_BAT_Acc_2A_Alett,1395054,Offset Negativo.,-0.059999999999999998,0
-Porte,FA_POR_BAT_Acc_2A_Alett,1395080,Offset Negativo.,-0.059999999999999998,0
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395151,Oggetto conforme.,0.29999999999999999,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395186,Oggetto conforme.,0.29999999999999999,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395346,Oggetto conforme.,0.29999999999999999,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395354,Oggetto conforme.,0.29999999999999999,1
-Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395362,Oggetto conforme.,0.29999999999999999,1
-Porte,FA_POR_BAT_Acc_2A_Alett,1395480,Offset Negativo.,-0.059999999999999998,0
-Porte,FA_POR_BAT_Acc_2A_Alett,1476491,Oggetto conforme.,0.10000000000000001,1
-Porte,FA_POR_BAT_Acc_2A_Alett,1477451,Offset Negativo.,-0.059999999999999998,0
-Porte,FA_POR_BAT_Acc_2A_Alett,1477501,Offset Negativo.,-0.059999999999999998,0
-Porte,FA_POR_BAT_Acc_2A_Alett,1477543,Offset Negativo.,-0.059999999999999998,0
-Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1589125,Oggetto conforme.,0.0,1
-Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1715868,Oggetto conforme.,0.0,1
-Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1727188,Oggetto conforme.,0.0,1
-Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1733558,Oggetto conforme.,0.0,1
-Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1735900,Oggetto conforme.,0.0,1
+Categoria,Nome Elemento,ID Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1089791,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1090911,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1091003,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1127651,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128062,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128095,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128335,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128343,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128351,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1307423,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1307497,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1308645,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1308780,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1309012,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1309150,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1309449,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1309990,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1310119,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1311211,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1311333,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1312467,AR_LIV_PE_P00_+0.00m,-,-,-0.0,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1331918,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1332001,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_1A_SopraluceAlett,1372465,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1375756,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_1A_SopraluceAlett,1375836,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1375975,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376366,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376367,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376403,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1392527,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1392547,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1392772,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1392837,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1392894,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1392948,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1393001,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1395054,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1395080,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395151,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395186,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395346,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395354,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395362,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1395480,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1476491,AR_LIV_PE_PC2_+15.73m,-,-,0.10000000000000001,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1477451,AR_LIV_PE_PC2_+15.73m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1477501,AR_LIV_PE_PC2_+15.73m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1477543,AR_LIV_PE_PC2_+15.73m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1589125,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1715868,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1727188,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1733558,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1735900,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744495,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744532,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744554,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744580,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744909,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744910,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744911,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744912,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744945,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744946,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744947,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,744948,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,745127,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,745128,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,745129,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,745130,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1219301,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999902,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1219409,AR_LIV_PE_P01_+5.20m,Non collegata,-0.80000000000000004,4.8999999999999977,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1220783,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.3999999999999826,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1225050,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.2774074074073942,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1225108,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999902,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1225148,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.3999999999999826,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1226041,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1226072,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.21999999999999,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1226199,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1226228,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1226757,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.21999999999999,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1226842,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.21999999999999,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1226897,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.1999999999999824,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1228544,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.4700000000000086,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1229267,AR_LIV_PE_P00_+0.00m,Non collegata,2.3069999999999999,6.9925925925925787,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1229325,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1229419,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999774,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1229465,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999783,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1229503,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999766,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1229970,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.291185185185185,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1230021,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.3134074074074076,Elemento modellato senza vincolo superiore.,1
+Muri,AR_CON_CPA_67mm_CI.09,1232234,AR_LIV_PE_P00_+0.00m,Non collegata,3.7000000000000002,0.7299999999999619,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1233496,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.0774074074073936,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1233544,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.077407407407394,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1233606,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.057407407407394,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1233686,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.1085185185185051,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1233750,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.1999999999999824,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1235145,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.2774074074073942,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1342497,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.869999999999977,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1342538,AR_LIV_PE_P01_+5.20m,Non collegata,-0.76800000000000002,4.8675488719785784,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1342577,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.8699999999999788,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1342602,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.8695578161379522,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345241,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345242,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.21999999999999,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345243,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345244,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.1999999999999824,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345245,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.1999999999999824,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345246,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.21999999999999,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345247,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.1999999999999824,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345248,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.4700000000000086,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345249,AR_LIV_PE_P00_+0.00m,Non collegata,2.3069999999999999,6.9925925925925787,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345250,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345251,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999774,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345252,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999783,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345253,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999766,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345254,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.291185185185185,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345255,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.3134074074074076,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345363,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.077407407407394,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345364,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.057407407407394,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345365,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.1085185185185051,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345519,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.869999999999977,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345520,AR_LIV_PE_P01_+5.20m,Non collegata,-0.76800000000000002,4.8675488719785784,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345521,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.8699999999999788,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1345522,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.8695578161379522,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1345665,AR_LIV_PE_P01_+5.20m,Non collegata,-0.80000000000000004,4.8999999999999977,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1346209,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999902,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1346210,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.3999999999999826,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1346211,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1346872,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.3999999999999826,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1347123,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.0774074074073936,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1347124,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.077407407407394,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1347125,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.1999999999999824,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1347143,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999902,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1348674,AR_LIV_PE_P01_+5.20m,Non collegata,-0.62,4.7200000000000166,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1348750,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999783,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1348799,AR_LIV_PE_P01_+5.20m,Non collegata,-0.56999999999999995,4.6700000000000168,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1348959,AR_LIV_PE_P01_+5.20m,Non collegata,-0.56999999999999995,4.6699999999999777,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1349119,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999706,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1349120,AR_LIV_PE_P00_+0.00m,Non collegata,-0.75,5.1299999999999715,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1349121,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999706,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1349122,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1349497,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999706,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1349601,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1349665,AR_LIV_PE_P00_+0.00m,Non collegata,2.3250000000000002,2.1250000000000044,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1349778,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1349832,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999706,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1349895,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999706,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1350036,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.8499999999999783,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1350037,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999783,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1350038,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999783,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1350039,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999774,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1350040,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6499999999999782,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1350041,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6500000000000172,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1350596,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999902,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1350798,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1350913,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.3789285714285753,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1350988,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.1655100341447575,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1355558,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1355657,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1355700,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1355770,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356241,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356330,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356410,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356522,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.6500000000000092,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356563,AR_LIV_PE_P00_+0.00m,Non collegata,2.3250000000000002,2.3250000000000046,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356701,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.6500000000000092,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356859,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356860,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0000000000000098,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356861,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356862,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1356925,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.000000000000048,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1357219,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1357402,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1357403,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1357404,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.4500000000000091,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1358730,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.3789285714285753,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1358795,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.3789285714285753,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1359269,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1359690,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.3250000000000046,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1359813,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.074999999999986,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1361066,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.3789285714285753,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_DIV_200mm_MI.01,1361139,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.2949999999999826,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1361223,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999715,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1361299,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1361338,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999715,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1361448,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999715,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1361676,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1361796,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.6300000000000097,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1361860,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.0749999999999829,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1361953,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.1553869839810393,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1362141,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1362171,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1362300,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1363503,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6499999999999737,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1363562,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.649999999999971,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1363591,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6499999999999702,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1363674,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1363749,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.649999999999971,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1363804,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.649999999999971,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1363839,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.649999999999971,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1363895,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1363935,AR_LIV_PE_P01_+5.20m,Non collegata,-2.875,6.9749999999999766,Elemento modellato senza vincolo superiore.,1
+Muri,AR_MUR_RIV_20mm_R.08,1364008,AR_LIV_PE_P01_+5.20m,Non collegata,-1.1000000000000001,5.1999999999999815,Elemento modellato senza vincolo superiore.,1
+Muri,AR_CON_CPA_67mm_CI.09,1367867,AR_LIV_PE_P00_+0.00m,Non collegata,3.7000000000000002,0.7299999999999619,Elemento modellato senza vincolo superiore.,1
+Muri,AR_CON_CPA_67mm_CI.09,1368572,AR_LIV_PE_P00_+0.00m,Non collegata,3.7000000000000002,0.87999999999992295,Elemento modellato senza vincolo superiore.,1
+Muri,AR_CON_CPA_67mm_CI.09,1369362,AR_LIV_PE_P00_+0.00m,Non collegata,3.7000000000000002,0.87999999999992295,Elemento modellato senza vincolo superiore.,1
+Scale,1219683,AR_SCA_ASS_FL-002_20mm,AR_LIV_PE_P00_+0.00m,AR_LIV_PE_P00_+0.00m,3.7000000000000002,0.87999999999992295,Elemento non vincolato correttamente tra livelli.,0
+Scale,1221305,AR_SCA_ASS_FL-002_20mm,AR_LIV_PE_P00_+0.00m,AR_LIV_PE_P01_+5.20m,3.7000000000000002,0.87999999999992295,Correttamente vincolato tra livelli.,1
+Scale,1222764,AR_SCA_ASS_FL-002_20mm,AR_LIV_PE_P00_+0.00m,AR_LIV_PE_P01_+5.20m,3.7000000000000002,0.87999999999992295,Correttamente vincolato tra livelli.,1
+Scale,1222941,AR_SCA_ASS_FL-002_20mm,AR_LIV_PE_P00_+0.00m,AR_LIV_PE_P01_+5.20m,3.7000000000000002,0.87999999999992295,Correttamente vincolato tra livelli.,1
+Scale,1345218,AR_SCA_ASS_FL-002_20mm,AR_LIV_PE_P00_+0.00m,AR_LIV_PE_P00_+0.00m,3.7000000000000002,0.87999999999992295,Elemento non vincolato correttamente tra livelli.,0
+Pavimenti,AR_PAV_RIV_20mm_FL-002,1206369,AR_LIV_PE_P00_+0.00m,-,-,0.0,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-002,1206776,AR_LIV_PE_P01_+5.20m,-,-,-0.75,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-002,1221176,AR_LIV_PE_P01_+5.20m,-,-,-0.55000000000000004,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-002,1221946,AR_LIV_PE_P01_+5.20m,-,-,-0.55000000000000004,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-002,1222034,AR_LIV_PE_P01_+5.20m,-,-,-0.55000000000000004,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-002,1223021,AR_LIV_PE_P00_+0.00m,-,-,0.0,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_460mm_PI.01,1223249,AR_LIV_PE_P00_+0.00m,-,-,-0.02,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_460mm_PI.03,1224378,AR_LIV_PE_P00_+0.00m,-,-,-0.02,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1229141,AR_LIV_PE_P01_+5.20m,-,-,2.9499999999999997,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1229726,AR_LIV_PE_P00_+0.00m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-006,1234073,AR_LIV_PE_P00_+0.00m,-,-,0.0,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-006,1234135,AR_LIV_PE_P00_+0.00m,-,-,0.0,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-006,1235396,AR_LIV_PE_P00_+0.00m,-,-,0.0,Elemento vincolato correttamente.,1
+Tetti,AR_TET_PIA_256mm_PE.22,1340440,AR_LIV_PE_P02_+10.40m,-,-,-0.85000000000001796,Elemento vincolato correttamente.,1
+Tetti,AR_TET_PIA_482mm_PE.21,1340526,AR_LIV_PE_P02_+10.40m,-,-,-1.9500000000000355,Elemento vincolato correttamente.,1
+Tetti,AR_TET_PIA_256mm_PE.22,1340626,ST_LIV_PE_P02_+10.28m,-,-,-0.73000000000001164,Elemento hostato su livello con disciplina errata.,0
+Tetti,AR_TET_PIA_482mm_PE.21,1340700,ST_LIV_PE_P02_+10.28m,-,-,-1.8300000000000258,Elemento hostato su livello con disciplina errata.,0
+Tetti,AR_TET_PIA_256mm_PE.22,1340821,ST_LIV_PE_P02_+10.28m,-,-,-0.73000000000001386,Elemento hostato su livello con disciplina errata.,0
+Tetti,AR_TET_PIA_482mm_PE.21,1340891,ST_LIV_PE_P02_+10.28m,-,-,-1.8300000000000216,Elemento hostato su livello con disciplina errata.,0
+Tetti,AR_TET_PIA_256mm_PE.22,1340977,ST_LIV_PE_P02_+10.28m,-,-,-0.73000000000001386,Elemento hostato su livello con disciplina errata.,0
+Tetti,AR_TET_PIA_482mm_PE.21,1341030,ST_LIV_PE_P02_+10.28m,-,-,-1.8300000000000216,Elemento hostato su livello con disciplina errata.,0
+Tetti,AR_TET_PIA_256mm_PE.22,1341197,ST_LIV_PE_P02_+10.28m,-,-,-0.73000000000001386,Elemento hostato su livello con disciplina errata.,0
+Tetti,AR_TET_PIA_482mm_PE.21,1341252,ST_LIV_PE_P02_+10.28m,-,-,-1.8300000000000216,Elemento hostato su livello con disciplina errata.,0
+Tetti,AR_TET_PIA_482mm_PE.21,1341430,ST_LIV_PE_P02_+10.28m,-,-,-1.8,Elemento hostato su livello con disciplina errata.,0
+Tetti,AR_TET_PIA_482mm_PE.21,1341498,ST_LIV_PE_P02_+10.28m,-,-,-1.8,Elemento hostato su livello con disciplina errata.,0
+Pavimenti,AR_PAV_GET_30mm_PI.13,1344262,AR_LIV_PE_P01_+5.20m,-,-,-0.77000000000000002,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-006,1344433,AR_LIV_PE_P01_+5.20m,-,-,-0.75000000000000011,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-002,1345783,AR_LIV_PE_P00_+0.00m,-,-,0.0,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_460mm_PI.01,1346002,AR_LIV_PE_P00_+0.00m,-,-,-0.02,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_460mm_PI.03,1346009,AR_LIV_PE_P00_+0.00m,-,-,-0.02,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-006,1346025,AR_LIV_PE_P00_+0.00m,-,-,0.0,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1347785,AR_LIV_PE_P01_+5.20m,-,-,2.9499999999999997,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1347887,AR_LIV_PE_P00_+0.00m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_460mm_PI.01,1348240,AR_LIV_PE_P00_+0.00m,-,-,-0.02,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-002,1348330,AR_LIV_PE_P00_+0.00m,-,-,0.0,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1349265,AR_LIV_PE_P00_+0.00m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1349324,AR_LIV_PE_P01_+5.20m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1350122,AR_LIV_PE_P01_+5.20m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1350231,AR_LIV_PE_P00_+0.00m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_460mm_PI.01,1355205,AR_LIV_PE_P00_+0.00m,-,-,-0.02,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1357697,AR_LIV_PE_P00_+0.00m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1357704,AR_LIV_PE_P00_+0.00m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1357805,AR_LIV_PE_P01_+5.20m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1357812,AR_LIV_PE_P01_+5.20m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-002,1360684,AR_LIV_PE_P00_+0.00m,-,-,0.0,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_460mm_PI.01,1360790,AR_LIV_PE_P00_+0.00m,-,-,-0.02,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1365509,AR_LIV_PE_P00_+0.00m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1365555,AR_LIV_PE_P00_+0.00m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1365617,AR_LIV_PE_P01_+5.20m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Controsoffitti,AR_CON_CPA_83mm_CI.05,1365624,AR_LIV_PE_P01_+5.20m,-,-,3.7000000000000477,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-002,1367677,AR_LIV_PE_P01_+5.20m,-,-,-0.75,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_30mm_PI.13,1367688,AR_LIV_PE_P01_+5.20m,-,-,-0.77000000000000002,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_RIV_20mm_FL-006,1367703,AR_LIV_PE_P01_+5.20m,-,-,-0.75000000000000011,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_50mm_PI.14,1368198,ST_LIV_PE_P01_+5.08m,-,-,-0.44999999999999246,Elemento hostato su livello con disciplina errata.,0
+Pavimenti,AR_PAV_GET_50mm_PI.14,1368294,ST_LIV_PE_P01_+5.08m,-,-,-0.44999999999999246,Elemento hostato su livello con disciplina errata.,0
+Pavimenti,AR_PAV_GET_50mm_PI.14,1369113,AR_LIV_PE_P01_+5.20m,-,-,-0.57000000000000028,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_50mm_PI.14,1369143,AR_LIV_PE_P01_+5.20m,-,-,-0.57000000000000028,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_50mm_PI.14,1369230,AR_LIV_PE_P01_+5.20m,-,-,-0.57000000000000028,Elemento vincolato correttamente.,1
+Pavimenti,AR_PAV_GET_50mm_PI.14,1369292,AR_LIV_PE_P01_+5.20m,-,-,-0.57000000000000028,Elemento vincolato correttamente.,1
