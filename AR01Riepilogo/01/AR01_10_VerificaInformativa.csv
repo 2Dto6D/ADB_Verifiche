@@ -5,5 +5,5 @@ ID,Raggruppamento,Descrizione,Formato,Percentuale
 41,Verifica Informativa,Il parametro IFCExportAs è congruente alle specifiche del pGI.,Nativo,98.9%
 42,Verifica Informativa,"Le entità IfcProject, IfcSite, IfcBuilding, IfcBuildingStorey, IfcSpace, IfcSystem e IfcElementAssembly sono valorizzate come da specifiche riportate nel PGI e PIR.",ifc,50%
 44,Verifica Informativa,Sono stati valorizzati tutti i parametri obbligatori presenti nell'allegato LOIN del pGI.,ifc,-
-45,Verifica Informativa,"I valori dei parametri obbligatori presenti nell'allegato LOIN del pGI ricadono all'interno delle liste di valori ammissibili allegate al pGI, ove presenti.",ifc,-
+45,Verifica Informativa,"I valori dei parametri obbligatori presenti nell'allegato LOIN del pGI ricadono all'interno delle liste di valori ammissibili allegate al pGI, ove presenti.",ifc,83.73%
 46,Verifica Informativa,Assegnazione dei materiali a tutti gli elementi modellati.,ifc,-
