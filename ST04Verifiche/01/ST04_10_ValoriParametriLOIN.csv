@@ -1,0 +1,1617 @@
+Quantità,Nome della Famiglia e del Tipo,Valore Parametri,IFC Element,ID,Verifica,Stato
+4,INC_TelST_TS.CA_Rettangolare:30x35,J.002,IfcBeam,,Corretta,1
+2,INC_TelST_TS.CA_MensolaInclinata:CA-700x(520/350),J.002,IfcBeam,,Corretta,1
+550,,J.002,IfcPile,,Corretta,1
+228,,J.002,IfcFooting,,Corretta,1
+9,Pavimento:ST_PAV_GET_250mm_CalcestruzzoArmato,J.002,IfcSlab,,Corretta,1
+3,Pavimento:ST_PAV_GET_300mm_CalcestruzzoArmato,J.002,IfcSlab,,Corretta,1
+14,Pavimento:ST_PAV_MST_130mm_MistoGrecato,J.002,IfcSlab,,Corretta,1
+4,Pavimento:ST_PAV_GET_200mm_CalcestruzzoArmato,J.002,IfcSlab,,Corretta,1
+1,Pavimento:ST_PAV_GET_100mm_Magrone,J.002,IfcSlab,,Corretta,1
+72,Muro di base:ST_MUR_POR_300mm_CalcestruzzoArmato,J.002,IfcWall,,Corretta,1
+1,Muro di base:ST_MUR_POR_400mm_CalcestruzzoArmato,J.002,IfcWall,,Corretta,1
+6,Muro di base:ST_MUR_POR_200mm_CalcestruzzoArmato,J.002,IfcWall,,Corretta,1
+2,Muro di base:ST_MUR_POR_250mm_CalcestruzzoArmato,J.002,IfcWall,,Corretta,1
+1,Muro di base:ST_MUR_POR_500mm_CalcestruzzoArmato,J.002,IfcWall,,Corretta,1
+1,Muro di base:ST_MUR_POR_700mm_CalcestruzzoArmato,J.002,IfcWall,,Corretta,1
+37,,J.002,IfcOpeningElement,,Corretta,1
+1,,,IfcDoor,729665,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,751155,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,751372,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,751408,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,752012,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,752281,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,752317,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,752665,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,752666,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,752720,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,752909,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753086,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753106,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753447,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753448,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753544,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753545,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753546,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753547,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753562,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753563,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753564,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753565,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753948,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,753949,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,754044,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,756814,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,756851,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,762393,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,771379,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,771576,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,780351,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,780352,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,784721,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,784839,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,784930,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,785197,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,824829,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,910883,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,911900,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,912549,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898437,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898533,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898670,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898816,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899466,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899470,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899474,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899478,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900459,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900608,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900690,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,902862,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903012,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903083,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905207,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905373,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905574,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906844,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906860,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909066,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909229,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909314,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909395,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909868,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909872,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909876,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909880,Da compilare IDE_GEN_I_Wbs0,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,910520,Da compilare IDE_GEN_I_Wbs0,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,897951,Da compilare IDE_GEN_I_Wbs0,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,899461,Da compilare IDE_GEN_I_Wbs0,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,900216,Da compilare IDE_GEN_I_Wbs0,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,902622,Da compilare IDE_GEN_I_Wbs0,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,904953,Da compilare IDE_GEN_I_Wbs0,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,906711,Da compilare IDE_GEN_I_Wbs0,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,908874,Da compilare IDE_GEN_I_Wbs0,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,909863,Da compilare IDE_GEN_I_Wbs0,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,910324,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898234,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898435,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898531,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898668,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899462,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899464,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899468,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899472,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900311,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900457,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900606,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902735,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902860,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,903010,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905011,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905205,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905371,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906757,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906842,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,908971,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909064,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909142,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909312,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909864,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909866,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909870,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909874,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910370,Da compilare IDE_GEN_I_Wbs0,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910518,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,779586,Da compilare IDE_GEN_I_Wbs0,0
+2,,,IfcOpeningElement,910883,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,779280,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,892356,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,892395,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,776099,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,723947,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886569,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,723970,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,816694,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885052,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885067,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885125,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885140,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885154,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885169,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885183,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885198,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885238,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885253,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885333,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885528,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885542,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885556,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885570,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885584,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885674,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885688,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885702,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,885794,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886006,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886020,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886034,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886048,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886062,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886076,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886095,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886116,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886130,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886149,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886168,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886187,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886206,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886220,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886234,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,886248,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,769106,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,769508,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,798327,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,740804,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,798658,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,798769,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,799659,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,799800,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,817658,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,817706,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,817720,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,817762,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,817776,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,879086,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887049,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887086,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887150,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887192,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887229,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887258,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887292,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887370,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,797489,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,799030,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887552,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887569,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887642,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887644,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887646,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887648,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887650,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887652,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887654,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887656,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887658,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887662,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887664,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887666,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887668,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887670,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887672,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887678,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887680,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887682,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,887686,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,888913,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,888915,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,888917,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,888919,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889438,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889439,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889454,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889522,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889544,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889546,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889550,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889552,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889554,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889556,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889558,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889574,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889586,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889588,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889590,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,889592,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,891494,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,754044,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,756814,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,756851,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753447,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753448,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753546,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753547,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753564,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753565,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753086,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753106,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753544,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753545,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753562,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753563,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,751155,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,751372,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,751408,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,771379,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,771576,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,752665,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,752666,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,752281,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,752317,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,752909,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,824829,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,784930,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,785197,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,752720,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,911900,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,784721,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,784839,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,912549,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,714324,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,714453,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,826581,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,752012,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,729665,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753948,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,753949,Da compilare IDE_GEN_I_Wbs0,0
+2,,,IfcOpeningElement,762393,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,780351,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,780352,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,714815,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcDoor,729665,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,751155,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,751372,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,751408,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,752012,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,752281,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,752317,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,752665,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,752666,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,752720,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,752909,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753086,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753106,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753447,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753448,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753544,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753545,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753546,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753547,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753562,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753563,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753564,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753565,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753948,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,753949,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,754044,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,756814,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,756851,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,762393,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,771379,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,771576,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,780351,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,780352,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,784721,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,784839,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,784930,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,785197,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,824829,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,910883,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,911900,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,912549,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898437,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898533,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898670,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898816,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899466,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899470,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899474,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899478,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900459,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900608,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900690,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,902862,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903012,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903083,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905207,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905373,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905574,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906844,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906860,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909066,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909229,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909314,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909395,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909868,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909872,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909876,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909880,Da compilare IDE_GEN_I_Wbs1,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,910520,Da compilare IDE_GEN_I_Wbs1,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,897951,Da compilare IDE_GEN_I_Wbs1,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,899461,Da compilare IDE_GEN_I_Wbs1,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,900216,Da compilare IDE_GEN_I_Wbs1,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,902622,Da compilare IDE_GEN_I_Wbs1,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,904953,Da compilare IDE_GEN_I_Wbs1,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,906711,Da compilare IDE_GEN_I_Wbs1,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,908874,Da compilare IDE_GEN_I_Wbs1,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,909863,Da compilare IDE_GEN_I_Wbs1,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,910324,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898234,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898435,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898531,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898668,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899462,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899464,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899468,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899472,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900311,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900457,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900606,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902735,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902860,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,903010,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905011,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905205,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905371,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906757,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906842,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,908971,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909064,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909142,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909312,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909864,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909866,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909870,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909874,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910370,Da compilare IDE_GEN_I_Wbs1,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910518,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,779586,Da compilare IDE_GEN_I_Wbs1,0
+2,,,IfcOpeningElement,910883,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,779280,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,892356,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,892395,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,776099,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,723947,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886569,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,723970,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,816694,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885052,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885067,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885125,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885140,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885154,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885169,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885183,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885198,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885238,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885253,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885333,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885528,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885542,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885556,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885570,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885584,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885674,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885688,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885702,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,885794,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886006,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886020,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886034,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886048,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886062,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886076,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886095,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886116,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886130,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886149,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886168,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886187,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886206,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886220,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886234,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,886248,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,769106,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,769508,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,798327,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,740804,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,798658,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,798769,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,799659,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,799800,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,817658,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,817706,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,817720,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,817762,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,817776,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,879086,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887049,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887086,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887150,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887192,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887229,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887258,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887292,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887370,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,797489,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,799030,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887552,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887569,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887642,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887644,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887646,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887648,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887650,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887652,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887654,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887656,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887658,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887662,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887664,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887666,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887668,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887670,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887672,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887678,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887680,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887682,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,887686,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,888913,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,888915,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,888917,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,888919,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889438,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889439,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889454,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889522,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889544,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889546,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889550,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889552,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889554,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889556,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889558,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889574,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889586,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889588,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889590,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,889592,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,891494,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,754044,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,756814,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,756851,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753447,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753448,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753546,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753547,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753564,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753565,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753086,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753106,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753544,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753545,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753562,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753563,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,751155,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,751372,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,751408,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,771379,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,771576,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,752665,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,752666,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,752281,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,752317,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,752909,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,824829,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,784930,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,785197,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,752720,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,911900,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,784721,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,784839,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,912549,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,714324,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,714453,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,826581,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,752012,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,729665,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753948,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,753949,Da compilare IDE_GEN_I_Wbs1,0
+2,,,IfcOpeningElement,762393,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,780351,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,780352,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcOpeningElement,714815,Da compilare IDE_GEN_I_Wbs1,0
+1,,,IfcDoor,729665,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,751155,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,751372,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,751408,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,752012,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,752281,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,752317,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,752665,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,752666,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,752720,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,752909,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753086,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753106,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753447,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753448,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753544,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753545,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753546,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753547,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753562,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753563,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753564,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753565,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753948,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,753949,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,754044,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,756814,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,756851,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,762393,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,771379,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,771576,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,780351,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,780352,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,784721,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,784839,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,784930,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,785197,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,824829,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,910883,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,911900,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,912549,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898437,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898533,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898670,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898816,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899466,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899470,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899474,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899478,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900459,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900608,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900690,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,902862,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903012,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903083,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905207,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905373,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905574,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906844,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906860,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909066,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909229,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909314,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909395,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909868,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909872,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909876,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909880,Da compilare IDE_GEN_I_Wbs2,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,910520,Da compilare IDE_GEN_I_Wbs2,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,897951,Da compilare IDE_GEN_I_Wbs2,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,899461,Da compilare IDE_GEN_I_Wbs2,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,900216,Da compilare IDE_GEN_I_Wbs2,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,902622,Da compilare IDE_GEN_I_Wbs2,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,904953,Da compilare IDE_GEN_I_Wbs2,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,906711,Da compilare IDE_GEN_I_Wbs2,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,908874,Da compilare IDE_GEN_I_Wbs2,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,909863,Da compilare IDE_GEN_I_Wbs2,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,910324,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898234,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898435,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898531,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898668,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899462,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899464,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899468,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899472,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900311,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900457,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900606,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902735,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902860,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,903010,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905011,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905205,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905371,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906757,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906842,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,908971,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909064,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909142,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909312,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909864,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909866,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909870,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909874,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910370,Da compilare IDE_GEN_I_Wbs2,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910518,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,779586,Da compilare IDE_GEN_I_Wbs2,0
+2,,,IfcOpeningElement,910883,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,779280,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,892356,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,892395,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,776099,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,723947,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886569,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,723970,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,816694,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885052,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885067,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885125,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885140,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885154,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885169,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885183,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885198,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885238,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885253,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885333,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885528,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885542,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885556,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885570,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885584,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885674,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885688,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885702,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,885794,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886006,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886020,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886034,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886048,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886062,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886076,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886095,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886116,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886130,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886149,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886168,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886187,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886206,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886220,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886234,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,886248,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,769106,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,769508,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,798327,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,740804,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,798658,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,798769,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,799659,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,799800,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,817658,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,817706,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,817720,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,817762,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,817776,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,879086,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887049,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887086,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887150,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887192,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887229,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887258,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887292,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887370,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,797489,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,799030,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887552,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887569,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887642,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887644,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887646,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887648,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887650,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887652,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887654,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887656,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887658,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887662,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887664,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887666,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887668,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887670,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887672,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887678,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887680,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887682,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,887686,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,888913,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,888915,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,888917,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,888919,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889438,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889439,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889454,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889522,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889544,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889546,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889550,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889552,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889554,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889556,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889558,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889574,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889586,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889588,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889590,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,889592,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,891494,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,754044,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,756814,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,756851,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753447,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753448,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753546,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753547,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753564,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753565,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753086,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753106,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753544,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753545,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753562,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753563,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,751155,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,751372,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,751408,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,771379,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,771576,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,752665,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,752666,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,752281,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,752317,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,752909,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,824829,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,784930,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,785197,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,752720,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,911900,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,784721,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,784839,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,912549,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,714324,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,714453,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,826581,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,752012,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,729665,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753948,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,753949,Da compilare IDE_GEN_I_Wbs2,0
+2,,,IfcOpeningElement,762393,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,780351,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,780352,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,714815,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcDoor,729665,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,751155,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,751372,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,751408,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,752012,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,752281,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,752317,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,752665,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,752666,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,752720,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,752909,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753086,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753106,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753447,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753448,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753544,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753545,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753546,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753547,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753562,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753563,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753564,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753565,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753948,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,753949,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,754044,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,756814,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,756851,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,762393,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,771379,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,771576,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,780351,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,780352,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,784721,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,784839,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,784930,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,785197,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,824829,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,910883,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,911900,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,912549,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898437,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898533,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898670,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898816,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899466,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899470,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899474,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899478,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900459,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900608,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900690,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,902862,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903012,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903083,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905207,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905373,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905574,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906844,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906860,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909066,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909229,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909314,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909395,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909868,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909872,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909876,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909880,Da compilare IDE_GEN_I_Wbs3,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,910520,Da compilare IDE_GEN_I_Wbs3,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,897951,Da compilare IDE_GEN_I_Wbs3,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,899461,Da compilare IDE_GEN_I_Wbs3,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,900216,Da compilare IDE_GEN_I_Wbs3,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,902622,Da compilare IDE_GEN_I_Wbs3,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,904953,Da compilare IDE_GEN_I_Wbs3,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,906711,Da compilare IDE_GEN_I_Wbs3,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,908874,Da compilare IDE_GEN_I_Wbs3,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,909863,Da compilare IDE_GEN_I_Wbs3,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,910324,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898234,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898435,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898531,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898668,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899462,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899464,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899468,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899472,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900311,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900457,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900606,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902735,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902860,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,903010,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905011,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905205,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905371,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906757,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906842,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,908971,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909064,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909142,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909312,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909864,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909866,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909870,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909874,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910370,Da compilare IDE_GEN_I_Wbs3,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910518,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,779586,Da compilare IDE_GEN_I_Wbs3,0
+2,,,IfcOpeningElement,910883,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,779280,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,892356,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,892395,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,776099,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,723947,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886569,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,723970,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,816694,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885052,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885067,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885125,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885140,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885154,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885169,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885183,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885198,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885238,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885253,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885333,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885528,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885542,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885556,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885570,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885584,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885674,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885688,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885702,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,885794,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886006,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886020,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886034,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886048,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886062,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886076,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886095,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886116,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886130,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886149,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886168,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886187,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886206,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886220,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886234,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,886248,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,769106,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,769508,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,798327,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,740804,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,798658,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,798769,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,799659,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,799800,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,817658,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,817706,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,817720,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,817762,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,817776,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,879086,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887049,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887086,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887150,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887192,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887229,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887258,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887292,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887370,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,797489,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,799030,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887552,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887569,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887642,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887644,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887646,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887648,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887650,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887652,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887654,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887656,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887658,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887662,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887664,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887666,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887668,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887670,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887672,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887678,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887680,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887682,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,887686,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,888913,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,888915,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,888917,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,888919,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889438,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889439,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889454,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889522,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889544,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889546,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889550,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889552,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889554,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889556,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889558,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889574,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889586,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889588,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889590,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,889592,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,891494,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,754044,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,756814,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,756851,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753447,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753448,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753546,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753547,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753564,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753565,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753086,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753106,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753544,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753545,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753562,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753563,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,751155,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,751372,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,751408,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,771379,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,771576,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,752665,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,752666,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,752281,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,752317,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,752909,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,824829,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,784930,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,785197,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,752720,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,911900,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,784721,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,784839,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,912549,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,714324,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,714453,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,826581,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,752012,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,729665,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753948,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,753949,Da compilare IDE_GEN_I_Wbs3,0
+2,,,IfcOpeningElement,762393,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,780351,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,780352,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcOpeningElement,714815,Da compilare IDE_GEN_I_Wbs3,0
+1,,,IfcDoor,729665,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,751155,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,751372,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,751408,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,752012,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,752281,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,752317,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,752665,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,752666,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,752720,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,752909,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753086,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753106,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753447,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753448,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753544,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753545,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753546,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753547,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753562,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753563,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753564,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753565,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753948,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,753949,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,754044,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,756814,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,756851,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,762393,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,771379,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,771576,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,780351,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,780352,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,784721,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,784839,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,784930,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,785197,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,824829,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,910883,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,911900,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,912549,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898437,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898533,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898670,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898816,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899466,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899470,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899474,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899478,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900459,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900608,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900690,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,902862,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903012,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903083,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905207,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905373,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905574,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906844,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906860,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909066,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909229,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909314,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909395,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909868,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909872,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909876,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909880,Da compilare IDE_GEN_I_Wbs4,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,910520,Da compilare IDE_GEN_I_Wbs4,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,897951,Da compilare IDE_GEN_I_Wbs4,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,899461,Da compilare IDE_GEN_I_Wbs4,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,900216,Da compilare IDE_GEN_I_Wbs4,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,902622,Da compilare IDE_GEN_I_Wbs4,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,904953,Da compilare IDE_GEN_I_Wbs4,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,906711,Da compilare IDE_GEN_I_Wbs4,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,908874,Da compilare IDE_GEN_I_Wbs4,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,909863,Da compilare IDE_GEN_I_Wbs4,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,910324,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898234,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898435,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898531,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898668,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899462,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899464,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899468,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899472,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900311,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900457,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900606,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902735,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902860,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,903010,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905011,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905205,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905371,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906757,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906842,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,908971,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909064,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909142,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909312,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909864,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909866,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909870,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909874,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910370,Da compilare IDE_GEN_I_Wbs4,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910518,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,779586,Da compilare IDE_GEN_I_Wbs4,0
+2,,,IfcOpeningElement,910883,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,779280,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,892356,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,892395,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,776099,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,723947,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886569,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,723970,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,816694,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885052,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885067,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885125,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885140,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885154,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885169,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885183,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885198,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885238,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885253,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885333,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885528,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885542,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885556,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885570,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885584,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885674,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885688,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885702,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,885794,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886006,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886020,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886034,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886048,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886062,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886076,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886095,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886116,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886130,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886149,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886168,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886187,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886206,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886220,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886234,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,886248,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,769106,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,769508,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,798327,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,740804,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,798658,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,798769,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,799659,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,799800,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,817658,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,817706,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,817720,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,817762,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,817776,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,879086,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887049,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887086,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887150,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887192,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887229,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887258,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887292,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887370,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,797489,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,799030,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887552,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887569,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887642,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887644,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887646,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887648,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887650,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887652,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887654,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887656,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887658,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887662,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887664,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887666,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887668,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887670,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887672,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887678,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887680,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887682,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,887686,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,888913,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,888915,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,888917,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,888919,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889438,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889439,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889454,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889522,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889544,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889546,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889550,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889552,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889554,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889556,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889558,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889574,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889586,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889588,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889590,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,889592,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,891494,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,754044,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,756814,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,756851,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753447,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753448,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753546,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753547,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753564,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753565,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753086,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753106,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753544,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753545,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753562,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753563,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,751155,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,751372,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,751408,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,771379,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,771576,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,752665,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,752666,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,752281,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,752317,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,752909,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,824829,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,784930,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,785197,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,752720,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,911900,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,784721,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,784839,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,912549,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,714324,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,714453,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,826581,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,752012,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,729665,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753948,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,753949,Da compilare IDE_GEN_I_Wbs4,0
+2,,,IfcOpeningElement,762393,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,780351,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,780352,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcOpeningElement,714815,Da compilare IDE_GEN_I_Wbs4,0
+1,,,IfcDoor,729665,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,751155,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,751372,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,751408,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,752012,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,752281,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,752317,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,752665,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,752666,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,752720,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,752909,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753086,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753106,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753447,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753448,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753544,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753545,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753546,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753547,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753562,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753563,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753564,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753565,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753948,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,753949,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,754044,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,756814,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,756851,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,762393,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,771379,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,771576,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,780351,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,780352,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,784721,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,784839,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,784930,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,785197,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,824829,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,910883,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,911900,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcDoor,912549,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898437,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898533,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898670,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,898816,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899466,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899470,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899474,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,899478,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900459,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900608,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,900690,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,902862,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903012,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,903083,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905207,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905373,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,905574,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906844,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,906860,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909066,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909229,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909314,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909395,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909868,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909872,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909876,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,909880,Da compilare IDE_GEN_I_Wbs5,0
+1,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,,IfcSlab,910520,Da compilare IDE_GEN_I_Wbs5,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,897951,Da compilare IDE_GEN_I_Wbs5,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,899461,Da compilare IDE_GEN_I_Wbs5,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,900216,Da compilare IDE_GEN_I_Wbs5,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,902622,Da compilare IDE_GEN_I_Wbs5,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,904953,Da compilare IDE_GEN_I_Wbs5,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,906711,Da compilare IDE_GEN_I_Wbs5,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,908874,Da compilare IDE_GEN_I_Wbs5,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,909863,Da compilare IDE_GEN_I_Wbs5,0
+1,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,,IfcStair,910324,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898234,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898435,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898531,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,898668,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899462,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899464,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899468,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,899472,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900311,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900457,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,900606,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902735,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,902860,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,903010,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905011,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905205,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,905371,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906757,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,906842,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,908971,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909064,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909142,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909312,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909864,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909866,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909870,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,909874,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910370,Da compilare IDE_GEN_I_Wbs5,0
+1,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,,IfcStairFlight,910518,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,779586,Da compilare IDE_GEN_I_Wbs5,0
+2,,,IfcOpeningElement,910883,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,779280,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,892356,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,892395,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,776099,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,723947,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886569,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,723970,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,816694,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885052,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885067,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885125,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885140,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885154,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885169,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885183,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885198,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885238,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885253,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885333,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885528,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885542,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885556,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885570,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885584,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885674,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885688,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885702,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,885794,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886006,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886020,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886034,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886048,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886062,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886076,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886095,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886116,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886130,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886149,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886168,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886187,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886206,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886220,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886234,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,886248,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,769106,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,769508,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,798327,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,740804,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,798658,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,798769,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,799659,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,799800,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,817658,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,817706,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,817720,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,817762,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,817776,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,879086,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887049,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887086,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887150,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887192,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887229,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887258,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887292,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887370,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,797489,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,799030,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887552,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887569,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887642,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887644,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887646,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887648,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887650,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887652,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887654,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887656,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887658,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887662,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887664,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887666,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887668,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887670,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887672,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887678,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887680,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887682,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,887686,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,888913,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,888915,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,888917,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,888919,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889438,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889439,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889454,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889522,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889544,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889546,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889550,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889552,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889554,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889556,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889558,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889574,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889586,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889588,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889590,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,889592,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,891494,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,754044,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,756814,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,756851,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753447,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753448,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753546,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753547,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753564,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753565,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753086,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753106,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753544,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753545,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753562,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753563,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,751155,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,751372,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,751408,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,771379,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,771576,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,752665,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,752666,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,752281,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,752317,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,752909,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,824829,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,784930,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,785197,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,752720,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,911900,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,784721,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,784839,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,912549,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,714324,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,714453,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,826581,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,752012,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,729665,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753948,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,753949,Da compilare IDE_GEN_I_Wbs5,0
+2,,,IfcOpeningElement,762393,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,780351,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,780352,Da compilare IDE_GEN_I_Wbs5,0
+1,,,IfcOpeningElement,714815,Da compilare IDE_GEN_I_Wbs5,0
+157,,,IfcOpeningElement,,Da compilare GEO_GEN_I_Fase,0
+4,INC_TelST_TS.CA_Rettangolare:30x35,J002_SDP,IfcBeam,,Corretta,1
+2,INC_TelST_TS.CA_MensolaInclinata:CA-700x(520/350),J002_SDP,IfcBeam,,Corretta,1
+550,,J002_SDP,IfcPile,,Corretta,1
+41,,J002_SDP,IfcDoor,,Corretta,1
+228,,J002_SDP,IfcFooting,,Corretta,1
+9,Pavimento:ST_PAV_GET_250mm_CalcestruzzoArmato,J002_SDP,IfcSlab,,Corretta,1
+3,Pavimento:ST_PAV_GET_300mm_CalcestruzzoArmato,J002_SDP,IfcSlab,,Corretta,1
+14,Pavimento:ST_PAV_MST_130mm_MistoGrecato,J002_SDP,IfcSlab,,Corretta,1
+4,Pavimento:ST_PAV_GET_200mm_CalcestruzzoArmato,J002_SDP,IfcSlab,,Corretta,1
+1,Pavimento:ST_PAV_GET_100mm_Magrone,J002_SDP,IfcSlab,,Corretta,1
+28,Pianerottolo monolitico:INC_PiaSC_SC.CA_CalcestruzzoArmato,J002_SDP,IfcSlab,,Corretta,1
+9,Scala gettata in opera:ST_SCA_Car_250mm_HalfTurn,J002_SDP,IfcStair,,Corretta,1
+29,Rampa monolitica:INC_RmpSC_SC.CA_CalcestruzzoArmato,J002_SDP,IfcStairFlight,,Corretta,1
+72,Muro di base:ST_MUR_POR_300mm_CalcestruzzoArmato,J002_SDP,IfcWall,,Corretta,1
+1,Muro di base:ST_MUR_POR_400mm_CalcestruzzoArmato,J002_SDP,IfcWall,,Corretta,1
+6,Muro di base:ST_MUR_POR_200mm_CalcestruzzoArmato,J002_SDP,IfcWall,,Corretta,1
+2,Muro di base:ST_MUR_POR_250mm_CalcestruzzoArmato,J002_SDP,IfcWall,,Corretta,1
+1,Muro di base:ST_MUR_POR_500mm_CalcestruzzoArmato,J002_SDP,IfcWall,,Corretta,1
+1,Muro di base:ST_MUR_POR_700mm_CalcestruzzoArmato,J002_SDP,IfcWall,,Corretta,1
+157,,,IfcOpeningElement,,Corretta,1
+38,,J002_SDP,IfcOpeningElement,,Corretta,1
