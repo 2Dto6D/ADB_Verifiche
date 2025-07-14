@@ -1,5 +1,3 @@
 ID,Raggruppamento,Descrizione,Formato,Percentuale
-54,Regole di modellazione,Interruzione ad ogni piano di muri e pilastri (al netto di diverse indicazioni preventivamente concordate per elementi specifici),ifc,8.7%
-55,Regole di modellazione,Verifica che l'offset degli elementi di famiglie caricabili sia sempre zero o positivo rispetto al livello di appartenenza e comunque inferiore all'interpiano,ifc,100%
-56,Regole di modellazione,Corretta modellazione dei locali: delimitati da superficie interna di pareti pavimenti e controsoffitti ,Nativo,-
-57,Regole di modellazione,Assenza di famiglie locali (In-place): ad eccezione di quelle preventivamente concordate,Nativo,100%
+55,Regole di modellazione,Verifica che l'offset degli elementi di famiglie caricabili e sistema sia sempre zero o positivo rispetto al livello di appartenenza e comunque inferiore all'interpiano.,ifc,82.16%
+56,Regole di modellazione,"Corretta modellazione dei locali: delimitati da superficie interna di pareti, pavimenti e controsoffitti.",Nativo,-
