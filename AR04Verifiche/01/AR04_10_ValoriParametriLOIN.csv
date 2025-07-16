@@ -2147,7 +2147,7 @@ Quantità,Nome della Famiglia e del Tipo,Valore Parametri,IFC Element,ID,Verific
 1,,1235457,,IfcOpeningElement,Corretta,1
 1,,1347276,,IfcOpeningElement,Corretta,1
 1,,1347632,,IfcOpeningElement,Corretta,1
-62,,IfcOpeningElement,,Da compilare GEO_GEN_I_Fase,0
+62,,,IfcOpeningElement,,Da compilare GEO_GEN_I_Fase,0
 1,Area 1,601352,IfcSpace,,Da compilare GEO_GEN_I_Fase,0
 1,L.T. 101,1342030,IfcSpace,,Da compilare GEO_GEN_I_Fase,0
 1,L.T. 102,1342036,IfcSpace,,Da compilare GEO_GEN_I_Fase,0
@@ -2172,8 +2172,8 @@ Quantità,Nome della Famiglia e del Tipo,Valore Parametri,IFC Element,ID,Verific
 1,L.T. 121,1372023,IfcSpace,,Da compilare GEO_GEN_I_Fase,0
 1,L.T. 122,1372032,IfcSpace,,Da compilare GEO_GEN_I_Fase,0
 16,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,IfcCovering,J002_SDP,Corretta,1
-14,,IfcDoor,J002_SDP,Corretta,1
-12,,IfcRoof,J002_SDP,Corretta,1
+14,,,IfcDoor,J002_SDP,Corretta,1
+12,,,IfcRoof,J002_SDP,Corretta,1
 10,Pavimento,AR_PAV_RIV_20mm_FL-002,IfcSlab,J002_SDP,Corretta,1
 5,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,IfcSlab,J002_SDP,Corretta,1
 5,Pavimento,AR_PAV_GET_460mm_PI.01,IfcSlab,J002_SDP,Corretta,1
@@ -2187,8 +2187,8 @@ Quantità,Nome della Famiglia e del Tipo,Valore Parametri,IFC Element,ID,Verific
 34,Muro di base,AR_MUR_DIV_200mm_MI.01,IfcWall,J002_SDP,Corretta,1
 115,Muro di base,AR_MUR_RIV_20mm_R.08,IfcWall,J002_SDP,Corretta,1
 4,Muro di base,AR_CON_CPA_67mm_CI.09,IfcWall,J002_SDP,Corretta,1
-36,,IfcOpeningElement,J002_SDP,Corretta,1
-62,,IfcOpeningElement,,Corretta,1
+36,,,IfcOpeningElement,J002_SDP,Corretta,1
+62,,,IfcOpeningElement,,Corretta,1
 1,Area 1,601352,IfcSpace,,Corretta,1
 1,L.T. 101,1342030,IfcSpace,,Corretta,1
 1,L.T. 102,1342036,IfcSpace,,Corretta,1

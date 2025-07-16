@@ -1,96 +1,96 @@
 Quantità,Nome della Famiglia e del Tipo,Valore Parametri,IFC Element,ID,Verifica,Stato
-19,[FCL_FCLV2_FCLVL]_[84-104-124]_4Pipes_+_FCLMC20:FCL_104_Max Speed,J.002,IfcBuildingElementProxy,Corretta,1
-4,[FCL_FCLV2_FCLVL]_[34-38-44-64]_4Pipes_+_FCLMC10:FCL_44_Med Speed,J.002,IfcBuildingElementProxy,Corretta,1
-46,Plumbing_Valves_IVAR_Fan-Coil-Unit-Kit:Plumbing_Valves_IVAR_Fan-Coil-Unit-Kit,J.002,IfcBuildingElementProxy,Corretta,1
-146,Rivestimento condotto:Pannello in fibra di vetro,J.002,IfcCovering,Corretta,1
-1532,Isolamento condotto:Pannello di fibra rigida,J.002,IfcCovering,Corretta,1
-1108,Isolamento condotto:Poliuretano espanso,J.002,IfcCovering,Corretta,1
-763,Isolamento tubazione:FT-Coppelle lana di vetro,J.002,IfcCovering,Corretta,1
-4,IM_DIS_AME_SGS_Unità_IN:SGS_Unità_IN,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_Ventilconvettore canalizzato:FCZI P_901_MedSpeed,J.002,IfcUnitaryEquipment,Corretta,1
-5,IM_DIS_AME_Ventilconvettore canalizzato:FCZI P_301_MedSpeed,J.002,IfcUnitaryEquipment,Corretta,1
-21,IM_DIS_AME_Ventilconvettore 4 tubi:GCS1.UWW.SE5,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA08,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA01,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA07,J.002,IfcUnitaryEquipment,Corretta,1
-38,IM_DIS_AME_Batteria di post riscaldamento:900x300,J.002,IfcUnitaryEquipment,Corretta,1
-5,IM_DIS_AME_Batteria di post riscaldamento:700x250,J.002,IfcUnitaryEquipment,Corretta,1
-2,IM_DIS_AME_Batteria di post riscaldamento:600x250,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA09,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA13,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA15,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA14,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA10,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA16,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA04,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA11,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA06,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA02,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA03,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA12,J.002,IfcUnitaryEquipment,Corretta,1
-1,IM_DIS_AME_UTA:UTA05,J.002,IfcUnitaryEquipment,Corretta,1
-3,IM_DIS_AME_Chiller Datacenter:Chiller Datacenter,J.002,IfcUnitaryEquipment,Corretta,1
-4,IM_DIS_AME_Pompa di calore polivalente:Chiller condizionamento,J.002,IfcUnitaryEquipment,Corretta,1
-2,IM_DIS_AME_Pompa di calore ACS:PdC ACS,J.002,IfcUnitaryEquipment,Corretta,1
-4,IM_DIS_AME_Ventilconvettore canalizzato:FCZI P_701_MedSpeed,J.002,IfcUnitaryEquipment,Corretta,1
-3,IM_DIS_AME_Ventilconvettore canalizzato:FCZI P_501_MedSpeed,J.002,IfcUnitaryEquipment,Corretta,1
-5,IM_DIS_AME_Batteria di post riscaldamento:600x300,J.002,IfcUnitaryEquipment,Corretta,1
-60,IM_DIS_ACC_VAV Terminal Units Rettangolare:VAV Type TA-Silenzio 315,J.002,IfcAirTerminalBox,Corretta,1
-2,IM_DIS_ACC_VAV Terminal Units Rettangolare:VAV Type TA-Silenzio 200,J.002,IfcAirTerminalBox,Corretta,1
-7,IM_DIS_ACC_VAV Terminal Units Rettangolare:VAV Type TA-Silenzio 250,J.002,IfcAirTerminalBox,Corretta,1
-1,IM_DIS_ACC_VAV:OPTIMA-SI-FC-1000x800-(),J.002,IfcAirTerminalBox,Corretta,1
-8,IM_DIS_ACC_VAV:OPTIMA-SI-FC-600x300-(),J.002,IfcAirTerminalBox,Corretta,1
-8,IM_DIS_ACC_Silenziatore Rettangolare:600x300,J.002,IfcAirTerminalBox,Corretta,1
-3,IM_DIS_ACC_VAV:OPTIMA-SI-FC-800x400-(),J.002,IfcAirTerminalBox,Corretta,1
-3,IM_DIS_ACC_Silenziatore Rettangolare:800x400,J.002,IfcAirTerminalBox,Corretta,1
-1,IM_DIS_ACC_VAV:OPTIMA-SI-FC-900x400-(),J.002,IfcAirTerminalBox,Corretta,1
-1,IM_DIS_ACC_Silenziatore Rettangolare:900x400,J.002,IfcAirTerminalBox,Corretta,1
-43,IM_DIS_ACT_Valvola farfalla:Family with type catalog,J.002,IfcValve,Corretta,1
-1,IM_DIS_ACT_Valvola di regolazione indipendente dalla pressione:92VL_1/2 Inch_150L/h,J.002,IfcValve,Corretta,1
-8,IM_DIS_ACT_Valvola di regolazione indipendente dalla pressione:92H_1/2 Inch_850L/h,J.002,IfcValve,Corretta,1
-84,"BALLSTOP_Ball_valve_with_built-in_check_valve-Caleffi-327_DN15-DN50:3/4"""" Butterfly",J.002,IfcValve,Corretta,1
-290,IM_COL_RET_Lzi_Calotta chiusura:20 cm,J.002,IfcDuctFitting,Corretta,1
-45,IM_COL_RET_Lzi_T:Default,J.002,IfcDuctFitting,Corretta,1
-479,IM_COL_RET_Lzi_Connettore:Standard,J.002,IfcDuctFitting,Corretta,1
-242,IM_DIS_ACC_Raccordo condotto transizione rettangolare:45 Degree,J.002,IfcDuctFitting,Corretta,1
-575,IM_COL_CIR_Lzi_Raccordo:Standard,J.002,IfcDuctFitting,Corretta,1
-332,DiRoots-FR-Temp-0:default,J.002,IfcDuctFitting,Corretta,1
-16,IM_DIS_ACC_Raccordo condotto transizione rettangolare angolo:91 Degree,J.002,IfcDuctFitting,Corretta,1
-57,IM_COL_RET_Lzi_GomitoL:0.6 W,J.002,IfcDuctFitting,Corretta,1
-107,IM_COL_RET_Lzi_TransizioneL:default,J.002,IfcDuctFitting,Corretta,1
-2,IM_COL_RET_Lzi_Doppio gomito:default,J.002,IfcDuctFitting,Corretta,1
-5,IM_DIS_ACC_Raccordo condotto transizione rettangolare:45 gradi,J.002,IfcDuctFitting,Corretta,1
-72,IM_PAF_RIG_Gomito FF:Zincato 90,J.002,IfcPipeFitting,Corretta,1
-28,IM_PAF_TEE_Filettato:Zincato,J.002,IfcPipeFitting,Corretta,1
-42,IM_PAF_TRS_Filettato Riduzione:Zincato,J.002,IfcPipeFitting,Corretta,1
-55,IM_PAF_RIG_Gomito:Acciaio Nero 90,J.002,IfcPipeFitting,Corretta,1
-118,IM_PAF_TEE_Saldare T:Acciaio Nero,J.002,IfcPipeFitting,Corretta,1
-128,IM_PAF_TRS_Saldare Riduzione:Acciaio Nero,J.002,IfcPipeFitting,Corretta,1
-85,IM_PAF_RIG_Gomito:Acciaio Nero 45,J.002,IfcPipeFitting,Corretta,1
-16,IM_PAF_FLE_Saldare Calotta:Acciaio Nero,J.002,IfcPipeFitting,Corretta,1
-3,IM_DIS_AME_Cassonetto di estrazione:TFC 225 P Sileo Black,J.002,IfcFan,Corretta,1
-2,IM_DIS_AME_Cassonetto di estrazione:TFC 355 P Sileo Black,J.002,IfcFan,Corretta,1
-1253,Condotto rettangolare:SG_Rett zincato,J.002,IfcDuctSegment,Corretta,1
-823,Condotto flessibile circolare:Flessibile - Circolare,J.002,IfcDuctSegment,Corretta,1
-186,Tubazione:Acciaio Zincato,J.002,IfcPipeSegment,Corretta,1
-1020,Tubazione:Acciaio Nero a Saldare,J.002,IfcPipeSegment,Corretta,1
-325,IM_DIS_BOC_Diffusore lineare:Lenght 2000mm,J.002,IfcAirTerminal,Corretta,1
-40,IM_DIS_BOC_Griglie ripresa aria con plenum:1000x400,J.002,IfcAirTerminal,Corretta,1
-13,IM_DIS_BOC_Diffusore lineare:Diffusore lineare - U,J.002,IfcAirTerminal,Corretta,1
-2,IM_DIS_BOC_Valvola estrazione aria:Balance-E-160 Return valve,J.002,IfcAirTerminal,Corretta,1
-49,IM_DIS_BOC_Griglie ripresa aria:800x300,J.002,IfcAirTerminal,Corretta,1
-35,IM_DIS_BOC_Griglie ripresa aria:600x150,J.002,IfcAirTerminal,Corretta,1
-2,IM_DIS_BOC_Griglie ripresa aria:300x100,J.002,IfcAirTerminal,Corretta,1
-23,IM_DIS_BOC_Diffusore mandata:Diffusore M 600x600,J.002,IfcAirTerminal,Corretta,1
-24,IM_DIS_BOC_Diffusore ripresa:Diffusore R 525x525,J.002,IfcAirTerminal,Corretta,1
-19,IM_DIS_BOC_Valvola estrazione aria:Balance-E-125 Return valve,J.002,IfcAirTerminal,Corretta,1
-1,IM_DIS_BOC_Griglia UTA-ESP-PAE:USL/A-1000-600,J.002,IfcAirTerminal,Corretta,1
-1,IM_DIS_BOC_Griglia UTA-ESP-PAE:USL/A-400-400,J.002,IfcAirTerminal,Corretta,1
-1,IM_DIS_BOC_Griglia UTA-ESP-PAE:USL/A-1000-800,J.002,IfcAirTerminal,Corretta,1
-1,IM_DIS_BOC_Griglia UTA-ESP-PAE:USL/A-1900-800,J.002,IfcAirTerminal,Corretta,1
-42,IM_DIS_BOC_Griglie ripresa aria:1000X200,J.002,IfcAirTerminal,Corretta,1
-36,IM_DIS_BOC_Griglie ripresa aria:800x400,J.002,IfcAirTerminal,Corretta,1
-16411,,,IfcDistributionPort,Corretta,1
+19,[FCL_FCLV2_FCLVL]_[84-104-124]_4Pipes_+_FCLMC20:FCL_104_Max Speed,J.002,IfcBuildingElementProxy,,Corretta,1
+4,[FCL_FCLV2_FCLVL]_[34-38-44-64]_4Pipes_+_FCLMC10:FCL_44_Med Speed,J.002,IfcBuildingElementProxy,,Corretta,1
+46,Plumbing_Valves_IVAR_Fan-Coil-Unit-Kit:Plumbing_Valves_IVAR_Fan-Coil-Unit-Kit,J.002,IfcBuildingElementProxy,,Corretta,1
+146,Rivestimento condotto:Pannello in fibra di vetro,J.002,IfcCovering,,Corretta,1
+1532,Isolamento condotto:Pannello di fibra rigida,J.002,IfcCovering,,Corretta,1
+1108,Isolamento condotto:Poliuretano espanso,J.002,IfcCovering,,Corretta,1
+763,Isolamento tubazione:FT-Coppelle lana di vetro,J.002,IfcCovering,,Corretta,1
+4,IM_DIS_AME_SGS_Unità_IN:SGS_Unità_IN,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_Ventilconvettore canalizzato:FCZI P_901_MedSpeed,J.002,IfcUnitaryEquipment,,Corretta,1
+5,IM_DIS_AME_Ventilconvettore canalizzato:FCZI P_301_MedSpeed,J.002,IfcUnitaryEquipment,,Corretta,1
+21,IM_DIS_AME_Ventilconvettore 4 tubi:GCS1.UWW.SE5,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA08,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA01,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA07,J.002,IfcUnitaryEquipment,,Corretta,1
+38,IM_DIS_AME_Batteria di post riscaldamento:900x300,J.002,IfcUnitaryEquipment,,Corretta,1
+5,IM_DIS_AME_Batteria di post riscaldamento:700x250,J.002,IfcUnitaryEquipment,,Corretta,1
+2,IM_DIS_AME_Batteria di post riscaldamento:600x250,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA09,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA13,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA15,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA14,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA10,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA16,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA04,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA11,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA06,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA02,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA03,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA12,J.002,IfcUnitaryEquipment,,Corretta,1
+1,IM_DIS_AME_UTA:UTA05,J.002,IfcUnitaryEquipment,,Corretta,1
+3,IM_DIS_AME_Chiller Datacenter:Chiller Datacenter,J.002,IfcUnitaryEquipment,,Corretta,1
+4,IM_DIS_AME_Pompa di calore polivalente:Chiller condizionamento,J.002,IfcUnitaryEquipment,,Corretta,1
+2,IM_DIS_AME_Pompa di calore ACS:PdC ACS,J.002,IfcUnitaryEquipment,,Corretta,1
+4,IM_DIS_AME_Ventilconvettore canalizzato:FCZI P_701_MedSpeed,J.002,IfcUnitaryEquipment,,Corretta,1
+3,IM_DIS_AME_Ventilconvettore canalizzato:FCZI P_501_MedSpeed,J.002,IfcUnitaryEquipment,,Corretta,1
+5,IM_DIS_AME_Batteria di post riscaldamento:600x300,J.002,IfcUnitaryEquipment,,Corretta,1
+60,IM_DIS_ACC_VAV Terminal Units Rettangolare:VAV Type TA-Silenzio 315,J.002,IfcAirTerminalBox,,Corretta,1
+2,IM_DIS_ACC_VAV Terminal Units Rettangolare:VAV Type TA-Silenzio 200,J.002,IfcAirTerminalBox,,Corretta,1
+7,IM_DIS_ACC_VAV Terminal Units Rettangolare:VAV Type TA-Silenzio 250,J.002,IfcAirTerminalBox,,Corretta,1
+1,IM_DIS_ACC_VAV:OPTIMA-SI-FC-1000x800-(),J.002,IfcAirTerminalBox,,Corretta,1
+8,IM_DIS_ACC_VAV:OPTIMA-SI-FC-600x300-(),J.002,IfcAirTerminalBox,,Corretta,1
+8,IM_DIS_ACC_Silenziatore Rettangolare:600x300,J.002,IfcAirTerminalBox,,Corretta,1
+3,IM_DIS_ACC_VAV:OPTIMA-SI-FC-800x400-(),J.002,IfcAirTerminalBox,,Corretta,1
+3,IM_DIS_ACC_Silenziatore Rettangolare:800x400,J.002,IfcAirTerminalBox,,Corretta,1
+1,IM_DIS_ACC_VAV:OPTIMA-SI-FC-900x400-(),J.002,IfcAirTerminalBox,,Corretta,1
+1,IM_DIS_ACC_Silenziatore Rettangolare:900x400,J.002,IfcAirTerminalBox,,Corretta,1
+43,IM_DIS_ACT_Valvola farfalla:Family with type catalog,J.002,IfcValve,,Corretta,1
+1,IM_DIS_ACT_Valvola di regolazione indipendente dalla pressione:92VL_1/2 Inch_150L/h,J.002,IfcValve,,Corretta,1
+8,IM_DIS_ACT_Valvola di regolazione indipendente dalla pressione:92H_1/2 Inch_850L/h,J.002,IfcValve,,Corretta,1
+84,"BALLSTOP_Ball_valve_with_built-in_check_valve-Caleffi-327_DN15-DN50:3/4"""" Butterfly",J.002,IfcValve,,Corretta,1
+290,IM_COL_RET_Lzi_Calotta chiusura:20 cm,J.002,IfcDuctFitting,,Corretta,1
+45,IM_COL_RET_Lzi_T:Default,J.002,IfcDuctFitting,,Corretta,1
+479,IM_COL_RET_Lzi_Connettore:Standard,J.002,IfcDuctFitting,,Corretta,1
+242,IM_DIS_ACC_Raccordo condotto transizione rettangolare:45 Degree,J.002,IfcDuctFitting,,Corretta,1
+575,IM_COL_CIR_Lzi_Raccordo:Standard,J.002,IfcDuctFitting,,Corretta,1
+332,DiRoots-FR-Temp-0:default,J.002,IfcDuctFitting,,Corretta,1
+16,IM_DIS_ACC_Raccordo condotto transizione rettangolare angolo:91 Degree,J.002,IfcDuctFitting,,Corretta,1
+57,IM_COL_RET_Lzi_GomitoL:0.6 W,J.002,IfcDuctFitting,,Corretta,1
+107,IM_COL_RET_Lzi_TransizioneL:default,J.002,IfcDuctFitting,,Corretta,1
+2,IM_COL_RET_Lzi_Doppio gomito:default,J.002,IfcDuctFitting,,Corretta,1
+5,IM_DIS_ACC_Raccordo condotto transizione rettangolare:45 gradi,J.002,IfcDuctFitting,,Corretta,1
+72,IM_PAF_RIG_Gomito FF:Zincato 90,J.002,IfcPipeFitting,,Corretta,1
+28,IM_PAF_TEE_Filettato:Zincato,J.002,IfcPipeFitting,,Corretta,1
+42,IM_PAF_TRS_Filettato Riduzione:Zincato,J.002,IfcPipeFitting,,Corretta,1
+55,IM_PAF_RIG_Gomito:Acciaio Nero 90,J.002,IfcPipeFitting,,Corretta,1
+118,IM_PAF_TEE_Saldare T:Acciaio Nero,J.002,IfcPipeFitting,,Corretta,1
+128,IM_PAF_TRS_Saldare Riduzione:Acciaio Nero,J.002,IfcPipeFitting,,Corretta,1
+85,IM_PAF_RIG_Gomito:Acciaio Nero 45,J.002,IfcPipeFitting,,Corretta,1
+16,IM_PAF_FLE_Saldare Calotta:Acciaio Nero,J.002,IfcPipeFitting,,Corretta,1
+3,IM_DIS_AME_Cassonetto di estrazione:TFC 225 P Sileo Black,J.002,IfcFan,,Corretta,1
+2,IM_DIS_AME_Cassonetto di estrazione:TFC 355 P Sileo Black,J.002,IfcFan,,Corretta,1
+1253,Condotto rettangolare:SG_Rett zincato,J.002,IfcDuctSegment,,Corretta,1
+823,Condotto flessibile circolare:Flessibile - Circolare,J.002,IfcDuctSegment,,Corretta,1
+186,Tubazione:Acciaio Zincato,J.002,IfcPipeSegment,,Corretta,1
+1020,Tubazione:Acciaio Nero a Saldare,J.002,IfcPipeSegment,,Corretta,1
+325,IM_DIS_BOC_Diffusore lineare:Lenght 2000mm,J.002,IfcAirTerminal,,Corretta,1
+40,IM_DIS_BOC_Griglie ripresa aria con plenum:1000x400,J.002,IfcAirTerminal,,Corretta,1
+13,IM_DIS_BOC_Diffusore lineare:Diffusore lineare - U,J.002,IfcAirTerminal,,Corretta,1
+2,IM_DIS_BOC_Valvola estrazione aria:Balance-E-160 Return valve,J.002,IfcAirTerminal,,Corretta,1
+49,IM_DIS_BOC_Griglie ripresa aria:800x300,J.002,IfcAirTerminal,,Corretta,1
+35,IM_DIS_BOC_Griglie ripresa aria:600x150,J.002,IfcAirTerminal,,Corretta,1
+2,IM_DIS_BOC_Griglie ripresa aria:300x100,J.002,IfcAirTerminal,,Corretta,1
+23,IM_DIS_BOC_Diffusore mandata:Diffusore M 600x600,J.002,IfcAirTerminal,,Corretta,1
+24,IM_DIS_BOC_Diffusore ripresa:Diffusore R 525x525,J.002,IfcAirTerminal,,Corretta,1
+19,IM_DIS_BOC_Valvola estrazione aria:Balance-E-125 Return valve,J.002,IfcAirTerminal,,Corretta,1
+1,IM_DIS_BOC_Griglia UTA-ESP-PAE:USL/A-1000-600,J.002,IfcAirTerminal,,Corretta,1
+1,IM_DIS_BOC_Griglia UTA-ESP-PAE:USL/A-400-400,J.002,IfcAirTerminal,,Corretta,1
+1,IM_DIS_BOC_Griglia UTA-ESP-PAE:USL/A-1000-800,J.002,IfcAirTerminal,,Corretta,1
+1,IM_DIS_BOC_Griglia UTA-ESP-PAE:USL/A-1900-800,J.002,IfcAirTerminal,,Corretta,1
+42,IM_DIS_BOC_Griglie ripresa aria:1000X200,J.002,IfcAirTerminal,,Corretta,1
+36,IM_DIS_BOC_Griglie ripresa aria:800x400,J.002,IfcAirTerminal,,Corretta,1
+16411,,,IfcDistributionPort,,Corretta,1
 1,[FCL_FCLV2_FCLVL]_[84-104-124]_4Pipes_+_FCLMC20:FCL_104_Max Speed,2294922,001,IfcBuildingElementProxy,Corretta,1
 1,[FCL_FCLV2_FCLVL]_[84-104-124]_4Pipes_+_FCLMC20:FCL_104_Max Speed,2299883,001,IfcBuildingElementProxy,Corretta,1
 1,[FCL_FCLV2_FCLVL]_[84-104-124]_4Pipes_+_FCLMC20:FCL_104_Max Speed,2299891,003,IfcBuildingElementProxy,Corretta,1
