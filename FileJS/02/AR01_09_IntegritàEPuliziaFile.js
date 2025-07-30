@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
 		{ tableId: "IntegritàEPuliziaFile", repo:"2Dto6D/ADB_Verifiche", filePath:"AR01Riepilogo/02/AR01_09_PuliziaFile.csv" },
 		{ tableId: "PesoFile", repo:"2Dto6D/ADB_Verifiche", filePath:"AR01Verifiche/02/AR01_09_DimensioneFiles_Data.csv" },
 		{ tableId: "VersioneFile", repo:"2Dto6D/ADB_Verifiche", filePath:"AR01Verifiche/02/AR01_09_VersioneFiles_Data.csv" },
-		{ tableId: "SovrapposizioneElementi", repo:"2Dto6D/ADB_Verifiche", filePath:"AR01Verifiche/02/AR01_09_SovrapposizioniElementi_Data.csv" },
 		{ tableId: "IFCMapping", repo:"2Dto6D/ADB_Verifiche", filePath:"AR01Verifiche/02/AR01_09_IFCMapping_Data.csv" },
 
 	];
@@ -12,12 +11,18 @@ document.addEventListener("DOMContentLoaded", function () {
 	tablesToLoad.forEach(table => {
 		loadCSVToTable(table.tableId, table.repo, table.filePath);
 	});
+	loadCSV('SovrapposizioneElementi', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/02/AR01_09_SovrapposizioniElementi_Data.csv');
 	loadCSV('LivelliInutilizzati', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/02/AR01_09_LivelliInutilizzati_Data.csv');
 	loadCSV('BuildingElementProxy', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/02/AR01_09_BuildingElementProxy_Data.csv');
 	loadCSV('ParametriCondivisi', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/02/AR01_09_SharedParameters_Data.csv');
 	loadCSV('CorrispondenzaIFC', '2Dto6D/ADB_Verifiche', 'AR01Verifiche/02/AR01_09_VerificaCorrispondenzaIFC_Data.csv');
 
-
+	loadHistogramFromCSV({
+		csvUrl: 'https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/AR01Verifiche/02/AR01_09_SovrapposizioniElementi_Data.csv',
+		chartId: 'SovrapposizioneElementiAsBarChart',
+		statsId: 'SovrapposizioneElementiStatistics',
+		title: 'Istogramma delle Categorie'
+	});
 
 	const summaryConfigs = [
 		{ statsId: "LivelliInutilizzatistatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "AR01Verifiche/02/AR01_09_LivelliInutilizzati_Data.csv"},
@@ -209,6 +214,103 @@ function createPaginationButtons(tableId) {
 }
 
 
+//  Istogramma
+// Funzione generica per caricare dati CSV e creare un istogramma
+function loadHistogramFromCSV({ csvUrl, chartId, statsId, title }) {
+	fetch(csvUrl)
+		.then(response => response.ok ? response.text() : Promise.reject('Errore nel caricamento del CSV'))
+		.then(data => {
+			const parsedData = Papa.parse(data, { header: true }).data;
+
+			// Raggruppa i dati per categoria e stato
+			const categories = {};
+			parsedData.forEach(row => {
+				const category = row.Categoria?.trim() || 'Altro';
+				const stato = row.Stato?.trim() === '1' ? 'checked' : 'unchecked';
+
+				if (!categories[category]) {
+					categories[category] = { checked: 0, unchecked: 0 };
+				}
+				categories[category][stato]++;
+			});
+
+			// Prepara i dati per Chart.js
+			const labels = Object.keys(categories);
+			const checkedData = labels.map(label => categories[label].checked);
+			const uncheckedData = labels.map(label => categories[label].unchecked);
+
+			// Crea il grafico a barre
+			const ctx = document.getElementById(chartId);
+			if (!ctx) {
+				console.error(`Canvas con ID ${chartId} non trovato`);
+				return;
+			}
+
+			new Chart(ctx.getContext('2d'), {
+				type: 'bar',
+				data: {
+					labels: labels,
+					datasets: [
+						{
+							label: 'Elementi Corretti',
+							data: checkedData,
+							backgroundColor: '#28a745',
+						},
+						{
+							label: 'Elementi Incorretti',
+							data: uncheckedData,
+							backgroundColor: '#dc3545',
+						}
+					]
+				},
+				options: {
+					responsive: true,
+					plugins: {
+						legend: {
+							position: 'top',
+						},
+						title: {
+							display: true,
+							text: title
+						}
+					},
+					scales: {
+						x: {
+							title: { display: true, text: 'Categorie' }
+						},
+						y: {
+							title: { display: true, text: 'Numero di Elementi' },
+							beginAtZero: true
+						}
+					}
+				}
+			});
+
+			// Mostra riepilogo statistico
+			displayStatisticsHistogram(parsedData, statsId);
+		})
+		.catch(error => console.error('Errore:', error));
+}
+
+// Funzione per mostrare il riepilogo statistico sotto l'istogramma
+function displayStatisticsHistogram(data, statsId) {
+	const statsContainer = document.getElementById(statsId);
+	if (!statsContainer) {
+		console.error(`Elemento con ID ${statsId} non trovato`);
+		return;
+	}
+
+	const total = data.length;
+	const correct = data.filter(row => row.Stato?.trim() === '1').length;
+	const incorrect = total - correct;
+	const correctPercentage = total > 0 ? ((correct / total) * 100).toFixed(2) : 0;
+
+	statsContainer.innerHTML = `
+		<p><strong>Totale verifiche:</strong> ${total}</p>
+		<p><strong>Verifiche corrette:</strong> ${correct} (${correctPercentage}%)</p>
+		<p><strong>Verifiche incorrette:</strong> ${incorrect}</p>
+	`;
+}
 
 
 // Statistiche

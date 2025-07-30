@@ -24,7 +24,7 @@
 		<nav class="Menu">
 			<button class="hamburger" onclick="toggleMenu()">☰</button>
 			<div class="menu-content" id="menuContent">
-				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/02/AR01_00_index.html">Home AR01</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR01_00_index.html">Home AR01</a></button>
 				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/02/AR01_05_ACDat.html"> ACDat</a></button>
 				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/02/AR01_07_GeoreferenziazioneEOrientamento.html"> Georeferenziazione e Orientamento</a></button>
 				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/02/AR01_08_GriglieELivelli.html"> Griglie e Livelli</a></button>
@@ -74,10 +74,21 @@
 					<p class="Descrizione">Non sono presenti elementi completamente sovrapposti tra loro.</p>
 				</div>
 				<br>
-				<table id="SovrapposizioneElementi" class="SovrapposizioneElementi">
-					<thead></thead>
-					<tbody></tbody>
-				</table>
+				<div class="Verifica">
+					<div class="SovrapposizioneElementi">
+						<table class="SovrapposizioneElementiTabella">
+							<thead id="SovrapposizioneElementiHeader"></thead>
+							<tbody id="SovrapposizioneElementiBody"></tbody>
+						</table>
+					<br>
+						<div class="pagination-SovrapposizioneElementi"></div>
+					</div>
+					<div class="Grafico">
+						<canvas id="SovrapposizioneElementiAsBarChart" width="800" height="400"></canvas>
+						<br>
+						<div id="SovrapposizioneElementiStatistics"></div>
+					</div>
+				</div>
 			</div>
 			<div class="Card1">
 				<div class="Titolo">

@@ -2,7 +2,7 @@
 .IntegritàEPuliziaFile,
 .PesoFile,
 .VersioneFile,
-.SovrapposizioneElementi,
+.SovrapposizioneElementiTabella,
 .IFCMapping,
 .LivelliInutilizzatiTabella,
 .BuildingElementProxyTabella,
@@ -17,7 +17,7 @@ border-collapse: collapse;
 .IntegritàEPuliziaFile th,
 .PesoFile th,
 .VersioneFile th,
-.SovrapposizioneElementi th,
+.SovrapposizioneElementiTabella th,
 .IFCMapping th,
 .LivelliInutilizzatiTabella th,
 .BuildingElementProxyTabella th,
@@ -32,7 +32,7 @@ word-wrap: break-word;
 .IntegritàEPuliziaFile td,
 .PesoFile td,
 .VersioneFile td,
-.SovrapposizioneElementi td,
+.SovrapposizioneElementiTabella td,
 .IFCMapping td,
 .LivelliInutilizzatiTabella td,
 .BuildingElementProxyTabella td,
@@ -45,6 +45,7 @@ word-wrap: break-word;
 }
 
 /* Bottoni per la paginazione */
+.pagination-SovrapposizioneElementi,
 .pagination-LivelliInutilizzati,
 .pagination-BuildingElementProxy,
 .pagination-ParametriCondivisi,
@@ -54,6 +55,7 @@ justify-content: center;
 margin-top: 30px;
 }
 
+.pagination-SovrapposizioneElementi button,
 .pagination-LivelliInutilizzati button,
 .pagination-BuildingElementProxy button,
 .pagination-ParametriCondivisi button,
@@ -66,9 +68,17 @@ background-color: lightgray;
 cursor: pointer;
 }
 
+.pagination-SovrapposizioneElementi button:hover,
 .pagination-LivelliInutilizzati button:hover,
 .pagination-BuildingElementProxy button:hover,
 .pagination-ParametriCondivisi button:hover,
 .pagination-CorrispondenzaIFC button:hover {
 background-color: gray;
+}
+
+/* Grafico Istogramma */
+#SovrapposizioneElementiAsBarChart {
+max-width: 50%;
+margin: 20px auto;
+display: block;
 }
