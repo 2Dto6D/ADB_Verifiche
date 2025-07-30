@@ -1,0 +1,34 @@
+AWC_Estrazione bagni,941403,Numero campi errato,0
+ARE_Aria esausta,941771,Numero campi errato,0
+ARF_Aria esterna,941778,Numero campi errato,0
+ESF_Estrazione fumi,941828,Numero campi errato,0
+ARR_Aria di ripresa,1430653,Numero campi errato,0
+ARM_Aria mandata,1566168,Numero campi errato,0
+<Per categoria>,549920,Numero campi errato,0
+SGS_SC_Saponate,941405,Codice Progetto non corretto,0
+SGS_SC_Esistenti,941772,Codice Progetto non corretto,0
+SGS_ID_Linee esistenti,941773,Codice Progetto non corretto,0
+GEN_Antincendio generico,941774,Numero campi errato,0
+CLM_Rete calda mandata,941776,Numero campi errato,0
+RRM_Rete refrigerata mandata,941777,Numero campi errato,0
+RRR_Rete refrigerata ritorno,941779,Numero campi errato,0
+RIU_Acqua di riuso,941780,Numero campi errato,0
+SGS_FT_Linee Esistenti,941782,Codice Progetto non corretto,0
+SAN_Scarico acque nere,941783,Numero campi errato,0
+SCD_Scarico condensa,941784,Numero campi errato,0
+RIC_Ricircolo acqua calda sanitaria,941785,Numero campi errato,0
+IDR_Idranti,941787,Numero campi errato,0
+SPR_Sprinkler,941788,Numero campi errato,0
+ACS_Acqua calda sanitaria,941793,Numero campi errato,0
+AFS_Acqua fredda sanitaria,941794,Numero campi errato,0
+VEN_Ventilazione scarico,941795,Numero campi errato,0
+CLR_Rete calda ritorno,941797,Numero campi errato,0
+CMM_Rete commutata mandata,941807,Numero campi errato,0
+CMR_Rete commutata ritorno,941808,Numero campi errato,0
+SAG_Scarico acque grasse,941811,Numero campi errato,0
+SGS_SC_Saponate,941812,Codice Progetto non corretto,0
+SAM_Scarico acque meteoriche,941813,Numero campi errato,0
+PRR_Rete post riscaldamento ritorno,1430659,Numero campi errato,0
+PRM_Rete post riscaldamento mandata,1430661,Numero campi errato,0
+AOS_Acqua Osmotizzata,1566169,Numero campi errato,0
+NSP_Naspi,1566781,Numero campi errato,0

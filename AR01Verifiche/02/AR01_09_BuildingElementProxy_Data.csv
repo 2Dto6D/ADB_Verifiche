@@ -1,0 +1,2181 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,IFC Class,Stato
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,692525,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,693185,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,693756,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,693846,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,693918,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,694014,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,697441,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,697483,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,697516,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,697707,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,697784,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,697830,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,697923,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,697989,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,698040,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,698093,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,698142,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_460mm_PI.01,698176,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,698316,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,698594,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,698755,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,698982,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,699170,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,699204,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,699259,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,699313,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,699383,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,699443,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,699494,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,699540,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,699817,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,699961,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,700023,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,700083,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,700161,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,700244,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,700329,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,700410,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,700583,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,700754,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,700809,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,700870,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,700948,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,700987,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,701052,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,701094,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,701161,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,701224,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,701464,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,722885,IfcWall,1
+OST_Doors,AR_POR_SCO_Leg_1A_Normale,AR_POR_SCO_Leg_1A_Normale_900x2200,722978,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,723254,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,724028,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,724029,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,724094,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,724158,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,724221,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,724305,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725019,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725020,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725021,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,725022,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725023,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725024,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725027,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725028,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725029,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725031,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725033,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725034,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,725035,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,725036,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,725037,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725038,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725039,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725040,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,725041,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,725042,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,725043,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725044,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725045,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725046,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,725047,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725048,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725049,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725050,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725051,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725052,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725053,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,725054,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725056,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725057,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725058,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,725059,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,725060,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725061,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725062,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725063,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725064,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,725065,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725067,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725077,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,725078,IfcWall,1
+OST_Doors,AR_POR_SCO_Leg_1A_Normale,AR_POR_SCO_Leg_1A_Normale_900x2200,725079,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,725083,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,725088,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,725089,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,726026,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,727502,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,728395,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,728455,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_900X2200,728817,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,742771,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,743469,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,743550,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,744019,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,744155,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,745708,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,746167,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,746537,IfcWall,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1300x2400,746632,IfcDoor,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1500x2400,746729,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_900X2200,746957,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,748566,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,748629,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,748883,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,748998,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,749485,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,749544,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,749703,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,749757,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,749914,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,749938,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,749979,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,750151,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,750442,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,751057,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,751099,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,751239,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,751293,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,751514,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,751611,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,751661,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,752749,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,753068,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753075,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753171,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753231,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,753289,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753327,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753425,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753647,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753828,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753852,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753888,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753995,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753997,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,753998,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,754085,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,754106,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,754198,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,754311,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,754465,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,754466,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,754467,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,754468,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,801501,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,801519,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,801548,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,801658,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,832950,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,833006,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,833073,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,833105,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,833155,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,833281,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,833360,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,833390,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,833471,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,833631,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,833672,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,833736,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,833801,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,833832,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,834048,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,834049,IfcWall,1
+OST_Doors,AR_POR_SCO_Leg_1A_Normale,AR_POR_SCO_Leg_1A_Normale_900x2200,834050,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,834125,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,834126,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,834127,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,834128,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,834297,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,834728,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,835205,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,836073,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,836381,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,836928,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,837010,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,837080,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,837161,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,837197,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,837271,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,837515,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,837789,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,838590,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,838837,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,838856,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,838899,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,839105,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,839243,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,839329,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,839349,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,839373,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,839426,IfcWall,1
+OST_Furniture,AR_ ARR_GAT_BancoGate,AR_ARR_GAT_BancoGate_1850x1185,861651,IfcFurniture,1
+OST_Furniture,AR_ ARR_GAT_BancoGate,AR_ARR_GAT_BancoGate_1850x1185,861708,IfcFurniture,1
+OST_Furniture,AR_ ARR_GAT_BancoGate,AR_ARR_GAT_BancoGate_1850x1185,861841,IfcFurniture,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,862041,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,862184,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,862393,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,862492,IfcWall,1
+OST_Furniture,AR_ ARR_GAT_BancoGate,AR_ARR_GAT_BancoGate_1850x1185,862563,IfcFurniture,1
+OST_Furniture,AR_ ARR_GAT_BancoGate,AR_ARR_GAT_BancoGate_1850x1185,862607,IfcFurniture,1
+OST_Furniture,AR_ ARR_GAT_BancoGate,AR_ARR_GAT_BancoGate_1850x1185,862642,IfcFurniture,1
+OST_Furniture,AR_ ARR_GAT_BancoGate,AR_ARR_GAT_BancoGate_1850x1185,862727,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_TornelliAccesso,AR_ARR_ARR_TornelliAccesso,899691,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_TornelliAccesso,AR_ARR_ARR_TornelliAccesso,917046,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_TornelliAccesso,AR_ARR_ARR_TornelliAccesso,917298,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_TornelliAccesso,AR_ARR_ARR_TornelliAccesso,917421,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_TornelliAccesso,AR_ARR_ARR_TornelliAccesso,917443,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_TornelliAccesso,AR_ARR_ARR_TornelliAccesso,917592,IfcFurniture,1
+OST_Floors,Pavimento,AR_PAV_GET_1270mm_PI.04,944671,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,947788,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,947905,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,947906,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,947907,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,947908,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,947923,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,947924,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,947925,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,948901,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,948902,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,948903,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,949172,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,949303,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,949404,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,949886,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,949887,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,949888,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,950552,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,950553,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,950554,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,950645,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_460mm_PI.02,955770,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_460mm_PI.02,955916,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_460mm_PI.03,956956,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,960163,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,960201,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,960244,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,960327,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,962508,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,962712,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,962719,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,962726,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,962768,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,963349,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,965714,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,966164,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,966201,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,966260,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,966322,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,966362,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,966425,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,967717,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,968153,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,968190,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,968245,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,972533,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,972655,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,973550,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,973608,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,973662,IfcWall,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gres_MoloSopraelevato_h810mm,973699,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_SCA_RET_Gres_RampaMoloSopraelevato_h810mm,974180,IfcStairFlight,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,977504,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1000139,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_1270mm_PI.04,1000466,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1001682,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1006101,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1006348,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1006349,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1006350,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1006351,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1007432,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1008403,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1008676,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1010858,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1013822,IfcSlab,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloCircolazione,1014907,IfcCurtainWall,1
+OST_Doors,AR_ POR_SCO_All_4A_SimmetricaDueAnteFisse,AR_ POR_SCO_All_4A_SimmetricaDueAnteFisse_4800x2400,1014908,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1014912,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1014913,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1014914,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1014915,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloCircolazione,1018589,IfcCurtainWall,1
+OST_Doors,AR_ POR_SCO_All_4A_SimmetricaDueAnteFisse,AR_ POR_SCO_All_4A_SimmetricaDueAnteFisse_4800x2400,1018590,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018591,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018592,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018593,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018594,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloCircolazione01,1018771,IfcCurtainWall,1
+OST_Doors,AR_ POR_SCO_All_4A_SimmetricaDueAnteFisse,AR_ POR_SCO_All_4A_SimmetricaDueAnteFisse_4800x2400,1018772,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018773,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018774,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018775,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1018776,IfcMember,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1019629,IfcWall,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloIngressoGate,1027899,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1027900,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1027905,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1027906,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1027907,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1028597,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028604,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028606,IfcMember,1
+OST_Doors,AR_ POR_SCO_All_4A_SimmetricaDueAnteFisse,AR_ POR_SCO_All_4A_SimmetricaDueAnteFisse_3600x2400,1028738,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028744,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028745,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1028746,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Opaco,1028999,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Opaco,1029000,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Opaco,1029001,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029015,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029016,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029017,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029018,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029020,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029021,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1029680,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029785,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029786,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1029787,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco01,1032522,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1032523,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032527,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032528,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032529,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032530,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1032636,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032643,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032644,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1032645,IfcMember,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1038735,IfcCovering,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1040134,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040140,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040141,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040142,IfcMember,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1040539,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040545,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040546,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040547,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040734,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040739,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040740,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040741,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040903,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040904,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040905,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040906,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1040907,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040924,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040925,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040926,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040927,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040928,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040929,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040930,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040931,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040932,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040933,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1040934,IfcMember,1
+OST_Floors,Pavimento,AR_PAV_GET_460mm_PI.02,1041231,IfcSlab,1
+OST_Roofs,Tetto di base,AR_TET_PIA_482mm_PE.21,1042212,IfcRoof,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,1042285,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1043501,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1043580,IfcWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044036,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044037,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044045,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044046,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044047,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloCircolazione01,1044057,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044114,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044115,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044124,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044125,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044126,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco01,1044136,IfcCurtainWall,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044189,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044190,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044191,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044192,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044193,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044194,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044263,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044264,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044494,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044495,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044504,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044505,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044506,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044507,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044508,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044734,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1044735,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044744,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044745,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044746,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044747,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1044748,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045082,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045083,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045093,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045094,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045095,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045096,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045097,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045277,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045278,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045288,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045289,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045290,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045291,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045292,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045342,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045343,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045353,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045354,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045355,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045356,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045357,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045543,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045544,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045554,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045555,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045556,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045557,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045558,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045635,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1045636,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045647,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045648,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045649,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045650,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1045651,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1061998,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1061999,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062010,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062011,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062012,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062013,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062014,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062434,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062435,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062436,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062437,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062438,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062439,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062440,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1062441,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062460,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062461,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062462,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062463,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062464,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062465,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062466,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062467,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062468,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062469,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062470,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062471,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062472,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062473,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062474,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062475,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1062476,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco01,1071124,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1071125,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071128,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071129,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071130,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071131,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco01,1071662,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1071663,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071666,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071668,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071669,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco01,1071831,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1071832,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071835,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071836,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071837,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071838,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco01,1071994,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1071995,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071998,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1071999,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072000,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072001,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco01,1072178,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072179,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072182,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072183,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072184,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072185,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco01,1072295,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072296,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072299,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072300,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072301,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072302,IfcMember,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1072406,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072413,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072414,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072415,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072507,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072513,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072514,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072515,IfcMember,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1072617,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072624,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072625,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072626,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072659,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072665,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072666,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072667,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco01,1072755,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072756,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072757,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072758,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072759,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072760,IfcMember,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,1072762,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072763,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072764,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072765,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1072767,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072768,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072769,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1072770,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1073237,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073245,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073246,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1073372,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073378,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073379,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073380,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1073874,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073880,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073881,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1073882,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074098,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074104,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074105,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074106,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074224,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074230,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074231,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074232,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074368,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074374,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074375,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074376,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074713,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074720,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074721,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074722,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074788,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074794,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074795,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074796,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074892,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074898,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074899,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074900,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1074972,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074978,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074979,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1074980,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075112,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075118,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075119,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075120,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075235,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075241,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075242,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075243,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075254,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075260,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075261,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075262,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075270,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075276,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075277,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075278,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075289,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075294,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075295,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075296,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075307,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075312,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075313,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075314,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075513,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075519,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075520,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075521,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075598,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075604,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075605,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075606,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075709,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075716,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075717,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075718,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075822,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075828,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075829,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075830,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1075912,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075918,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075919,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1075920,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076026,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076032,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076033,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076034,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076102,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076108,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076109,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076110,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076214,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076220,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076221,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076222,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076280,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076286,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076287,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076288,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076399,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076406,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076407,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076408,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076490,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076496,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076497,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076498,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076542,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076548,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076549,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076550,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076653,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076655,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076656,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076657,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076658,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076659,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076660,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076674,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076675,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076678,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076679,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076680,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076681,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076682,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076683,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076685,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076686,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076687,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076688,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076689,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076690,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076900,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076901,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076902,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076903,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076904,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076905,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076906,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1076907,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076921,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076922,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076923,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076924,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076925,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076926,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076927,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076928,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076929,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076930,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076931,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076932,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076933,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076934,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076935,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076936,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1076937,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077022,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077023,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077024,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077025,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077026,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077027,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077028,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077029,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077094,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077095,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077096,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077097,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077098,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077099,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077100,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077101,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077102,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077103,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077104,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077105,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077106,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077107,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077108,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077109,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077110,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077267,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077268,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077269,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077270,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077271,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077272,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077273,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077274,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077288,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077289,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077290,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077291,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077292,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077293,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077294,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077295,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077296,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077297,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077298,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077299,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077300,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077301,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077302,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077303,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077304,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077495,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077496,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1077497,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077553,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077554,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077555,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077556,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077557,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077558,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1077559,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1078815,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1078816,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1078817,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078873,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078874,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078875,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078876,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078877,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078878,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1078879,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1080578,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1080579,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1080580,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,1080581,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080595,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080596,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080597,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080598,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080599,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080600,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080601,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080602,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,1080603,IfcMember,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1087648,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_100mm_PI.11,1087901,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1088015,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1088016,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1088213,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1088418,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1088581,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1090214,IfcCovering,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1500x2400,1090784,IfcDoor,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1092993,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1093977,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1094789,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1110545,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1128952,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1128996,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1129858,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140351,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140480,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140481,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140482,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140483,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140530,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140531,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140532,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140533,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140539,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140541,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140600,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140601,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140602,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140603,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140604,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140605,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140606,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140607,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140608,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140609,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140610,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140611,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140612,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1140613,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1140615,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1141065,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1142795,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1143629,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1150449,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1151173,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1155573,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1190432,IfcWall,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_Molo_00mm,1194181,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_RampaMolo_1300x2700mm,1194244,IfcStairFlight,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_RampaMolo_1300x2700mm,1194298,IfcStairFlight,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_PianerottoloMolo_1300x1500mm,1194300,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_RampaMolo_1300x2700mm,1194361,IfcStairFlight,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_PianerottoloMolo_1300x1500mm,1194363,IfcSlab,1
+OST_Roofs,Tetto di base,AR_TET_PIA_482mm_PE.21,1198132,IfcRoof,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1212744,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1212847,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_460mm_PI.03,1215625,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1216324,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1216439,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1218863,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1218889,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_100mm_PI.12,1220213,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_100mm_PI.12,1220227,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_100mm_PI.11,1220239,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-003,1220332,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-003,1220631,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-003,1220706,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-003,1220908,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1221056,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1221467,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1221819,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1222488,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1224419,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1225638,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1226878,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1226953,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1227370,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1227491,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1227518,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1227529,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1227612,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1227730,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-007,1227758,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-007,1227773,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-007,1227805,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-007,1227903,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-003,1228021,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-003,1228189,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-003,1228241,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-003,1228534,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1228997,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1229133,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1229189,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1229883,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1230522,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1230707,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1240890,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1241576,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1241771,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-007,1241845,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1241862,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1241883,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1241940,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1242023,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1242039,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1242115,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1242718,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1242721,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-004,1242856,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-005,1242869,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1247632,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1248352,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1248631,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1248711,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1248955,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1249223,IfcWall,1
+OST_Doors,AR_POR_SCO_Leg_1A_Normale,AR_POR_SCO_Leg_1A_Normale_900x2200,1249239,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1249240,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1249440,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1249441,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1249442,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1249483,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1257351,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1257455,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1257620,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1257628,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1257644,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1257831,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1257835,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1257837,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,1258456,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1259118,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1259277,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1259347,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_60mm_CI.01,1262468,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_Circolazione002,AR_GEN_MGE_Circolazione002_CI.02,1278392,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.03,1283517,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1283552,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1283553,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283575,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283578,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283579,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283580,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283581,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283582,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283583,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283584,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283585,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283586,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1283613,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1283614,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1283615,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1283630,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1283645,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1283751,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283752,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1283753,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1283836,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1283837,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1283840,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1283841,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1283843,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1283844,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1283846,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1283849,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1283850,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1284084,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1284085,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1284086,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1284087,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1284091,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1284092,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1284096,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1284097,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1284098,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1284099,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.03,1284459,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.03,1284601,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.03,1289758,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.03,1289769,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1290007,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1290928,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1291898,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1292314,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1292456,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1292580,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1292709,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1293630,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1293728,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1293810,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1293852,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1295383,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1295418,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1295633,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1295747,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1295802,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1295849,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1296142,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1297181,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1298174,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1298663,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1298983,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1299169,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1299258,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1300053,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1300140,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1301297,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1301365,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1301420,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1301468,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1301722,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1301723,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1306661,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1306926,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1306982,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1307062,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1307144,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1307348,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1307349,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1307350,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1307351,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1307455,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1309835,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1309836,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1309837,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1309838,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1309853,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1309854,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1309855,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1309856,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310314,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1310330,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310332,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310333,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1310335,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310336,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310337,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310338,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310341,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310342,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310343,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310344,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1310350,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1310351,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1310352,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310353,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310355,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310357,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310359,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1310361,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1310362,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310363,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1310364,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1310377,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310380,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310382,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310383,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310384,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310385,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310386,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310387,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310388,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1310389,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310391,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1310393,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1310450,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1310970,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1311006,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1311308,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1311359,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1311360,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1311361,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1311394,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1311396,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1311397,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1311399,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1311400,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1312618,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1312924,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1312926,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1316121,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1316122,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1316123,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1316124,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1320998,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1320999,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1321000,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1321001,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1321088,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1321090,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1321092,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1321094,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1321096,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1321099,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1321100,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1321376,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1334986,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1335689,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1335846,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1335934,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1336175,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1336610,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1336611,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1336689,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1336800,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1336919,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1336982,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1337686,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1337818,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1338380,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1340110,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1340330,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,1340432,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1340527,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1340528,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1340530,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1342293,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1342394,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1343430,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1343522,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1343766,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1345671,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1346366,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1347712,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1348144,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1348350,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1348513,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1348612,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1348613,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1348614,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1348709,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1349189,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1349694,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,1351049,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1353022,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1353850,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1361652,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,1364154,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1376583,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1376897,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-007,1378330,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1381583,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1381716,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1381783,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1381828,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1383665,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1383716,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1383750,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1383804,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1383841,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1383964,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1384580,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1384626,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1384692,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1384737,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1384853,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1385257,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1385306,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1385372,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1385445,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1385494,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1388072,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1388202,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1388262,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1388356,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1388526,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1388677,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1388931,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1388976,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1391143,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1391190,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1391262,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1391441,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1391502,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1401498,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_IngressoMolo,AR_GEN_MGE_IngressoMolo_CI.02,1410548,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1413923,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1418475,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1429940,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1431805,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1432549,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_IngressoMolo00,AR_GEN_MGE_IngressoMolo00_CI.02,1434039,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_IngressoMolo01,AR_GEN_MGE_IngressoMolo01_CI.02,1436158,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1444874,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1445129,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1445358,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1446781,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1446891,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1446892,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1446897,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1446959,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1446960,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1446973,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1446974,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1447031,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1447032,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1447085,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1447127,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1447150,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1447244,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1447245,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1447246,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1447247,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1447249,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1447287,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1447306,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1447325,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1447326,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1447327,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1447328,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1448744,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1448745,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1449007,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1449008,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1449009,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1449010,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1449011,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1449012,IfcWall,1
+OST_GenericModel,AR_GEN_MGE_IngressoMolo03,AR_GEN_MGE_IngressoMolo03_CI.02,1449899,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1457385,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1458171,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1458172,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1458173,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,1458177,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,1458178,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1458179,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1458180,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1458203,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1458204,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1458205,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1458209,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1458211,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1458212,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1458213,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1458330,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1458331,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1458334,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1458335,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1458341,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1458342,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1458343,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1458344,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1458345,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1458346,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1458449,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1458452,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1458453,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1458454,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1458520,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1458716,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1458717,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1458719,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1458720,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1458790,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_64mm_R.03,1458791,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1459154,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1459165,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1459175,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1459182,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1459189,IfcCovering,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,1502693,IfcSanitaryTerminal,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1532545,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1532546,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1532547,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1532548,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1532549,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1532550,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1532551,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1532552,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1532553,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1532554,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1532555,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1532556,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1532557,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1532558,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1532559,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1532560,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1532561,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1532562,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1532563,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1532564,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1532565,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,1533920,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboFasciatoio,IM_DIS_AID_SAN_LavaboIntegrato_Fasciatoio_460x1650,1538272,IfcSanitaryTerminal,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Chiuso,AR_ARR_ARR_BoxWC_Chiuso,1540643,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Chiuso,AR_ARR_ARR_Divisoriobox_Chiuso,1540644,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1540646,IfcFurniture,1
+OST_GenericModel,AR_GEN_MGE_Circolazione00,AR_GEN_MGE_Circolazione00_CI.02,1543194,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545239,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545246,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545253,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545260,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545267,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545274,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545281,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545288,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545295,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545302,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545309,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1545316,IfcCovering,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCDisabili,IM_DIS_AID_SAN_WCDisabili,1572857,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1572859,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,1579608,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,1579718,IfcSanitaryTerminal,1
+OST_GenericModel,AR_GEN_MGE_Circolazione003,AR_GEN_MGE_Circolazione003_CI.02,1580580,IfcCovering,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,1581652,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,1581653,IfcSanitaryTerminal,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1581654,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1581655,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1581656,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1581657,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1581658,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1581659,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1581660,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Laterale,AR_ARR_ARR_BoxWC_Laterale,1582987,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Laterale,AR_ARR_ARR_DivisorioBox_Laterale,1582988,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1582989,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1582990,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1582991,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1582992,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1582993,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Laterale,AR_ARR_ARR_BoxWC_Laterale,1589151,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Laterale,AR_ARR_ARR_DivisorioBox_Laterale,1589152,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1589153,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1589154,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1589155,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1589156,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1589157,IfcFurniture,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1589387,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_Circolazione004,AR_GEN_MGE_Circolazione001_CI.02,1592357,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1602145,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1602178,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesSx,AR_GEN_MGE_BladesSx_100mm,1602200,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesDx,AR_GEN_MGE_BladesDx_100mm,1602201,IfcCovering,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Laterale,AR_ARR_ARR_BoxWC_Laterale,1603077,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Laterale,AR_ARR_ARR_DivisorioBox_Laterale,1603078,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603079,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603080,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603081,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603082,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603083,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Chiuso,AR_ARR_ARR_BoxWC_Chiuso,1603085,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Chiuso,AR_ARR_ARR_Divisoriobox_Chiuso,1603086,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603088,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,1603093,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,1603094,IfcSanitaryTerminal,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603095,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603096,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603097,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603098,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603099,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603100,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603101,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Laterale,AR_ARR_ARR_BoxWC_Laterale,1603102,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Laterale,AR_ARR_ARR_DivisorioBox_Laterale,1603103,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603104,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603105,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603106,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603107,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603108,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Chiuso,AR_ARR_ARR_BoxWC_Chiuso,1603109,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Chiuso,AR_ARR_ARR_Divisoriobox_Chiuso,1603110,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603112,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboSingolo,IM_DIS_AID_SAN_LavaboSingolo_460x700,1603118,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,1603119,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,1603120,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1603121,IfcWall,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCBaby,IM_DIS_AID_SAN_WCBaby,1603122,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603123,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboFasciatoio,IM_DIS_AID_SAN_LavaboIntegrato_Fasciatoio_460x1650,1603124,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboDoppio,IM_DIS_AID_SAN_LavaboDoppio_460x1400,1603126,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboSingolo,IM_DIS_AID_SAN_LavaboSingolo_460x700,1603127,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,1603128,IfcSanitaryTerminal,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603129,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603130,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603131,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603132,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603133,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603134,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603135,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603136,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603137,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603138,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603139,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603140,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603141,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603142,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Laterale,AR_ARR_ARR_BoxWC_Laterale,1603143,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Laterale,AR_ARR_ARR_DivisorioBox_Laterale,1603144,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603145,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603146,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603147,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603148,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603149,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603150,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603151,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603152,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603153,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603154,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603155,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603156,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603157,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603158,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603159,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603160,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603161,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603162,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603163,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Laterale,AR_ARR_ARR_BoxWC_Laterale,1603164,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Laterale,AR_ARR_ARR_DivisorioBox_Laterale,1603165,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603166,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603167,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603168,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603169,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603170,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603171,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603172,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603173,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603174,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603175,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603176,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603177,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Laterale,AR_ARR_ARR_BoxWC_Laterale,1603178,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Laterale,AR_ARR_ARR_DivisorioBox_Laterale,1603179,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603180,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603181,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603182,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603183,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603184,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603185,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603186,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603187,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603188,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603189,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603190,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603191,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603192,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603193,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603194,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603195,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603196,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603197,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603198,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603326,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603327,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603328,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603329,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603330,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603331,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603332,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Laterale,AR_ARR_ARR_BoxWC_Laterale,1603333,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Laterale,AR_ARR_ARR_DivisorioBox_Laterale,1603334,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603335,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603336,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603337,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603338,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603339,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603340,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603341,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603342,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603343,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603344,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603345,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603346,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603347,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603348,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603349,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603350,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603351,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603352,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603353,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboSingolo,IM_DIS_AID_SAN_LavaboSingolo_460x700,1603551,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,1603552,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboDoppio,IM_DIS_AID_SAN_LavaboDoppio_460x1400,1603553,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,1603555,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,1603556,IfcSanitaryTerminal,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603558,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603559,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603560,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603561,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603562,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603563,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603564,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Chiuso,AR_ARR_ARR_BoxWC_Chiuso,1603565,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Chiuso,AR_ARR_ARR_Divisoriobox_Chiuso,1603566,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603568,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603572,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603573,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603574,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603575,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603576,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603577,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603578,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603579,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603580,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603581,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603582,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603583,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603584,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603585,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,1603586,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,1603587,IfcSanitaryTerminal,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603589,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603590,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603591,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603592,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603593,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603594,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603595,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Chiuso,AR_ARR_ARR_BoxWC_Chiuso,1603596,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Chiuso,AR_ARR_ARR_Divisoriobox_Chiuso,1603597,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603599,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603603,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603604,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603605,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603606,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603607,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603608,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603609,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,1603610,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,1603611,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,1603612,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,1603613,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1603614,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,1603615,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,1603616,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,1603617,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,1603618,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1607323,IfcWall,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCDisabili,IM_DIS_AID_SAN_WCDisabili,1612984,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1612987,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCDisabili,IM_DIS_AID_SAN_WCDisabili,1612989,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1612990,IfcFurniture,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1612992,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,1613131,IfcWall,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCDisabili,IM_DIS_AID_SAN_WCDisabili,1613133,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1613134,IfcFurniture,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1614193,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1614200,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1614205,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1614210,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1614439,IfcWall,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCBaby,IM_DIS_AID_SAN_WCBaby,1614739,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,1614740,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboFasciatoio,IM_DIS_AID_SAN_LavaboIntegrato_Fasciatoio_460x1650,1614931,IfcSanitaryTerminal,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1618470,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1618477,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1621055,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1621632,IfcWall,1
+OST_GenericModel,AR_GEN_MGE_BladesOvest,AR_GEN_MGE_BladesOvest_100mm,1630516,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesOvest,AR_GEN_MGE_BladesOvest_100mm,1630519,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_BladesOvestRettangolare,AR_GEN_MGE_BladesOvestRettangolare_100mm,1631595,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1641474,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1641634,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1641761,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1641775,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644159,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644264,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644278,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644292,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644306,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644501,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644550,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644629,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644686,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644702,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644733,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644751,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644769,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644783,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1644797,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1645430,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_Circolazione005,AR_GEN_MGE_Circolazione005_CI.02,1647609,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_Circolazione006,AR_GEN_MGE_Circolazione006_CI.02,1650344,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1650405,IfcWall,1
+OST_GenericModel,AR_GEN_MGE_Circolazione007,AR_GEN_MGE_Circolazione007_CI.02,1655841,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1655958,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1663066,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1663232,IfcCovering,1
+OST_GenericModel,AR_GEN_MGE_Circolazione008,AR_GEN_MGE_Circolazione008_CI.02,1664631,IfcCovering,1
+OST_Furniture,AR_ARR_ARR_DivisorioOrinatoio,AR_ARR_ARR_DivisorioOrinatoio,1665506,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_DivisorioOrinatoio,AR_ARR_ARR_DivisorioOrinatoio,1665508,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboDisabili,IM_DIS_AID_SAN_LavaboDisabili_570x660,1668179,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboDisabili,IM_DIS_AID_SAN_LavaboDisabili_570x660,1668182,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_DivisorioOrinatoio,AR_ARR_ARR_DivisorioOrinatoio,1668183,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_DivisorioOrinatoio,AR_ARR_ARR_DivisorioOrinatoio,1668187,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_DivisorioOrinatoio,AR_ARR_ARR_DivisorioOrinatoio,1668189,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_DivisorioOrinatoio,AR_ARR_ARR_DivisorioOrinatoio,1668193,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboDisabili,IM_DIS_AID_SAN_LavaboDisabili_570x660,1668196,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1668230,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboDisabili,IM_DIS_AID_SAN_LavaboDisabili_570x660,1668439,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1668440,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCDisabili,IM_DIS_AID_SAN_WCDisabili,1668687,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1668688,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboDisabili,IM_DIS_AID_SAN_LavaboDisabili_570x660,1668689,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1668690,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCDisabili,IM_DIS_AID_SAN_WCDisabili,1669054,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1669055,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboDisabili,IM_DIS_AID_SAN_LavaboDisabili_570x660,1669056,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1669057,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1669247,IfcFurniture,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1670461,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_95mm_CI.11,1671535,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1671612,IfcCovering,1
+OST_Furniture,AR_ARR_ARR_DispenserSapone,AR_ARR_ARR_DispenserSapone,1695146,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_AsciugamaniElettrico,AR_ARR_ARR_AsciugamaniElettrico,1707975,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboCleaning,IM_DIS_AID_SAN_LavaboCleaning_500x500,1708186,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboCleaning,IM_DIS_AID_SAN_LavaboCleaning_500x500,1708254,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_DispenserSapone,AR_ARR_ARR_DispenserSapone,1709937,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_AsciugamaniElettrico,AR_ARR_ARR_AsciugamaniElettrico,1709939,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_DispenserSapone,AR_ARR_ARR_DispenserSapone,1710092,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_AsciugamaniElettrico,AR_ARR_ARR_AsciugamaniElettrico,1710253,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_DispenserSapone,AR_ARR_ARR_DispenserSapone,1710447,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_AsciugamaniElettrico,AR_ARR_ARR_AsciugamaniElettrico,1710449,IfcFurniture,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1710925,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1712554,IfcCovering,1
+OST_Furniture,AR_ARR_ARR_AsciugamaniElettrico,AR_ARR_ARR_AsciugamaniElettrico,1712690,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_DispenserSapone,AR_ARR_ARR_DispenserSapone,1712691,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_DispenserSapone,AR_ARR_ARR_DispenserSapone,1712693,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_AsciugamaniElettrico,AR_ARR_ARR_AsciugamaniElettrico,1712695,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,1712696,IfcFurniture,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1717228,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1717323,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1720636,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1720899,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1721096,IfcWall,1
+OST_GenericModel,AR_GEN_MGE_Molo015,AR_GEN_MGE_Molo015_CI.02,1722561,IfcCovering,1
+OST_Furniture,AR_ARR_ARR_AsciugamaniElettrico,AR_ARR_ARR_AsciugamaniElettrico,1727097,IfcFurniture,1
+OST_GenericModel,AR_GEN_MGE_Molo016,AR_GEN_MGE_Molo016_CI.02,1727302,IfcCovering,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8,AR_ARR_SED_SedutaAttesa_8,1790500,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1809793,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1813778,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1813780,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1813782,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1813807,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1813811,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1813815,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1813817,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1844080,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1847338,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1847925,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1848032,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1848250,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1856242,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1856279,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1856442,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1856443,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1856452,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1856453,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1856493,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1856494,IfcFurniture,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,1859722,IfcDoor,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,1863243,IfcDoor,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_4,AR_ARR_SED_SeduteAttesa_4,1866503,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8,AR_ARR_SED_SedutaAttesa_8,1866955,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1867138,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1867186,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1867210,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1867211,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1867235,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1867236,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1867307,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1867329,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870728,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870729,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870730,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870731,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870732,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870733,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870734,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870735,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870908,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870909,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870966,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870967,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870968,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870969,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1870970,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871455,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871823,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871824,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871825,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871826,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871827,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871828,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871829,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871830,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871831,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871832,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1871834,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1872641,IfcSystemFurnitureElement,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1872642,IfcSystemFurnitureElement,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,1872643,IfcDoor,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1872826,IfcSystemFurnitureElement,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,1872897,IfcDoor,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1873248,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1879121,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1879429,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1882521,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1883557,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1884138,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1884186,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1884902,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1885137,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1888427,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895380,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895381,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895382,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895383,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1895384,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895385,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895386,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895387,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895388,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895389,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895390,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895391,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1895392,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,1895393,IfcFurniture,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,1896926,IfcDoor,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,1897130,IfcDoor,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,1901529,IfcDoor,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,1901633,IfcDoor,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1902514,IfcSystemFurnitureElement,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,1917708,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1923030,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1923093,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1923203,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1923296,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1923297,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1923483,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1923484,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1923540,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1923541,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1923542,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1923543,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1923544,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1923545,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1924296,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1924297,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1924298,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1924299,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1924300,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1924301,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1924302,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1924303,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1924304,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1924305,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1924306,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1924307,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,1924308,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1924309,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_3+3,AR_ARR_SED_SeduteAttesa_3+3,1926500,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1935287,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,1935289,IfcFurniture,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1937175,IfcWall,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1942078,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1942079,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1942082,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1942083,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1942084,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1942085,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1942086,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1942087,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_8+8,AR_ARR_SED_SeduteAttesa_8+8,1942088,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetroSingolo,AR_ARR_BAR_BarrieraVetroSingolo_1000,2009877,IfcSystemFurnitureElement,1
+OST_Casework,AR_ARR_BAR_BarrieraVetroSingolo,AR_ARR_BAR_BarrieraVetroSingolo_1000,2030552,IfcSystemFurnitureElement,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2036263,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2036381,IfcWall,1
+OST_GenericModel,AR_GEN_MGE_IngressoMolo02,AR_GEN_MGE_IngressoMolo02_CI.02,2055927,IfcCovering,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,2193555,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_Orinatoio,IM_DIS_AID_SAN_Orinatoio,2193556,IfcSanitaryTerminal,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Chiuso,AR_ARR_ARR_BoxWC_Chiuso,2193558,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Laterale,AR_ARR_ARR_BoxWC_Laterale,2193565,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Laterale,AR_ARR_ARR_DivisorioBox_Laterale,2193566,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,2193568,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2193596,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCBaby,IM_DIS_AID_SAN_WCBaby,2193597,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2193600,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2193601,IfcWall,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2193614,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2193615,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2193616,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2193617,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Chiuso,AR_ARR_ARR_Divisoriobox_Chiuso,2193618,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,2193620,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboCleaning,IM_DIS_AID_SAN_LavaboCleaning_500x500,2195745,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,2195897,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,2195898,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,2195899,IfcSanitaryTerminal,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,2196096,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,2196097,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2196098,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,2196099,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2196100,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2196101,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2196102,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,2196103,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,2196104,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2196105,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,2196106,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2196107,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2196108,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2196109,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Sinistra,AR_ARR_ARR_BoxWc_Sinistra,2196110,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_divisoriobox,AR_ARR_ARR_DivisorioBox,2196111,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2196112,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,2196113,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2196114,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2196115,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2196116,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_BoxWc_Laterale,AR_ARR_ARR_BoxWC_Laterale,2196117,IfcFurniture,1
+OST_Casework,AR_ARR_ARR_Divisoriobox_Laterale,AR_ARR_ARR_DivisorioBox_Laterale,2196118,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2196119,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_GancioAppendino,AR_ARR_ARR_GancioAppendino,2196120,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2196121,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2196122,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2196123,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,2196279,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,2196280,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboTriplo,IM_DIS_AID_SAN_LavaboTriplo_460x2100,2196281,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2228382,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2228617,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2228743,IfcWall,1
+OST_Doors,AR_POR_SCO_Leg_1A_Normale,AR_POR_SCO_Leg_1A_Normale_900x2200,2228840,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2229539,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,2230512,IfcWall,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,2230581,IfcFurniture,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,2230619,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,2230963,IfcWall,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCDisabili,IM_DIS_AID_SAN_WCDisabili,2231069,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboDisabili,IM_DIS_AID_SAN_LavaboDisabili_570x660,2231650,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_DispenserSapone,AR_ARR_ARR_DispenserSapone,2232170,IfcFurniture,1
+OST_Floors,Pavimento,AR_PAV_GET_1270mm_PI.05,2232873,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2232940,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2233435,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.23,2233921,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2234471,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2234607,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2234798,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2234939,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2235063,IfcWall,1
+OST_Doors,AR_POR_SCO_Leg_1A_Normale,AR_POR_SCO_Leg_1A_Normale_900x2200,2235106,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,2236135,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,2236202,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,2236276,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,2236352,IfcWall,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,2236451,IfcFurniture,1
+OST_Floors,Pavimento,AR_PAV_GET_1270mm_PI.05,2236561,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,2238978,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_95mm_CI.11,2240958,IfcCovering,1
+OST_Furniture,AR_ARR_ARR_AsciugamaniElettrico,AR_ARR_ARR_AsciugamaniElettrico,2245680,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,2245681,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WCDisabili,IM_DIS_AID_SAN_WCDisabili,2245682,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboDisabili,IM_DIS_AID_SAN_LavaboDisabili_570x660,2245683,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_DispenserSapone,AR_ARR_ARR_DispenserSapone,2245684,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_ManiglioniDisabili,AR_ARR_ARR_ManiglioniDisabili_1000x150,2245697,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2278294,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2278295,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2278296,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2278297,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2278301,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2278302,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2278303,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2278304,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2278307,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2278308,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2278309,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2278310,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2278311,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2278312,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2278313,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2278314,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2278315,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2278316,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2278317,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2278318,IfcFurniture,1
+OST_FurnitureSystems,AR_ARR_ARR_ModuloWc,AR_ARR_ARR_ModuloWc_Pax,2278319,IfcFurniture,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2278320,IfcSanitaryTerminal,1
+OST_Furniture,AR_ARR_ARR_PortaRotolo,AR_ARR_ARR_PortaRotolo,2278321,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_Scopino,AR_ARR_ARR_Scopino,2278322,IfcFurniture,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_800X2200,2281687,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_800X2200,2281825,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_1000X2200,2284918,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_800X2200,2285136,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_900X2200,2285391,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A__900x2200,2288416,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_800X2200,2289060,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_900X2200,2289685,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_800X2200,2290037,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_900X2200,2290265,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_800X2200,2290451,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_800X2200,2297548,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2200,2304096,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_1000x2400,2358332,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI60_1000x2400,2358540,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI60_1000x2400,2358763,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_ManiglioneAntipanico,AR_POR_BAT_Acc_2A_ManiglioneAntipanico_1200x2200,2359263,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_ManiglioneAntipanico,AR_POR_BAT_Acc_2A_ManiglioneAntipanico_1800x2200,2367191,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI60_1000x2400,2374913,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI60_1000x2400,2378100,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI60_1000x2400,2378261,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI60_1000x2400,2378560,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI60_1000x2400,2378694,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI60_1000x2400,2378803,IfcDoor,1
+OST_Doors,AR_POR_SCO_Leg_1A_Normale,AR_POR_SCO_Leg_1A_Normale_900x2200,2405998,IfcDoor,1
+OST_Doors,AR_POR_SCO_Leg_1A_Normale,AR_POR_SCO_Leg_1A_Normale_900x2200,2444081,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,2478175,IfcWall,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,2543676,IfcSystemFurnitureElement,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,2543677,IfcDoor,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,2543971,IfcSystemFurnitureElement,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,2544101,IfcDoor,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,2544208,IfcDoor,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,2544253,IfcDoor,1
+OST_Furniture,AR_ ARR_GAT_BancoGate,AR_ARR_GAT_BancoGate_1850x1185,2544924,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_TornelliAccesso,AR_ARR_ARR_TornelliAccesso,2544925,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2544947,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_3+3,AR_ARR_SED_SeduteAttesa_3+3,2544948,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_3+3,AR_ARR_SED_SeduteAttesa_3+3,2544949,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_3+3,AR_ARR_SED_SeduteAttesa_3+3,2544950,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_3+3,AR_ARR_SED_SeduteAttesa_3+3,2544951,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,2544953,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,2544954,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,2544955,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2544956,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,2544957,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,2544958,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,2544959,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2544960,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2545039,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2545076,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2545126,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2545151,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2545176,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2545215,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,2546554,IfcSystemFurnitureElement,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,2547036,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5,AR_ARR_SED_SeduteAttesa_5,2566055,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2577133,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5,AR_ARR_SED_SeduteAttesa_5,2577589,IfcFurniture,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco01,2577597,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577598,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577599,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577600,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577601,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577603,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577604,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577605,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577607,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577608,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577609,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577610,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577612,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577613,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577614,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577615,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577617,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577618,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577619,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577620,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577622,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577623,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577624,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577625,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577627,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577628,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577629,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577630,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577632,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577633,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577634,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577635,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577636,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577637,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2577638,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577639,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577640,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577641,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577642,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577643,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577644,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577645,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577646,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577647,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577648,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577649,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577650,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577651,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577652,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577653,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577654,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577655,IfcMember,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,2577663,IfcDoor,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,2577671,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577672,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577673,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2577674,IfcMember,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5,AR_ARR_SED_SeduteAttesa_5,2577680,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5,AR_ARR_SED_SeduteAttesa_5,2577681,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2583867,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2583868,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2583925,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2583926,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2583949,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2583950,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2583973,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2583974,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2583997,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2583998,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2584021,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2584022,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2584151,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2584152,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2584157,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2584158,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2584159,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2584160,IfcFurniture,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco,2584521,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584522,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2584524,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2584525,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2584526,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2584527,IfcMember,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,2584643,IfcDoor,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,2584645,IfcDoor,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584647,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584649,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584651,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584653,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584655,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584657,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584659,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584661,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584663,IfcPlate,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2584665,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585098,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585099,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585100,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585101,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585102,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585103,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585104,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585105,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585106,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585107,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585108,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585109,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585112,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585113,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585114,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585115,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585116,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585117,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585118,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585119,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585120,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585121,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585122,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585123,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585126,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585127,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585128,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585129,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585130,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585131,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585132,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585133,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585134,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585135,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585136,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2585137,IfcMember,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloPreimbarco,2586251,IfcCurtainWall,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2586252,IfcPlate,1
+OST_Doors,AR_ POR_BAT_All_2A_Simmetrica cw,AR_ POR_BAT_All_2A_Simmetrica_1500x2400,2586257,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2586262,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2586263,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2586265,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2586266,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2586268,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2586269,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2586270,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2586377,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2586382,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2586383,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2586384,IfcMember,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2587255,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2588324,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2588743,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2589080,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2589453,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2589863,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2589922,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2590001,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2590093,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2590306,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2590360,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2590824,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2591248,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2591817,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592098,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592234,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592295,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592296,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592303,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592304,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592435,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592436,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592437,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592438,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2592582,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593064,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593066,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593067,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593069,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593070,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593071,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593072,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593073,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593075,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593076,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593077,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593079,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593080,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593082,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593083,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,2593084,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_5+5,AR_ARR_SED_SeduteAttesa_5+5,2593085,IfcFurniture,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,2593147,IfcDoor,1
+OST_Doors,AR_POR_BAP_BarrieraPortaVetrata,AR_POR_BAP_BarrieraPortaVetrata_h180,2593148,IfcDoor,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,2593149,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593152,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593153,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593154,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593155,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593156,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593157,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593158,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593159,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593160,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593161,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593162,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593163,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593164,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593165,IfcFurniture,1
+OST_Furniture,AR_ARR_ARR_TornelliAccesso,AR_ARR_ARR_TornelliAccesso,2593171,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,2593173,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593176,IfcFurniture,1
+OST_Furniture,AR_ARR_SED_SeduteAttesa_6+6,AR_ARR_SED_SeduteAttesa_6+6,2593182,IfcFurniture,1
+OST_Casework,AR_ARR_BAR_BarrieraVetro,AR_ARR_BAR_BarrieraVetro,2593222,IfcSystemFurnitureElement,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593549,IfcFurniture,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore01,AR_ARR_NAS_NastroTenditore00_1200,2593750,IfcFurniture,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1500x2400,2594067,IfcDoor,1
+OST_Doors,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1500x2400,2594068,IfcDoor,1
+OST_Furniture,AR_ ARR_NAS_NastroTenditore00,AR_ARR_NAS_NastroTenditore00_1000,2595202,IfcFurniture,1
+OST_Walls,Facciata continua,AR_SFC_MON_All_MoloCircolazione01,2596233,IfcCurtainWall,1
+OST_Doors,AR_ POR_SCO_All_4A_SimmetricaDueAnteFisse,AR_ POR_SCO_All_4A_SimmetricaDueAnteFisse_4800x2400,2596234,IfcDoor,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2596235,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2596236,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2596237,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2596238,IfcMember,1
+OST_CurtainWallPanels,System Panel,AR_PAF_SEM_Vet_Trasparente,2596240,IfcPlate,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2596241,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2596242,IfcMember,1
+OST_CurtainWallMullions,Rectangular Mullion,AR_MON_RET_Acc_50x50,2596243,IfcMember,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,2596599,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2596654,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2597345,IfcWall,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2597360,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2597361,IfcWall,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_WC,IM_DIS_AID_SAN_WC,2597363,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboSingolo,IM_DIS_AID_SAN_LavaboSingolo_460x700,2597624,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,IM_DIS_AID_SAN_LavaboSingolo,IM_DIS_AID_SAN_LavaboSingolo_460x700,2597767,IfcSanitaryTerminal,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_Molo_00mm,2600427,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_RampaMolo_1300x2700mm,2600428,IfcStairFlight,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_RampaMolo_1300x2700mm,2600430,IfcStairFlight,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_PianerottoloMolo_1300x1500mm,2600432,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gres_RampaMolo_1300x2700mm,2600434,IfcStairFlight,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gres_PianerottoloMolo_1300x1500mm,2600436,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2644373,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2644418,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2644518,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2644564,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2644616,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2644645,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_ManiglioneAntipanico,AR_POR_BAT_Acc_2A_ManiglioneAntipanico_1200x2200,2646750,IfcDoor,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,2683034,IfcSlab,1
