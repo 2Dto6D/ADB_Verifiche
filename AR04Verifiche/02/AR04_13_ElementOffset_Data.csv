@@ -1,0 +1,18 @@
+Categoria,Nome Elemento,ID Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744606,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744726,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744913,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744916,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744949,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744952,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1235457,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1335843,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1336408,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1344514,AR_LIV_PE_P01_+5.20m,-,-,-0.76000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1347276,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1347632,AR_LIV_PE_P01_+5.20m,-,-,-0.76000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,1385887,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,1385888,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI60,1408407,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_EI60,1409022,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_EI60,1409610,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1

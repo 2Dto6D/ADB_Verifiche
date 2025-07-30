@@ -1,0 +1,198 @@
+Tipo Verifica,Categoria,Nome Elemento,ID Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744495,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744532,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744554,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744580,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744909,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744910,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744911,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744912,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744945,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744946,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744947,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,744948,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.5,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,745127,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.1699999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,745128,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.2000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,745129,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.202,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,745130,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.0,-2.202,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1219301,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1219409,AR_LIV_PE_P01_+5.20m,Non collegata,-0.80000000000000004,4.9000000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1220783,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4000000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1225050,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.2770000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1225108,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1225148,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4000000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1226041,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1226072,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1226199,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1226228,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1226757,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1226842,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.1740000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1226897,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.1740000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1228544,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.4699999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1229267,AR_LIV_PE_P00_+0.00m,Non collegata,2.3069999999999999,6.9930000000000003,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1229325,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1229419,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1229465,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1229503,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1229970,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2910000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1230021,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.3130000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_CON_CPA_67mm_CI.09,1232234,AR_LIV_PE_P00_+0.00m,Non collegata,3.7000000000000002,0.72999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1233496,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.077,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1233544,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.077,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1233606,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.0569999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1233686,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.109,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1233750,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2000000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1235145,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.2770000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1342497,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.8700000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1342538,AR_LIV_PE_P01_+5.20m,Non collegata,-0.76800000000000002,4.8680000000000003,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1342577,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.8700000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1342602,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.8700000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345241,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345242,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345243,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345244,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2000000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345245,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2000000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345246,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345247,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2000000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345248,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.4699999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345249,AR_LIV_PE_P00_+0.00m,Non collegata,2.3069999999999999,6.9930000000000003,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345250,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345251,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345252,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345253,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345254,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2910000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345255,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.3130000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345363,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.077,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345364,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.0569999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345365,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.109,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345519,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.8700000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345520,AR_LIV_PE_P01_+5.20m,Non collegata,-0.76800000000000002,4.8680000000000003,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345521,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.8700000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1345522,AR_LIV_PE_P01_+5.20m,Non collegata,-0.77000000000000002,4.8700000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1345665,AR_LIV_PE_P01_+5.20m,Non collegata,-0.80000000000000004,4.9000000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1346209,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1346210,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1346211,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1346872,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4000000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1347123,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.077,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1347124,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,2.077,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1347125,AR_LIV_PE_P00_+0.00m,Non collegata,-0.02,4.2000000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1347143,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1348674,AR_LIV_PE_P01_+5.20m,Non collegata,-0.62,4.7199999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1348750,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1348799,AR_LIV_PE_P01_+5.20m,Non collegata,-0.56999999999999995,4.6699999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1348959,AR_LIV_PE_P01_+5.20m,Non collegata,-0.56999999999999995,4.6699999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1349119,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1349120,AR_LIV_PE_P00_+0.00m,Non collegata,-0.75,5.1299999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1349121,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1349122,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1349497,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1349601,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1349665,AR_LIV_PE_P00_+0.00m,Non collegata,2.3250000000000002,2.125,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1349778,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1349832,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1349895,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1350036,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1350037,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1350038,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1350039,AR_LIV_PE_P01_+5.20m,Non collegata,-0.75,4.8499999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1350040,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1350041,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1350596,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,4.4199999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1350798,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1350913,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.379,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1350988,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,1.861,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1355558,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1355657,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1355700,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1355770,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356241,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356330,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356410,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356522,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356563,AR_LIV_PE_P00_+0.00m,Non collegata,2.3250000000000002,2.3250000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356701,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356859,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356860,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356861,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356862,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1356925,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1357219,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1357402,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1357403,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1357404,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1358730,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.379,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1358795,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.379,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1359269,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.4500000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1359690,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.3250000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1359813,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.0750000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1361066,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.379,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1361139,AR_LIV_PE_P00_+0.00m,Non collegata,-0.22,2.2949999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1361223,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1361299,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1361338,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1361448,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1361676,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1361796,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.6299999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1361860,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.0750000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1361953,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,2.1549999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1362141,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1362171,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1362300,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1363503,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1363562,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1363591,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1363674,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,5.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1363749,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1363804,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1363839,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1363895,AR_LIV_PE_P01_+5.20m,Non collegata,-0.55000000000000004,4.6500000000000004,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1363935,AR_LIV_PE_P01_+5.20m,Non collegata,-2.875,6.9749999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1364008,AR_LIV_PE_P01_+5.20m,Non collegata,-1.1000000000000001,5.2000000000000002,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_CON_CPA_67mm_CI.09,1367867,AR_LIV_PE_P00_+0.00m,Non collegata,3.7000000000000002,0.72999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_CON_CPA_67mm_CI.09,1368572,AR_LIV_PE_P00_+0.00m,Non collegata,3.7000000000000002,0.88,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_CON_CPA_67mm_CI.09,1369362,AR_LIV_PE_P00_+0.00m,Non collegata,3.7000000000000002,0.88,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1405321,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1405353,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1405364,AR_LIV_PE_P00_+0.00m,Non collegata,-0.75,5.1299999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1405406,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1405453,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1405499,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1405526,AR_LIV_PE_P00_+0.00m,Non collegata,-0.75,5.1299999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1405559,AR_LIV_PE_P00_+0.00m,Non collegata,-0.75,5.1299999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1405634,AR_LIV_PE_P00_+0.00m,Non collegata,-0.75,5.1299999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1408658,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1408770,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1408846,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1408879,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1408897,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1408953,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1408954,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1408955,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1409012,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1409259,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1409322,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1409350,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.0999999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1409379,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1409411,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1409543,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_DIV_200mm_MI.01,1409544,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1409545,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,AR_MUR_RIV_20mm_R.08,1409603,AR_LIV_PE_P00_+0.00m,Non collegata,0.0,4.3799999999999999,Elemento modellato senza vincolo superiore.,1
+Offset Elementi,Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744606,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744726,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744913,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744916,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744949,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,AR_ POR_BAT_Vet_2A_Simmetrica,744952,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1235457,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1335843,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1336408,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1344514,AR_LIV_PE_P01_+5.20m,-,-,-0.76000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1347276,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,1347632,AR_LIV_PE_P01_+5.20m,-,-,-0.76000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,AR_ POR_BAT_Vet_2A_Simmetrica,1385887,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,AR_ POR_BAT_Vet_2A_Simmetrica,1385888,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,AR_POR_BAT_Acc_1A_EI60,1408407,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,AR_POR_BAT_Acc_1A_EI60,1409022,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,AR_POR_BAT_Acc_1A_EI60,1409610,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1

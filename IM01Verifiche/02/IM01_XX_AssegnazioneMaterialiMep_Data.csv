@@ -1,0 +1,20 @@
+Nome Sistema MEP,Nome Materiale,Verifica,Stato
+AR_Estrazioni speciali,SGS_AR_Aria espulsione,Materiale assegnato,1
+AR_Aria di mandata,SGS_AR_Aria mandata,Materiale assegnato,1
+AR_Aria espulsione,SGS_AR_Aria espulsione,Materiale assegnato,1
+AR_Aria di ripresa,SGS_AR_Aria ripresa,Materiale assegnato,1
+AR_Aria esterna,SGS_AR_Aria esterna,Materiale assegnato,1
+AR_Aria Pae,SGS_AR_Aria esterna,Materiale assegnato,1
+IM_CON_HVC_AWC_Estrazione bagni,SGS_AWC_Estrazione bagni,Materiale assegnato,1
+IM_CON_HVC_ARR_Aria di ripresa,SGS_ARR_Aria di ripresa,Materiale assegnato,1
+IM_CON_HVC_ARM_Aria mandata,SGS_ARM_Aria mandata,Materiale assegnato,1
+IM_CON_HVC_ARE_Aria esausta,SGS_ARE_Aria esausta,Materiale assegnato,1
+IM_CON_HVC_ARF_Aria esterna,SGS_ARF_Aria esterna,Materiale assegnato,1
+IM_CON_HVC_ESC_Estrazione cappe,SGS_ESC_Estrazione cappe,Materiale assegnato,1
+FT_Ref Circuito 1 rit,SGS_FT_Refrigerata MT,Materiale assegnato,1
+IM_TUB_HVC_PRR_Rete post riscaldamento ritorno,SGS_PRR_Rete post riscaldamento ritorno,Materiale assegnato,1
+IM_TUB_HVC_PRM_Rete post riscaldamento mandata,SGS_PRM_Rete post riscaldamento mandata,Materiale assegnato,1
+IM_TUB_HVC_CLM_Rete calda mandata,SGS_CLM_Rete calda mandata,Materiale assegnato,1
+IM_TUB_HVC_RRM_Rete refrigerata mandata,SGS_RRM_Rete refrigerata mandata,Materiale assegnato,1
+IM_TUB_HVC_RRR_Rete refrigerata ritorno,SGS_RRR_Rete refrigerata ritorno,Materiale assegnato,1
+IM_TUB_HVC_CLR_Rete calda ritorno,SGS_CLR_Rete calda ritorno,Materiale assegnato,1

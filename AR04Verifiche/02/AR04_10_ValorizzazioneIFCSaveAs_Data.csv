@@ -1,0 +1,283 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,Verifica,Stato
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744495,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744532,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744554,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744580,Corretto,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744606,Corretto,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744726,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744909,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744910,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744911,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744912,Corretto,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744913,Corretto,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_1800x2400,744916,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744945,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744946,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744947,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,744948,Corretto,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,744949,Corretto,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,744952,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,745127,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,745128,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,745129,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,745130,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1206369,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1206776,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1219301,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1219409,Corretto,1
+Scale,Scala gettata in opera,AR_SCA_ASS_FL-002_20mm,1219683,Corretto,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1219794,Corretto,1
+Pianerottoli,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,1219841,Corretto,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1220051,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1220783,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1221176,Corretto,1
+Scale,Scala gettata in opera,AR_SCA_ASS_FL-002_20mm,1221305,Corretto,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1221343,Corretto,1
+Pianerottoli,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,1221523,Corretto,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1221708,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1221946,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1222034,Corretto,1
+Scale,Scala gettata in opera,AR_SCA_ASS_FL-002_20mm,1222764,Corretto,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1222765,Corretto,1
+Pianerottoli,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,1222769,Corretto,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1222775,Corretto,1
+Scale,Scala gettata in opera,AR_SCA_ASS_FL-002_20mm,1222941,Corretto,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1222942,Corretto,1
+Pianerottoli,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,1222946,Corretto,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1222952,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1223021,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_780mm_PI.01,1223249,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1225050,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1225108,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1225148,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226041,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226072,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226199,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226228,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226757,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226842,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1226897,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1228544,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1229141,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229267,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229325,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229419,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229465,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229503,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1229726,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1229970,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1230021,Corretto,1
+Muri,Muro di base,AR_CON_CPA_67mm_CI.09,1232234,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1233496,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1233544,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1233606,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1233686,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1233750,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1234073,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1234135,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1235145,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1235396,Corretto,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1235457,Corretto,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1335843,Corretto,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1336408,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_256mm_PE.22,1340440,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_468mm_PE.21,1340526,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_468mm_PE.21,1340700,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_253mm_PE.22,1340821,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_468mm_PE.21,1340891,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_256mm_PE.22,1340977,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_468mm_PE.21,1341030,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_256mm_PE.22,1341197,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_468mm_PE.21,1341252,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_482mm_PE.21,1341430,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_482mm_PE.21,1341498,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1342497,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1342538,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1342577,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1342602,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_30mm_PI.13,1344262,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1344433,Corretto,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1344514,Corretto,1
+Scale,Scala gettata in opera,AR_SCA_ASS_FL-002_20mm,1345218,Corretto,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1345219,Corretto,1
+Pianerottoli,Pianerottolo monolitico,AR_PAV_RIV_20mm_FL-002,1345223,Corretto,1
+Rampe,Rampa monolitica,AR_SCA_ASS_FL-002_20mm,1345229,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345241,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345242,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345243,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345244,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345245,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345246,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345247,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345248,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345249,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345250,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345251,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345252,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345253,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345254,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345255,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345363,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345364,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345365,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345519,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345520,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345521,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1345522,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1345665,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1345783,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_780mm_PI.01,1346002,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1346025,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1346209,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1346210,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1346211,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1346872,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1347123,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1347124,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1347125,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1347143,Corretto,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1347276,Corretto,1
+Porte,AR_POR_BAT_Acc_1A_ManiglioneAntipanico,AR_POR_BAT_Acc_1A_ManiglioneAntipanico_900x2400,1347632,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1347785,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1347887,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_780mm_PI.01,1348240,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1348330,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1348674,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1348750,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1348799,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1348959,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349119,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349120,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349121,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349122,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1349265,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1349324,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349497,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349601,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349665,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349778,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349832,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1349895,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350036,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350037,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350038,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350039,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350040,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350041,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1350122,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1350231,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1350596,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350798,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1350913,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1350988,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_780mm_PI.01,1355205,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1355558,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1355657,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1355700,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1355770,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356241,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356330,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356410,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356522,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356563,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356701,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356859,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356860,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356861,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356862,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1356925,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1357219,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1357402,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1357403,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1357404,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357697,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357704,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357805,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357812,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1358730,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1358795,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1359269,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1359690,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1359813,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1360684,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_780mm_PI.01,1360790,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1361066,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1361139,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361223,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361299,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361338,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361448,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361676,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361796,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361860,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1361953,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1362141,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1362171,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1362300,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363503,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363562,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363591,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363674,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363749,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363804,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363839,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363895,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1363935,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1364008,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365509,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365555,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365617,Corretto,1
+Controsoffitti,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365624,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-002,1367677,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_30mm_PI.13,1367688,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1367703,Corretto,1
+Muri,Muro di base,AR_CON_CPA_67mm_CI.09,1367867,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1368198,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1368294,Corretto,1
+Muri,Muro di base,AR_CON_CPA_67mm_CI.09,1368572,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1369113,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1369143,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1369230,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_50mm_PI.14,1369292,Corretto,1
+Muri,Muro di base,AR_CON_CPA_67mm_CI.09,1369362,Corretto,1
+Tetti,Tetto di base,AR_TET_PIA_256mm_PE.22,1383875,Corretto,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,1385887,Corretto,1
+Porte,AR_ POR_BAT_Vet_2A_Simmetrica,AR_POR_BAT_Vet_2A_Simmetrica_2400x2400,1385888,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_1450mm_PI.04,1402461,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_1450mm_PI.04,1404694,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_1450mm_PI.04,1404765,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_1450mm_PI.04,1404863,Corretto,1
+Pavimenti,Pavimento,AR_PAV_GET_1450mm_PI.04,1404964,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1405321,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1405353,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1405364,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1405406,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1405453,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1405499,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1405526,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1405559,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1405634,Corretto,1
+Porte,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI30_900X2200,1408407,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1408658,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1408770,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1408846,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1408879,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1408897,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1408953,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1408954,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1408955,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1409012,Corretto,1
+Porte,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI30_900X2200,1409022,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1409259,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1409322,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1409350,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1409379,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1409411,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1409543,Corretto,1
+Muri,Muro di base,AR_MUR_DIV_200mm_MI.01,1409544,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1409545,Corretto,1
+Muri,Muro di base,AR_MUR_RIV_20mm_R.08,1409603,Corretto,1
+Porte,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI30_900X2200,1409610,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1409739,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1409826,Corretto,1
+Pavimenti,Pavimento,AR_PAV_RIV_20mm_FL-006,1409974,Corretto,1

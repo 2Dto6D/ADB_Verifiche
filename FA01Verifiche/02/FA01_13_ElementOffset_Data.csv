@@ -1,0 +1,55 @@
+Categoria,Nome Elemento,ID Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1089791,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1090911,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1091003,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128062,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128095,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128335,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1128343,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1128351,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1307423,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1307497,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1308645,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1308780,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1309449,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1309990,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1310119,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1311211,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1311333,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1312467,AR_LIV_PE_P00_+0.00m,-,-,-0.0,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1331918,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1332001,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_1A_SopraluceAlett,1372465,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1375756,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_1A_SopraluceAlett,1375836,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1375975,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376366,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376367,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376403,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1392527,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1392547,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1392772,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1392837,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1392894,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1392948,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1393001,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1395054,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1395080,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395151,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395186,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395346,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395354,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395362,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1395480,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1476491,AR_LIV_PE_PC2_+15.73m,-,-,0.10000000000000001,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1477451,AR_LIV_PE_PC2_+15.73m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1477501,AR_LIV_PE_PC2_+15.73m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_Alett,1477543,AR_LIV_PE_PC2_+15.73m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1733558,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1735900,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,2173567,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,2359329,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,2394812,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,2665889,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,2667130,AR_LIV_PE_P00_+0.00m,-,-,-0.0,Oggetto conforme.,1
+Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,2668356,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1

@@ -1,0 +1,529 @@
+Tipo Verifica,Categoria,Nome Elemento,ID Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x325_MoloP1NordCopertina95,723499,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-1.72,0.56999999999999995,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x325_MoloP1SudCopertina95,730389,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-1.72,0.56999999999999995,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x325_MoloP1Ovest,736052,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-1.72,0.56999999999999995,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPT,753780,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPT,755271,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPT,756704,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_AvancorpoP1,759412,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.72,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,762662,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.6000000000000001,0.29999999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,763002,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.6000000000000001,0.29999999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_AvancorpoP1,763773,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.72,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,764932,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.6000000000000001,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,766097,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.6000000000000001,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_AvancorpoP1,766340,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.72,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,768975,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.6000000000000001,1.3,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,769155,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.6000000000000001,1.3,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,769387,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.6000000000000001,0.51000000000000001,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,769743,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,769917,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,770320,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,770669,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,771122,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.13,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_350mm_DoppioPannelloSandwichOrizzontale,775248,AR_LIV_PE_PC2_+15.73m,Fino al livello: AR_LIV_PE_PC3_+20.17m,0.0,0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_350mm_DoppioPannelloSandwichOrizzontale,775439,AR_LIV_PE_PC2_+15.73m,Fino al livello: AR_LIV_PE_PC3_+20.17m,0.0,0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_350mm_DoppioPannelloSandwichOrizzontale,775626,AR_LIV_PE_PC2_+15.73m,Fino al livello: AR_LIV_PE_PC3_+20.17m,0.0,0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_350mm_DoppioPannelloSandwichOrizzontale,775730,AR_LIV_PE_PC2_+15.73m,Fino al livello: AR_LIV_PE_PC3_+20.17m,0.0,0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,775827,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,776473,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,783676,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,785047,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,785501,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,786080,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,786529,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,787064,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,787261,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,787803,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,787967,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPTBussola,844105,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suPannelliSandwich),964103,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.6000000000000001,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suPannelliSandwich),965946,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.6000000000000001,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suPannelliSandwich),966729,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.75,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_AvancorpoP1(M038),970010,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.72,0.80000000000000004,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suSettoCA),974595,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.6000000000000001,0.80000000000000004,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suSettoCA),974727,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.6000000000000001,0.80000000000000004,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suPannelliSandwich),987270,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.75,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPTBussola,988639,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPTBussola,992927,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPTBussola,993002,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPTBussola,993048,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPTBussola,993544,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPTBussola,993619,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPTBussola,993665,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPT,997142,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPT,997377,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,1002699,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_AvancorpoPT,1002855,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_AvancorpoPT,1004533,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1004993,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1019076,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1019643,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1019976,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1020817,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,1023739,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,1024176,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,1027402,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,1028471,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,1029862,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(FronteSud-SuCarpenteria),1034288,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.57999999999999996,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suPannelliSandwich),1035352,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.75,0.51000000000000001,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1039973,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1040284,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1040309,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1040798,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-11.523999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1041870,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1041996,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1042082,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1042208,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1042209,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1042210,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1042211,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1042375,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1042842,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-11.550000000000001,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1043083,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1043084,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1043085,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-11.17,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1043086,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1043843,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044033,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.0,4.6500000000000004,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044174,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044178,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044182,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044186,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044190,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044370,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,3.8199999999999998,4.6500000000000004,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044416,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-12.138999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044577,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044578,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044579,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044580,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044581,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044602,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,3.8199999999999998,4.6500000000000004,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1044603,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-11.550000000000001,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,1045574,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,1048995,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_AvancorpoP1(M038),1050953,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.72,0.80000000000000004,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,1051664,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,1052052,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_AvancorpoPT(M038),1054166,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_AvancorpoP1(M038),1056911,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.72,0.80000000000000004,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1057485,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1057789,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1058021,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1058125,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1058341,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1058505,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1058574,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1058701,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1058847,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1059052,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1059146,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1059289,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1059377,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,1059436,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.26600000000000001,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1059515,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1059557,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,1059699,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,1059794,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,1060278,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,1060573,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,1060821,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,1060957,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI120,1310479,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI120,1310597,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI120,1310688,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI120,1310881,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI120,1311548,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI120,1311660,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1312033,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-1.6000000000000001,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1312123,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1312261,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1312314,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1312784,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,1312979,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI120,1314783,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suPannelliSandwich),1315764,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.75,1.3,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suPannelliSandwich),1316186,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.75,1.3,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1320469,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1320768,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1320946,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1321108,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1321222,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1321381,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1321502,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1321587,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1321650,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1321759,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1321857,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1322066,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1322141,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1322242,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1322355,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1322577,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1322754,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1322833,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323065,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323160,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323202,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323256,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323340,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323401,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323485,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323561,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323623,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323665,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323821,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323891,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323944,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1323983,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1324088,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1324206,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1324285,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1324436,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.23000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1324572,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1324670,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,1324801,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPTBussola,1455301,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_MoloPTBussola,1455754,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichMicroGrecato,1459267,AR_LIV_PE_PC2_+15.73m,Non collegata,0.14999999999999999,4.5199999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichMicroGrecato,1476031,AR_LIV_PE_PC2_+15.73m,Non collegata,0.14999999999999999,4.5199999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichMicroGrecato,1476165,AR_LIV_PE_PC2_+15.73m,Non collegata,0.14999999999999999,4.5199999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichMicroGrecato,1476187,AR_LIV_PE_PC2_+15.73m,Non collegata,0.14999999999999999,4.5199999999999996,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suCarpenteria),1479556,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.57999999999999996,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_AvancorpoP1(Sud),1480563,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.80000000000000004,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,1483544,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-1.6000000000000001,-2.1299999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1489171,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1489273,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1489359,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),1489461,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,1492100,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.20000000000000001,0.29999999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,1492190,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.20000000000000001,0.29999999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,1493082,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,2.4300000000000002,3.2000000000000002,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,1493204,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.29999999999999999,3.2000000000000002,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,1493208,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.29999999999999999,3.2000000000000002,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,1493481,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.29999999999999999,0.29999999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x225_Passerelle Torrini,1496979,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.59999999999999998,-1.2,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511180,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511302,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511330,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511571,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511572,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511573,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511584,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511585,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511586,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511597,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511598,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511599,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511614,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511615,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511616,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511627,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511628,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511629,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511644,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511645,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511646,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511659,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511660,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511661,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511717,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511718,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511719,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511857,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511858,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511859,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511993,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1511994,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1512149,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1512150,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1512265,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1512394,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1512925,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1513149,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.54,-0.22,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1513150,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.54,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1513784,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1514220,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1514871,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515031,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515256,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515271,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515284,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515297,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515310,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515321,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515336,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515345,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515358,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515527,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515655,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515749,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1515750,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516011,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516220,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516288,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516289,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516502,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516503,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516661,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516760,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516823,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516907,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516908,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516919,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516920,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516931,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516932,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1516991,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.2000000000000002,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1517090,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1517175,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1517345,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1517396,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1517535,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1517615,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1517693,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1517810,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1517986,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1517987,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518038,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518039,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518056,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518057,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518068,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518069,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518080,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518081,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518096,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518097,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518112,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518113,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518128,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518129,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518140,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1518141,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,4.3499999999999996,-0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_Torrini,1518577,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.40000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1519778,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1520152,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,3.8199999999999998,4.6500000000000004,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1526752,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1527372,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P01_+5.20m,3.2200000000000002,4.6500000000000004,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_350mm_DoppioPannelloSandwichOrizzontale,1529739,AR_LIV_PE_PC1_+12.83m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.25,0.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_350mm_DoppioPannelloSandwichOrizzontale,1529837,AR_LIV_PE_PC1_+12.83m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.25,0.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_350mm_DoppioPannelloSandwichOrizzontale,1529922,AR_LIV_PE_PC1_+12.83m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.25,0.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suCarpenteria),1530121,AR_LIV_PE_PC1_+12.83m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.69999999999999996,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1725407,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1725969,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1727039,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1730309,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1735534,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1735537,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,1735552,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.20000000000000001,-11.550000000000001,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,1859536,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.6000000000000001,0.29999999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suPannelliSandwich),1860101,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.75,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,1860622,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,1865952,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,1867418,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,1867429,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,1867450,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_350mm_DoppioPannelloSandwichOrizzontale,1868288,AR_LIV_PE_PC2_+15.73m,Fino al livello: AR_LIV_PE_PC3_+20.17m,0.0,0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,1868944,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,1869016,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,1869066,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,1869691,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,1871318,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,1871479,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,1872106,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,1872107,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,1872290,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,1873496,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_350mm_DoppioPannelloSandwichOrizzontale,1882813,AR_LIV_PE_PC2_+15.73m,Fino al livello: AR_LIV_PE_PC3_+20.17m,0.0,0.34999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_100mm_PannelloLanaRoccia,2044097,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-0.12,-5.8799999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,2075243,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_600x2800_FacciataLamiera (barriera copetura),2090958,AR_LIV_PE_PC2_+15.73m,Non collegata,0.14999999999999999,3.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_600x2800_FacciataLamiera (barriera copetura),2090961,AR_LIV_PE_PC2_+15.73m,Non collegata,0.14999999999999999,3.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_600x2800_FacciataLamiera (barriera copetura),2090964,AR_LIV_PE_PC2_+15.73m,Non collegata,0.14999999999999999,3.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102355,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102356,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102357,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102358,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102359,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102360,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102361,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102362,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102363,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102365,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102368,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102376,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102378,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102379,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102380,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2102381,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,2102403,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca EI60,2102404,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2102407,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2102408,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichGrecato,2102409,AR_LIV_PE_PC1_+12.83m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,0.29999999999999999,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_Torrini,2108359,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.40000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_Torrini,2108497,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.40000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_Torrini,2108577,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.40000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_Torrini,2108656,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.40000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFC_MON_All_60x250_Torrini,2108738,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.40000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112648,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112649,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112650,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112651,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112662,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.26600000000000001,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112665,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.26600000000000001,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112666,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112667,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112668,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112669,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112670,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112672,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112673,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112674,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112675,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112676,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112677,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112678,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_RIV_20mm_Intonaco,2112679,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112691,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112692,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112693,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112695,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112697,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112698,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112699,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112700,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112701,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2112791,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.13,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2113091,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2113202,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2114055,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2114419,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2115609,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2116235,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2119050,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2119136,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2119505,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2119794,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2120191,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2120346,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2120530,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2120708,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2121234,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2121815,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2121977,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.84999999999999998,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),2134151,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),2134224,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),2134297,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),2134330,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),2140223,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),2140286,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),2140359,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(Torrini),2140392,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.20000000000000001,4.7999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_600x2800_FacciataLamiera (barriera copetura),2144540,AR_LIV_PE_PC2_+15.73m,Non collegata,0.14999999999999999,3.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_600x2800_FacciataLamiera (barriera copetura),2144620,AR_LIV_PE_PC2_+15.73m,Non collegata,0.14999999999999999,3.0,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_PannelloSandwichOrizzontale,2145020,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,0.20000000000000001,3.2000000000000002,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2153089,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2153681,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-0.12,2.52,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2154016,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-0.12,2.52,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2154098,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-0.12,2.52,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2154135,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-0.12,2.52,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_350mm_DoppioPannelloSandwichOrizzontale,2155152,AR_LIV_PE_PC1_+12.83m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.25,0.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2155465,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-0.12,2.52,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2155548,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-0.12,2.52,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2156343,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2156837,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2158784,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC1_+12.83m,-0.0,2.52,Offset superiore eccede l'interpiano.,0
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2161978,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2161980,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2161981,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2162082,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2162086,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_600x2500_LamieraScalaSicurezzaEsternaSW,2167571,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.10000000000000001,1.3,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_600x2500_LamieraScalaSicurezzaEsternaSW,2167657,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.10000000000000001,1.3,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_600x2500_LamieraScalaSicurezzaEsternaSW,2170551,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.10000000000000001,1.3,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2171538,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2173642,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2173646,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2173650,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2173651,AR_LIV_PE_P02_+10.40m,Non collegata,-0.12,5.0700000000000003,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2173652,AR_LIV_PE_P02_+10.40m,Non collegata,-0.12,5.0700000000000003,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2173653,AR_LIV_PE_P02_+10.40m,Non collegata,-0.12,5.0700000000000003,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2173654,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2173958,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2174265,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2174426,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2174533,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2174659,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.0,-0.38,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2177553,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suCarpenteria),2184872,AR_LIV_PE_P02_+10.40m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.57999999999999996,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suPannelliSandwich),2185267,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-1.75,0.51000000000000001,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Gre_600x2780_FacciataVentilataGres(suCarpenteria),2187021,AR_LIV_PE_PC1_+12.83m,Fino al livello: AR_LIV_PE_PC2_+15.73m,0.69999999999999996,0.46999999999999997,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_1000x3000_FacciataVentilataLamiera(FronteSud),2192650,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_PC2_+15.73m,-1.75,-4.8200000000000003,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2201419,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,0.050000000000000003,-0.622,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2218058,AR_LIV_PE_P01_+5.20m,Fino al livello: AR_LIV_PE_P02_+10.40m,-0.12,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,2244269,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_125mm_ContropareteIsolataInCartongesso,2244270,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2244271,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_SFV_MON_Lst_625x3400_FacciataVentilataLamiera7015PT,2244274,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.050000000000000003,-1.75,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2245636,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_200mm_BloccoLeca,2246298,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,-0.20000000000000001,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2246615,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,FA_MUR_TAM_120mm_PannelloIsolante+Intonaco,2689665,AR_LIV_PE_P00_+0.00m,Fino al livello: AR_LIV_PE_P01_+5.20m,0.0,-0.25,Correttamente vincolato tra livelli.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1089791,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1090911,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1091003,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128062,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128095,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1128335,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1128343,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1128351,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1307423,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1307497,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1308645,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,1308780,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Asimmetrica,1309449,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1309990,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1310119,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1311211,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1311333,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,1312467,AR_LIV_PE_P00_+0.00m,-,-,-0.0,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1331918,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1332001,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_1A_SopraluceAlett,1372465,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1375756,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_1A_SopraluceAlett,1375836,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1375975,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376366,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376367,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1376403,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1392527,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1392547,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1392772,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1392837,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1392894,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1392948,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1393001,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1395054,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1395080,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395151,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395186,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395346,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395354,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_GRV_FIS_All_1A_GrigliaDiVentilazione,1395362,AR_LIV_PE_P00_+0.00m,-,-,0.29999999999999999,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1395480,AR_LIV_PE_P00_+0.00m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1476491,AR_LIV_PE_PC2_+15.73m,-,-,0.10000000000000001,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1477451,AR_LIV_PE_PC2_+15.73m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1477501,AR_LIV_PE_PC2_+15.73m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_Alett,1477543,AR_LIV_PE_PC2_+15.73m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Modelli generici,FA_PAF_CHI_All_InferioreCollegamentoD3Sx,1495958,-,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Modelli generici,FA_PAF_CHI_All_InferioreCollegamentoD3Dx,1497285,-,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1733558,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Finestre,FA_POR_BAT_Vct_2A_SimmetricaUs,1735900,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,2173567,AR_LIV_PE_P00_+0.00m,-,-,0.68999999999999995,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,2359329,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_AsimmetricaUs,2394812,AR_LIV_PE_P00_+0.00m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,2665889,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,2667130,AR_LIV_PE_P00_+0.00m,-,-,-0.0,Oggetto conforme.,1
+Offset Elementi,Porte,FA_POR_BAT_Acc_2A_SimmetricaUs,2668356,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
