@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>AR03 - Regole Modellazione</title>
+		<link rel="shortcut icon" href="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" type="image/x-icon">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/00_styles.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/01/13_RegoleModellazione.css">
+		<link href="//fonts.googleapis.com/css?family=Roboto:400%2C700&display=swap" rel="stylesheet">
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/styles.js" defer></script>
+		<script src="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/01/AR03_13_RegoleModellazione.js" defer></script>
+	</head>
+	<body>
+		<header>
+			<div class="Logo">
+				<a href="https://2dto6d.com/" target="_blank">
+					<img src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-completo-2dto6d-piccolo.png" alt="Logo">
+				</a>
+			</div>
+		</header>
+		<nav class="Menu">
+			<button class="hamburger" onclick="toggleMenu()">☰</button>
+			<div class="menu-content" id="menuContent">
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR03_00_index.html">Home AR03</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR03_01_PGIEAllegati.html"> pGI e Allegati</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR03_03_ClashDetection.html"> Clash Detection</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR03_05_ACDat.html"> ACDat</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR03_07_GeoreferenziazioneEOrientamento.html"> Georeferenziazione e Orientamento</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR03_08_GriglieELivelli.html"> Griglie e Livelli</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR03_09_IntegritàEPuliziaFile.html"> Integrità e Pulizia File</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR03_10_VerificaInformativa.html"> Verifica Informativa</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR03_12_NamingConvention.html"> Naming Convention</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/01/AR03_15_UnitaDiMisura.html"> Unità di misura</a></button>
+			</div>
+		</nav>
+		<main class="Contenitore">
+			<div class="Card">
+				<div class="Titolo">
+					<h3>Regole Modellazione</h3>
+					<p class="Descrizione">Controlli relativi alle modalità di modellazione.</p>
+				</div>
+				<br>
+				<table id="RegoleModellazione" class="RegoleModellazione">
+					<thead></thead>
+					<tbody></tbody>
+				</table>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 55</h3>
+					<p class="Descrizione">Verifica che l'offset degli elementi di famiglie caricabili e sistema sia sempre zero o positivo rispetto al livello di appartenenza e comunque inferiore all'interpiano.</p>
+				</div>
+				<br>
+				<div class="Verifica">
+					<div class="ElementOffset">
+						<table class="ElementOffsetTabella">
+							<thead id="ElementOffsetHeader"></thead>
+							<tbody id="ElementOffsetBody"></tbody>
+						</table>
+					<br>
+						<div class="pagination-ElementOffset"></div>
+					</div>
+					<div class="Grafico">
+						<canvas id="ElementOffsetAsBarChart" width="800" height="400"></canvas>
+						<br>
+						<div id="ElementOffsetStatistics"></div>
+					</div>
+				</div>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 56</h3>
+					<p class="Descrizione">Corretta modellazione dei locali: delimitati da superficie interna di pareti, pavimenti e controsoffitti.</p>
+				</div>
+				<br>
+				<div class="Verifica">
+					<div class="VerificaLocali">
+						<table class="VerificaLocaliTabella">
+							<thead id="VerificaLocaliHeader"></thead>
+							<tbody id="VerificaLocaliBody"></tbody>
+						</table>
+					<br>
+						<div class="pagination-VerificaLocali"></div>
+					</div>
+					<div class="Grafico">
+						<canvas id="VerificaLocaliGraficoATorta" width="400" height="400"></canvas>
+						<br>
+						<div id="VerificaLocalistatistics"></div>
+					</div>
+				</div>
+			</div>
+		</main>
+		<footer id="footer" class="footer">
+			<div class="Vuoto"></div>
+			<div class="footer-logo">
+				<img class="LogoFooter" src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" alt="LogoFooter">
+				<p class="FooterBianco">2Dto6D di Neri Lorenzetto Bologna</p>
+			</div>
+			<div class="footer-content">
+				<div class="contact-referent">
+					<h3>Contatti</h3>
+					<ul>
+						<li>E-mail: info@2dto6d.com</li>
+						<li>PEC: 2dto6dsrls@twtcert.it</li>
+						<li>Partita IVA: 07133360482</li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer-content">
+				<div class="contact-referent">
+					<h3>Referenti</h3>
+					<ul>
+						<li>Sante Vagnozzi</li>
+						<li>Vittoria Bressan</li>
+						<li>Dario Sgolacchia</li>
+					</ul>
+				</div>
+			</div>
+			<div class="Vuoto"></div>
+			<div class="footer-bottom">
+				<p class="FooterBianco"><strong>Per qualsiasi dubbio, vi chiediamo gentilmente di contattarci a: adbverifiche@2dto6d.com</strong></p>
+				<br>
+				<br>
+				<small class="FooterBianco">&copy; 2025 Verifiche 2Dto6D. Tutti i diritti riservati.<br>
+					Il presente sito agisce esclusivamente come visualizzatore, con l'obiettivo di analizzare i modelli e i documenti realizzati dagli esecutori.<br>
+					Tutti i dati sono trattati nel rispetto della privacy e delle normative vigenti, garantendo la protezione delle informazioni in conformità alla legislazione applicabile.<br>
+				</small>
+			</div>
+		</footer>
+		<button class="scroll-top" onclick="scrollToTop()">&#8679;</button>
+	</body>
+</html>
