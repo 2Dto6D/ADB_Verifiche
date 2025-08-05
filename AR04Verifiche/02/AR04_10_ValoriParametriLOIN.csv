@@ -1,0 +1,2873 @@
+Quantità,Nome della Famiglia e del Tipo,Valore Parametri,IFC Element,ID,Verifica,Stato
+16,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,J.002,IfcCovering,,Corretta,1
+17,,J.002,IfcDoor,,Corretta,1
+12,,J.002,IfcRoof,,Corretta,1
+10,Pavimento:AR_PAV_RIV_20mm_FL-002,J.002,IfcSlab,,Corretta,1
+5,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,J.002,IfcSlab,,Corretta,1
+5,Pavimento:AR_PAV_GET_780mm_PI.01,J.002,IfcSlab,,Corretta,1
+9,Pavimento:AR_PAV_RIV_20mm_FL-006,J.002,IfcSlab,,Corretta,1
+31,Tetto di base:AR_TET_PIA_256mm_PE.22,J.002,IfcSlab,,Corretta,1
+1,Tetto di base:AR_TET_PIA_468mm_PE.21,J.002,IfcSlab,,Corretta,1
+2,Tetto di base:AR_TET_PIA_482mm_PE.21,J.002,IfcSlab,,Corretta,1
+2,Pavimento:AR_PAV_GET_30mm_PI.13,J.002,IfcSlab,,Corretta,1
+6,Pavimento:AR_PAV_GET_50mm_PI.14,J.002,IfcSlab,,Corretta,1
+5,Pavimento:AR_PAV_GET_1450mm_PI.04,J.002,IfcSlab,,Corretta,1
+5,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,J.002,IfcStair,,Corretta,1
+10,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,J.002,IfcStairFlight,,Corretta,1
+39,Muro di base:AR_MUR_DIV_200mm_MI.01,J.002,IfcWall,,Corretta,1
+136,Muro di base:AR_MUR_RIV_20mm_R.08,J.002,IfcWall,,Corretta,1
+4,Muro di base:AR_CON_CPA_67mm_CI.09,J.002,IfcWall,,Corretta,1
+18,,J.002,IfcOpeningElement,,Corretta,1
+1,,,IfcOpeningElement,1230306,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1341697,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1231494,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1230966,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1341817,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1379028,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1332675,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1234012,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1345433,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1345488,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1345299,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1345270,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1345506,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1345454,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1346228,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1347135,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1347158,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1352317,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1369704,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1352856,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1352993,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1370144,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1353708,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1351995,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1352128,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1369504,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1351254,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1351337,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1357651,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1358876,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1358423,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1358946,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1359948,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1359958,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1359968,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1359978,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1359988,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1359998,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1360008,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1360018,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1360028,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1360038,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1360048,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1360068,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1360058,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362543,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1361539,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362848,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362838,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362828,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362818,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362808,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362798,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362788,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362778,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362768,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362758,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362748,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1362738,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1365085,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1364870,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1370717,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1370856,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1364228,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1408880,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1409604,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,744606,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,744726,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,744913,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,744916,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,744949,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,744952,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1385887,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1385888,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1336408,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1344514,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1235457,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1347276,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1347632,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1408407,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1409022,Da compilare IDE_GEN_I_Wbs0,0
+1,,,IfcOpeningElement,1409610,Da compilare IDE_GEN_I_Wbs0,0
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,1229726,1,IfcCovering,Corretta,1
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,1347887,1,IfcCovering,Corretta,1
+1,,744606,1,IfcDoor,Corretta,1
+1,,744726,1,IfcDoor,Corretta,1
+1,,744913,1,IfcDoor,Corretta,1
+1,,744916,1,IfcDoor,Corretta,1
+1,,744949,1,IfcDoor,Corretta,1
+1,,744952,1,IfcDoor,Corretta,1
+1,,1235457,1,IfcDoor,Corretta,1
+1,,1335843,1,IfcDoor,Corretta,1
+1,,1336408,1,IfcDoor,Corretta,1
+1,,1344514,1,IfcDoor,Corretta,1
+1,,1347276,1,IfcDoor,Corretta,1
+1,,1347632,1,IfcDoor,Corretta,1
+1,,1385887,1,IfcDoor,Corretta,1
+1,,1385888,1,IfcDoor,Corretta,1
+1,,1408407,1,IfcDoor,Corretta,1
+1,,1409022,1,IfcDoor,Corretta,1
+1,,1409610,1,IfcDoor,Corretta,1
+1,,1340440,1,IfcRoof,Corretta,1
+1,,1340526,1,IfcRoof,Corretta,1
+1,,1340700,1,IfcRoof,Corretta,1
+1,,1340821,1,IfcRoof,Corretta,1
+1,,1340891,1,IfcRoof,Corretta,1
+1,,1340977,1,IfcRoof,Corretta,1
+1,,1341030,1,IfcRoof,Corretta,1
+1,,1341197,1,IfcRoof,Corretta,1
+1,,1341252,1,IfcRoof,Corretta,1
+1,,1341430,1,IfcRoof,Corretta,1
+1,,1341498,1,IfcRoof,Corretta,1
+1,,1383875,1,IfcRoof,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1206369,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1206776,1,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1219841,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1221176,1,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1221523,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1221946,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1222034,1,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1222769,1,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1222946,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1223021,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1223249,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1234073,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1234135,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1235396,1,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,1340440,1,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_468mm_PE.21,1340891,1,IfcSlab,Corretta,1
+8,Tetto di base:AR_TET_PIA_256mm_PE.22,1340977,1,IfcSlab,Corretta,1
+9,Tetto di base:AR_TET_PIA_256mm_PE.22,1341197,1,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,1341430,1,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,1341498,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,1344262,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1344433,1,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1345223,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1345783,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1346002,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1346025,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1348240,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1348330,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1355205,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1360684,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1360790,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1367677,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,1367688,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1367703,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1368198,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1368294,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369113,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369143,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369230,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369292,1,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,1383875,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1402461,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404694,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404765,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404863,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404964,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409739,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409826,1,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409974,1,IfcSlab,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1219683,1,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1221305,1,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1222764,1,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1222941,1,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1345218,1,IfcStair,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1219794,1,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1220051,1,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1221343,1,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1221708,1,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222765,1,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222775,1,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222942,1,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222952,1,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1345219,1,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1345229,1,IfcStairFlight,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744495,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744532,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744554,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744580,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744909,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744910,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744911,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744912,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744945,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744946,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744947,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744948,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745127,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745128,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745129,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745130,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1219301,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1219409,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1220783,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1225050,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1225108,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226041,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226072,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226199,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226228,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226757,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226842,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226897,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1228544,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229267,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229325,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229419,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229465,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229503,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229970,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1230021,1,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1232234,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233496,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233544,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233606,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233686,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233750,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1235145,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342497,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342538,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342577,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342602,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345241,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345242,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345243,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345244,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345245,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345246,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345247,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345248,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345249,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345250,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345251,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345252,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345253,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345254,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345255,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345363,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345364,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345365,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345519,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345520,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345521,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345522,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1345665,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346209,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346210,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1346211,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346872,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347123,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347124,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347125,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1347143,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348674,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348750,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348799,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348959,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349119,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349120,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349121,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349122,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349497,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349601,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349665,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349778,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349832,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349895,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350036,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350037,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350038,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350039,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350040,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350041,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1350596,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350798,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1350913,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350988,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355558,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355657,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355700,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355770,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356241,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356330,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356410,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356522,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356563,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356701,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356859,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356860,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356861,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356862,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356925,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357219,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357402,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357403,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357404,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1358730,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1358795,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359269,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359690,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359813,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1361066,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1361139,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361223,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361299,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361338,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361448,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361676,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361796,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361860,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361953,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362141,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362171,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362300,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363503,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363562,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363591,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363674,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363749,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363804,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363839,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363895,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363935,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1364008,1,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1367867,1,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1368572,1,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1369362,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1405321,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405353,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405364,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405406,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405453,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1405499,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405526,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405559,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405634,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408658,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1408770,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408846,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408879,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408897,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408953,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1408954,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408955,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409012,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409259,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1409322,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409350,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409379,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409411,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409543,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1409544,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409545,1,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409603,1,IfcWall,Corretta,1
+3,,1335843,1,IfcOpeningElement,Corretta,1
+2,,1344514,1,IfcOpeningElement,Corretta,1
+1,,1230306,,IfcOpeningElement,Corretta,1
+1,,1341697,,IfcOpeningElement,Corretta,1
+1,,1231494,,IfcOpeningElement,Corretta,1
+1,,1230966,,IfcOpeningElement,Corretta,1
+1,,1341817,,IfcOpeningElement,Corretta,1
+1,,1379028,,IfcOpeningElement,Corretta,1
+1,,1332675,,IfcOpeningElement,Corretta,1
+1,,1234012,,IfcOpeningElement,Corretta,1
+2,,1336408,1,IfcOpeningElement,Corretta,1
+1,,1235457,1,IfcOpeningElement,Corretta,1
+1,,1345433,,IfcOpeningElement,Corretta,1
+1,,1345488,,IfcOpeningElement,Corretta,1
+1,,1345299,,IfcOpeningElement,Corretta,1
+1,,1345270,,IfcOpeningElement,Corretta,1
+1,,1345506,,IfcOpeningElement,Corretta,1
+1,,1345454,,IfcOpeningElement,Corretta,1
+2,,1347632,1,IfcOpeningElement,Corretta,1
+1,,1346228,,IfcOpeningElement,Corretta,1
+2,,1347276,1,IfcOpeningElement,Corretta,1
+1,,1347135,,IfcOpeningElement,Corretta,1
+1,,1347158,,IfcOpeningElement,Corretta,1
+1,,1352317,,IfcOpeningElement,Corretta,1
+1,,1369704,,IfcOpeningElement,Corretta,1
+1,,1352856,,IfcOpeningElement,Corretta,1
+1,,1352993,,IfcOpeningElement,Corretta,1
+1,,1370144,,IfcOpeningElement,Corretta,1
+1,,1353708,,IfcOpeningElement,Corretta,1
+1,,1351995,,IfcOpeningElement,Corretta,1
+1,,1352128,,IfcOpeningElement,Corretta,1
+1,,1369504,,IfcOpeningElement,Corretta,1
+1,,1351254,,IfcOpeningElement,Corretta,1
+1,,1351337,,IfcOpeningElement,Corretta,1
+1,,1357651,,IfcOpeningElement,Corretta,1
+1,,1358876,,IfcOpeningElement,Corretta,1
+1,,1358423,,IfcOpeningElement,Corretta,1
+1,,1358946,,IfcOpeningElement,Corretta,1
+1,,1359948,,IfcOpeningElement,Corretta,1
+1,,1359958,,IfcOpeningElement,Corretta,1
+1,,1359968,,IfcOpeningElement,Corretta,1
+1,,1359978,,IfcOpeningElement,Corretta,1
+1,,1359988,,IfcOpeningElement,Corretta,1
+1,,1359998,,IfcOpeningElement,Corretta,1
+1,,1360008,,IfcOpeningElement,Corretta,1
+1,,1360018,,IfcOpeningElement,Corretta,1
+1,,1360028,,IfcOpeningElement,Corretta,1
+1,,1360038,,IfcOpeningElement,Corretta,1
+1,,1360048,,IfcOpeningElement,Corretta,1
+1,,1360068,,IfcOpeningElement,Corretta,1
+1,,1360058,,IfcOpeningElement,Corretta,1
+1,,1362543,,IfcOpeningElement,Corretta,1
+1,,1361539,,IfcOpeningElement,Corretta,1
+1,,1362848,,IfcOpeningElement,Corretta,1
+1,,1362838,,IfcOpeningElement,Corretta,1
+1,,1362828,,IfcOpeningElement,Corretta,1
+1,,1362818,,IfcOpeningElement,Corretta,1
+1,,1362808,,IfcOpeningElement,Corretta,1
+1,,1362798,,IfcOpeningElement,Corretta,1
+1,,1362788,,IfcOpeningElement,Corretta,1
+1,,1362778,,IfcOpeningElement,Corretta,1
+1,,1362768,,IfcOpeningElement,Corretta,1
+1,,1362758,,IfcOpeningElement,Corretta,1
+1,,1362748,,IfcOpeningElement,Corretta,1
+1,,1362738,,IfcOpeningElement,Corretta,1
+1,,1365085,,IfcOpeningElement,Corretta,1
+1,,1364870,,IfcOpeningElement,Corretta,1
+1,,1370717,,IfcOpeningElement,Corretta,1
+1,,1370856,,IfcOpeningElement,Corretta,1
+1,,1364228,,IfcOpeningElement,Corretta,1
+2,,1408407,1,IfcOpeningElement,Corretta,1
+1,,1408880,,IfcOpeningElement,Corretta,1
+2,,1409022,1,IfcOpeningElement,Corretta,1
+2,,1409610,1,IfcOpeningElement,Corretta,1
+1,,1409604,,IfcOpeningElement,Corretta,1
+1,,744606,,IfcOpeningElement,Corretta,1
+1,,744726,,IfcOpeningElement,Corretta,1
+1,,744913,,IfcOpeningElement,Corretta,1
+1,,744916,,IfcOpeningElement,Corretta,1
+1,,744949,,IfcOpeningElement,Corretta,1
+1,,744952,,IfcOpeningElement,Corretta,1
+1,,1385887,,IfcOpeningElement,Corretta,1
+1,,1385888,,IfcOpeningElement,Corretta,1
+1,,1336408,,IfcOpeningElement,Corretta,1
+1,,1344514,,IfcOpeningElement,Corretta,1
+1,,1235457,,IfcOpeningElement,Corretta,1
+1,,1347276,,IfcOpeningElement,Corretta,1
+1,,1347632,,IfcOpeningElement,Corretta,1
+1,,1408407,,IfcOpeningElement,Corretta,1
+1,,1409022,,IfcOpeningElement,Corretta,1
+1,,1409610,,IfcOpeningElement,Corretta,1
+1,,1230306,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1341697,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1231494,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1230966,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1341817,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1379028,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1332675,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1234012,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1345433,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1345488,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1345299,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1345270,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1345506,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1345454,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1346228,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1347135,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1347158,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1352317,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1369704,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1352856,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1352993,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1370144,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1353708,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1351995,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1352128,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1369504,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1351254,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1351337,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1357651,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1358876,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1358423,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1358946,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1359948,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1359958,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1359968,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1359978,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1359988,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1359998,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1360008,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1360018,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1360028,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1360038,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1360048,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1360068,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1360058,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362543,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1361539,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362848,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362838,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362828,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362818,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362808,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362798,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362788,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362778,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362768,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362758,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362748,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1362738,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1365085,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1364870,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1370717,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1370856,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1364228,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1408880,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1409604,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,744606,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,744726,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,744913,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,744916,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,744949,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,744952,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1385887,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1385888,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1336408,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1344514,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1235457,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1347276,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1347632,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1408407,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1409022,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,,1409610,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs1,0
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,60,1229726,IfcCovering,Corretta,1
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,60,1347887,IfcCovering,Corretta,1
+1,,60,744606,IfcDoor,Corretta,1
+1,,60,744726,IfcDoor,Corretta,1
+1,,60,744913,IfcDoor,Corretta,1
+1,,60,744916,IfcDoor,Corretta,1
+1,,60,744949,IfcDoor,Corretta,1
+1,,60,744952,IfcDoor,Corretta,1
+1,,60,1235457,IfcDoor,Corretta,1
+1,,60,1335843,IfcDoor,Corretta,1
+1,,60,1336408,IfcDoor,Corretta,1
+1,,60,1344514,IfcDoor,Corretta,1
+1,,60,1347276,IfcDoor,Corretta,1
+1,,60,1347632,IfcDoor,Corretta,1
+1,,60,1385887,IfcDoor,Corretta,1
+1,,60,1385888,IfcDoor,Corretta,1
+1,,60,1408407,IfcDoor,Corretta,1
+1,,60,1409022,IfcDoor,Corretta,1
+1,,60,1409610,IfcDoor,Corretta,1
+1,,60,1340440,IfcRoof,Corretta,1
+1,,50,1340526,IfcRoof,Corretta,1
+1,,50,1340700,IfcRoof,Corretta,1
+1,,60,1340821,IfcRoof,Corretta,1
+1,,50,1340891,IfcRoof,Corretta,1
+1,,60,1340977,IfcRoof,Corretta,1
+1,,50,1341030,IfcRoof,Corretta,1
+1,,60,1341197,IfcRoof,Corretta,1
+1,,50,1341252,IfcRoof,Corretta,1
+1,,50,1341430,IfcRoof,Corretta,1
+1,,50,1341498,IfcRoof,Corretta,1
+1,,60,1383875,IfcRoof,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,60,1206369,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,60,1206776,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,60,1219841,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,60,1221176,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,60,1221523,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,60,1221946,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,60,1222034,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,60,1222769,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,60,1222946,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,60,1223021,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,60,1223249,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,60,1234073,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,60,1234135,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,60,1235396,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,60,1340440,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_468mm_PE.21,50,1340891,IfcSlab,Corretta,1
+8,Tetto di base:AR_TET_PIA_256mm_PE.22,60,1340977,IfcSlab,Corretta,1
+9,Tetto di base:AR_TET_PIA_256mm_PE.22,60,1341197,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,50,1341430,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,50,1341498,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,60,1344262,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,60,1344433,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,60,1345223,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,60,1345783,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,60,1346002,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,60,1346025,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,60,1348240,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,60,1348330,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,60,1355205,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,60,1360684,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,60,1360790,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,60,1367677,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,60,1367688,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,60,1367703,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,60,1368198,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,60,1368294,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,60,1369113,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,60,1369143,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,60,1369230,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,60,1369292,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,60,1383875,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,60,1402461,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,60,1404694,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,60,1404765,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,60,1404863,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,60,1404964,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,60,1409739,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,60,1409826,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,60,1409974,IfcSlab,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,60,1219683,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,60,1221305,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,60,1222764,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,60,1222941,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,60,1345218,IfcStair,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,60,1219794,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,60,1220051,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,60,1221343,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,60,1221708,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,60,1222765,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,60,1222775,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,60,1222942,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,60,1222952,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,60,1345219,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,60,1345229,IfcStairFlight,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744495,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744532,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744554,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744580,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744909,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744910,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744911,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744912,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744945,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744946,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744947,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,744948,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,745127,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,745128,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,745129,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,745130,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1219301,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1219409,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1220783,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1225050,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1225108,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1226041,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1226072,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1226199,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1226228,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1226757,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1226842,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1226897,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1228544,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1229267,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1229325,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1229419,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1229465,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1229503,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1229970,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1230021,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,60,1232234,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1233496,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1233544,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1233606,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1233686,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1233750,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1235145,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1342497,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1342538,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1342577,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1342602,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345241,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345242,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345243,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345244,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345245,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345246,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345247,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345248,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345249,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345250,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345251,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345252,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345253,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345254,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345255,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345363,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345364,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345365,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345519,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345520,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345521,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1345522,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1345665,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1346209,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1346210,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1346211,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1346872,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1347123,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1347124,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1347125,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1347143,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1348674,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1348750,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1348799,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1348959,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1349119,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1349120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1349121,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1349122,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1349497,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1349601,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1349665,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1349778,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1349832,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1349895,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1350036,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1350037,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1350038,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1350039,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1350040,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1350041,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1350596,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1350798,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1350913,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1350988,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1355558,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1355657,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1355700,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1355770,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356241,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356330,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356410,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356522,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356563,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356701,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356859,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356860,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356861,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356862,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1356925,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1357219,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1357402,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1357403,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1357404,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1358730,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1358795,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1359269,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1359690,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1359813,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1361066,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1361139,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1361223,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1361299,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1361338,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1361448,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1361676,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1361796,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1361860,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1361953,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1362141,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1362171,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1362300,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1363503,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1363562,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1363591,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1363674,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1363749,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1363804,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1363839,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1363895,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1363935,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1364008,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,60,1367867,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,60,1368572,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,60,1369362,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1405321,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1405353,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1405364,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1405406,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1405453,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1405499,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1405526,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1405559,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1405634,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1408658,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1408770,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1408846,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1408879,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1408897,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1408953,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1408954,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1408955,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1409012,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1409259,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1409322,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1409350,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1409379,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1409411,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1409543,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,60,1409544,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1409545,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,60,1409603,IfcWall,Corretta,1
+3,,60,1335843,IfcOpeningElement,Corretta,1
+2,,60,1344514,IfcOpeningElement,Corretta,1
+1,,,1230306,IfcOpeningElement,Corretta,1
+1,,,1341697,IfcOpeningElement,Corretta,1
+1,,,1231494,IfcOpeningElement,Corretta,1
+1,,,1230966,IfcOpeningElement,Corretta,1
+1,,,1341817,IfcOpeningElement,Corretta,1
+1,,,1379028,IfcOpeningElement,Corretta,1
+1,,,1332675,IfcOpeningElement,Corretta,1
+1,,,1234012,IfcOpeningElement,Corretta,1
+2,,60,1336408,IfcOpeningElement,Corretta,1
+1,,60,1235457,IfcOpeningElement,Corretta,1
+1,,,1345433,IfcOpeningElement,Corretta,1
+1,,,1345488,IfcOpeningElement,Corretta,1
+1,,,1345299,IfcOpeningElement,Corretta,1
+1,,,1345270,IfcOpeningElement,Corretta,1
+1,,,1345506,IfcOpeningElement,Corretta,1
+1,,,1345454,IfcOpeningElement,Corretta,1
+2,,60,1347632,IfcOpeningElement,Corretta,1
+1,,,1346228,IfcOpeningElement,Corretta,1
+2,,60,1347276,IfcOpeningElement,Corretta,1
+1,,,1347135,IfcOpeningElement,Corretta,1
+1,,,1347158,IfcOpeningElement,Corretta,1
+1,,,1352317,IfcOpeningElement,Corretta,1
+1,,,1369704,IfcOpeningElement,Corretta,1
+1,,,1352856,IfcOpeningElement,Corretta,1
+1,,,1352993,IfcOpeningElement,Corretta,1
+1,,,1370144,IfcOpeningElement,Corretta,1
+1,,,1353708,IfcOpeningElement,Corretta,1
+1,,,1351995,IfcOpeningElement,Corretta,1
+1,,,1352128,IfcOpeningElement,Corretta,1
+1,,,1369504,IfcOpeningElement,Corretta,1
+1,,,1351254,IfcOpeningElement,Corretta,1
+1,,,1351337,IfcOpeningElement,Corretta,1
+1,,,1357651,IfcOpeningElement,Corretta,1
+1,,,1358876,IfcOpeningElement,Corretta,1
+1,,,1358423,IfcOpeningElement,Corretta,1
+1,,,1358946,IfcOpeningElement,Corretta,1
+1,,,1359948,IfcOpeningElement,Corretta,1
+1,,,1359958,IfcOpeningElement,Corretta,1
+1,,,1359968,IfcOpeningElement,Corretta,1
+1,,,1359978,IfcOpeningElement,Corretta,1
+1,,,1359988,IfcOpeningElement,Corretta,1
+1,,,1359998,IfcOpeningElement,Corretta,1
+1,,,1360008,IfcOpeningElement,Corretta,1
+1,,,1360018,IfcOpeningElement,Corretta,1
+1,,,1360028,IfcOpeningElement,Corretta,1
+1,,,1360038,IfcOpeningElement,Corretta,1
+1,,,1360048,IfcOpeningElement,Corretta,1
+1,,,1360068,IfcOpeningElement,Corretta,1
+1,,,1360058,IfcOpeningElement,Corretta,1
+1,,,1362543,IfcOpeningElement,Corretta,1
+1,,,1361539,IfcOpeningElement,Corretta,1
+1,,,1362848,IfcOpeningElement,Corretta,1
+1,,,1362838,IfcOpeningElement,Corretta,1
+1,,,1362828,IfcOpeningElement,Corretta,1
+1,,,1362818,IfcOpeningElement,Corretta,1
+1,,,1362808,IfcOpeningElement,Corretta,1
+1,,,1362798,IfcOpeningElement,Corretta,1
+1,,,1362788,IfcOpeningElement,Corretta,1
+1,,,1362778,IfcOpeningElement,Corretta,1
+1,,,1362768,IfcOpeningElement,Corretta,1
+1,,,1362758,IfcOpeningElement,Corretta,1
+1,,,1362748,IfcOpeningElement,Corretta,1
+1,,,1362738,IfcOpeningElement,Corretta,1
+1,,,1365085,IfcOpeningElement,Corretta,1
+1,,,1364870,IfcOpeningElement,Corretta,1
+1,,,1370717,IfcOpeningElement,Corretta,1
+1,,,1370856,IfcOpeningElement,Corretta,1
+1,,,1364228,IfcOpeningElement,Corretta,1
+2,,60,1408407,IfcOpeningElement,Corretta,1
+1,,,1408880,IfcOpeningElement,Corretta,1
+2,,60,1409022,IfcOpeningElement,Corretta,1
+2,,60,1409610,IfcOpeningElement,Corretta,1
+1,,,1409604,IfcOpeningElement,Corretta,1
+1,,,744606,IfcOpeningElement,Corretta,1
+1,,,744726,IfcOpeningElement,Corretta,1
+1,,,744913,IfcOpeningElement,Corretta,1
+1,,,744916,IfcOpeningElement,Corretta,1
+1,,,744949,IfcOpeningElement,Corretta,1
+1,,,744952,IfcOpeningElement,Corretta,1
+1,,,1385887,IfcOpeningElement,Corretta,1
+1,,,1385888,IfcOpeningElement,Corretta,1
+1,,,1336408,IfcOpeningElement,Corretta,1
+1,,,1344514,IfcOpeningElement,Corretta,1
+1,,,1235457,IfcOpeningElement,Corretta,1
+1,,,1347276,IfcOpeningElement,Corretta,1
+1,,,1347632,IfcOpeningElement,Corretta,1
+1,,,1408407,IfcOpeningElement,Corretta,1
+1,,,1409022,IfcOpeningElement,Corretta,1
+1,,,1409610,IfcOpeningElement,Corretta,1
+1,,,IfcOpeningElement,1230306,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1341697,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1231494,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1230966,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1341817,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1379028,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1332675,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1234012,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1345433,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1345488,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1345299,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1345270,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1345506,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1345454,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1346228,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1347135,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1347158,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1352317,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1369704,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1352856,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1352993,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1370144,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1353708,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1351995,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1352128,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1369504,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1351254,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1351337,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1357651,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1358876,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1358423,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1358946,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1359948,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1359958,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1359968,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1359978,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1359988,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1359998,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1360008,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1360018,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1360028,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1360038,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1360048,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1360068,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1360058,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362543,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1361539,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362848,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362838,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362828,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362818,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362808,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362798,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362788,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362778,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362768,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362758,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362748,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1362738,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1365085,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1364870,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1370717,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1370856,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1364228,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1408880,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1409604,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,744606,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,744726,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,744913,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,744916,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,744949,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,744952,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1385887,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1385888,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1336408,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1344514,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1235457,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1347276,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1347632,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1408407,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1409022,Da compilare IDE_GEN_I_Wbs2,0
+1,,,IfcOpeningElement,1409610,Da compilare IDE_GEN_I_Wbs2,
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,30,1229726,IfcCovering,Corretta,1
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,30,1347887,IfcCovering,Corretta,1
+1,,40,744606,IfcDoor,Corretta,1
+1,,40,744726,IfcDoor,Corretta,1
+1,,40,744913,IfcDoor,Corretta,1
+1,,40,744916,IfcDoor,Corretta,1
+1,,40,744949,IfcDoor,Corretta,1
+1,,40,744952,IfcDoor,Corretta,1
+1,,30,1235457,IfcDoor,Corretta,1
+1,,30,1335843,IfcDoor,Corretta,1
+1,,30,1336408,IfcDoor,Corretta,1
+1,,40,1344514,IfcDoor,Corretta,1
+1,,30,1347276,IfcDoor,Corretta,1
+1,,40,1347632,IfcDoor,Corretta,1
+1,,40,1385887,IfcDoor,Corretta,1
+1,,40,1385888,IfcDoor,Corretta,1
+1,,30,1408407,IfcDoor,Corretta,1
+1,,30,1409022,IfcDoor,Corretta,1
+1,,30,1409610,IfcDoor,Corretta,1
+1,,50,1340440,IfcRoof,Corretta,1
+1,,50,1340526,IfcRoof,Corretta,1
+1,,50,1340700,IfcRoof,Corretta,1
+1,,50,1340821,IfcRoof,Corretta,1
+1,,50,1340891,IfcRoof,Corretta,1
+1,,50,1340977,IfcRoof,Corretta,1
+1,,50,1341030,IfcRoof,Corretta,1
+1,,50,1341197,IfcRoof,Corretta,1
+1,,50,1341252,IfcRoof,Corretta,1
+1,,50,1341430,IfcRoof,Corretta,1
+1,,50,1341498,IfcRoof,Corretta,1
+1,,50,1383875,IfcRoof,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,30,1206369,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,40,1206776,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,30,1219841,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,40,1221176,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,30,1221523,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,40,1221946,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,40,1222034,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,30,1222769,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,30,1222946,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,30,1223021,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,30,1223249,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,30,1234073,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,30,1234135,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,30,1235396,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,50,1340440,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_468mm_PE.21,50,1340891,IfcSlab,Corretta,1
+8,Tetto di base:AR_TET_PIA_256mm_PE.22,50,1340977,IfcSlab,Corretta,1
+9,Tetto di base:AR_TET_PIA_256mm_PE.22,50,1341197,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,50,1341430,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,50,1341498,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,40,1344262,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,40,1344433,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,30,1345223,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,30,1345783,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,30,1346002,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,30,1346025,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,30,1348240,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,30,1348330,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,30,1355205,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,30,1360684,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,30,1360790,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,40,1367677,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,40,1367688,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,40,1367703,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,40,1368198,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,40,1368294,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,40,1369113,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,40,1369143,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,40,1369230,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,40,1369292,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,50,1383875,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,30,1402461,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,30,1404694,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,30,1404765,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,30,1404863,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,30,1404964,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,30,1409739,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,30,1409826,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,30,1409974,IfcSlab,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,30,1219683,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,30,1221305,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,30,1222764,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,30,1222941,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,30,1345218,IfcStair,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,30,1219794,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,30,1220051,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,30,1221343,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,30,1221708,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,30,1222765,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,30,1222775,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,30,1222942,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,30,1222952,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,30,1345219,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,30,1345229,IfcStairFlight,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744495,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744532,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744554,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744580,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744909,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744910,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744911,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744912,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744945,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744946,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744947,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,744948,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,745127,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,745128,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,745129,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,745130,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1219301,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,1219409,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1220783,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1225050,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1225108,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1226041,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1226072,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1226199,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1226228,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1226757,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1226842,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1226897,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1228544,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1229267,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1229325,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1229419,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1229465,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1229503,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1229970,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1230021,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,30,1232234,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1233496,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1233544,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1233606,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1233686,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1233750,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1235145,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1342497,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1342538,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1342577,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1342602,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345241,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345242,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345243,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345244,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345245,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345246,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345247,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345248,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1345249,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345250,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1345251,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1345252,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1345253,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345254,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345255,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345363,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345364,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1345365,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1345519,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1345520,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1345521,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1345522,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,40,1345665,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1346209,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1346210,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1346211,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1346872,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1347123,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1347124,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1347125,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1347143,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1348674,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1348750,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1348799,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1348959,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1349119,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1349120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1349121,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1349122,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1349497,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1349601,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1349665,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1349778,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1349832,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1349895,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1350036,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1350037,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1350038,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1350039,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1350040,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1350041,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1350596,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1350798,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1350913,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1350988,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1355558,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1355657,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1355700,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1355770,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1356241,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1356330,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1356410,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1356522,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1356563,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1356701,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1356859,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1356860,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1356861,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1356862,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1356925,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1357219,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1357402,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1357403,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1357404,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1358730,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1358795,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1359269,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1359690,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1359813,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1361066,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1361139,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1361223,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1361299,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1361338,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1361448,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1361676,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1361796,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1361860,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1361953,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1362141,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1362171,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1362300,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1363503,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1363562,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1363591,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1363674,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1363749,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1363804,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1363839,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1363895,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1363935,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,40,1364008,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,30,1367867,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,30,1368572,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,30,1369362,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1405321,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1405353,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1405364,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1405406,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1405453,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1405499,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1405526,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1405559,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1405634,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1408658,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1408770,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1408846,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1408879,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1408897,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1408953,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1408954,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1408955,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1409012,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1409259,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1409322,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1409350,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1409379,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1409411,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1409543,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,30,1409544,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1409545,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,30,1409603,IfcWall,Corretta,1
+3,,30,1335843,IfcOpeningElement,Corretta,1
+2,,40,1344514,IfcOpeningElement,Corretta,1
+1,,,1230306,IfcOpeningElement,Corretta,1
+1,,,1341697,IfcOpeningElement,Corretta,1
+1,,,1231494,IfcOpeningElement,Corretta,1
+1,,,1230966,IfcOpeningElement,Corretta,1
+1,,,1341817,IfcOpeningElement,Corretta,1
+1,,,1379028,IfcOpeningElement,Corretta,1
+1,,,1332675,IfcOpeningElement,Corretta,1
+1,,,1234012,IfcOpeningElement,Corretta,1
+2,,30,1336408,IfcOpeningElement,Corretta,1
+1,,30,1235457,IfcOpeningElement,Corretta,1
+1,,,1345433,IfcOpeningElement,Corretta,1
+1,,,1345488,IfcOpeningElement,Corretta,1
+1,,,1345299,IfcOpeningElement,Corretta,1
+1,,,1345270,IfcOpeningElement,Corretta,1
+1,,,1345506,IfcOpeningElement,Corretta,1
+1,,,1345454,IfcOpeningElement,Corretta,1
+2,,40,1347632,IfcOpeningElement,Corretta,1
+1,,,1346228,IfcOpeningElement,Corretta,1
+2,,30,1347276,IfcOpeningElement,Corretta,1
+1,,,1347135,IfcOpeningElement,Corretta,1
+1,,,1347158,IfcOpeningElement,Corretta,1
+1,,,1352317,IfcOpeningElement,Corretta,1
+1,,,1369704,IfcOpeningElement,Corretta,1
+1,,,1352856,IfcOpeningElement,Corretta,1
+1,,,1352993,IfcOpeningElement,Corretta,1
+1,,,1370144,IfcOpeningElement,Corretta,1
+1,,,1353708,IfcOpeningElement,Corretta,1
+1,,,1351995,IfcOpeningElement,Corretta,1
+1,,,1352128,IfcOpeningElement,Corretta,1
+1,,,1369504,IfcOpeningElement,Corretta,1
+1,,,1351254,IfcOpeningElement,Corretta,1
+1,,,1351337,IfcOpeningElement,Corretta,1
+1,,,1357651,IfcOpeningElement,Corretta,1
+1,,,1358876,IfcOpeningElement,Corretta,1
+1,,,1358423,IfcOpeningElement,Corretta,1
+1,,,1358946,IfcOpeningElement,Corretta,1
+1,,,1359948,IfcOpeningElement,Corretta,1
+1,,,1359958,IfcOpeningElement,Corretta,1
+1,,,1359968,IfcOpeningElement,Corretta,1
+1,,,1359978,IfcOpeningElement,Corretta,1
+1,,,1359988,IfcOpeningElement,Corretta,1
+1,,,1359998,IfcOpeningElement,Corretta,1
+1,,,1360008,IfcOpeningElement,Corretta,1
+1,,,1360018,IfcOpeningElement,Corretta,1
+1,,,1360028,IfcOpeningElement,Corretta,1
+1,,,1360038,IfcOpeningElement,Corretta,1
+1,,,1360048,IfcOpeningElement,Corretta,1
+1,,,1360068,IfcOpeningElement,Corretta,1
+1,,,1360058,IfcOpeningElement,Corretta,1
+1,,,1362543,IfcOpeningElement,Corretta,1
+1,,,1361539,IfcOpeningElement,Corretta,1
+1,,,1362848,IfcOpeningElement,Corretta,1
+1,,,1362838,IfcOpeningElement,Corretta,1
+1,,,1362828,IfcOpeningElement,Corretta,1
+1,,,1362818,IfcOpeningElement,Corretta,1
+1,,,1362808,IfcOpeningElement,Corretta,1
+1,,,1362798,IfcOpeningElement,Corretta,1
+1,,,1362788,IfcOpeningElement,Corretta,1
+1,,,1362778,IfcOpeningElement,Corretta,1
+1,,,1362768,IfcOpeningElement,Corretta,1
+1,,,1362758,IfcOpeningElement,Corretta,1
+1,,,1362748,IfcOpeningElement,Corretta,1
+1,,,1362738,IfcOpeningElement,Corretta,1
+1,,,1365085,IfcOpeningElement,Corretta,1
+1,,,1364870,IfcOpeningElement,Corretta,1
+1,,,1370717,IfcOpeningElement,Corretta,1
+1,,,1370856,IfcOpeningElement,Corretta,1
+1,,,1364228,IfcOpeningElement,Corretta,1
+2,,30,1408407,IfcOpeningElement,Corretta,1
+1,,,1408880,IfcOpeningElement,Corretta,1
+2,,30,1409022,IfcOpeningElement,Corretta,1
+2,,30,1409610,IfcOpeningElement,Corretta,1
+1,,,1409604,IfcOpeningElement,Corretta,1
+1,,,744606,IfcOpeningElement,Corretta,1
+1,,,744726,IfcOpeningElement,Corretta,1
+1,,,744913,IfcOpeningElement,Corretta,1
+1,,,744916,IfcOpeningElement,Corretta,1
+1,,,744949,IfcOpeningElement,Corretta,1
+1,,,744952,IfcOpeningElement,Corretta,1
+1,,,1385887,IfcOpeningElement,Corretta,1
+1,,,1385888,IfcOpeningElement,Corretta,1
+1,,,1336408,IfcOpeningElement,Corretta,1
+1,,,1344514,IfcOpeningElement,Corretta,1
+1,,,1235457,IfcOpeningElement,Corretta,1
+1,,,1347276,IfcOpeningElement,Corretta,1
+1,,,1347632,IfcOpeningElement,Corretta,1
+1,,,1408407,IfcOpeningElement,Corretta,1
+1,,,1409022,IfcOpeningElement,Corretta,1
+1,,,1409610,IfcOpeningElement,Corretta,1
+1,,,1230306,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1341697,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1231494,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1230966,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1341817,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1379028,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1332675,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1234012,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1345433,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1345488,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1345299,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1345270,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1345506,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1345454,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1346228,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1347135,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1347158,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1352317,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1369704,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1352856,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1352993,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1370144,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1353708,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1351995,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1352128,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1369504,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1351254,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1351337,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1357651,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1358876,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1358423,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1358946,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1359948,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1359958,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1359968,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1359978,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1359988,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1359998,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1360008,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1360018,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1360028,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1360038,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1360048,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1360068,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1360058,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362543,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1361539,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362848,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362838,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362828,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362818,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362808,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362798,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362788,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362778,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362768,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362758,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362748,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1362738,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1365085,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1364870,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1370717,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1370856,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1364228,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1408880,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1409604,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,744606,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,744726,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,744913,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,744916,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,744949,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,744952,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1385887,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1385888,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1336408,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1344514,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1235457,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1347276,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1347632,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1408407,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1409022,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,,,1409610,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs3,0
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,1229726,100,IfcCovering,Corretta,1
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,1347887,100,IfcCovering,Corretta,1
+1,,744606,100,IfcDoor,Corretta,1
+1,,744726,100,IfcDoor,Corretta,1
+1,,744913,100,IfcDoor,Corretta,1
+1,,744916,100,IfcDoor,Corretta,1
+1,,744949,100,IfcDoor,Corretta,1
+1,,744952,100,IfcDoor,Corretta,1
+1,,1235457,100,IfcDoor,Corretta,1
+1,,1335843,100,IfcDoor,Corretta,1
+1,,1336408,100,IfcDoor,Corretta,1
+1,,1344514,120,IfcDoor,Corretta,1
+1,,1347276,100,IfcDoor,Corretta,1
+1,,1347632,120,IfcDoor,Corretta,1
+1,,1385887,100,IfcDoor,Corretta,1
+1,,1385888,100,IfcDoor,Corretta,1
+1,,1408407,120,IfcDoor,Corretta,1
+1,,1409022,120,IfcDoor,Corretta,1
+1,,1409610,120,IfcDoor,Corretta,1
+1,,1340440,100,IfcRoof,Corretta,1
+1,,1340526,100,IfcRoof,Corretta,1
+1,,1340700,100,IfcRoof,Corretta,1
+1,,1340821,100,IfcRoof,Corretta,1
+1,,1340891,100,IfcRoof,Corretta,1
+1,,1340977,100,IfcRoof,Corretta,1
+1,,1341030,100,IfcRoof,Corretta,1
+1,,1341197,100,IfcRoof,Corretta,1
+1,,1341252,100,IfcRoof,Corretta,1
+1,,1341430,100,IfcRoof,Corretta,1
+1,,1341498,100,IfcRoof,Corretta,1
+1,,1383875,100,IfcRoof,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1206369,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1206776,100,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1219841,110,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1221176,100,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1221523,110,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1221946,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1222034,100,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1222769,110,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1222946,110,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1223021,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1223249,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1234073,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1234135,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1235396,100,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,1340440,100,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_468mm_PE.21,1340891,100,IfcSlab,Corretta,1
+8,Tetto di base:AR_TET_PIA_256mm_PE.22,1340977,100,IfcSlab,Corretta,1
+9,Tetto di base:AR_TET_PIA_256mm_PE.22,1341197,100,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,1341430,100,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,1341498,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,1344262,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1344433,120,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1345223,110,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1345783,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1346002,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1346025,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1348240,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1348330,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1355205,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1360684,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1360790,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1367677,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,1367688,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1367703,120,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1368198,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1368294,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369113,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369143,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369230,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369292,100,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,1383875,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1402461,120,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404694,120,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404765,100,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404863,120,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404964,120,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409739,120,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409826,120,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409974,120,IfcSlab,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1219683,110,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1221305,110,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1222764,110,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1222941,110,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1345218,110,IfcStair,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1219794,110,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1220051,110,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1221343,110,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1221708,110,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222765,110,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222775,110,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222942,110,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222952,110,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1345219,110,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1345229,110,IfcStairFlight,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744495,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744532,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744554,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744580,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744909,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744910,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744911,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744912,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744945,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744946,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744947,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744948,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745127,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745128,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745129,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745130,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1219301,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1219409,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1220783,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1225050,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1225108,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226041,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226072,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226199,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226228,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226757,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226842,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226897,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1228544,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229267,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229325,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229419,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229465,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229503,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229970,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1230021,100,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1232234,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233496,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233544,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233606,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233686,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233750,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1235145,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342497,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342538,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342577,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342602,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345241,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345242,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345243,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345244,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345245,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345246,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345247,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345248,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345249,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345250,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345251,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345252,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345253,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345254,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345255,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345363,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345364,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345365,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345519,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345520,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345521,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345522,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1345665,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346209,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346210,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1346211,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346872,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347123,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347124,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347125,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1347143,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348674,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348750,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348799,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348959,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349119,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349120,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349121,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349122,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349497,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349601,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349665,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349778,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349832,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349895,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350036,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350037,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350038,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350039,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350040,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350041,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1350596,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350798,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1350913,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350988,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355558,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355657,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355700,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355770,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356241,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356330,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356410,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356522,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356563,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356701,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356859,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356860,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356861,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356862,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356925,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357219,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357402,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357403,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357404,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1358730,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1358795,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359269,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359690,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359813,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1361066,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1361139,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361223,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361299,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361338,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361448,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361676,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361796,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361860,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361953,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362141,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362171,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362300,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363503,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363562,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363591,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363674,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363749,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363804,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363839,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363895,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363935,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1364008,100,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1367867,100,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1368572,100,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1369362,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1405321,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405353,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405364,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405406,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405453,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1405499,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405526,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405559,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405634,120,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408658,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1408770,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408846,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408879,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408897,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408953,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1408954,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408955,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409012,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409259,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1409322,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409350,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409379,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409411,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409543,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1409544,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409545,100,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409603,100,IfcWall,Corretta,1
+3,,1335843,100,IfcOpeningElement,Corretta,1
+2,,1344514,120,IfcOpeningElement,Corretta,1
+1,,1230306,,IfcOpeningElement,Corretta,1
+1,,1341697,,IfcOpeningElement,Corretta,1
+1,,1231494,,IfcOpeningElement,Corretta,1
+1,,1230966,,IfcOpeningElement,Corretta,1
+1,,1341817,,IfcOpeningElement,Corretta,1
+1,,1379028,,IfcOpeningElement,Corretta,1
+1,,1332675,,IfcOpeningElement,Corretta,1
+1,,1234012,,IfcOpeningElement,Corretta,1
+2,,1336408,100,IfcOpeningElement,Corretta,1
+1,,1235457,100,IfcOpeningElement,Corretta,1
+1,,1345433,,IfcOpeningElement,Corretta,1
+1,,1345488,,IfcOpeningElement,Corretta,1
+1,,1345299,,IfcOpeningElement,Corretta,1
+1,,1345270,,IfcOpeningElement,Corretta,1
+1,,1345506,,IfcOpeningElement,Corretta,1
+1,,1345454,,IfcOpeningElement,Corretta,1
+2,,1347632,120,IfcOpeningElement,Corretta,1
+1,,1346228,,IfcOpeningElement,Corretta,1
+2,,1347276,100,IfcOpeningElement,Corretta,1
+1,,1347135,,IfcOpeningElement,Corretta,1
+1,,1347158,,IfcOpeningElement,Corretta,1
+1,,1352317,,IfcOpeningElement,Corretta,1
+1,,1369704,,IfcOpeningElement,Corretta,1
+1,,1352856,,IfcOpeningElement,Corretta,1
+1,,1352993,,IfcOpeningElement,Corretta,1
+1,,1370144,,IfcOpeningElement,Corretta,1
+1,,1353708,,IfcOpeningElement,Corretta,1
+1,,1351995,,IfcOpeningElement,Corretta,1
+1,,1352128,,IfcOpeningElement,Corretta,1
+1,,1369504,,IfcOpeningElement,Corretta,1
+1,,1351254,,IfcOpeningElement,Corretta,1
+1,,1351337,,IfcOpeningElement,Corretta,1
+1,,1357651,,IfcOpeningElement,Corretta,1
+1,,1358876,,IfcOpeningElement,Corretta,1
+1,,1358423,,IfcOpeningElement,Corretta,1
+1,,1358946,,IfcOpeningElement,Corretta,1
+1,,1359948,,IfcOpeningElement,Corretta,1
+1,,1359958,,IfcOpeningElement,Corretta,1
+1,,1359968,,IfcOpeningElement,Corretta,1
+1,,1359978,,IfcOpeningElement,Corretta,1
+1,,1359988,,IfcOpeningElement,Corretta,1
+1,,1359998,,IfcOpeningElement,Corretta,1
+1,,1360008,,IfcOpeningElement,Corretta,1
+1,,1360018,,IfcOpeningElement,Corretta,1
+1,,1360028,,IfcOpeningElement,Corretta,1
+1,,1360038,,IfcOpeningElement,Corretta,1
+1,,1360048,,IfcOpeningElement,Corretta,1
+1,,1360068,,IfcOpeningElement,Corretta,1
+1,,1360058,,IfcOpeningElement,Corretta,1
+1,,1362543,,IfcOpeningElement,Corretta,1
+1,,1361539,,IfcOpeningElement,Corretta,1
+1,,1362848,,IfcOpeningElement,Corretta,1
+1,,1362838,,IfcOpeningElement,Corretta,1
+1,,1362828,,IfcOpeningElement,Corretta,1
+1,,1362818,,IfcOpeningElement,Corretta,1
+1,,1362808,,IfcOpeningElement,Corretta,1
+1,,1362798,,IfcOpeningElement,Corretta,1
+1,,1362788,,IfcOpeningElement,Corretta,1
+1,,1362778,,IfcOpeningElement,Corretta,1
+1,,1362768,,IfcOpeningElement,Corretta,1
+1,,1362758,,IfcOpeningElement,Corretta,1
+1,,1362748,,IfcOpeningElement,Corretta,1
+1,,1362738,,IfcOpeningElement,Corretta,1
+1,,1365085,,IfcOpeningElement,Corretta,1
+1,,1364870,,IfcOpeningElement,Corretta,1
+1,,1370717,,IfcOpeningElement,Corretta,1
+1,,1370856,,IfcOpeningElement,Corretta,1
+1,,1364228,,IfcOpeningElement,Corretta,1
+2,,1408407,120,IfcOpeningElement,Corretta,1
+1,,1408880,,IfcOpeningElement,Corretta,1
+2,,1409022,120,IfcOpeningElement,Corretta,1
+2,,1409610,120,IfcOpeningElement,Corretta,1
+1,,1409604,,IfcOpeningElement,Corretta,1
+1,,744606,,IfcOpeningElement,Corretta,1
+1,,744726,,IfcOpeningElement,Corretta,1
+1,,744913,,IfcOpeningElement,Corretta,1
+1,,744916,,IfcOpeningElement,Corretta,1
+1,,744949,,IfcOpeningElement,Corretta,1
+1,,744952,,IfcOpeningElement,Corretta,1
+1,,1385887,,IfcOpeningElement,Corretta,1
+1,,1385888,,IfcOpeningElement,Corretta,1
+1,,1336408,,IfcOpeningElement,Corretta,1
+1,,1344514,,IfcOpeningElement,Corretta,1
+1,,1235457,,IfcOpeningElement,Corretta,1
+1,,1347276,,IfcOpeningElement,Corretta,1
+1,,1347632,,IfcOpeningElement,Corretta,1
+1,,1408407,,IfcOpeningElement,Corretta,1
+1,,1409022,,IfcOpeningElement,Corretta,1
+1,,1409610,,IfcOpeningElement,Corretta,1
+1,,1230306,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1341697,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1231494,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1230966,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1341817,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1379028,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1332675,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1234012,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345433,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345488,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345299,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345270,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345506,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345454,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1346228,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1347135,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1347158,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1352317,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1369704,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1352856,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1352993,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1370144,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1353708,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1351995,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1352128,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1369504,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1351254,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1351337,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1357651,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1358876,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1358423,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1358946,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359948,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359958,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359968,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359978,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359988,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359998,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360008,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360018,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360028,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360038,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360048,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360068,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360058,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362543,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1361539,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362848,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362838,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362828,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362818,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362808,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362798,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362788,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362778,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362768,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362758,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362748,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362738,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1365085,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1364870,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1370717,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1370856,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1364228,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1408880,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1409604,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744606,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744726,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744913,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744916,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744949,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744952,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1385887,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1385888,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1336408,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1344514,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1235457,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1347276,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1347632,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1408407,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1409022,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1409610,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,1229726,40,IfcCovering,Corretta,1
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,1347887,40,IfcCovering,Corretta,1
+1,,744606,40,IfcDoor,Corretta,1
+1,,744726,40,IfcDoor,Corretta,1
+1,,744913,40,IfcDoor,Corretta,1
+1,,744916,40,IfcDoor,Corretta,1
+1,,744949,40,IfcDoor,Corretta,1
+1,,744952,40,IfcDoor,Corretta,1
+1,,1235457,40,IfcDoor,Corretta,1
+1,,1335843,40,IfcDoor,Corretta,1
+1,,1336408,40,IfcDoor,Corretta,1
+1,,1344514,40,IfcDoor,Corretta,1
+1,,1347276,40,IfcDoor,Corretta,1
+1,,1347632,40,IfcDoor,Corretta,1
+1,,1385887,40,IfcDoor,Corretta,1
+1,,1385888,40,IfcDoor,Corretta,1
+1,,1408407,40,IfcDoor,Corretta,1
+1,,1409022,40,IfcDoor,Corretta,1
+1,,1409610,40,IfcDoor,Corretta,1
+1,,1340440,40,IfcRoof,Corretta,1
+1,,1340526,40,IfcRoof,Corretta,1
+1,,1340700,40,IfcRoof,Corretta,1
+1,,1340821,40,IfcRoof,Corretta,1
+1,,1340891,40,IfcRoof,Corretta,1
+1,,1340977,40,IfcRoof,Corretta,1
+1,,1341030,40,IfcRoof,Corretta,1
+1,,1341197,40,IfcRoof,Corretta,1
+1,,1341252,40,IfcRoof,Corretta,1
+1,,1341430,40,IfcRoof,Corretta,1
+1,,1341498,40,IfcRoof,Corretta,1
+1,,1383875,40,IfcRoof,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1206369,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1206776,40,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1219841,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1221176,40,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1221523,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1221946,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1222034,40,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1222769,40,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1222946,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1223021,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1223249,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1234073,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1234135,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1235396,40,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,1340440,40,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_468mm_PE.21,1340891,40,IfcSlab,Corretta,1
+8,Tetto di base:AR_TET_PIA_256mm_PE.22,1340977,40,IfcSlab,Corretta,1
+9,Tetto di base:AR_TET_PIA_256mm_PE.22,1341197,40,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,1341430,40,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,1341498,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,1344262,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1344433,40,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1345223,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1345783,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1346002,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1346025,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1348240,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1348330,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1355205,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1360684,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1360790,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1367677,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,1367688,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1367703,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1368198,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1368294,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369113,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369143,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369230,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369292,40,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,1383875,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1402461,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404694,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404765,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404863,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404964,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409739,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409826,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409974,40,IfcSlab,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1219683,40,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1221305,40,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1222764,40,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1222941,40,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1345218,40,IfcStair,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1219794,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1220051,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1221343,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1221708,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222765,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222775,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222942,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222952,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1345219,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1345229,40,IfcStairFlight,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744495,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744532,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744554,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744580,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744909,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744910,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744911,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744912,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744945,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744946,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744947,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744948,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745127,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745128,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745129,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745130,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1219301,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1219409,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1220783,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1225050,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1225108,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226041,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226072,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226199,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226228,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226757,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226842,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226897,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1228544,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229267,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229325,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229419,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229465,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229503,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229970,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1230021,40,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1232234,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233496,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233544,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233606,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233686,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233750,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1235145,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342497,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342538,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342577,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342602,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345241,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345242,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345243,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345244,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345245,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345246,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345247,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345248,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345249,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345250,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345251,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345252,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345253,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345254,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345255,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345363,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345364,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345365,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345519,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345520,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345521,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345522,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1345665,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346209,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346210,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1346211,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346872,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347123,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347124,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347125,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1347143,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348674,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348750,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348799,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348959,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349119,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349120,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349121,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349122,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349497,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349601,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349665,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349778,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349832,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349895,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350036,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350037,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350038,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350039,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350040,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350041,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1350596,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350798,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1350913,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350988,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355558,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355657,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355700,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355770,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356241,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356330,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356410,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356522,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356563,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356701,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356859,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356860,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356861,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356862,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356925,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357219,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357402,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357403,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357404,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1358730,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1358795,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359269,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359690,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359813,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1361066,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1361139,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361223,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361299,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361338,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361448,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361676,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361796,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361860,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361953,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362141,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362171,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362300,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363503,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363562,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363591,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363674,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363749,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363804,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363839,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363895,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363935,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1364008,40,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1367867,40,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1368572,40,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1369362,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1405321,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405353,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405364,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405406,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405453,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1405499,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405526,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405559,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405634,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408658,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1408770,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408846,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408879,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408897,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408953,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1408954,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408955,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409012,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409259,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1409322,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409350,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409379,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409411,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409543,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1409544,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409545,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409603,40,IfcWall,Corretta,1
+3,,1335843,40,IfcOpeningElement,Corretta,1
+2,,1344514,40,IfcOpeningElement,Corretta,1
+1,,1230306,,IfcOpeningElement,Corretta,1
+1,,1341697,,IfcOpeningElement,Corretta,1
+1,,1231494,,IfcOpeningElement,Corretta,1
+1,,1230966,,IfcOpeningElement,Corretta,1
+1,,1341817,,IfcOpeningElement,Corretta,1
+1,,1379028,,IfcOpeningElement,Corretta,1
+1,,1332675,,IfcOpeningElement,Corretta,1
+1,,1234012,,IfcOpeningElement,Corretta,1
+2,,1336408,40,IfcOpeningElement,Corretta,1
+1,,1235457,40,IfcOpeningElement,Corretta,1
+1,,1345433,,IfcOpeningElement,Corretta,1
+1,,1345488,,IfcOpeningElement,Corretta,1
+1,,1345299,,IfcOpeningElement,Corretta,1
+1,,1345270,,IfcOpeningElement,Corretta,1
+1,,1345506,,IfcOpeningElement,Corretta,1
+1,,1345454,,IfcOpeningElement,Corretta,1
+2,,1347632,40,IfcOpeningElement,Corretta,1
+1,,1346228,,IfcOpeningElement,Corretta,1
+2,,1347276,40,IfcOpeningElement,Corretta,1
+1,,1347135,,IfcOpeningElement,Corretta,1
+1,,1347158,,IfcOpeningElement,Corretta,1
+1,,1352317,,IfcOpeningElement,Corretta,1
+1,,1369704,,IfcOpeningElement,Corretta,1
+1,,1352856,,IfcOpeningElement,Corretta,1
+1,,1352993,,IfcOpeningElement,Corretta,1
+1,,1370144,,IfcOpeningElement,Corretta,1
+1,,1353708,,IfcOpeningElement,Corretta,1
+1,,1351995,,IfcOpeningElement,Corretta,1
+1,,1352128,,IfcOpeningElement,Corretta,1
+1,,1369504,,IfcOpeningElement,Corretta,1
+1,,1351254,,IfcOpeningElement,Corretta,1
+1,,1351337,,IfcOpeningElement,Corretta,1
+1,,1357651,,IfcOpeningElement,Corretta,1
+1,,1358876,,IfcOpeningElement,Corretta,1
+1,,1358423,,IfcOpeningElement,Corretta,1
+1,,1358946,,IfcOpeningElement,Corretta,1
+1,,1359948,,IfcOpeningElement,Corretta,1
+1,,1359958,,IfcOpeningElement,Corretta,1
+1,,1359968,,IfcOpeningElement,Corretta,1
+1,,1359978,,IfcOpeningElement,Corretta,1
+1,,1359988,,IfcOpeningElement,Corretta,1
+1,,1359998,,IfcOpeningElement,Corretta,1
+1,,1360008,,IfcOpeningElement,Corretta,1
+1,,1360018,,IfcOpeningElement,Corretta,1
+1,,1360028,,IfcOpeningElement,Corretta,1
+1,,1360038,,IfcOpeningElement,Corretta,1
+1,,1360048,,IfcOpeningElement,Corretta,1
+1,,1360068,,IfcOpeningElement,Corretta,1
+1,,1360058,,IfcOpeningElement,Corretta,1
+1,,1362543,,IfcOpeningElement,Corretta,1
+1,,1361539,,IfcOpeningElement,Corretta,1
+1,,1362848,,IfcOpeningElement,Corretta,1
+1,,1362838,,IfcOpeningElement,Corretta,1
+1,,1362828,,IfcOpeningElement,Corretta,1
+1,,1362818,,IfcOpeningElement,Corretta,1
+1,,1362808,,IfcOpeningElement,Corretta,1
+1,,1362798,,IfcOpeningElement,Corretta,1
+1,,1362788,,IfcOpeningElement,Corretta,1
+1,,1362778,,IfcOpeningElement,Corretta,1
+1,,1362768,,IfcOpeningElement,Corretta,1
+1,,1362758,,IfcOpeningElement,Corretta,1
+1,,1362748,,IfcOpeningElement,Corretta,1
+1,,1362738,,IfcOpeningElement,Corretta,1
+1,,1365085,,IfcOpeningElement,Corretta,1
+1,,1364870,,IfcOpeningElement,Corretta,1
+1,,1370717,,IfcOpeningElement,Corretta,1
+1,,1370856,,IfcOpeningElement,Corretta,1
+1,,1364228,,IfcOpeningElement,Corretta,1
+2,,1408407,40,IfcOpeningElement,Corretta,1
+1,,1408880,,IfcOpeningElement,Corretta,1
+2,,1409022,40,IfcOpeningElement,Corretta,1
+2,,1409610,40,IfcOpeningElement,Corretta,1
+1,,1409604,,IfcOpeningElement,Corretta,1
+1,,744606,,IfcOpeningElement,Corretta,1
+1,,744726,,IfcOpeningElement,Corretta,1
+1,,744913,,IfcOpeningElement,Corretta,1
+1,,744916,,IfcOpeningElement,Corretta,1
+1,,744949,,IfcOpeningElement,Corretta,1
+1,,744952,,IfcOpeningElement,Corretta,1
+1,,1385887,,IfcOpeningElement,Corretta,1
+1,,1385888,,IfcOpeningElement,Corretta,1
+1,,1336408,,IfcOpeningElement,Corretta,1
+1,,1344514,,IfcOpeningElement,Corretta,1
+1,,1235457,,IfcOpeningElement,Corretta,1
+1,,1347276,,IfcOpeningElement,Corretta,1
+1,,1347632,,IfcOpeningElement,Corretta,1
+1,,1408407,,IfcOpeningElement,Corretta,1
+1,,1409022,,IfcOpeningElement,Corretta,1
+1,,1409610,,IfcOpeningElement,Corretta,1
+1,,1230306,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1341697,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1231494,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1230966,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1341817,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1379028,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1332675,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1234012,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345433,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345488,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345299,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345270,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345506,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1345454,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1346228,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1347135,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1347158,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1352317,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1369704,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1352856,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1352993,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1370144,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1353708,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1351995,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1352128,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1369504,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1351254,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1351337,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1357651,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1358876,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1358423,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1358946,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359948,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359958,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359968,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359978,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359988,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1359998,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360008,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360018,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360028,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360038,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360048,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360068,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1360058,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362543,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1361539,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362848,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362838,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362828,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362818,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362808,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362798,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362788,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362778,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362768,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362758,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362748,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1362738,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1365085,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1364870,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1370717,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1370856,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1364228,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1408880,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1409604,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744606,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744726,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744913,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744916,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744949,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,744952,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1385887,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1385888,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1336408,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1344514,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1235457,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1347276,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1347632,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1408407,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1409022,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,,1409610,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs4,0
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,1229726,40,IfcCovering,Corretta,1
+1,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,1347887,40,IfcCovering,Corretta,1
+1,,744606,40,IfcDoor,Corretta,1
+1,,744726,40,IfcDoor,Corretta,1
+1,,744913,40,IfcDoor,Corretta,1
+1,,744916,40,IfcDoor,Corretta,1
+1,,744949,40,IfcDoor,Corretta,1
+1,,744952,40,IfcDoor,Corretta,1
+1,,1235457,40,IfcDoor,Corretta,1
+1,,1335843,40,IfcDoor,Corretta,1
+1,,1336408,40,IfcDoor,Corretta,1
+1,,1344514,40,IfcDoor,Corretta,1
+1,,1347276,40,IfcDoor,Corretta,1
+1,,1347632,40,IfcDoor,Corretta,1
+1,,1385887,40,IfcDoor,Corretta,1
+1,,1385888,40,IfcDoor,Corretta,1
+1,,1408407,40,IfcDoor,Corretta,1
+1,,1409022,40,IfcDoor,Corretta,1
+1,,1409610,40,IfcDoor,Corretta,1
+1,,1340440,40,IfcRoof,Corretta,1
+1,,1340526,40,IfcRoof,Corretta,1
+1,,1340700,40,IfcRoof,Corretta,1
+1,,1340821,40,IfcRoof,Corretta,1
+1,,1340891,40,IfcRoof,Corretta,1
+1,,1340977,40,IfcRoof,Corretta,1
+1,,1341030,40,IfcRoof,Corretta,1
+1,,1341197,40,IfcRoof,Corretta,1
+1,,1341252,40,IfcRoof,Corretta,1
+1,,1341430,40,IfcRoof,Corretta,1
+1,,1341498,40,IfcRoof,Corretta,1
+1,,1383875,40,IfcRoof,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1206369,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1206776,40,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1219841,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1221176,40,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1221523,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1221946,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1222034,40,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1222769,40,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1222946,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1223021,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1223249,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1234073,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1234135,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1235396,40,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,1340440,40,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_468mm_PE.21,1340891,40,IfcSlab,Corretta,1
+8,Tetto di base:AR_TET_PIA_256mm_PE.22,1340977,40,IfcSlab,Corretta,1
+9,Tetto di base:AR_TET_PIA_256mm_PE.22,1341197,40,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,1341430,40,IfcSlab,Corretta,1
+1,Tetto di base:AR_TET_PIA_482mm_PE.21,1341498,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,1344262,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1344433,40,IfcSlab,Corretta,1
+1,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,1345223,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1345783,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1346002,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1346025,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1348240,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1348330,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1355205,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1360684,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_780mm_PI.01,1360790,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-002,1367677,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_30mm_PI.13,1367688,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1367703,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1368198,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1368294,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369113,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369143,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369230,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_50mm_PI.14,1369292,40,IfcSlab,Corretta,1
+7,Tetto di base:AR_TET_PIA_256mm_PE.22,1383875,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1402461,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404694,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404765,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404863,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_GET_1450mm_PI.04,1404964,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409739,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409826,40,IfcSlab,Corretta,1
+1,Pavimento:AR_PAV_RIV_20mm_FL-006,1409974,40,IfcSlab,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1219683,40,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1221305,40,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1222764,40,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1222941,40,IfcStair,Corretta,1
+1,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,1345218,40,IfcStair,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1219794,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1220051,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1221343,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1221708,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222765,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222775,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222942,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1222952,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1345219,40,IfcStairFlight,Corretta,1
+1,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,1345229,40,IfcStairFlight,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744495,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744532,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744554,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744580,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744909,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744910,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744911,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744912,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744945,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744946,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744947,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,744948,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745127,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745128,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745129,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,745130,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1219301,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1219409,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1220783,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1225050,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1225108,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226041,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226072,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226199,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226228,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226757,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226842,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1226897,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1228544,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229267,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229325,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229419,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229465,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229503,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1229970,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1230021,40,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1232234,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233496,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233544,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233606,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233686,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1233750,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1235145,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342497,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342538,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342577,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1342602,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345241,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345242,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345243,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345244,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345245,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345246,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345247,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345248,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345249,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345250,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345251,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345252,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345253,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345254,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345255,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345363,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345364,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345365,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345519,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345520,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345521,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1345522,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1345665,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346209,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346210,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1346211,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1346872,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347123,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347124,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1347125,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1347143,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348674,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348750,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348799,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1348959,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349119,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349120,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349121,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349122,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349497,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349601,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349665,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349778,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349832,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1349895,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350036,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350037,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350038,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350039,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350040,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350041,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1350596,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350798,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1350913,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1350988,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355558,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355657,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355700,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1355770,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356241,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356330,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356410,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356522,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356563,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356701,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356859,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356860,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356861,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356862,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1356925,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357219,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357402,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357403,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1357404,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1358730,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1358795,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359269,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359690,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1359813,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1361066,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1361139,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361223,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361299,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361338,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361448,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361676,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361796,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361860,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1361953,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362141,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362171,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1362300,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363503,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363562,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363591,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363674,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363749,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363804,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363839,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363895,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1363935,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1364008,40,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1367867,40,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1368572,40,IfcWall,Corretta,1
+1,Muro di base:AR_CON_CPA_67mm_CI.09,1369362,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1405321,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405353,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405364,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405406,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405453,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1405499,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405526,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405559,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1405634,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408658,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1408770,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408846,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408879,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408897,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408953,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1408954,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1408955,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409012,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409259,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1409322,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409350,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409379,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409411,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409543,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_DIV_200mm_MI.01,1409544,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409545,40,IfcWall,Corretta,1
+1,Muro di base:AR_MUR_RIV_20mm_R.08,1409603,40,IfcWall,Corretta,1
+3,,1335843,40,IfcOpeningElement,Corretta,1
+2,,1344514,40,IfcOpeningElement,Corretta,1
+1,,1230306,,IfcOpeningElement,Corretta,1
+1,,1341697,,IfcOpeningElement,Corretta,1
+1,,1231494,,IfcOpeningElement,Corretta,1
+1,,1230966,,IfcOpeningElement,Corretta,1
+1,,1341817,,IfcOpeningElement,Corretta,1
+1,,1379028,,IfcOpeningElement,Corretta,1
+1,,1332675,,IfcOpeningElement,Corretta,1
+1,,1234012,,IfcOpeningElement,Corretta,1
+2,,1336408,40,IfcOpeningElement,Corretta,1
+1,,1235457,40,IfcOpeningElement,Corretta,1
+1,,1345433,,IfcOpeningElement,Corretta,1
+1,,1345488,,IfcOpeningElement,Corretta,1
+1,,1345299,,IfcOpeningElement,Corretta,1
+1,,1345270,,IfcOpeningElement,Corretta,1
+1,,1345506,,IfcOpeningElement,Corretta,1
+1,,1345454,,IfcOpeningElement,Corretta,1
+2,,1347632,40,IfcOpeningElement,Corretta,1
+1,,1346228,,IfcOpeningElement,Corretta,1
+2,,1347276,40,IfcOpeningElement,Corretta,1
+1,,1347135,,IfcOpeningElement,Corretta,1
+1,,1347158,,IfcOpeningElement,Corretta,1
+1,,1352317,,IfcOpeningElement,Corretta,1
+1,,1369704,,IfcOpeningElement,Corretta,1
+1,,1352856,,IfcOpeningElement,Corretta,1
+1,,1352993,,IfcOpeningElement,Corretta,1
+1,,1370144,,IfcOpeningElement,Corretta,1
+1,,1353708,,IfcOpeningElement,Corretta,1
+1,,1351995,,IfcOpeningElement,Corretta,1
+1,,1352128,,IfcOpeningElement,Corretta,1
+1,,1369504,,IfcOpeningElement,Corretta,1
+1,,1351254,,IfcOpeningElement,Corretta,1
+1,,1351337,,IfcOpeningElement,Corretta,1
+1,,1357651,,IfcOpeningElement,Corretta,1
+1,,1358876,,IfcOpeningElement,Corretta,1
+1,,1358423,,IfcOpeningElement,Corretta,1
+1,,1358946,,IfcOpeningElement,Corretta,1
+1,,1359948,,IfcOpeningElement,Corretta,1
+1,,1359958,,IfcOpeningElement,Corretta,1
+1,,1359968,,IfcOpeningElement,Corretta,1
+1,,1359978,,IfcOpeningElement,Corretta,1
+1,,1359988,,IfcOpeningElement,Corretta,1
+1,,1359998,,IfcOpeningElement,Corretta,1
+1,,1360008,,IfcOpeningElement,Corretta,1
+1,,1360018,,IfcOpeningElement,Corretta,1
+1,,1360028,,IfcOpeningElement,Corretta,1
+1,,1360038,,IfcOpeningElement,Corretta,1
+1,,1360048,,IfcOpeningElement,Corretta,1
+1,,1360068,,IfcOpeningElement,Corretta,1
+1,,1360058,,IfcOpeningElement,Corretta,1
+1,,1362543,,IfcOpeningElement,Corretta,1
+1,,1361539,,IfcOpeningElement,Corretta,1
+1,,1362848,,IfcOpeningElement,Corretta,1
+1,,1362838,,IfcOpeningElement,Corretta,1
+1,,1362828,,IfcOpeningElement,Corretta,1
+1,,1362818,,IfcOpeningElement,Corretta,1
+1,,1362808,,IfcOpeningElement,Corretta,1
+1,,1362798,,IfcOpeningElement,Corretta,1
+1,,1362788,,IfcOpeningElement,Corretta,1
+1,,1362778,,IfcOpeningElement,Corretta,1
+1,,1362768,,IfcOpeningElement,Corretta,1
+1,,1362758,,IfcOpeningElement,Corretta,1
+1,,1362748,,IfcOpeningElement,Corretta,1
+1,,1362738,,IfcOpeningElement,Corretta,1
+1,,1365085,,IfcOpeningElement,Corretta,1
+1,,1364870,,IfcOpeningElement,Corretta,1
+1,,1370717,,IfcOpeningElement,Corretta,1
+1,,1370856,,IfcOpeningElement,Corretta,1
+1,,1364228,,IfcOpeningElement,Corretta,1
+2,,1408407,40,IfcOpeningElement,Corretta,1
+1,,1408880,,IfcOpeningElement,Corretta,1
+2,,1409022,40,IfcOpeningElement,Corretta,1
+2,,1409610,40,IfcOpeningElement,Corretta,1
+1,,1409604,,IfcOpeningElement,Corretta,1
+1,,744606,,IfcOpeningElement,Corretta,1
+1,,744726,,IfcOpeningElement,Corretta,1
+1,,744913,,IfcOpeningElement,Corretta,1
+1,,744916,,IfcOpeningElement,Corretta,1
+1,,744949,,IfcOpeningElement,Corretta,1
+1,,744952,,IfcOpeningElement,Corretta,1
+1,,1385887,,IfcOpeningElement,Corretta,1
+1,,1385888,,IfcOpeningElement,Corretta,1
+1,,1336408,,IfcOpeningElement,Corretta,1
+1,,1344514,,IfcOpeningElement,Corretta,1
+1,,1235457,,IfcOpeningElement,Corretta,1
+1,,1347276,,IfcOpeningElement,Corretta,1
+1,,1347632,,IfcOpeningElement,Corretta,1
+1,,1408407,,IfcOpeningElement,Corretta,1
+1,,1409022,,IfcOpeningElement,Corretta,1
+1,,1409610,,IfcOpeningElement,Corretta,1
+1,,1230306,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1341697,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1231494,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1230966,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1341817,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1379028,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1332675,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1234012,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1345433,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1345488,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1345299,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1345270,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1345506,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1345454,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1346228,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1347135,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1347158,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1352317,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1369704,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1352856,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1352993,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1370144,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1353708,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1351995,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1352128,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1369504,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1351254,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1351337,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1357651,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1358876,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1358423,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1358946,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1359948,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1359958,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1359968,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1359978,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1359988,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1359998,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1360008,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1360018,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1360028,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1360038,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1360048,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1360068,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1360058,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362543,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1361539,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362848,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362838,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362828,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362818,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362808,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362798,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362788,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362778,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362768,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362758,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362748,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1362738,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1365085,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1364870,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1370717,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1370856,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1364228,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1408880,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1409604,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,744606,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,744726,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,744913,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,744916,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,744949,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,744952,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1385887,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1385888,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1336408,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1344514,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1235457,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1347276,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1347632,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1408407,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1409022,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+1,,1409610,,IfcOpeningElement,Da compilare IDE_GEN_I_Wbs5,0
+16,Controsoffitto composto:AR_CON_CPA_83mm_CI.05,IfcCovering,J002_SDP,,Corretta,1
+17,,IfcDoor,J002_SDP,,Corretta,1
+12,,IfcRoof,J002_SDP,,Corretta,1
+10,Pavimento:AR_PAV_RIV_20mm_FL-002,IfcSlab,J002_SDP,,Corretta,1
+5,Pianerottolo monolitico:AR_PAV_RIV_20mm_FL-002,IfcSlab,J002_SDP,,Corretta,1
+5,Pavimento:AR_PAV_GET_780mm_PI.01,IfcSlab,J002_SDP,,Corretta,1
+9,Pavimento:AR_PAV_RIV_20mm_FL-006,IfcSlab,J002_SDP,,Corretta,1
+31,Tetto di base:AR_TET_PIA_256mm_PE.22,IfcSlab,J002_SDP,,Corretta,1
+1,Tetto di base:AR_TET_PIA_468mm_PE.21,IfcSlab,J002_SDP,,Corretta,1
+2,Tetto di base:AR_TET_PIA_482mm_PE.21,IfcSlab,J002_SDP,,Corretta,1
+2,Pavimento:AR_PAV_GET_30mm_PI.13,IfcSlab,J002_SDP,,Corretta,1
+6,Pavimento:AR_PAV_GET_50mm_PI.14,IfcSlab,J002_SDP,,Corretta,1
+5,Pavimento:AR_PAV_GET_1450mm_PI.04,IfcSlab,J002_SDP,,Corretta,1
+5,Scala gettata in opera:AR_SCA_ASS_FL-002_20mm,IfcStair,J002_SDP,,Corretta,1
+10,Rampa monolitica:AR_SCA_ASS_FL-002_20mm,IfcStairFlight,J002_SDP,,Corretta,1
+39,Muro di base:AR_MUR_DIV_200mm_MI.01,IfcWall,J002_SDP,,Corretta,1
+136,Muro di base:AR_MUR_RIV_20mm_R.08,IfcWall,J002_SDP,,Corretta,1
+4,Muro di base:AR_CON_CPA_67mm_CI.09,IfcWall,J002_SDP,,Corretta,1
+35,,IfcOpeningElement,J002_SDP,,Corretta,1
+65,,IfcOpeningElement,,,Corretta,1
+1,Area 1:601352,IfcSpace,,,Corretta,1
+1,L.T. A_LOT_023:1342030,IfcSpace,,,Corretta,1
+1,L.T. A_LOT_024:1342036,IfcSpace,,,Corretta,1
+1,Circolazione A_CIR_023:1342447,IfcSpace,,,Corretta,1
+1,L.T. A_LOT_025:1347938,IfcSpace,,,Corretta,1
+1,L.T. A_LOT_026:1347939,IfcSpace,,,Corretta,1
+1,Circolazione A_CIR_024:1347940,IfcSpace,,,Corretta,1
+1,L.T. A_LOT_027:1365699,IfcSpace,,,Corretta,1
+1,Circolazione A_CIR_026:1365773,IfcSpace,,,Corretta,1
+1,Circolazione A_CIR_027:1365942,IfcSpace,,,Corretta,1
+1,Circolazione A_CIR_028:1366226,IfcSpace,,,Corretta,1
+1,L.T. A_LOT_028:1366237,IfcSpace,,,Corretta,1
+1,Circolazione A_CIR_030:1366250,IfcSpace,,,Corretta,1
+1,Circolazione B_CIR_025:1370971,IfcSpace,,,Corretta,1
+1,Circolazione B_CIR_026:1370972,IfcSpace,,,Corretta,1
+1,Circolazione B_CIR_027:1370986,IfcSpace,,,Corretta,1
+1,Circolazione B_CIR_028:1370987,IfcSpace,,,Corretta,1
+1,Circolazione B_CIR_029:1370997,IfcSpace,,,Corretta,1
+1,Circolazione B_CIR_030:1370998,IfcSpace,,,Corretta,1
+1,Circolazione B_CIR_031:1371990,IfcSpace,,,Corretta,1
+1,Circolazione B_CIR_032:1371999,IfcSpace,,,Corretta,1
+1,L.T. B_LOT_025:1372023,IfcSpace,,,Corretta,1
+1,L.T. B_LOT_026:1372032,IfcSpace,,,Corretta,1
+1,Circolazione A_CIR_025:1410056,IfcSpace,,,Corretta,1
+1,L.T. A_LOT_029:1410058,IfcSpace,,,Corretta,1
+1,L.T. A_LOT_030:1410062,IfcSpace,,,Corretta,1
+1,L.T. A_LOT_031:1410064,IfcSpace,,,Corretta,1
+1,L.T. A_LOT_032:1410073,IfcSpace,,,Corretta,1
+1,Circolazione A_CIR_029:1410319,IfcSpace,,,Corretta,1
+1,SCALE A_SCA_010:1410410,IfcSpace,,,Corretta,1
+1,SCALE A_SCA_011:1410452,IfcSpace,,,Corretta,1
+1,SCALE A_SCA_012:1410551,IfcSpace,,,Corretta,1
+1,SCALE A_SCA_013:1410684,IfcSpace,,,Corretta,1
+1,SCALE A_SCA_014:1410724,IfcSpace,,,Corretta,1
+65,,IfcOpeningElement,,,Da compilare GEO_GEN_I_Fase,0
+1,Area 1:601352,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. A_LOT_023:1342030,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. A_LOT_024:1342036,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione A_CIR_023:1342447,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. A_LOT_025:1347938,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. A_LOT_026:1347939,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione A_CIR_024:1347940,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. A_LOT_027:1365699,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione A_CIR_026:1365773,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione A_CIR_027:1365942,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione A_CIR_028:1366226,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. A_LOT_028:1366237,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione A_CIR_030:1366250,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione B_CIR_025:1370971,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione B_CIR_026:1370972,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione B_CIR_027:1370986,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione B_CIR_028:1370987,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione B_CIR_029:1370997,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione B_CIR_030:1370998,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione B_CIR_031:1371990,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione B_CIR_032:1371999,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. B_LOT_025:1372023,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. B_LOT_026:1372032,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione A_CIR_025:1410056,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. A_LOT_029:1410058,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. A_LOT_030:1410062,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. A_LOT_031:1410064,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,L.T. A_LOT_032:1410073,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,Circolazione A_CIR_029:1410319,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,SCALE A_SCA_010:1410410,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,SCALE A_SCA_011:1410452,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,SCALE A_SCA_012:1410551,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,SCALE A_SCA_013:1410684,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
+1,SCALE A_SCA_014:1410724,IfcSpace,,,Da compilare GEO_GEN_I_Fase,0
