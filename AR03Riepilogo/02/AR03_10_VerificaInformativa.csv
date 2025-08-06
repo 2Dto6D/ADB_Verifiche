@@ -1,9 +1,9 @@
 ID,Raggruppamento,Descrizione,Formato,Percentuale
-37,Verifica Informativa,La compilazione dei parametri relativi alle Informazioni di progetto è completa e conforme a quanto indicato nel pGI.,Nativo + ifc,-
+37,Verifica Informativa,La compilazione dei parametri relativi alle Informazioni di progetto è completa e conforme a quanto indicato nel pGI.,Nativo + ifc,100%
 38,Verifica Informativa,Il modello IFC esportato dal file nativo contiene tutti i parametri previsti nel pGI.,ifc,-
-39,Verifica Informativa,Assegnazione della fase corretta agli elementi del modello.,ifc,-
-41,Verifica Informativa,Il parametro IFCExportAs è congruente alle specifiche del pGI.,Nativo,-
+39,Verifica Informativa,Assegnazione della fase corretta agli elementi del modello.,ifc,100%
+41,Verifica Informativa,Il parametro IFCExportAs è congruente alle specifiche del pGI.,Nativo,100%
 42,Verifica Informativa,"Le entità IfcProject, IfcSite, IfcBuilding, IfcBuildingStorey, IfcSpace, IfcSystem e IfcElementAssembly sono valorizzate come da specifiche riportate nel PGI e PIR.",ifc,-
 44,Verifica Informativa,Sono stati valorizzati tutti i parametri obbligatori presenti nell'allegato LOIN del pGI.,ifc,-
-45,Verifica Informativa,"I valori dei parametri obbligatori presenti nell'allegato LOIN del pGI ricadono all'interno delle liste di valori ammissibili allegate al pGI, ove presenti.",ifc,-
+45,Verifica Informativa,"I valori dei parametri obbligatori presenti nell'allegato LOIN del pGI ricadono all'interno delle liste di valori ammissibili allegate al pGI, ove presenti.",ifc,89.59%
 46,Verifica Informativa,Assegnazione dei materiali a tutti gli elementi modellati.,ifc,-
