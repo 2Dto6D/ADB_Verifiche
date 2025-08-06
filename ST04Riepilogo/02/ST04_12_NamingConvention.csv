@@ -1,5 +1,5 @@
 ID,Raggruppamento,Descrizione,Formato,Percentuale
-49,Naming Convention,Il nome del tipo dei componenti modellati (e relativi parametri del modello IFC) rispetta la struttura e i valori previsti nella naming convention allegata al pGI.,Nativo + ifc,-
+49,Naming Convention,Il nome del tipo dei componenti modellati (e relativi parametri del modello IFC) rispetta la struttura e i valori previsti nella naming convention allegata al pGI.,Nativo + ifc,90.53%
 50,Naming Convention,Il nome dei parametri rispetta la struttura e i valori previsti nella naming convention allegata al pGI.,ifc,-
 51,Naming Convention,Il nome dei materiali rispetta la struttura e i valori previsti nella naming convention allegata al pGI.,ifc,-
 52,Naming Convention,Il nome dei locali/spazi/zone rispetta la struttura e i valori previsti nella naming convention allegata al pGI.,ifc,-
