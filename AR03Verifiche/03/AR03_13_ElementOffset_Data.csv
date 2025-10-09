@@ -1,0 +1,472 @@
+Categoria,Nome Elemento,ID Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Porte,AR_POR_SCO_Leg_1A_Normale,791977,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,893981,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,893982,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,894707,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,894708,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,894710,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,894714,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,894715,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,894717,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,912165,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,912166,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,912168,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,912181,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,912182,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,912184,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,912250,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,912251,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,912253,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,912266,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,912267,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,912269,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,912282,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,912283,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,912285,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,912302,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,912303,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,912305,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,914853,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,914854,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,914856,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,914860,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,914861,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,914863,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,914867,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,914868,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,914870,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,914874,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,914875,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,914877,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWc_Chiuso,914902,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,919316,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,919317,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,919318,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,919319,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,919757,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,919758,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,919760,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,919764,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,919765,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,919767,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWc_Chiuso,919771,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,919950,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,919951,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,919953,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,919957,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,919958,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,919960,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWc_Chiuso,919964,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WCDisabili,920207,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_ManiglioniDisabili,920208,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDisabili,920209,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_AsciugamaniElettrico,920210,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_DispenserSapone,934692,-,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_ManiglioniDisabili,934826,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WCDisabili,934876,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_ManiglioniDisabili,934877,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDisabili,935172,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_AsciugamaniElettrico,935173,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_ManiglioniDisabili,935174,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_DispenserSapone,935349,-,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,935712,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,935713,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,935716,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,935717,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,935718,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_LavaboDoppio,935719,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,935723,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,935724,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,935726,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,935730,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,935731,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,935733,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWC,935737,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_divisoriobox,935738,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,935740,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWc_Laterale,935744,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_Divisoriobox_Laterale,935745,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,935747,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_BoxWc_Chiuso,936155,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,937816,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_DivisorioOrinatoio,939640,-,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,939724,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_DivisorioOrinatoio,939792,-,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,939794,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_DivisorioOrinatoio,939801,-,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_Orinatoio,939802,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_Esistente011,970242,AR_LIV_PE_P01_+5.20m,-,-,-0.26000000000000001,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente013,1012385,AR_LIV_PE_P01_+5.20m,-,-,-0.26000000000000001,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente012,1025984,AR_LIV_PE_P01_+5.20m,-,-,-0.26000000000000001,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente009,1026013,AR_LIV_PE_P01_+5.20m,-,-,-0.26000000000000001,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente014,1078221,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_Esistente010,1152199,AR_LIV_PE_P01_+5.20m,-,-,-0.26000000000000001,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente017,1266224,AR_LIV_PE_P00_+0.00m,-,-,-0.40000000000000002,Offset Negativo conforme con la modellazione.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414118,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414119,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414120,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414121,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414125,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414126,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414127,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414128,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414129,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414130,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414131,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414132,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414133,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414134,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414135,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414136,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414137,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414138,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414139,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414140,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414141,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414142,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414143,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414144,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414145,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414146,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414147,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414148,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414149,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414150,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414151,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414152,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414153,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414154,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414155,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414156,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414157,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414158,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414159,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414160,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414161,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414162,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414163,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414164,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414165,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414166,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414167,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414168,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414169,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414170,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414171,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414172,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414176,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414177,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414178,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414179,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414180,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414181,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414182,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414183,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414184,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414185,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414186,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414187,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414188,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414189,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414190,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414191,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414192,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414193,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414194,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414195,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414196,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414197,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414198,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414199,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1414200,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1414201,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1414202,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1414203,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_Divisoriobox_Chiuso,1414204,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,1414206,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_Divisoriobox_Chiuso,1414211,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,1414213,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_Divisoriobox_Chiuso,1414218,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,1414220,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Arredi fissi,AR_ARR_ARR_Divisoriobox_Chiuso,1414224,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_GancioAppendino,1414226,AR_LIV_PE_P01_+5.20m,-,-,1.7,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1461574,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1461575,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1461576,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1461577,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1461581,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1461582,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1461583,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1461584,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1461587,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1461588,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1461589,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1461590,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Sistemi di arredo,AR_ARR_ARR_ModuloWc,1461591,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1461592,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaRotolo,1461593,AR_LIV_PE_P01_+5.20m,-,-,-0.080000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_ARR_Scopino,1461594,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A_EI60Simmetrica,1477258,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A_EI60Simmetrica,1477446,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A,1480946,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A,1481221,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_2A,1481396,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1481582,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_SCO_Leg_1A_Normale,1491669,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI60,1494500,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1494848,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1494995,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1498049,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1498174,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_2A,1498592,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A,1513213,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1563912,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1564859,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1569466,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1570939,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1572559,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1575117,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1576696,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1582955,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1583261,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1608480,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1608506,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_Esistente015,1737292,AR_LIV_PE_P01_+5.20m,-,-,-0.14999999999999999,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1785194,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1785624,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1785688,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1785735,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1785785,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1785841,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1785892,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1785934,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1785976,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786057,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786128,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786174,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786181,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786188,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786230,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786271,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786314,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786353,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786394,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786401,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786444,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786524,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786565,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786608,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786613,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786676,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786716,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786812,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786852,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786897,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786904,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786911,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786955,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786956,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1786957,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787008,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787441,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787448,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787455,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787462,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787469,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787476,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787534,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787574,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787617,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787662,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787669,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787676,-,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_ProfiloLuminosoControsoffitto,1787717,-,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A_EI60Simmetrica,1820070,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A_EI60Simmetrica,1820096,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1820201,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A,1826460,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1826580,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Apparecchi idraulici,IM_DIS_AID_SAN_WC,1827788,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,AR_ARR_ARR_Bidet,1827892,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Apparecchi idraulici,AR_ARR_ARR_LavaboCleaning,1830989,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A,1831237,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1836499,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1836622,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1836647,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1836683,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Apparecchi idraulici,AR_ARR_ARR_LavaboCleaning,1840092,AR_LIV_PE_P01_+5.20m,-,-,-0.029999999999999999,Offset Negativo conforme con la modellazione.,1
+Apparecchi idraulici,AR_ARR_ARR_LavaboCleaning,1840206,AR_LIV_PE_P01_+5.20m,-,-,-0.029999999999999999,Offset Negativo conforme con la modellazione.,1
+Apparecchi idraulici,AR_ARR_ARR_LavaboCleaning,1840243,AR_LIV_PE_P01_+5.20m,-,-,-0.029999999999999999,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Leg_1A,1843128,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A,1843193,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1865251,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1876415,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A_EI60Simmetrica,1884131,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A_EI60Simmetrica,1884132,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A_EI60Simmetrica,1884742,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A_EI60Simmetrica,1884743,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaMonitor_InfoVoliArrivi,1894211,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_PortaMonitor_InfoVoliArrivi,1894530,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_Tavolino,1904906,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1904907,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1904908,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_Tavolino,1905161,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1905162,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1905163,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1905164,AR_LIV_PE_P00_+0.00m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1905165,AR_LIV_PE_P00_+0.00m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_Tavolino,1905404,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1905405,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1905406,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_Tavolino,1906116,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1906117,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1906118,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_PoltroncinaTipoRepos,1906119,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A,1906184,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A,1906585,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A,1906670,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A,1906863,AR_LIV_PE_P01_+5.20m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1907415,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Leg_1A_Serranda,1907468,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_GEN_MGE_Esistente016,1913024,ST_LIV_PE_P01_+5.08m,-,-,-0.029999999999999999,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente003,1960874,AR_LIV_PE_P00_+0.00m,-,-,-0.40000000000000002,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente001,1969332,AR_LIV_PE_P00_+0.00m,-,-,-0.40000000000000002,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente002,1972240,AR_LIV_PE_P00_+0.00m,-,-,-0.40000000000000002,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente005,1974985,AR_LIV_PE_P00_+0.00m,-,-,-0.40000000000000002,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente007,1977762,AR_LIV_PE_P00_+0.00m,-,-,-0.40000000000000002,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente008,1984170,AR_LIV_PE_P00_+0.00m,-,-,-0.40000000000000002,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente004,1997349,AR_LIV_PE_P00_+0.00m,-,-,-0.32000000000000001,Offset Negativo conforme con la modellazione.,1
+Modelli generici,AR_GEN_MGE_Esistente006,2000491,AR_LIV_PE_P00_+0.00m,-,-,-0.40000000000000002,Offset Negativo conforme con la modellazione.,1
+Arredi,AR_ARR_SED_SeduteAttesa_41,2075277,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075278,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075279,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075280,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075281,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_51,2075282,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075283,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_61,2075284,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075285,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_61,2075286,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075287,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075288,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075289,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_61,2075290,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075291,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075292,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075293,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075294,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075295,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075296,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075297,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075298,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ ARR_GAT_BancoGate1,2075299,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_TornelliAccesso1,2075300,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ ARR_GAT_BancoGate1,2075301,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_TornelliAccesso1,2075302,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075303,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ ARR_GAT_BancoGate1,2075304,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_TornelliAccesso1,2075305,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_TornelliAccesso1,2075306,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ ARR_GAT_BancoGate1,2075307,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075308,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075309,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_41,2075310,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075311,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075312,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075313,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075314,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_51,2075315,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_51,2075316,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_2+2,2075332,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_61,2075351,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_2+2,2075352,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Modelli generici,AR_ARR_GAT_PortaleGate,2075353,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_ARR_GAT_PortaleGate,2075355,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_ARR_GAT_PortaleGate,2075356,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_ARR_GAT_PortaleGate,2075357,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075358,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075359,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075366,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075367,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075368,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ ARR_GAT_BancoGate1,2075369,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_ARR_TornelliAccesso1,2075370,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075371,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075372,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075373,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075375,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075381,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075382,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075383,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075384,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Modelli generici,AR_ARR_GAT_PortaleGate,2075385,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075389,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075390,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075391,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075392,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075393,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075394,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075395,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075396,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075397,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075398,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075408,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075409,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075410,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075411,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075412,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075413,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075414,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075415,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075416,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075417,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075418,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075440,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075441,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075442,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075443,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075444,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075445,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075446,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075447,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075448,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075449,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075450,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075466,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075473,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075474,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075475,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075476,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075477,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075478,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075479,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075480,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075481,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075482,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075489,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_4,2075496,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075497,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075498,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075508,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075515,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,ADR_ARC_Tensator,2075516,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_4,2075517,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075518,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_2+2,2075519,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075520,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075521,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_2,2075528,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_81,2075529,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_61,2075530,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075531,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_61,2075532,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_4,2075533,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075534,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075535,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_2,2075536,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_4,2075543,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_1,2075544,AR_LIV_PE_P01_+5.20m,-,-,-0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_2+2,2075551,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_2+2,2075552,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_2,2075553,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Arredi,AR_ARR_SED_SeduteAttesa_2+2,2075554,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1

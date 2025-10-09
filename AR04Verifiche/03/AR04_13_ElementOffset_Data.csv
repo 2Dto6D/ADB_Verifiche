@@ -1,0 +1,25 @@
+Categoria,Nome Elemento,ID Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Porte,AR_POR_BAT_Acc_1A_EI30,1235457,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1335843,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1336408,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1344514,AR_LIV_PE_P01_+5.20m,-,-,-0.75,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1347276,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1347632,AR_LIV_PE_P01_+5.20m,-,-,-0.76000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1408407,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1409022,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1409610,AR_LIV_PE_P00_+0.00m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1439731,AR_LIV_PE_P01_+5.20m,-,-,-0.089999999999999997,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_2A,1439786,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1451051,AR_LIV_PE_P01_+5.20m,-,-,-0.089999999999999997,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_2A,1451052,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1451948,AR_LIV_PE_P01_+5.20m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_2A,1451949,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1456223,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1456224,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1462953,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1462954,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1466095,AR_LIV_PE_P01_+5.20m,-,-,-0.059999999999999998,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_2A,1466096,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_2A,1468445,AR_LIV_PE_P01_+5.20m,-,-,-0.14000000000000001,Offset Negativo conforme con la modellazione.,1
+Porte,AR_POR_BAT_Acc_2A,1468446,AR_LIV_PE_P01_+5.20m,-,-,0.0,Oggetto conforme.,1
+Porte,AR_POR_BAT_Acc_1A_EI30,1578290,AR_LIV_PE_P00_+0.00m,-,-,-0.01,Offset Negativo conforme con la modellazione.,1
