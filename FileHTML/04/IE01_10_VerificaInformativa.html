@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>IE01 - Verifica Informativa</title>
+		<link rel="shortcut icon" href="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" type="image/x-icon">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/00_styles.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileCSS/04/10_VerificaInformativa.css">
+		<link href="//fonts.googleapis.com/css?family=Roboto:400%2C700&display=swap" rel="stylesheet">
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/styles.js" defer></script>
+		<script src="https://cdn.jsdelivr.net/gh/2Dto6D/ADB_Verifiche/FileJS/04/IE01_10_VerificaInformativa.js" defer></script>
+	</head>
+	<body>
+		<header>
+			<div class="Logo">
+				<a href="https://2dto6d.com/" target="_blank">
+					<img src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-completo-2dto6d-piccolo.png" alt="Logo">
+				</a>
+			</div>
+		</header>
+		<nav class="Menu">
+			<button class="hamburger" onclick="toggleMenu()">☰</button>
+			<div class="menu-content" id="menuContent">
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_00_index.html">Home IE01</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_01_PGIEAllegati.html"> pGI e Allegati</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_02_ElaboratiProgettuali.html"> Elaborati Progettuali</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_03_ClashDetection.html"> Clash Detection</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_05_ACDat.html"> ACDat</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_06_CollegamentiModelloNativo.html"> Collegamenti Modello Nativo</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_07_GeoreferenziazioneEOrientamento.html"> Georeferenziazione e Orientamento</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_08_GriglieELivelli.html"> Griglie e Livelli</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_09_IntegritàEPuliziaFile.html"> Integrità e Pulizia File</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_11_VerificaLOINGeometrico.html"> Verifica LOIN Geometrico</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_12_NamingConvention.html"> Naming Convention</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_13_RegoleModellazione.html"> Regole Modellazione</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_14_SpecificheImpianti.html"> Specifiche Impianti</a></button>
+				<button><a href="https://2dto6d.github.io/ADB_Verifiche/FileHTML/04/IE01_15_UnitaDiMisura.html"> Unità di misura</a></button>
+			</div>
+		</nav>
+		<main class="Contenitore">
+			<div class="Card">
+				<div class="Titolo">
+					<h3>Verifica Informativa</h3>
+					<p class="Descrizione">Controlli relativi al contenuto informativo strutturato.</p>
+				</div>
+				<br>
+				<table id="VerificaInformativa" class="VerificaInformativa">
+					<thead></thead>
+					<tbody></tbody>
+				</table>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 37</h3>
+					<p class="Descrizione">La compilazione dei parametri relativi alle Informazioni di progetto è completa e conforme a quanto indicato nel pGI.</p>
+				</div>
+				<br>
+				<table id="ProjectInfo" class="ProjectInfo">
+					<thead></thead>
+					<tbody></tbody>
+				</table>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 38</h3>
+					<p class="Descrizione">Il modello IFC esportato dal file nativo contiene tutti i parametri previsti nel pGI.</p>
+				</div>
+				<br>
+				<table id="ParametriIFC" class="ParametriIFC">
+					<thead></thead>
+					<tbody></tbody>
+				</table>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 39</h3>
+					<p class="Descrizione">Assegnazione della fase corretta agli elementi del modello.</p>
+				</div>
+				<br>
+				<div class="Verifica">
+					<div class="FaseErrata">
+						<table class="FaseErrataTabella">
+							<thead id="FaseErrataHeader"></thead>
+							<tbody id="FaseErrataBody"></tbody>
+						</table>
+					<br>
+						<div class="pagination-FaseErrata"></div>
+					</div>
+					<div class="Grafico">
+						<canvas id="FaseErrataAsBarChart" width="800" height="400"></canvas>
+						<br>
+						<div id="FaseErrataStatistics"></div>
+					</div>
+				</div>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 41</h3>
+					<p class="Descrizione">Il parametro IFCExportAs è congruente alle specifiche del pGI.</p>
+				</div>
+				<br>
+				<div class="Verifica">
+					<div class="ValorizzazioneIFC">
+						<table class="ValorizzazioneIFCTabella">
+							<thead id="ValorizzazioneIFCHeader"></thead>
+							<tbody id="ValorizzazioneIFCBody"></tbody>
+						</table>
+					<br>
+						<div class="pagination-ValorizzazioneIFC"></div>
+					</div>
+					<div class="Grafico">
+						<canvas id="ValorizzazioneIFCAsBarChart" width="800" height="400"></canvas>
+						<br>
+						<div id="ValorizzazioneIFCStatistics"></div>
+					</div>
+				</div>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 42</h3>
+					<p class="Descrizione">Le entità IfcProject, IfcSite, IfcBuilding, IfcBuildingStorey, IfcSpace, IfcSystem e IfcElementAssembly sono valorizzate come da specifiche riportate nel PGI e PIR.</p>
+				</div>
+				<br>
+				<table id="IFCEntity" class="IFCEntity">
+					<thead></thead>
+					<tbody></tbody>
+				</table>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 44</h3>
+					<p class="Descrizione">Sono stati valorizzati tutti i parametri obbligatori presenti nell'allegato LOIN del pGI.</p>
+				</div>
+				<br>
+				<div class="Verifica">
+					<div class="ParametriLOIN">
+						<table class="ParametriLOINTabella">
+							<thead id="ParametriLOINHeader"></thead>
+							<tbody id="ParametriLOINBody"></tbody>
+						</table>
+					<br>
+						<div class="pagination-ParametriLOIN"></div>
+					</div>
+					<div class="Grafico">
+						<div id="ParametriLOINstatistics"></div>
+					</div>
+				</div>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 45</h3>
+					<p class="Descrizione">I valori dei parametri obbligatori presenti nell'allegato LOIN del pGI ricadono all'interno delle liste di valori ammissibili allegate al pGI, ove presenti.</p>
+				</div>
+				<br>
+				<div class="Verifica">
+					<div class="ValoriParametriLOIN">
+						<table class="ValoriParametriLOINTabella">
+							<thead id="ValoriParametriLOINHeader"></thead>
+							<tbody id="ValoriParametriLOINBody"></tbody>
+						</table>
+					<br>
+						<div class="pagination-ValoriParametriLOIN"></div>
+					</div>
+					<div class="Grafico">
+						<div id="ValoriParametriLOINstatistics"></div>
+					</div>
+				</div>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 46</h3>
+					<p class="Descrizione">Assegnazione dei materiali a tutti gli elementi modellati.</p>
+				</div>
+				<br>
+				<div class="Verifica">
+					<div class="AssegnazioneMateriali">
+						<table class="AssegnazioneMaterialiTabella">
+							<thead id="AssegnazioneMaterialiHeader"></thead>
+							<tbody id="AssegnazioneMaterialiBody"></tbody>
+						</table>
+					<br>
+						<div class="pagination-AssegnazioneMateriali"></div>
+					</div>
+					<div class="Grafico">
+						<div id="AssegnazioneMaterialistatistics"></div>
+					</div>
+				</div>
+			</div>
+		</main>
+		<footer id="footer" class="footer">
+			<div class="Vuoto"></div>
+			<div class="footer-logo">
+				<img class="LogoFooter" src="https://raw.githubusercontent.com/2Dto6D/ADB_Verifiche/main/images/logo-minimal-bianco-2dto6d-150x150.png" alt="LogoFooter">
+				<p class="FooterBianco">2Dto6D di Neri Lorenzetto Bologna</p>
+			</div>
+			<div class="footer-content">
+				<div class="contact-referent">
+					<h3>Contatti</h3>
+					<ul>
+						<li>E-mail: info@2dto6d.com</li>
+						<li>PEC: 2dto6dsrls@twtcert.it</li>
+						<li>Partita IVA: 07133360482</li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer-content">
+				<div class="contact-referent">
+					<h3>Referenti</h3>
+					<ul>
+						<li>Sante Vagnozzi</li>
+						<li>Vittoria Bressan</li>
+						<li>Dario Sgolacchia</li>
+					</ul>
+				</div>
+			</div>
+			<div class="Vuoto"></div>
+			<div class="footer-bottom">
+				<p class="FooterBianco"><strong>Per qualsiasi dubbio, vi chiediamo gentilmente di contattarci a: adbverifiche@2dto6d.com</strong></p>
+				<br>
+				<br>
+				<small class="FooterBianco">&copy; 2025 Verifiche 2Dto6D. Tutti i diritti riservati.<br>
+					Il presente sito agisce esclusivamente come visualizzatore, con l'obiettivo di analizzare i modelli e i documenti realizzati dagli esecutori.<br>
+					Tutti i dati sono trattati nel rispetto della privacy e delle normative vigenti, garantendo la protezione delle informazioni in conformità alla legislazione applicabile.<br>
+				</small>
+			</div>
+		</footer>
+	<button class="scroll-top" onclick="scrollToTop()">&#8679;</button>
+	</body>
+</html>
