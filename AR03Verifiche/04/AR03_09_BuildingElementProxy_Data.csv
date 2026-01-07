@@ -1,0 +1,2306 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,IFC Class,Stato
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,709971,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,712598,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,712676,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,712680,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,712855,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,713000,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,713120,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,713436,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,714094,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,783061,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,783984,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,787504,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,788168,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,788359,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,788502,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,789130,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,789235,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,789336,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,789526,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,789651,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,789779,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,790192,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,790382,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,790452,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,790494,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,790595,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,790872,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,791346,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,791502,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,791572,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,791667,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,791776,IfcWall,1
+OST_Doors,AR_POR_SCO_Leg_1A_Normale,AR_POR_SCO_Leg_1A_Normale_900x2200,791977,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,792721,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,793939,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,794066,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,794239,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,794315,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,794457,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,795341,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,795922,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,796041,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,796117,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,796193,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,796396,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,796467,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,796556,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,797108,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,797182,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,797291,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,797364,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,798356,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,798501,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,798600,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,798860,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,802758,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,802822,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,803059,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,803130,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,803232,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,803413,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,805064,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,806327,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,806540,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,806570,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,806578,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,806582,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,806586,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,810152,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,810550,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,810569,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,810593,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,811019,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,811044,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,811078,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,821065,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,821161,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,821264,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,821389,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,821397,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,821436,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,822266,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,824409,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,824459,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,832384,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,832506,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,846769,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,851483,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,853496,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,853672,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,854870,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,863328,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,863761,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,864581,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,865303,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,865601,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,865740,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,865970,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,866121,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.25,866543,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,866758,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,867168,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,867238,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,867281,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,867318,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,868203,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,868952,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,869076,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,871407,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,871480,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_30mm_R.10,871584,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,872526,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,873537,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,875696,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,875825,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,876305,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,876424,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,876488,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,876572,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_22mm_R.05,876714,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_22mm_R.05,876804,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_22mm_R.05,876883,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,877568,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,879532,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,879786,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,879995,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,880269,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,880298,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,880549,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,882766,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,882870,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,882925,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,883454,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,883732,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,883811,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,883875,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,883978,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,884052,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,884060,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,884097,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,884118,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,884153,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,884229,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,886054,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,886109,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,886189,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,886236,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,886267,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,888645,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,888907,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,888965,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,889155,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,889270,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,889693,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,889983,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,890027,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,890159,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,890306,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,890353,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,890370,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,890440,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,891157,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,891158,IfcWall,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,893981,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,893982,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,919314,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,919315,IfcWall,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,919316,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,919317,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,919318,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,919319,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,919428,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,919464,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,919520,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,919629,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,919630,IfcWall,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_WCDisabili,AR_DIS_AID_SAN_WCDisabili,920207,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDisabili,AR_DIS_AID_SAN_LavaboDisabili_570X660,920209,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_WCDisabili,AR_DIS_AID_SAN_WCDisabili,934876,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDisabili,AR_DIS_AID_SAN_LavaboDisabili_570X660,935172,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,935708,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,935709,IfcWall,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,935712,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,935713,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,935714,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,935715,IfcWall,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,935716,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,935717,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,935718,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDoppio,AR_DIS_AID_SAN_LavaboDoppio_460x1400,935719,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,935720,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,935721,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,935722,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,936114,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,936334,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,936357,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,936385,IfcWall,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_Orinatoio,AR_DIS_AID_SAN_Orinatoio,937816,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_Orinatoio,AR_DIS_AID_SAN_Orinatoio,939724,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_Orinatoio,AR_DIS_AID_SAN_Orinatoio,939794,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_Orinatoio,AR_DIS_AID_SAN_Orinatoio,939802,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,941266,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,941549,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,941838,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,941887,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,943384,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946314,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946361,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946383,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946387,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946392,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946396,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946401,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946411,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946550,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946554,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946558,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946562,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946566,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946571,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946575,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946580,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946584,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946589,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946593,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,946597,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,947174,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,947249,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,947254,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,947458,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,948030,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,948137,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_60mm_CI.13,951836,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,954956,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,954963,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,954974,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,954987,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,954994,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,955001,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,955020,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,955027,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,959254,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,959415,IfcWall,1
+OST_GenericModel,AR_CON_CLA_Esistente011,AR_CON_CLA_Esistente011_CI.02,970242,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente013,AR_CON_CLA_Esistente013_CI.02,1012385,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente012,AR_CON_CLA_Esistente012_CI.02,1025984,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente009,AR_CON_CLA_Esistente009_CI.02,1026013,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1032383,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1033987,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034038,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034087,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034103,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034117,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034131,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034145,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034161,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034175,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034189,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034203,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034219,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034233,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034247,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034261,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034275,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034289,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034303,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1034317,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente014,AR_CON_CLA_Esistente014_CI.02,1078221,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1096902,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_60mm_CI.01,1136818,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente010,AR_CON_CLA_Esistente010_CI.02,1152199,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156121,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156128,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156162,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156169,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156185,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156192,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156213,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156220,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156241,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156248,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156262,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156269,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156461,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156502,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156534,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156552,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1156638,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1157364,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1171148,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1171156,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1230165,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1230316,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1230500,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1230683,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1230800,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1248729,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente017,AR_CON_CLA_Esistente017_CI.02,1266224,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1280914,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1280920,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1280996,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1281028,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1281029,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,1281030,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1281031,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1281033,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1281035,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1281037,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1281038,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,1281080,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1289419,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1289512,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1415289,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1422656,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1432924,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2400,1477258,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2400,1477446,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A,AR_POR_BAT_Acc_1A_900X2200,1480946,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A,AR_POR_BAT_Acc_1A_900X2200,1481221,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A,AR_POR_BAT_Acc_2A_1800x2200,1481396,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A,AR_POR_BAT_Acc_2A_1800x2200,1481582,IfcDoor,1
+OST_Doors,AR_POR_SCO_Leg_1A_Normale,AR_POR_SCO_Leg_1A_Normale_900x2200,1491669,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI60,AR_POR_BAT_Acc_1A_EI60_1000x2200,1494500,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A,AR_POR_BAT_Acc_2A_2400x2200,1494848,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A,AR_POR_BAT_Acc_2A_2400x2200,1494995,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1498049,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1498174,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A,AR_POR_BAT_Acc_2A_2400x2200,1498592,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A,AR_POR_BAT_Acc_1A_900X2200,1513213,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1562058,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1562206,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1562438,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1562871,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1563631,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1563879,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1563912,IfcDoor,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1564019,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_GuidaFoldingPack_ES_01,AR_CON_CSO_GuidaFoldingPack_ES_01,1564239,IfcCovering,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564437,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564633,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564634,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564635,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564636,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564637,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564638,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564639,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564640,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564641,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564642,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564643,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564644,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564645,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564646,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564647,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564648,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564649,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564650,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564651,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564652,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564653,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564654,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564655,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564656,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564657,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564658,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564659,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564660,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564661,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564662,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564663,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564664,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564665,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564666,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564667,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564668,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564669,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564670,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564671,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564672,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564673,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564674,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564675,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564676,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564677,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564678,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564679,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564680,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564681,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564682,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564683,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564684,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564685,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564686,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564687,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564688,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564689,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564690,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564691,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564692,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564693,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564694,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564695,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564696,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564697,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564698,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564699,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564700,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564701,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564702,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564703,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564704,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564705,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564706,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564707,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564708,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564709,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564710,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564711,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564712,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564713,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564714,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564715,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564716,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564717,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564718,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564719,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564720,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564721,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564722,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564723,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564724,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564725,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564726,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564727,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1564728,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1564788,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1564859,IfcDoor,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1567671,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1567703,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1567706,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1569355,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1569356,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1569430,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1569466,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1570096,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1570762,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1570824,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1570939,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1571529,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1571604,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1571884,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1572067,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1572183,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1572412,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1572559,IfcDoor,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1572806,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1573058,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1573451,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1573930,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1573971,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1574158,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1574997,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1575043,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1575117,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1576561,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1576696,IfcDoor,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1577202,IfcCovering,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1577923,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578067,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578068,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578069,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578070,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578071,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578072,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578073,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578074,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578075,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578076,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578077,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578078,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578079,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578080,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578081,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578082,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578083,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578084,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578085,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578086,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578087,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578088,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578089,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578090,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578091,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578092,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578093,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578094,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578095,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578096,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578097,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578098,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578099,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578100,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578101,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578102,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578103,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578104,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578105,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578106,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578107,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578108,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578109,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578110,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578111,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578112,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578113,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578114,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578115,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578116,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578117,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578118,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578119,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578120,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578121,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578122,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578123,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578124,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578125,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578126,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578127,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578128,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578129,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578130,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578131,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578132,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578133,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578134,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578135,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578136,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578142,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578194,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578195,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578196,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578197,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578198,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578199,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578200,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578201,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578202,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578203,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578204,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578205,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578206,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578207,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578208,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578209,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578210,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578211,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578212,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578213,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578214,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578215,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578216,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578217,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578223,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578242,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578243,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578244,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578245,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578246,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578247,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578248,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578256,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578393,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578394,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578395,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578396,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578397,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578398,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578399,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578400,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578401,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578402,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578403,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578404,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578405,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578406,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578407,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578408,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578409,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578410,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578411,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578412,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578413,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578414,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578415,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578416,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578417,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578418,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578419,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578420,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578421,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578422,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578423,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578424,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578425,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578426,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578427,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578428,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578429,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578430,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578431,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578432,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578433,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578434,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578435,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578436,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578437,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578438,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578439,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578440,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578441,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578442,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578443,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578444,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578445,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578446,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578447,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578448,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578449,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578450,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578451,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578452,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578453,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578454,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578455,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578456,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578457,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578458,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578464,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578479,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578480,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578481,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578482,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578483,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578490,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578584,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578585,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578586,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578587,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578588,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578589,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578590,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578591,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578592,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578593,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578594,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578595,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578596,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578597,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578598,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578599,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578600,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578601,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578602,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578603,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578604,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578605,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578606,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578607,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578608,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578609,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578610,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578611,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578612,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578613,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578614,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578615,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578616,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578617,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578618,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578619,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578620,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578621,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578622,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578623,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578624,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578625,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578626,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578632,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578651,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578652,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578653,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578654,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578655,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578656,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578657,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578665,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578784,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578785,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578786,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578787,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578788,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578789,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578790,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578791,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578792,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578793,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578794,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578795,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578796,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578797,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578798,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578799,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578800,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578801,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578802,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578803,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578804,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578805,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578806,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578807,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578808,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578809,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578810,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578811,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578812,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578813,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578814,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578815,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578816,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578817,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578818,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578819,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578820,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578821,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578822,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578823,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578824,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578825,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578826,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578827,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578828,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578829,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578830,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578831,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578832,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578833,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578834,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578835,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578836,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578837,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578838,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578839,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578840,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1578981,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579107,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579108,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579109,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579110,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579111,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579112,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579113,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579114,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579115,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579116,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579117,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579118,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579119,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579120,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579121,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579122,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579123,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579124,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579125,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579126,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579127,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579128,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579129,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579130,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579131,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579132,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579133,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579134,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579135,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579136,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579137,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579138,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579139,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579140,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579141,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579142,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579143,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579144,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579145,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579146,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579147,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579148,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579149,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579150,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579151,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579152,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579153,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579154,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579155,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579156,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579157,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579158,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579159,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579160,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579161,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579162,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579163,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579164,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579165,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579166,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579167,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579173,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579194,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579195,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579196,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579197,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579198,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579199,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579200,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579201,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579208,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579228,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579229,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579230,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579231,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579232,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579233,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579234,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579235,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579242,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579373,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579374,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579375,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579376,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579377,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579378,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579379,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579380,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579381,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579382,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579383,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579384,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579385,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579386,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579387,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579388,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579389,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579390,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579391,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579392,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579393,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579394,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579395,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579396,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579397,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579398,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579399,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579400,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579401,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579402,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579403,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579404,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579405,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579406,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579407,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579408,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579409,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579410,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579411,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579412,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579413,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579414,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579415,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579416,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579417,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579418,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579419,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579420,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579421,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579422,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579423,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579424,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579425,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579426,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579427,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579428,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579429,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579430,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579431,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579432,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579433,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579434,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579435,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579441,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579495,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579496,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579497,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579498,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579499,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579500,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579501,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579502,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579503,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579504,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579505,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579506,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579507,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579508,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579509,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579510,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579511,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579512,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579513,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579514,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579515,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579516,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579517,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579518,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579519,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579526,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579557,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579558,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579559,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579560,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579561,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579562,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579563,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579564,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579565,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579566,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579567,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579568,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579569,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579577,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579698,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579699,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579700,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579701,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579702,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579703,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579704,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579705,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579706,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579707,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579708,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579709,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579710,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579711,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579712,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579713,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579714,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579715,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579716,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579717,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579718,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579719,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579720,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579721,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579722,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579723,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579724,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579725,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579726,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579727,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579728,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579729,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579730,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579731,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579732,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579733,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579734,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579735,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579736,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579737,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579738,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579739,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579740,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579741,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579742,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579743,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579744,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579745,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579746,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579747,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579748,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579749,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579750,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579751,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579752,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579753,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579754,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579755,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579885,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579971,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579972,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579973,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579974,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579975,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579976,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579977,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579978,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579979,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579980,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579981,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579982,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579983,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579984,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579985,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579986,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579987,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579988,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579989,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579990,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579991,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579992,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579993,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579994,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579995,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579996,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579997,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579998,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1579999,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580000,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580001,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580002,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580003,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580004,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580005,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580006,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580007,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580008,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580009,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580010,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1580011,IfcDoor,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1582024,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1582880,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1582938,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1582955,IfcDoor,1
+OST_GenericModel,AR_CON_CSO_GuidaFoldingPack_ES_02,AR_CON_CSO_GuidaFoldingPack_ES_02,1583053,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_GuidaFoldingPack_ES_03,AR_CON_CSO_GuidaFoldingPack_ES_03,1583112,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_GuidaFoldingPack_ES_04,AR_CON_CSO_GuidaFoldingPack_ES_04,1583157,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_GuidaFoldingPack_ES_05,AR_CON_CSO_GuidaFoldingPack_ES_05,1583196,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_GuidaFoldingPack_ES_06,AR_CON_CSO_GuidaFoldingPack_ES_06,1583236,IfcCovering,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1583261,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583612,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583636,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583637,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583638,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583639,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583640,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583641,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583642,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583643,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583644,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583645,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583683,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583684,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583685,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583686,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583687,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583688,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583689,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583690,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1583691,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1591121,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1591123,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1591493,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1600360,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1608476,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1608478,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1608479,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1608480,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1608502,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1608504,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1608506,IfcDoor,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1608534,IfcCovering,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608575,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608661,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608662,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608663,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608664,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608665,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608666,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608667,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608668,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608669,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608670,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608671,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608672,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608673,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608674,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608675,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608676,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608677,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608678,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608679,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608680,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608681,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608682,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608683,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608684,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608685,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608686,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608687,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608688,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608689,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608690,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608691,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608692,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608693,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608694,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608695,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608696,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608697,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608698,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608699,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608700,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608701,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608702,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608703,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1608706,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609047,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609048,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609049,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609050,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609051,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609052,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609053,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609054,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609055,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609056,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609057,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609058,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609059,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609060,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609061,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609062,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609063,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609064,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609065,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609066,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609067,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609068,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609069,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609070,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609071,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609072,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609073,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609074,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609075,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609076,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609077,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609078,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609079,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609080,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609081,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609082,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609083,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609084,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609085,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609086,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609087,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609088,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609089,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609090,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609091,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609092,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609093,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609094,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609095,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609096,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609097,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609098,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609099,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609100,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609101,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609102,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609103,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609104,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609105,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609106,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609107,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609108,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609109,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609110,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609111,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609112,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609113,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609114,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609115,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609116,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609117,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609118,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609119,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609120,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609121,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609122,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609123,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609124,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609125,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609126,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609127,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609128,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609129,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609130,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609131,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609132,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609133,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609134,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609135,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609136,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609137,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609138,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609139,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609140,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609141,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609142,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609143,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609144,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609145,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609146,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609147,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609148,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609149,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609150,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609151,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609152,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609153,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609154,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609155,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609156,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609157,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609158,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609159,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609160,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609161,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609162,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609163,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609164,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609165,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609166,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609167,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609168,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609169,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609170,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609171,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609172,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609173,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609174,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609175,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609176,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609177,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609178,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609179,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609180,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609181,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609182,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609183,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609184,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609185,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609186,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609187,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609188,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609189,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609190,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609191,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609192,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609193,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609194,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609195,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609196,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609197,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609198,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609199,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609200,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609201,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609202,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609203,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609204,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609205,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609206,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609207,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609208,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609209,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609210,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609211,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609212,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609213,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609214,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609215,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1609216,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1615341,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,1615563,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,1615714,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,1615777,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1615912,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1615970,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1662961,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1663568,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1663772,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1664122,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1664195,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1664317,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1664392,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1664396,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1664442,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1664626,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1664977,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1665021,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1665079,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1665198,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1665239,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1665379,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1705296,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1716705,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1716734,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1716745,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1716851,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1717176,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1717471,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1717508,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1726755,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1726804,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1728739,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1728814,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1729112,IfcWall,1
+OST_GenericModel,AR_CON_CLA_Esistente015,AR_CON_CLA_Esistente015_CI.02,1737292,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1750831,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1751827,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1752200,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1752532,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1752580,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1752605,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1752960,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1753139,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1753185,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1753256,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1753440,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1753642,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1753706,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1753744,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1753799,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1753912,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1754379,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1754448,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1754548,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1754666,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1754807,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1754848,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1754879,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1754903,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1754935,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1755133,IfcWall,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1755200,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1755239,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1755271,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1755299,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1755347,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1755348,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1755349,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1755350,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1756453,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1757535,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1780536,IfcWall,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1785194,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1785624,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1785688,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1785735,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1785785,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1785841,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1785892,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1785934,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1785976,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786057,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786128,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786174,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786181,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786188,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786230,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786271,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786314,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786353,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786394,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786401,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786444,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786524,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786565,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786608,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786613,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786676,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786716,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786812,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786852,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786897,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786904,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786911,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786955,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786956,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1786957,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787008,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787441,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787448,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787455,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787462,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787469,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787476,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787534,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787574,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787617,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787662,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787669,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787676,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,1787717,IfcCovering,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1200x2200,1820070,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1200x2200,1820096,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1820201,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A,AR_POR_BAT_Acc_1A_900X2200,1826460,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1826580,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1827224,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_64mm_MI.28,1827582,IfcWall,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_WC,AR_DIS_AID_SAN_WC,1827788,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_Bidet,AR_DIS_AID_Bidet,1827892,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1829560,IfcWall,1
+OST_PlumbingFixtures,AR_DIS_AID_LavaboCleaning,AR_DIS_AID_LavaboCleaning,1830989,IfcSanitaryTerminal,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1831183,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_1A,AR_POR_BAT_Acc_1A_900X2200,1831237,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1836357,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1836459,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1836460,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1836499,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1836622,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1836647,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1836683,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1838424,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1839077,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,1839346,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1839409,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1839539,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1839584,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1839689,IfcCovering,1
+OST_PlumbingFixtures,AR_DIS_AID_LavaboCleaning,AR_DIS_AID_LavaboCleaning,1840092,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_LavaboCleaning,AR_DIS_AID_LavaboCleaning,1840206,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_LavaboCleaning,AR_DIS_AID_LavaboCleaning,1840243,IfcSanitaryTerminal,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_800X2200,1843128,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A,AR_POR_BAT_Leg_1A_800X2200,1843193,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1865013,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1865015,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1865021,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1865251,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1876142,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1876337,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1876389,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1876415,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876826,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876866,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876867,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876868,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876869,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876870,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876871,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876872,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876873,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876874,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876875,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876876,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876877,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876878,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876879,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876880,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876881,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876882,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876883,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876972,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876988,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876989,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876990,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1876991,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877011,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877029,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877144,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877145,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877146,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877147,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877148,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877149,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877150,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877151,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877152,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877153,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877154,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877155,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877156,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877157,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877158,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877159,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877160,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877161,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877162,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877163,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877164,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877165,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877166,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877167,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877168,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877169,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877170,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877171,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877172,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877173,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877174,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877175,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1877176,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881214,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881254,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881255,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881256,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881257,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881258,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881259,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881260,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881261,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881262,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881263,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881264,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881265,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881266,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881267,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881268,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881269,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881270,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1881271,IfcDoor,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1881398,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,1882613,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1882783,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1882828,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1882844,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1882879,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1882932,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1882949,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1882965,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1882989,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1882996,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1883013,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1883048,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1883064,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1883205,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1883304,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1883356,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1883410,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1883431,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1884130,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1200x2200,1884131,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1200x2200,1884132,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1884176,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,1884678,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1200x2200,1884742,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1200x2200,1884743,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1906147,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1906345,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1906522,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_1A,AR_POR_BAT_Acc_1A_900X2200,1906585,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_1A,AR_POR_BAT_Acc_1A_900X2200,1906863,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1906944,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1906949,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1906953,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1907083,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1907157,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1907206,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1907335,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1907396,IfcWall,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1907415,IfcDoor,1
+OST_Doors,AR_POR_BAT_Leg_1A_Serranda,AR_POR_BAT_Leg_1A_Serrande_205x2750,1907468,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,1908820,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1908842,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1908843,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1908844,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1908845,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1908846,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909060,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909061,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909062,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909063,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909064,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909065,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909066,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909067,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909068,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909069,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909070,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909071,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909072,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909073,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909074,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909075,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909076,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909077,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909078,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909079,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909080,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909081,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909082,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909083,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909084,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909085,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909086,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909087,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909088,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909089,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909090,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909091,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909092,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909093,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909094,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909095,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909096,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909097,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909098,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909099,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909100,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909101,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909102,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909103,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909104,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909105,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909106,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909107,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909108,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909109,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909110,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909111,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909112,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909113,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,1909133,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,1912930,IfcWall,1
+OST_GenericModel,AR_CON_CLA_Esistente016,AR_CON_CLA_Esistente016_CI.02,1913024,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1913105,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1913277,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1915820,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_60mm_CI.13,1917200,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_60mm_CI.13,1917231,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_60mm_CI.13,1940621,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_60mm_CI.13,1940817,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1941436,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_60mm_CI.13,1942233,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942486,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942487,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942488,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942489,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942490,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942491,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942492,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942521,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942522,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942523,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942524,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942525,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942526,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942527,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942528,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942529,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942530,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942531,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942532,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942533,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942534,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942535,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942536,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942537,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942538,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942539,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942540,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942541,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942542,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942543,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942544,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942545,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942546,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942547,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942548,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942549,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942550,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942551,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942552,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942553,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942554,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942555,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942556,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942557,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942558,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942559,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942560,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942561,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942562,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942563,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942564,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942565,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942566,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942567,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942568,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942569,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942570,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942571,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942572,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942573,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942574,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942575,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942589,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942590,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942591,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942592,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942593,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942594,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942595,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942596,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942597,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942598,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942599,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942600,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942601,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942602,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942603,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942604,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942605,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942606,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942607,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942608,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942609,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942610,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942611,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942612,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942613,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942614,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942615,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942616,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942617,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942618,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942619,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942620,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942621,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942622,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942623,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942624,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,1942625,IfcCovering,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1944313,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1944316,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1944962,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1944964,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1945936,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1945938,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1946558,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1946616,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1946645,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1946680,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1946724,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1946741,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1946984,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1946986,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1947184,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1947186,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1947384,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1947386,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1947559,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1947561,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,1947707,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1947716,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_RIV_24mm_R.07,1954840,IfcWall,1
+OST_GenericModel,AR_CON_CLA_Esistente003,AR_CON_CLA_Esistente003_CI.02,1960874,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente001,AR_CON_CLA_Esistente001_CI.02,1969332,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente002,AR_CON_CLA_Esistente002_CI.02,1972240,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente005,AR_CON_CLA_Esistente005_CI.02,1974985,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente007,AR_CON_CLA_Esistente007_CI.02,1977762,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente008,AR_CON_CLA_Esistente008_CI.02,1984170,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1997331,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente006,AR_CON_CLA_Esistente006_CI.02,2000491,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2002454,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2002545,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2002579,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2002609,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2002633,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2002652,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.01,2004430,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.02,2005104,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.03,2005544,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.03,2006169,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.04,2006494,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.04,2006939,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.02,2008080,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.01,2008921,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.03,2010290,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.03,2010390,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.04,2010712,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.02,2010912,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_12mm_R.01,2011178,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,2012047,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2014159,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2014339,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2014567,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2015435,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2015624,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,2015760,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2015964,IfcWall,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,2016189,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2016193,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2016401,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2016475,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2016497,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2016660,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2016817,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2016886,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2016963,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,2021219,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2021289,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_22mm_R.05,2021488,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_22mm_R.05,2021524,IfcWall,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022262,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022263,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022276,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022277,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022332,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022373,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022410,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022411,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022430,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022450,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022463,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_60mm_CI.13,2022464,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,2030102,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,2073001,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,2122893,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,2123028,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,2123088,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,2203898,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,2204019,IfcSlab,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,2217925,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,2243632,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2243912,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244270,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244420,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244484,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244489,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244495,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244569,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244611,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244641,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244646,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244651,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244655,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244660,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244664,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244669,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244673,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2244683,IfcWall,1
+OST_Roofs,Tetto di base,AR_TET_PIA_150mm_PE.23_pannello,2251801,IfcRoof,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2252842,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2252880,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2253436,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2253592,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2254022,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2254027,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2254033,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2254538,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2254692,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2254699,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2254857,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2254928,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2254963,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2255064,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2255070,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2255088,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2255186,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2255234,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2255271,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2255526,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2255572,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2255608,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2255629,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2256424,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2256452,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2256593,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2256598,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2256604,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2256624,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2256634,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2256647,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2256656,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2256667,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2256680,IfcWall,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,2292317,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2292320,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2293641,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2293741,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2293767,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2294121,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2294186,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2294246,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2294540,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_1A,AR_POR_BAT_Acc_1A_900X2200,2294628,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2295389,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2295574,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2295796,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2296235,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2296265,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2297149,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2297224,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2297357,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2297811,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2299012,IfcWall,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_20mm_FL-002,2304357,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2304358,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2304360,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2304362,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2304364,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2304366,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2304368,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2304370,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2304592,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2304667,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2305928,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2306215,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2306522,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2307003,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2308619,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2308676,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2308759,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2308816,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2309089,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2309225,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2309507,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2309551,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2309912,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2310025,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2310258,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2312597,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2312775,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2314013,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2314014,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2314843,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2314875,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2315079,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2317135,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2317144,IfcSlab,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_20mm_FL-002,2317483,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2317484,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2317486,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2317488,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2317490,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2317492,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2317494,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2317496,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2317581,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2317607,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2317885,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2317915,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2318085,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2318343,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2319351,IfcSlab,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_20mm_FL-002,2320336,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2320337,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2320339,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2320341,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2320343,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2320345,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2320347,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2320349,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2321669,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2321698,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2321827,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2322188,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2323228,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2323285,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2323313,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2323604,IfcSlab,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_20mm_FL-002,2323723,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2323724,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2323726,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2323728,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2323730,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2323732,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2323734,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2323736,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2324123,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2324898,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2325126,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2325180,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2325379,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2325487,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2325607,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2325664,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2325902,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2325929,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2326105,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2326985,IfcWall,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,2331550,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2331564,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2331797,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,2331801,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2331831,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2331856,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2332217,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,2332221,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2332251,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2332276,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,2332453,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2332457,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2332487,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2332511,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,2332728,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2332751,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,2332801,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2332819,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2332913,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,2332917,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2332947,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2332972,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,2333130,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2333144,IfcRailing,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_20mm_FL-002,2333299,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2333300,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2333302,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2333304,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2333306,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2333308,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_ Gre_20mm_FL-002,2333310,IfcStair,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_20mm_FL-002,2333312,IfcSlab,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,2333520,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2333553,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,2333750,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2333767,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_RIV_25mm_R.10,2339435,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_25mm_R.10,2339502,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_25mm_R.10,2339739,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_25mm_R.10,2339918,IfcWall,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_WCDisabili,AR_DIS_AID_SAN_WCDisabili,2340043,IfcSanitaryTerminal,1
+OST_PlumbingFixtures,AR_DIS_AID_SAN_LavaboDisabili,AR_DIS_AID_SAN_LavaboDisabili_570X660,2340097,IfcSanitaryTerminal,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2340463,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2340478,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2340501,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2340547,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2340555,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2340567,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2340587,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2340596,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2340607,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2341019,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2341069,IfcWall,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2342641,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2342718,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2342847,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2342851,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2343006,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2343021,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2343460,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2343461,IfcWall,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2344160,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2344164,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2344188,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2344193,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2345180,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2345221,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2345258,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2345271,IfcWall,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2345873,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2345877,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2345898,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2345903,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2346146,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2346147,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2346161,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2346162,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2346176,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2346177,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2346191,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2346192,IfcWall,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2347177,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2347234,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2348050,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2348173,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2348652,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2348693,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2349303,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2349316,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2349353,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2349402,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2349474,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2349533,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2349607,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2349661,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2349666,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2349805,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2349806,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2349807,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2349808,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2349809,IfcWall,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349838,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349839,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349840,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349841,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349842,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349843,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349844,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349845,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349846,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349847,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349848,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349849,IfcDoor,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2349850,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_50mm_R.11,2350034,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2350116,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2350117,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2350129,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2350130,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2350528,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2350870,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,2350938,IfcCovering,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2351317,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2351337,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2351432,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2351490,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,2351587,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,2351672,IfcRailing,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_105mm_CI.04,2354140,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2365806,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.21,2373737,IfcWall,1
+OST_GenericModel,AR_CON_CLA_Esistente018,AR_CON_CLA_Esistente018_CI.02,2382048,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2400157,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2400211,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente019,AR_CON_CLA_Esistente019_CI.02,2418404,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2424789,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2431928,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente019,AR_CON_CLA_Esistente019_CI.02,2432055,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente019,AR_CON_CLA_Esistente019_CI.02,2454599,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente019,AR_CON_CLA_Esistente019_CI.02,2456431,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2482526,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2501890,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente019,AR_CON_CLA_Esistente019_CI.02,2520500,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2520644,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2566117,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2566275,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2568137,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2592082,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2619872,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2647570,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2648529,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2648628,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2656241,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2656250,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2656259,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2656275,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2656312,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2656350,IfcCovering,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1060,2674553,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1060,2674688,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1060,2674735,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1060,2674775,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675319,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675320,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675321,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675322,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675323,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675324,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675325,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675326,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675431,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675432,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675433,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675434,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675435,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675436,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675437,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675438,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675454,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675455,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675456,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675457,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675458,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675459,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675460,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675461,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675477,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675478,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675479,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675480,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675481,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675482,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675483,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675484,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675502,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675503,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675504,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675505,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675506,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675507,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675508,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675509,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675527,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675528,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675529,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675530,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675531,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675532,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675533,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675534,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675550,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675551,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675552,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675553,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2675554,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675555,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675556,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2675557,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675574,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675616,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675626,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675636,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675648,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675656,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675666,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675674,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675682,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675690,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675698,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675706,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675712,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675736,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675760,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675770,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675780,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675788,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675796,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675806,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675814,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675822,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675828,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675836,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675852,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675860,IfcWall,1
+OST_GenericModel,AR_MUR_RIV_CarterCircolarePilatro,AR_MUR_RIV_CarterCircolarePilastro_1200,2675870,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2676181,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2676182,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2676183,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2676184,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2676185,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2676186,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2676187,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,2676188,IfcWall,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,2676787,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.25,2677750,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.25,2677811,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,2677859,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.25,2677919,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_14mm_R.06,2678054,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.25,2678314,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2678507,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2678847,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2679388,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2679389,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,2679390,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2708612,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2724147,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,2726506,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,2726533,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,2762702,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,2762717,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,2762768,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,2762777,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,2762794,IfcCovering,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,2762806,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,2772996,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2773034,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2773141,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2773411,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2773512,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2773829,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_1A,AR_POR_BAT_Acc_1A_900X2200,2773937,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2774110,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_1A,AR_POR_BAT_Acc_1A_900X2200,2774243,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2774472,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2774510,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2774568,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,2775243,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2794206,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2794724,IfcWall,1
+OST_GenericModel,AR_CON_CSO_ProfiloLuminosoControsoffitto,AR_CON_CSO_ProfiloLuminosoControsoffitto,2803949,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2819844,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,2819884,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2823798,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2825454,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-001,2826078,IfcSlab,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,2826312,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2826613,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,2826630,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2826694,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Paracolpi_PA.01,2826707,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,2826787,IfcRailing,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,2826836,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2827005,IfcCovering,1
+OST_GenericModel,AR_CON_CLA_Esistente020,AR_CON_CLA_Esistente020_CI.02,2829936,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,2841979,IfcCovering,1
+OST_CurtainWallPanels,Muro di base,AR_POR_SCO_Acc_SerrandaImpacchettabile,2861248,IfcDoor,1
+OST_Walls,Facciata continua,AR_POR_SCO_Acc_SerrandaImpacchettabile,2861249,IfcDoor,1

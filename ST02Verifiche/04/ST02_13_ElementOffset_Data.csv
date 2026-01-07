@@ -1,0 +1,654 @@
+Tipo Verifica,Categoria,Nome Elemento,ID Elemento,Livello Base,Livello Superiore,Offset Base,Offset Superiore,Verifica,Stato
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,684459,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.34999999999999998,4.2199999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,684956,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.34999999999999998,4.2199999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,685012,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.34999999999999998,4.2199999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,685106,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,-0.34999999999999998,4.2199999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,706227,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.20000000000000001,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,706228,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.20000000000000001,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,706229,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.20000000000000001,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,706230,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.20000000000000001,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,706714,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.20000000000000001,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,707171,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.20000000000000001,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,707268,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.20000000000000001,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,707524,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.17999999999999999,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,707525,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.17999999999999999,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,707526,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.17999999999999999,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,707699,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.17999999999999999,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,707895,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.17999999999999999,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,707932,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.17999999999999999,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,708833,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,708834,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,708835,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,708998,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.33000000000000002,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,709088,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.33000000000000002,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,710289,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,710290,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,710291,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.33000000000000002,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,710292,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.33000000000000002,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,719643,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-1.28,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,722652,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-1.28,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,722690,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-1.28,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,722729,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-1.28,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,731604,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,731710,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,732026,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,732043,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,732730,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.20000000000000001,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,732785,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.20000000000000001,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,732947,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.20000000000000001,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,733176,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.17999999999999999,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,733214,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.17999999999999999,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749387,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.34999999999999998,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749388,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.34999999999999998,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749389,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749390,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749391,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.34999999999999998,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749394,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749395,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749396,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749397,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749518,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.34999999999999998,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749519,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.34999999999999998,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749520,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749521,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749522,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,-0.34999999999999998,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749524,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749525,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,0.0,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749526,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_300 ,749527,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_PC1_+12.50m,0.0,-2.9900000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,804501,ST_LIV_PE_P00_-0.80m,Non collegata,-0.20000000000000001,0.76000000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,810425,ST_LIV_PE_P00_-0.80m,Non collegata,-0.33000000000000002,0.76100000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,825441,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,832356,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.20000000000000001,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,832511,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.20000000000000001,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,836215,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.17999999999999999,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,836256,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.17999999999999999,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,846192,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-2.02,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,846201,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-2.02,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,846202,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-2.02,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,846203,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-2.02,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,846415,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-2.02,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,857804,ST_LIV_PE_P00_-0.80m,Non collegata,-0.33000000000000002,0.76100000000000001,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,871074,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.20000000000000001,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,871139,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P00_-0.80m,-0.20000000000000001,0.56999999999999995,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,871605,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P00_-0.80m,-0.17999999999999999,0.59999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,871679,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.17999999999999999,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,872413,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P00_-0.80m,-0.20000000000000001,0.56999999999999995,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,906812,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P00_-0.80m,-0.17999999999999999,0.59999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,988205,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P01_+5.08m,0.0,-1.28,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,1065526,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P02_+10.28m,-0.33000000000000002,-0.33000000000000002,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082178,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082179,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082180,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082189,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082269,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082270,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082271,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082280,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082924,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082925,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082926,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Fondazione_300 ,1082935,ST_LIV_PE_P00_-0.80m,Non collegata,-0.34999999999999998,0.97999999999999998,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,1091925,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P00_-0.80m,-0.33000000000000002,0.41999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,1092476,ST_LIV_PE_P00_-0.80m,Fino al livello: ST_LIV_PE_P00_-0.80m,-0.33000000000000002,0.41999999999999998,Correttamente vincolato tra livelli.,1
+Vincoli Livelli,Muri,ST_MUR_POR_Car_Esterno_300 ,1110492,ST_LIV_PE_P00_-0.80m,Non collegata,-0.17999999999999999,0.78000000000000003,Elemento modellato senza vincolo superiore.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711556,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711814,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711891,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711903,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711914,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711925,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711936,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711947,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711958,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711969,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,711980,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,713415,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,713485,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,713614,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,713771,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,714449,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,714474,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,714501,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,714546,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,714574,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,714612,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,714894,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,715200,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,715529,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,715583,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,715593,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,715599,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,715609,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,715617,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,715623,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,715629,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,715831,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,716849,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,726906,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,726980,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727004,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727058,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727064,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727299,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727350,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727365,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727527,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727539,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727634,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727694,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727715,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,727820,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728029,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728145,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728151,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728156,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728161,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728208,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728217,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728246,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728251,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728350,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728380,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728392,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728415,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728436,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728450,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728458,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,728631,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,734481,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,735577,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,769895,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,771997,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,795188,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,797460,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_MEN_Car_39x55x(65/30) ,806373,ST_LIV_PE_P01_+5.08m,-,-1.5349999999999999,-1.5349999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_MEN_Car_39x55x(65/30) ,815214,ST_LIV_PE_P01_+5.08m,-,-1.5649999999999999,-1.5649999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,847737,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,901751,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,908178,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,909391,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,917018,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,917169,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,975871,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,975983,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,976223,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,976287,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,976771,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,1011900,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,1012031,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,1012581,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_MEN_Car_50x55x(65/30) ,1032429,ST_LIV_PE_P01_+5.08m,-,-1.1839999999999999,-1.1839999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1036898,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1037051,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1049976,ST_LIV_PE_P00_-0.80m,-,0.59999999999999998,0.59999999999999998,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,1050471,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1050846,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1050847,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1050848,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1050956,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1051051,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,1051233,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1051697,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1051769,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1052263,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1052319,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,1055153,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,1055276,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_30x68 ,1055536,ST_LIV_PE_P00_-0.80m,-,0.68000000000000005,0.68000000000000005,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1070674,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Mgr_50x50 ,1070741,ST_LIV_PE_P00_-0.80m,-,0.0,0.0,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,1071864,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,1071897,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,1071958,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_RET_Car_25x138,1072016,ST_LIV_PE_P00_-0.80m,-,1.3799999999999999,1.3799999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_MEN_Car_50x55x(65/30) ,1091994,ST_LIV_PE_P01_+5.08m,-,-1.1859999999999999,-1.1859999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_MEN_Car_50x55x(65/30) ,1092155,ST_LIV_PE_P01_+5.08m,-,-1.1859999999999999,-1.1859999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_MEN_Car_50x55x(65/30) ,1092275,ST_LIV_PE_P01_+5.08m,-,-1.1839999999999999,-1.1839999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_MEN_Car_50x55x(65/30) ,1107585,ST_LIV_PE_P01_+5.08m,-,-1.5349999999999999,-1.5349999999999999,Trave correttamente posizionata su livello ST.,1
+Vincoli Livelli,Telaio strutturale,ST_TRA_MEN_Car_50x55x(65/30) ,1117324,ST_LIV_PE_P01_+5.08m,-,-1.5640000000000001,-1.5640000000000001,Trave correttamente posizionata su livello ST.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,699381,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705223,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705235,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705247,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705259,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705273,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705287,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705299,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705311,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705335,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705363,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705375,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705411,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705425,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705437,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705449,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705461,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705518,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705532,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705544,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705556,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705568,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705580,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705592,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705606,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705618,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705650,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705662,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705676,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705688,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705700,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705712,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705724,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705736,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705762,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,705800,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,738905,ST_LIV_PE_P00_-0.80m,-,-,0.12,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,749398,ST_LIV_PE_P00_-0.80m,-,-,0.12,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,749399,ST_LIV_PE_P00_-0.80m,-,-,0.12,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,749402,ST_LIV_PE_P00_-0.80m,-,-,0.10000000000000001,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,749403,ST_LIV_PE_P00_-0.80m,-,-,0.10000000000000001,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,749528,ST_LIV_PE_P00_-0.80m,-,-,0.10000000000000001,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,749529,ST_LIV_PE_P00_-0.80m,-,-,0.10000000000000001,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,749530,ST_LIV_PE_P00_-0.80m,-,-,1.6100000000000001,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,749531,ST_LIV_PE_P00_-0.80m,-,-,1.6100000000000001,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,752066,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,804194,ST_LIV_PE_P00_-0.80m,-,-,4.6699999999999999,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,804353,ST_LIV_PE_P00_-0.80m,-,-,4.6699999999999999,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,806484,ST_LIV_PE_P00_-0.80m,-,-,4.6699999999999999,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLA_Car_Testata26Pali,829897,ST_LIV_PE_P00_-0.80m,-,-,-0.20000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,832114,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,832115,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,832116,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,832118,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,832119,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Car_Testata4Pali,836947,ST_LIV_PE_P00_-0.80m,-,-,-0.34999999999999998,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843631,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843632,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843633,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843634,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843636,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843637,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843638,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843639,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843640,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843641,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843642,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843643,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843644,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843645,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843646,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843647,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843648,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843649,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843650,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843651,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843652,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843653,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843654,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843655,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843656,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843657,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843658,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843659,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843660,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843661,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843662,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843663,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843664,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843665,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843666,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843667,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843668,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843669,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843670,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843671,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843672,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843673,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843674,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843675,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843676,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843677,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843678,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843679,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843688,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843689,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843690,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843691,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843692,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843693,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843694,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843695,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843696,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843697,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843698,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843699,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843700,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843701,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843702,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843703,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843704,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843705,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843706,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843707,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843708,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843709,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843710,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843711,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843712,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843713,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843714,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843715,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843716,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843717,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843718,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843719,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843720,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843721,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843722,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843723,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843724,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843725,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843726,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843727,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843728,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843729,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843730,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843731,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843732,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843733,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843734,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843735,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843736,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843737,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843738,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843739,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843740,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843741,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843742,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843743,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843744,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843745,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843746,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843747,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843748,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843749,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843750,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843751,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843752,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843753,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843754,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843755,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843756,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843757,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843758,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843759,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843760,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843761,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843762,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843763,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843764,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843765,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843766,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843767,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843768,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843769,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843770,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843771,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843772,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843773,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843774,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843775,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843776,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843777,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843778,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843779,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843780,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843781,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843782,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843783,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843784,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843785,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843786,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843787,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843794,ST_LIV_PE_P00_-0.80m,-,-,-1.77,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843795,ST_LIV_PE_P00_-0.80m,-,-,-1.77,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843796,ST_LIV_PE_P00_-0.80m,-,-,-1.77,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,843797,ST_LIV_PE_P00_-0.80m,-,-,-1.77,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLA_Car_Testata12pali,881061,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881062,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881063,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881064,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881065,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881066,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881067,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881068,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881069,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881070,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881071,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881072,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,881073,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLA_Car_Testata42Pali,890320,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,924733,ST_LIV_PE_P00_-0.80m,-,-,0.80000000000000004,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,924925,ST_LIV_PE_P00_-0.80m,-,-,1.6100000000000001,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,924926,ST_LIV_PE_P00_-0.80m,-,-,0.78000000000000003,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,925084,ST_LIV_PE_P00_-0.80m,-,-,1.6100000000000001,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,925085,ST_LIV_PE_P00_-0.80m,-,-,0.80000000000000004,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943590,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943591,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943593,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943594,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943595,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943596,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943598,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943599,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943600,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943601,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943603,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943604,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943605,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943606,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943608,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943609,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943610,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943611,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943613,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943614,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943615,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943616,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943618,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943619,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943620,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943621,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943623,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943624,ST_LIV_PE_P00_-0.80m,-,-,-1.45,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943625,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943626,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943628,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943629,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943630,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943631,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943633,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943634,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943635,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943636,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943638,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943639,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943640,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,943641,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Testata4Pali,965801,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,965802,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,965803,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,965804,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,965805,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Car_Testata1Pali,973822,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,973823,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Car_Testata1Pali,975761,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,975762,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLA_Car_Testata18Pali,991179,ST_LIV_PE_P00_-0.80m,-,-,-0.33000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991180,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991181,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991182,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991183,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991184,ST_LIV_PE_P00_-0.80m,-,-,-1.25,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991185,ST_LIV_PE_P00_-0.80m,-,-,-1.25,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991186,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991187,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991188,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991189,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991190,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991191,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991192,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991193,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991194,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991195,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991196,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991197,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLA_Car_Testata18Pali,991295,ST_LIV_PE_P00_-0.80m,-,-,-0.33000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991296,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991297,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991298,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991299,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991300,ST_LIV_PE_P00_-0.80m,-,-,-1.25,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991301,ST_LIV_PE_P00_-0.80m,-,-,-1.25,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991302,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991303,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991304,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991305,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991306,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991307,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991308,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991309,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991310,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991311,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991312,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,991313,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993067,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993068,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993069,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993070,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993071,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993072,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993073,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993074,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993075,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993080,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993081,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993082,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993083,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993084,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993085,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993086,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,993087,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,994562,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,994563,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,994564,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,994565,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLA_Car_Testata26Pali,999220,ST_LIV_PE_P00_-0.80m,-,-,-0.17999999999999999,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999221,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999222,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999223,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999224,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999225,ST_LIV_PE_P00_-0.80m,-,-,-1.5700000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999226,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999227,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999228,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999229,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999230,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999231,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999232,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999233,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999234,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999235,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999236,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999237,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999238,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999239,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999240,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999241,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999242,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999243,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999244,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999245,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,999246,ST_LIV_PE_P00_-0.80m,-,-,-0.90000000000000002,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,1009029,ST_LIV_PE_P00_-0.80m,-,-,0.59999999999999998,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009030,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009031,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009032,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009033,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,1009092,ST_LIV_PE_P00_-0.80m,-,-,0.62,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009093,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009094,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009095,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009096,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,1009097,ST_LIV_PE_P00_-0.80m,-,-,0.62,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009098,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009099,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009100,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009101,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,1009224,ST_LIV_PE_P00_-0.80m,-,-,0.46999999999999997,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009225,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009226,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009227,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009228,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,1009314,ST_LIV_PE_P00_-0.80m,-,-,0.46999999999999997,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009315,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009316,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009317,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1009318,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLA_Car_Testata9Pali,1014419,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1014420,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1014421,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1014422,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1014423,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015516,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015517,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015518,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015519,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015520,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLA_Car_Testata9Pali,1015919,ST_LIV_PE_P00_-0.80m,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015920,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015921,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015922,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015923,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015924,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015925,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015926,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015927,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1015928,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1025281,ST_LIV_PE_P00_-0.80m,-,-,4.6699999999999999,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1025447,ST_LIV_PE_P00_-0.80m,-,-,4.6699999999999999,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1028288,ST_LIV_PE_P00_-0.80m,-,-,0.80000000000000004,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1063265,ST_LIV_PE_P00_-0.80m,-,-,0.56999999999999995,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1093074,ST_LIV_PE_P00_-0.80m,-,-,5.04,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1093137,ST_LIV_PE_P00_-0.80m,-,-,0.45000000000000001,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1093191,ST_LIV_PE_P00_-0.80m,-,-,5.04,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1093240,ST_LIV_PE_P00_-0.80m,-,-,0.45000000000000001,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,1096242,ST_LIV_PE_P00_-0.80m,-,-,0.59999999999999998,Oggetto conforme.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1096243,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1096244,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1096245,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Fondazioni strutturali,ST_FON_PAL_Car,1096246,ST_LIV_PE_P00_-0.80m,-,-,-1.1000000000000001,Offset Negativo conforme con la modellazione.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1096793,ST_LIV_PE_P00_-0.80m,-,-,0.41999999999999998,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1096918,ST_LIV_PE_P00_-0.80m,-,-,0.41999999999999998,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1097026,ST_LIV_PE_P00_-0.80m,-,-,5.04,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1097290,ST_LIV_PE_P00_-0.80m,-,-,5.04,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1097355,ST_LIV_PE_P00_-0.80m,-,-,0.41999999999999998,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1097563,ST_LIV_PE_P00_-0.80m,-,-,0.41999999999999998,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1097697,ST_LIV_PE_P00_-0.80m,-,-,5.04,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1097749,ST_LIV_PE_P00_-0.80m,-,-,5.04,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1108773,ST_LIV_PE_P00_-0.80m,-,-,0.59999999999999998,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1108958,ST_LIV_PE_P00_-0.80m,-,-,4.7000000000000002,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1109162,ST_LIV_PE_P00_-0.80m,-,-,4.7000000000000002,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1109242,ST_LIV_PE_P00_-0.80m,-,-,0.59999999999999998,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1109273,ST_LIV_PE_P00_-0.80m,-,-,4.7000000000000002,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1109385,ST_LIV_PE_P00_-0.80m,-,-,4.7000000000000002,Oggetto conforme.,1
+Offset Elementi,Porte,ST_POR_PRT_Xxx,1110547,ST_LIV_PE_P00_-0.80m,-,-,4.7000000000000002,Oggetto conforme.,1
+Offset Elementi,Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,1118364,-,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,1118504,-,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,1118542,-,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,1118576,-,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,1118730,-,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,1118776,-,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,1118950,-,-,-,0.0,Oggetto conforme.,1
+Offset Elementi,Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,1119095,-,-,-,0.0,Oggetto conforme.,1

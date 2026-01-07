@@ -1,0 +1,706 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,Fase,Verifica,Stato
+Muri,Muro di base,ST_MUR_POR_Car_300 ,684459,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,684956,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,685012,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,685106,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_250 ,691685,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_130 ,692372,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,699381,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705223,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705235,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705247,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705259,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705273,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705287,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705299,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705311,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705335,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705363,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705375,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705411,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705425,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705437,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705449,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705461,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705518,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705532,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705544,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705556,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705568,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705580,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705592,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705606,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705618,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705650,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705662,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705676,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705688,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705700,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705712,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705724,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705736,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705762,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705800,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,706227,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,706228,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,706229,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,706230,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,706642,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,706714,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707171,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707268,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707524,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707525,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707526,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707699,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707895,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707932,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,708150,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,708833,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,708834,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,708835,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,708998,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,709088,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,709748,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,710289,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,710290,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,710291,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,710292,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,710298,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711556,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711814,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711891,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711903,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711914,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711925,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711936,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711947,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711958,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711969,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711980,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,713415,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,713485,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,713614,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,713771,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714449,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714474,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714501,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714546,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714574,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714612,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,714894,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,715200,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715529,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715583,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715593,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715599,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715609,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715617,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715623,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715629,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,715831,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,716849,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,719643,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,722652,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,722690,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,722729,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,726906,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,726980,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727004,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727058,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727064,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727299,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727350,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727365,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727527,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727539,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727634,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727694,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727715,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727820,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728029,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728145,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728151,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728156,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728161,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728208,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728217,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728246,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728251,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728350,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728380,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728392,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728415,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728436,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728450,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728458,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728631,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,731604,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,731710,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,732026,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,732043,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,732730,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,732785,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,732947,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,733176,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,733214,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,734481,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,735577,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,738905,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749387,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749388,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749389,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749390,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749391,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749394,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749395,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749396,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749397,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749398,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749399,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749402,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749403,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749518,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749519,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749520,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749521,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749522,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749524,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749525,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749526,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749527,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749528,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749529,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749530,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749531,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_250 ,749570,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_250 ,749607,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,752066,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_130 ,754092,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,769895,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,771997,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,795188,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,797460,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_200 ,803573,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2350,804194,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2500x2250,804353,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,804501,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,805295,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_39x55x(65/30) ,806373,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2400x2450,806484,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,810425,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_39x55x(65/30) ,815214,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,825441,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata26Pali,ST_FON_PLA_Car_Testata26Pali_15100x10300x800Ø600L12000 ,829897,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,832114,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,832115,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,832116,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,832118,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,832119,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,832356,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,832511,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,836215,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,836256,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Car_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_4600x4600x1000Ø800L12000 ,836947,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843631,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843632,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843633,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843634,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843636,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843637,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843638,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843639,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843640,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843641,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843642,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843643,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843644,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843645,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843646,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843647,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843648,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843649,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843650,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843651,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843652,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843653,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843654,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843655,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843656,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843657,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843658,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843659,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843660,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843661,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843662,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843663,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843664,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843665,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843666,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843667,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843668,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843669,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843670,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843671,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843672,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843673,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843674,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843675,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843676,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843677,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843678,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843679,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843688,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843689,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843690,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843691,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843692,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843693,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843694,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843695,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843696,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843697,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843698,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843699,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843700,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843701,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843702,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843703,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843704,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843705,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843706,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843707,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843708,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843709,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843710,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843711,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843712,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843713,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843714,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843715,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843716,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843717,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843718,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843719,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843720,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843721,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843722,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843723,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843724,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843725,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843726,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843727,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843728,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843729,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843730,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843731,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843732,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843733,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843734,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843735,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843736,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843737,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843738,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843739,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843740,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843741,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843742,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843743,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843744,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843745,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843746,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843747,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843748,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843749,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843750,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843751,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843752,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843753,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843754,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843755,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843756,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843757,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843758,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843759,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843760,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843761,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843762,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843763,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843764,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843765,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843766,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843767,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843768,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843769,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843770,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843771,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843772,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843773,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843774,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843775,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843776,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843777,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843778,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843779,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843780,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843781,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843782,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843783,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843784,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843785,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843786,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843787,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,843794,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,843795,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,843796,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,843797,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,846192,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,846201,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,846202,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,846203,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,846415,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,847737,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,857804,J002_SDP,Fase corretta,1
+Scale,Scala gettata in opera,ST_SCA_OPR_Car_HalfTurn_250 ,859150,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,859228,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,859470,J002_SDP,Fase corretta,1
+Pianerottoli,Pianerottolo monolitico,ST_PIA_RET_Car_CalcestruzzoArmato  ,859472,J002_SDP,Fase corretta,1
+Scale,Scala gettata in opera,ST_SCA_OPR_Car_HalfTurn_250 ,862476,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,862612,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,862741,J002_SDP,Fase corretta,1
+Pianerottoli,Pianerottolo monolitico,ST_PIA_RET_Car_CalcestruzzoArmato  ,862743,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,871074,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,871139,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,871605,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,871679,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,872413,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata12pali,ST_FON_PLA_Car_Testata12pali_4600x13600x1000Ø800L12000 ,881061,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881062,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881063,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881064,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881065,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881066,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881067,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881068,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881069,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881070,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881071,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881072,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881073,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata42Pali,ST_FON_PLA_Car_Testata42Pali_9400x25000x1000Ø800L12000 ,890320,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,901751,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,906812,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,908178,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,909391,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_130 ,910214,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,917018,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,917169,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,924733,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,924925,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,924926,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,925084,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,925085,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943590,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943591,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943593,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943594,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943595,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943596,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943598,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943599,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943600,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943601,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943603,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943604,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943605,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943606,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943608,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943609,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943610,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943611,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943613,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943614,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943615,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943616,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943618,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943619,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943620,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943621,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943623,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943624,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943625,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943626,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943628,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943629,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943630,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943631,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943633,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943634,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943635,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943636,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943638,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943639,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943640,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943641,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,965801,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,965802,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,965803,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,965804,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,965805,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Car_Testata1Pali,ST_FON_PLT_Car_Testata1Pali_1200x2200x1000Ø600L10000 ,973822,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,973823,J002_SDP,Fase corretta,1
+Fondazioni strutturali,Platea,ST_FON_PLA_Car_1000 ,974930,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Mgr_100 ,975396,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Car_Testata1Pali,ST_FON_PLT_Car_Testata1Pali_1200x2200x1000Ø600L10000 ,975761,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,975762,J002_SDP,Fase corretta,1
+Fondazioni strutturali,Platea,ST_FON_PLA_Car_1000 ,975796,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,975871,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,975983,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,976223,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,976287,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Mgr_100 ,976351,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,976771,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,988205,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata18Pali,ST_FON_PLA_Car_Testata18Pali_14100x6000x800ØD600L12000 ,991179,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991180,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991181,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991182,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991183,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991184,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991185,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991186,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991187,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991188,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991189,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991190,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991191,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991192,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991193,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991194,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991195,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991196,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991197,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata18Pali,ST_FON_PLA_Car_Testata18Pali_14100x6000x800ØD600L12000 ,991295,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991296,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991297,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991298,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991299,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991300,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991301,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991302,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991303,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991304,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991305,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991306,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991307,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991308,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991309,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991310,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991311,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991312,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991313,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993067,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993068,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993069,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993070,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993071,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993072,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993073,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993074,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993075,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993080,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993081,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993082,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993083,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993084,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993085,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993086,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993087,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,994562,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,994563,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,994564,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,994565,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata26Pali,ST_FON_PLA_Car_Testata26Pali_13250x10300x800Ø600L12000 ,999220,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999221,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999222,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999223,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999224,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999225,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999226,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999227,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999228,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999229,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999230,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999231,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999232,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999233,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999234,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999235,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999236,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999237,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999238,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999239,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999240,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999241,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999242,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999243,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999244,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999245,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999246,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1009029,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009030,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009031,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009032,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009033,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1009092,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009093,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009094,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009095,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009096,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1009097,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009098,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009099,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009100,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009101,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1009224,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009225,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009226,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009227,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009228,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1009314,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009315,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009316,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009317,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009318,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1011900,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,1012031,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1012581,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata9Pali,ST_FON_PLA_Car_Testata9Pali_6000x4800x800Ø600L10000 ,1014419,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1014420,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1014421,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1014422,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1014423,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015516,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015517,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015518,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015519,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015520,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata9Pali,ST_FON_PLA_Car_Testata9Pali_6000x4800x800Ø600L10000 ,1015919,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015920,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015921,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015922,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015923,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015924,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015925,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015926,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015927,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015928,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_1405x2600mm,1025281,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_1405x2600mm,1025447,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1350x2170 ,1028288,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_130 ,1029546,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1032429,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1036898,J002_SDP,Fase corretta,1
+Scale,Scala gettata in opera,ST_SCA_OPR_Car_StraightRun_250 ,1036985,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,1036988,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1037051,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1049976,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,1050471,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1050846,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1050847,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1050848,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1050956,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1051051,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,1051233,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1051697,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1051769,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1052263,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1052319,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1055153,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1055276,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,1055536,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,1063265,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,1065526,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1070674,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1070741,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1071864,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1071897,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1071958,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1072016,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082178,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082179,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082180,J002_SDP,Fase corretta,1
+Fondazioni strutturali,Platea,ST_FON_PLA_Car_300,1082182,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082189,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Mgr_100 ,1082192,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082269,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082270,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082271,J002_SDP,Fase corretta,1
+Fondazioni strutturali,Platea,ST_FON_PLA_Car_300,1082273,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082280,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Mgr_100 ,1082283,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082924,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082925,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082926,J002_SDP,Fase corretta,1
+Fondazioni strutturali,Platea,ST_FON_PLA_Car_300,1082928,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082935,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Mgr_100 ,1082938,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1090865,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1090990,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,1091925,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1091994,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1092155,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1092275,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,1092476,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_200 ,1092623,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_200 ,1092711,J002_SDP,Fase corretta,1
+Scale,Scala gettata in opera,ST_SCA_OPR_Car_HalfTurn_250 ,1092850,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,1092851,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,1092853,J002_SDP,Fase corretta,1
+Pianerottoli,Pianerottolo monolitico,ST_PIA_RET_Car_CalcestruzzoArmato  ,1092855,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2350,1093074,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,1093137,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2350,1093191,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,1093240,J002_SDP,Fase corretta,1
+Scale,Scala gettata in opera,ST_SCA_OPR_Car_HalfTurn_250 ,1094923,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,1094924,J002_SDP,Fase corretta,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,1094926,J002_SDP,Fase corretta,1
+Pianerottoli,Pianerottolo monolitico,ST_PIA_RET_Car_CalcestruzzoArmato  ,1094928,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1096242,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1096243,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1096244,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1096245,J002_SDP,Fase corretta,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1096246,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1350x2200,1096793,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_2360x2532mm,1096918,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2400x2450,1097026,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1405x2600,1097290,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_2360x2532mm,1097355,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1350x2200,1097563,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2400x2450,1097697,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1405x2600,1097749,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1107585,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_200 ,1108503,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_1280x2120mm,1108773,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2350,1108958,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2500x2250,1109162,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1350x2170 ,1109242,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_1405x2600mm,1109273,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_1405x2600mm,1109385,J002_SDP,Fase corretta,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,1110492,J002_SDP,Fase corretta,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2400x2450,1110547,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1111405,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1113352,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,1113969,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1116605,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1116974,J002_SDP,Fase corretta,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1117324,J002_SDP,Fase corretta,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,1117617,J002_SDP,Fase corretta,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118364,J002_SDP,Fase corretta,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118504,J002_SDP,Fase corretta,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118542,J002_SDP,Fase corretta,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118576,J002_SDP,Fase corretta,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118730,J002_SDP,Fase corretta,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118776,J002_SDP,Fase corretta,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118950,J002_SDP,Fase corretta,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1119095,J002_SDP,Fase corretta,1

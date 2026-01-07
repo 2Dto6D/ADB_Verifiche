@@ -1,0 +1,780 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,IFC Class,Stato
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,744495,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,744532,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,744554,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,744580,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1206369,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1206776,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1219301,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1219409,IfcWall,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1219683,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1219794,IfcStairFlight,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_FL-002_20mm,1219841,IfcSlab,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1220051,IfcStairFlight,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1220783,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1221176,IfcSlab,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1221305,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1221343,IfcStairFlight,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1221946,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1222034,IfcSlab,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1222764,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1222765,IfcStairFlight,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1222941,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1222942,IfcStairFlight,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1223021,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_780mm_PI.01,1223249,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1225050,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1226041,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1226072,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1226199,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1228544,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1229141,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1229267,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1229325,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1229419,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1229465,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1229503,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1229726,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1229970,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1232234,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1233496,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1233544,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1233606,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1233686,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1233750,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1234073,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1234135,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1235145,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1235396,IfcSlab,1
+OST_Roofs,Tetto di base,AR_TET_PIA_253mm_PE.22,1340440,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1340526,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_253mm_PE.22,1340821,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_253mm_PE.22,1340977,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_253mm_PE.22,1341197,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1341430,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1341498,IfcRoof,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1342497,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1342538,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1342577,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1342602,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1344262,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1344433,IfcSlab,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1344514,IfcDoor,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1345218,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1345219,IfcStairFlight,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1345229,IfcStairFlight,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345241,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345242,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345243,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345244,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345245,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345248,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345249,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345250,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345251,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345252,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345253,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345254,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345255,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345364,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345365,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345519,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345520,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345521,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1345522,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1345665,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1345783,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_780mm_PI.01,1346002,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1346025,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1346209,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1346211,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1347123,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1347124,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1347125,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1347143,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1347632,IfcDoor,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1347785,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1347887,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_GET_780mm_PI.01,1348240,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1348330,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1348674,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1348750,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1348799,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1348959,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1349324,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1349497,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1349601,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1349665,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1349778,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1349832,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1350036,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1350038,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1350039,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1350040,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1350041,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1350122,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1350231,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1350596,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1350798,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1350913,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1350988,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1356241,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1356410,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1356563,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1356701,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1356859,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1356860,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1356861,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1356862,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1356925,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1357219,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1357402,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1357403,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1357404,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357704,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357805,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1357812,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1358730,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1358795,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1359269,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1359690,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1359813,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_780mm_PI.01,1360790,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1361066,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1361139,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1361796,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1361860,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1361953,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1362171,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1362300,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1363503,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1363562,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1363591,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1363674,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1363749,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1363895,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1363935,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1364008,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365509,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365555,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365617,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1365624,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1367677,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1367688,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1367703,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1367867,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1368198,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1368294,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1368572,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1369113,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1369143,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1369230,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1369292,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1369362,IfcWall,1
+OST_Roofs,Tetto di base,AR_TET_PIA_253mm_PE.22,1383875,IfcRoof,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1405321,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1408954,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1409544,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1409739,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1409974,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1422910,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1423171,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1423923,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1425897,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1428635,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1428730,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1429450,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1430105,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,1439731,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,1439786,IfcDoor,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1441146,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1441150,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1443966,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1444154,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1444250,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1444256,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1444528,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1444582,IfcRailing,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1447637,IfcRoof,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1448917,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1448936,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1449320,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1450063,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1450997,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1450998,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1450999,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1451000,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1451025,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1451038,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,1451051,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,1451052,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1451053,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1451054,IfcWall,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1451377,IfcRoof,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1451445,IfcCovering,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1451486,IfcRoof,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1451894,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1451895,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1451896,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1451897,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_2400x2200,1451948,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_2400x2200,1451949,IfcDoor,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1452691,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1453076,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1453546,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1453631,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1453844,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1453944,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1454179,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1454856,IfcCovering,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1455376,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1455771,IfcRoof,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1456169,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1456170,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1456171,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1456172,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_2400x2200,1456223,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_2400x2200,1456224,IfcDoor,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1456789,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1459332,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1459840,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1460256,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1460315,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1462051,IfcCovering,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1462435,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1462804,IfcRoof,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1462899,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1462900,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1462901,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1462902,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1462927,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1462940,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,1462953,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,1462954,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1462955,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1462956,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1463464,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1464368,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1464631,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1464774,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1464977,IfcCovering,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1465442,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1465787,IfcRoof,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1466041,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1466042,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1466043,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1466044,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1466069,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1466082,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,1466095,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,1466096,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1466097,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1466098,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1466312,IfcSlab,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1467984,IfcRoof,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1468036,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1468391,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1468392,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_150mm_MI.11,1468393,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1468394,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1468419,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1468432,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,1468445,IfcDoor,1
+OST_Doors,AR_POR_BAT_Acc_2A_EI60Simmetrica,AR_POR_BAT_Acc_2A_EI60Simmetrica_1800x2200,1468446,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1468447,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1468448,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1468675,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1469137,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1469163,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1469197,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1469226,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1469542,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1469549,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1469556,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1469563,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1469570,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1470183,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_50mm_PI.14,1470208,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1470534,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1470564,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1470593,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1470737,IfcCovering,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1497102,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1497108,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1499962,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1499970,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1500702,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1500705,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1500998,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1501013,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1501394,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1501401,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1501653,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1501663,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1502873,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1502876,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1504567,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1504580,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1505887,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1505930,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1516976,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1517068,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1520380,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1522046,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1524087,IfcSlab,1
+OST_SpecialityEquipment,AR_ASM_ASC_14_15,AR_ASM_ASC_14_15,1526587,IfcTransportElement,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1526589,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1526590,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1526593,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1526594,IfcWall,1
+OST_SpecialityEquipment,AR_ASM_ASC_14_15,AR_ASM_ASC_14_15,1526597,IfcTransportElement,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1526601,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1526602,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1526607,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1526608,IfcWall,1
+OST_SpecialityEquipment,AR_ASM_ASC_16_17_18,AR_ASM_ASC_16_17_18,1528729,IfcTransportElement,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1528850,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1528914,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1529025,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1529414,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1529515,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1529616,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1529748,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1530474,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1536031,IfcCovering,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1537013,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1537555,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1537924,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1538095,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1538650,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1538765,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1538861,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1539454,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1540966,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1544780,IfcCovering,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1544953,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1545142,IfcRoof,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1546388,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1546535,IfcSlab,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1552213,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1552539,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1553204,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1553292,IfcRoof,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1553668,IfcCovering,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1554488,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1554660,IfcRoof,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1554882,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1555363,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1555519,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1555567,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1555753,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1556079,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1556755,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1557254,IfcWall,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1557559,IfcRoof,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_85mm_CI.07,1557618,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1557701,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1558127,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1570568,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_100mm_MI.24,1579210,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1594127,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_125mm_MI.23,1594285,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1611819,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1617788,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1618925,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1621911,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1622078,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1622169,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1622202,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1622523,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1622677,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1622752,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1623549,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1623687,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1625627,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1625674,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1625854,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1626858,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1626988,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1640047,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1640091,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1640201,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1640231,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1640345,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1640405,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1640537,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1640615,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1641743,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1641765,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1641887,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1641936,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1642039,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1642064,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_30mm_PI.13,1642244,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1642296,IfcSlab,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1642386,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1642387,IfcStairFlight,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1642430,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1642431,IfcStairFlight,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1642522,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1642523,IfcStairFlight,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_FL-002_20mm,1642527,IfcSlab,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1642857,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1642866,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1643093,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1643097,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1643103,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1643115,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1643170,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1643174,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1643180,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1643191,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1643527,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1643585,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1644034,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1645414,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1646412,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1646671,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1646826,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1647075,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1647240,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1647411,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1647683,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1648097,IfcWall,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1648278,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1648279,IfcStairFlight,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1648363,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1648364,IfcStairFlight,1
+OST_Stairs,Scala gettata in opera,AR_SCA_RET_Gre_FL-002_20mm,1648396,IfcStair,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1648397,IfcStairFlight,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_FL-002_20mm,1648401,IfcSlab,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1648532,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1648541,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1648647,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1648665,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.02,1648735,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare,1648752,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1649316,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1649382,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1649698,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1649887,IfcRailing,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1650721,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1650740,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1651590,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1651636,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1651727,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1651785,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1652062,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1652272,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1652421,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1653290,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1653911,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1653982,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1654037,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1654108,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1654762,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1654763,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1654764,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1654765,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1655763,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1655796,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1655909,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1655922,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1657741,IfcCovering,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1672771,IfcWindow,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1675972,IfcWindow,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1676058,IfcWindow,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1676184,IfcWindow,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1676361,IfcWindow,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1676621,IfcWindow,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1694187,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1694395,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1694487,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_80mm_FL-005,1694848,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_640mm_PI.09,1694947,IfcSlab,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696773,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696774,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696775,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696776,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696777,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696778,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696779,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696780,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696797,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696798,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696799,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696800,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696809,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696810,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696811,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696812,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696822,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696823,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696824,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696825,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696839,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696840,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696841,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696842,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696852,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696853,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696854,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1696855,IfcCovering,1
+OST_SpecialityEquipment,AR_ASM_ASC_16_17_18,AR_ASM_ASC_16_17_18,1696963,IfcTransportElement,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1697134,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1699107,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-006,1699185,IfcSlab,1
+OST_GenericModel,AR_PAV_GET_166mm_PI.15_Lecamix,AR_PAV_GET_166mm_PI.15_Lecamix,1700032,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1700040,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1700047,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1700054,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1700080,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1700088,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1700095,IfcSlab,1
+OST_GenericModel,AR_PAV_GET_166mm_PI.15_Lecamix,AR_PAV_GET_166mm_PI.15_Lecamix,1700165,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_80mm_FL-005,1700223,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_640mm_PI.09,1700270,IfcSlab,1
+OST_SpecialityEquipment,AR_ASM_ASC_16_17_18,AR_ASM_ASC_16_17_18,1701873,IfcTransportElement,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1701874,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1703370,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1703774,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1703775,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1703926,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1703927,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_200mm_MI.01,1707007,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1708070,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1708101,IfcWall,1
+OST_Doors,AR_POR_BAT_Acc_1A_EI30,AR_POR_BAT_Acc_1A_EI30_1000x2200,1708577,IfcDoor,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1709323,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1709349,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1709440,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1709466,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1709904,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_GET_780mm_PI.01,1712828,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1714564,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1714635,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1714729,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1714829,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1716147,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1716433,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1716618,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1716647,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1716668,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1716704,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1717136,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1717163,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1717213,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1717300,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1717549,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1717705,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1717854,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1717911,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1717943,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1718006,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1718070,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1718448,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1718519,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1718672,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1718962,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1719086,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1719962,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1720042,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1720531,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1721435,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1721449,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1721472,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1721619,IfcWall,1
+OST_Floors,Pavimento,AR_PAV_RIV_80mm_FL-005,1725232,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_640mm_PI.09,1725702,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_80mm_FL-005,1725907,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_640mm_PI.09,1726274,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_80mm_FL-005,1726328,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_640mm_PI.09,1726529,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_780mm_PI.01,1727277,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_780mm_PI.01,1728269,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_780mm_PI.01,1729465,IfcSlab,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1734381,IfcWindow,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1734384,IfcWindow,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1742357,IfcWindow,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1742708,IfcWindow,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1743075,IfcWindow,1
+OST_GenericModel,AR_GEN_TNV_TorriniVentilazione,AR_GEN_TNV_TorriniVentilazione_500x500mm,1768247,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_TNV_TorriniVentilazione,AR_GEN_TNV_TorriniVentilazione_500x500mm,1794794,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_TNV_TorriniVentilazione,AR_GEN_TNV_TorriniVentilazione_500x500mm,1795601,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_TNV_TorriniVentilazione,AR_GEN_TNV_TorriniVentilazione_500x500mm,1795774,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_TNV_TorriniVentilazione,AR_GEN_TNV_TorriniVentilazione_500x500mm,1795784,IfcBuildingElementPart,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1798204,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1798228,IfcWall,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1798451,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1798474,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1798492,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1798514,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1799794,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1800184,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1800290,IfcWall,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1804908,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1804909,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1804910,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1804911,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1805517,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1805518,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1805519,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1805520,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1805703,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1805704,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1805705,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1805706,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1806293,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1806294,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1806295,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1806296,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1809513,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1811811,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1811812,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1811974,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1813527,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1814117,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1814300,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1814344,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1814637,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1817597,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1820173,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1821462,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1821769,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1822670,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1822727,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1822817,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1824063,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1824068,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1824182,IfcCovering,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1825025,IfcStairFlight,1
+OST_GenericModel,AR_PAV_GET_197mm_PI.15_Lecamix,AR_PAV_GET_197mm_PI.15_Lecamix,1827417,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1829635,IfcCovering,1
+OST_StairsRuns,Rampa monolitica,AR_RMS_RET_Gre_FL-002_20mm,1830725,IfcStairFlight,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1830810,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1830974,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1831012,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1831084,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1831110,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1831141,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1831330,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1831408,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1832321,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1832349,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1832350,IfcWall,1
+OST_GenericModel,AR_PAV_GET_90mm_PI.15_Lecamix,AR_PAV_GET_90mm_PI.15_Lecamix,1836918,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1839946,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1839999,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1840012,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1840094,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_RIV_20mm_FL-002,1840115,IfcSlab,1
+OST_Floors,Pavimento,AR_PAV_GET_65mm_PI.15_Lecamix,1840240,IfcSlab,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1844784,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1846642,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1846647,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1847023,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1847400,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1847401,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1847588,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1848166,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1848619,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1848786,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1849145,IfcCovering,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_FL-002_20mm,1850542,IfcSlab,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1850855,IfcCovering,1
+OST_GenericModel,AR_PAV_GET_114mm_PI.15_Lecamix,AR_PAV_GET_114mm_PI.15_Lecamix,1856510,IfcSlab,1
+OST_GenericModel,AR_PAV_GET_133mm_PI.15_Lecamix,AR_PAV_GET_133mm_PI.15_Lecamix,1858153,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1859520,IfcWall,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_FL-002_20mm,1863203,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1864427,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1864479,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1864480,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1865754,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1866693,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1866722,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1866940,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1867073,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1867143,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1867665,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1867856,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1867857,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1868088,IfcCovering,1
+OST_StairsRailing,Ringhiera,AR_RIN_RAL_Balaustra_BA.01,1868313,IfcRailing,1
+OST_RailingTopRail,Tipo di corrente superiore,Circolare_Esteso,1868330,IfcRailing,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1869344,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1869483,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1869647,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1870075,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1871636,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1871981,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1872332,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1880286,IfcCovering,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1881577,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1881667,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1881981,IfcRoof,1
+OST_Windows,AR_FIN_LUC_LucernarioEnfc,AR_FIN_LUC_LucernarioEnfc_1000x1000,1882242,IfcWindow,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1888251,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1888266,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1888345,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1888381,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1888857,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1888926,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1888949,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1889036,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1889039,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1889241,IfcWall,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1889864,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1890614,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1893969,IfcWall,1
+OST_StairsLandings,Pianerottolo monolitico,AR_PIA_RET_Gre_FL-002_20mm,1894689,IfcSlab,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1897450,IfcWall,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1898448,IfcCovering,1
+OST_Walls,Muro di base,AR_CON_CPA_67mm_CI.09,1901929,IfcCovering,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CSO_20mm_CI.06,1902237,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_RIV_20mm_R.08,1907968,IfcWall,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912232,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912233,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912234,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912235,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912236,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912237,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912238,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912239,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912240,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912241,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912242,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912243,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912244,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912245,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912246,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912247,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912248,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912249,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912250,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912251,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912252,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912253,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912254,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912255,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912256,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912257,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912258,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912259,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912260,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912261,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912262,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912263,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912264,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912265,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912266,IfcBuildingElementPart,1
+OST_GenericModel,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai,AR_GEN_VNV_DispositivoVentilazioneNaturaleVespai_715x400x200mm,1912267,IfcBuildingElementPart,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1943068,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1943151,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_grecata,1943206,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1943444,IfcRoof,1
+OST_Roofs,Tetto di base,AR_TET_PIA_353mm_PE.24_isolanti,1943704,IfcRoof,1
+OST_Ceilings,Controsoffitto composto,AR_CON_CPA_83mm_CI.05,1944003,IfcCovering,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1944956,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1945048,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1945107,IfcWall,1
+OST_Walls,Muro di base,AR_MUR_DIV_62mm_MI.31,1945141,IfcWall,1

@@ -1,0 +1,706 @@
+Categoria,Nome Famiglia,Nome Tipo,ID Elemento,Verifica,Stato
+Muri,Muro di base,ST_MUR_POR_Car_300 ,684459,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,684956,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,685012,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,685106,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_250 ,691685,Corretto,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_130 ,692372,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,699381,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705223,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705235,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705247,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705259,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705273,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705287,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705299,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705311,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705335,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705363,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705375,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705411,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705425,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705437,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705449,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705461,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705518,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705532,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705544,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705556,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705568,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705580,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705592,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705606,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705618,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705650,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705662,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705676,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705688,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705700,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705712,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705724,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705736,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705762,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,705800,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,706227,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,706228,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,706229,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,706230,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,706642,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,706714,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707171,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707268,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707524,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707525,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707526,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707699,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707895,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,707932,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,708150,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,708833,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,708834,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,708835,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,708998,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,709088,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,709748,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,710289,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,710290,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,710291,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,710292,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,710298,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711556,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711814,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711891,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711903,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711914,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711925,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711936,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711947,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711958,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711969,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,711980,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,713415,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,713485,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,713614,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,713771,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714449,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714474,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714501,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714546,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714574,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,714612,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,714894,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,715200,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715529,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715583,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715593,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715599,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715609,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715617,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715623,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,715629,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,715831,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,716849,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,719643,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,722652,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,722690,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,722729,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,726906,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,726980,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727004,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727058,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727064,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727299,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727350,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727365,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727527,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727539,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727634,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727694,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727715,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,727820,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728029,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728145,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728151,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728156,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728161,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728208,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728217,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728246,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728251,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728350,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728380,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728392,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728415,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728436,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728450,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728458,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,728631,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,731604,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,731710,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,732026,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,732043,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,732730,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,732785,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,732947,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,733176,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,733214,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,734481,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,735577,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,738905,IFC CLASS e IFC PREDEF TYPE errati,0
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749387,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749388,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749389,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749390,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749391,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749394,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749395,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749396,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749397,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749398,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749399,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749402,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749403,IFC CLASS e IFC PREDEF TYPE errati,0
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749518,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749519,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749520,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749521,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749522,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749524,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749525,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749526,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_300 ,749527,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749528,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749529,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749530,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,749531,IFC CLASS e IFC PREDEF TYPE errati,0
+Pavimenti,Pavimento,ST_PAV_GET_Car_250 ,749570,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_250 ,749607,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,752066,Corretto,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_130 ,754092,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,769895,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,771997,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,795188,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,797460,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_200 ,803573,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2350,804194,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2500x2250,804353,IFC CLASS e IFC PREDEF TYPE errati,0
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,804501,Corretto,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,805295,Corretto,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_39x55x(65/30) ,806373,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2400x2450,806484,IFC CLASS e IFC PREDEF TYPE errati,0
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,810425,Corretto,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_39x55x(65/30) ,815214,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,825441,Corretto,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata26Pali,ST_FON_PLA_Car_Testata26Pali_15100x10300x800Ø600L12000 ,829897,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,832114,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,832115,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,832116,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,832118,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,832119,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,832356,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,832511,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,836215,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,836256,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Car_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_4600x4600x1000Ø800L12000 ,836947,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843631,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843632,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843633,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843634,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843636,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843637,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843638,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843639,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843640,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843641,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843642,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843643,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843644,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843645,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843646,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843647,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843648,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843649,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843650,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843651,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843652,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843653,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843654,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843655,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843656,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843657,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843658,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843659,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843660,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843661,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843662,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843663,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843664,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843665,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843666,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843667,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843668,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843669,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843670,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843671,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843672,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843673,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843674,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843675,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843676,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843677,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843678,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843679,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843688,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843689,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843690,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843691,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843692,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843693,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843694,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843695,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843696,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843697,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843698,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843699,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843700,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843701,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843702,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843703,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843704,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843705,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843706,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843707,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843708,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843709,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843710,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843711,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843712,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843713,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843714,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843715,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843716,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843717,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843718,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843719,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843720,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843721,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843722,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843723,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843724,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843725,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843726,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843727,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843728,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843729,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843730,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843731,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843732,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843733,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843734,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843735,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843736,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843737,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843738,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843739,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843740,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843741,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843742,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843743,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843744,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843745,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843746,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843747,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843748,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843749,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843750,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843751,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843752,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843753,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843754,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843755,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843756,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843757,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843758,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843759,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843760,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843761,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843762,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843763,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843764,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843765,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843766,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843767,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843768,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843769,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843770,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843771,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843772,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843773,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843774,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843775,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843776,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843777,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843778,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843779,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843780,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843781,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843782,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843783,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843784,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843785,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843786,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,843787,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,843794,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,843795,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,843796,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,843797,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,846192,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,846201,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,846202,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,846203,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,846415,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,847737,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,857804,Corretto,1
+Scale,Scala gettata in opera,ST_SCA_OPR_Car_HalfTurn_250 ,859150,Corretto,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,859228,Corretto,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,859470,Corretto,1
+Pianerottoli,Pianerottolo monolitico,ST_PIA_RET_Car_CalcestruzzoArmato  ,859472,Corretto,1
+Scale,Scala gettata in opera,ST_SCA_OPR_Car_HalfTurn_250 ,862476,Corretto,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,862612,Corretto,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,862741,Corretto,1
+Pianerottoli,Pianerottolo monolitico,ST_PIA_RET_Car_CalcestruzzoArmato  ,862743,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,871074,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,871139,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,871605,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,871679,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,872413,Corretto,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata12pali,ST_FON_PLA_Car_Testata12pali_4600x13600x1000Ø800L12000 ,881061,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881062,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881063,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881064,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881065,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881066,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881067,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881068,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881069,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881070,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881071,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881072,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,881073,Corretto,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata42Pali,ST_FON_PLA_Car_Testata42Pali_9400x25000x1000Ø800L12000 ,890320,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,901751,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,906812,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,908178,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,909391,Corretto,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_130 ,910214,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,917018,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,917169,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,924733,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,924925,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,924926,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,925084,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,925085,IFC CLASS e IFC PREDEF TYPE errati,0
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943590,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943591,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943593,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943594,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943595,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943596,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943598,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943599,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943600,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943601,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943603,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943604,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943605,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943606,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943608,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943609,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943610,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943611,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943613,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943614,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943615,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943616,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943618,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943619,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943620,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943621,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943623,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943624,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943625,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943626,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943628,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943629,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943630,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943631,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943633,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943634,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943635,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943636,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943638,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943639,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943640,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø800x12000 ,943641,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Testata4Pali,ST_FON_PLT_Car_Testata4Pali_3000x3000x1000Ø600L10000 ,965801,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,965802,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,965803,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,965804,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,965805,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Car_Testata1Pali,ST_FON_PLT_Car_Testata1Pali_1200x2200x1000Ø600L10000 ,973822,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,973823,Corretto,1
+Fondazioni strutturali,Platea,ST_FON_PLA_Car_1000 ,974930,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Mgr_100 ,975396,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Car_Testata1Pali,ST_FON_PLT_Car_Testata1Pali_1200x2200x1000Ø600L10000 ,975761,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,975762,Corretto,1
+Fondazioni strutturali,Platea,ST_FON_PLA_Car_1000 ,975796,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,975871,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,975983,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,976223,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,976287,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Mgr_100 ,976351,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,976771,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,988205,Corretto,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata18Pali,ST_FON_PLA_Car_Testata18Pali_14100x6000x800ØD600L12000 ,991179,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991180,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991181,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991182,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991183,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991184,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991185,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991186,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991187,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991188,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991189,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991190,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991191,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991192,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991193,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991194,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991195,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991196,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991197,Corretto,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata18Pali,ST_FON_PLA_Car_Testata18Pali_14100x6000x800ØD600L12000 ,991295,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991296,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991297,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991298,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991299,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991300,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991301,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991302,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991303,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991304,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991305,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991306,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991307,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991308,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991309,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991310,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991311,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991312,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,991313,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993067,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993068,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993069,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993070,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993071,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993072,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993073,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993074,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993075,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993080,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993081,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993082,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993083,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993084,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993085,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993086,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,993087,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,994562,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,994563,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,994564,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,994565,Corretto,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata26Pali,ST_FON_PLA_Car_Testata26Pali_13250x10300x800Ø600L12000 ,999220,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999221,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999222,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999223,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999224,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999225,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999226,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999227,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999228,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999229,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999230,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999231,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999232,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999233,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999234,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999235,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999236,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999237,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999238,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999239,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999240,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999241,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999242,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999243,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999244,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999245,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,999246,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1009029,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009030,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009031,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009032,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009033,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1009092,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009093,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009094,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009095,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009096,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1009097,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009098,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009099,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009100,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009101,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1009224,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009225,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009226,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009227,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009228,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1009314,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009315,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009316,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009317,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1009318,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1011900,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,1012031,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1012581,Corretto,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata9Pali,ST_FON_PLA_Car_Testata9Pali_6000x4800x800Ø600L10000 ,1014419,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1014420,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1014421,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1014422,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1014423,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015516,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015517,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015518,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015519,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015520,Corretto,1
+Fondazioni strutturali,ST_FON_PLA_Car_Testata9Pali,ST_FON_PLA_Car_Testata9Pali_6000x4800x800Ø600L10000 ,1015919,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015920,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015921,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015922,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015923,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015924,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015925,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015926,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015927,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x10000 ,1015928,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_1405x2600mm,1025281,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_1405x2600mm,1025447,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1350x2170 ,1028288,IFC CLASS e IFC PREDEF TYPE errati,0
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_130 ,1029546,Corretto,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1032429,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1036898,Corretto,1
+Scale,Scala gettata in opera,ST_SCA_OPR_Car_StraightRun_250 ,1036985,Corretto,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,1036988,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1037051,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1049976,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,1050471,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1050846,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1050847,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1050848,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1050956,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1051051,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,1051233,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1051697,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1051769,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1052263,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1052319,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1055153,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1055276,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_30x68 ,1055536,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,1063265,IFC CLASS e IFC PREDEF TYPE errati,0
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,1065526,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1070674,Corretto,1
+Telaio strutturale,ST_TRA_RET_Mgr,ST_TRA_RET_Mgr_50x50 ,1070741,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1071864,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1071897,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1071958,Corretto,1
+Telaio strutturale,ST_TRA_RET_Car,ST_TRA_RET_Car_25x138,1072016,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082178,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082179,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082180,Corretto,1
+Fondazioni strutturali,Platea,ST_FON_PLA_Car_300,1082182,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082189,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Mgr_100 ,1082192,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082269,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082270,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082271,Corretto,1
+Fondazioni strutturali,Platea,ST_FON_PLA_Car_300,1082273,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082280,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Mgr_100 ,1082283,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082924,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082925,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082926,Corretto,1
+Fondazioni strutturali,Platea,ST_FON_PLA_Car_300,1082928,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Fondazione_300 ,1082935,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Mgr_100 ,1082938,Corretto,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1090865,Corretto,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1090990,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,1091925,Corretto,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1091994,Corretto,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1092155,Corretto,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1092275,Corretto,1
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,1092476,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_200 ,1092623,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_200 ,1092711,Corretto,1
+Scale,Scala gettata in opera,ST_SCA_OPR_Car_HalfTurn_250 ,1092850,Corretto,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,1092851,Corretto,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,1092853,Corretto,1
+Pianerottoli,Pianerottolo monolitico,ST_PIA_RET_Car_CalcestruzzoArmato  ,1092855,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2350,1093074,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,1093137,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2350,1093191,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2320 ,1093240,IFC CLASS e IFC PREDEF TYPE errati,0
+Scale,Scala gettata in opera,ST_SCA_OPR_Car_HalfTurn_250 ,1094923,Corretto,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,1094924,Corretto,1
+Rampe,Rampa monolitica,ST_RMS_RET_Car_CalcestruzzoArmato  ,1094926,Corretto,1
+Pianerottoli,Pianerottolo monolitico,ST_PIA_RET_Car_CalcestruzzoArmato  ,1094928,Corretto,1
+Fondazioni strutturali,ST_FON_PLT_Car_TestataBaggiolo4Pali,ST_FON_PLT_Car_TestataBaggiolo4Pali_3600x3600x1200ØD600L12000 ,1096242,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1096243,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1096244,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1096245,Corretto,1
+Fondazioni strutturali,ST_FON_PAL_Car,ST_FON_PAL_Car_Ø600x12000 ,1096246,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1350x2200,1096793,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_2360x2532mm,1096918,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2400x2450,1097026,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1405x2600,1097290,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_2360x2532mm,1097355,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1350x2200,1097563,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2400x2450,1097697,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1405x2600,1097749,IFC CLASS e IFC PREDEF TYPE errati,0
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1107585,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_200 ,1108503,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_1280x2120mm,1108773,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1280x2350,1108958,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2500x2250,1109162,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_1350x2170 ,1109242,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_1405x2600mm,1109273,IFC CLASS e IFC PREDEF TYPE errati,0
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_VarcoApertura_1405x2600mm,1109385,IFC CLASS e IFC PREDEF TYPE errati,0
+Muri,Muro di base,ST_MUR_POR_Car_Esterno_300 ,1110492,Corretto,1
+Porte,ST_POR_PRT_Xxx,ST_POR_PRT_Xxx_2400x2450,1110547,IFC CLASS e IFC PREDEF TYPE errati,0
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1111405,Corretto,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1113352,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,1113969,Corretto,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1116605,Corretto,1
+Pavimenti,Pavimento,ST_PAV_MST_Lgr_100 ,1116974,Corretto,1
+Telaio strutturale,ST_TRA_MEN_Car,ST_TRA_MEN_Car_50x55x(65/30) ,1117324,Corretto,1
+Pavimenti,Pavimento,ST_PAV_GET_Car_Esterno_250 ,1117617,Corretto,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118364,Corretto,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118504,Corretto,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118542,Corretto,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118576,Corretto,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118730,Corretto,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118776,Corretto,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1118950,Corretto,1
+Collegamenti strutturali,ST_CST_BAG_Car_Rettangolare,ST_CST_BAG_Car_Baggiolo_382x530,1119095,Corretto,1
