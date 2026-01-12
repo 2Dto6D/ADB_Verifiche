@@ -1,0 +1,16 @@
+Nome Sistema MEP,Nome Materiale,Verifica,Stato
+SC_Esistenti,SGS_SC_Esistenti,Materiale assegnato,1
+IM_TUB_ANT_GEN_Antincendio generico,SGS_GEN_Antincendio generico,Materiale assegnato,1
+IM_TUB_ASN_RIU_Acqua di riuso,SGS_RIU_Acqua di riuso,Materiale assegnato,1
+IM_TUB_ARF_SAN_Scarico acque nere,SGS_SAN_Scarico acque nere,Materiale assegnato,1
+IM_TUB_ASN_RIC_Ricircolo acqua calda sanitaria,SGS_RIC_Ricircolo acqua calda sanitaria,Materiale assegnato,1
+IM_TUB_ANT_IDR_Idranti,SGS_IDR_Idranti,Materiale assegnato,1
+IM_TUB_ANT_SPR_Sprinkler,SGS_SPR_Sprinkler,Materiale assegnato,1
+IM_TUB_ASN_ACS_Acqua calda sanitaria,SGS_ACS_Acqua calda sanitaria,Materiale assegnato,1
+IM_TUB_ASN_AFS_Acqua fredda sanitaria,SGS_AFS_Acqua fredda sanitaria,Materiale assegnato,1
+IM_TUB_ARF_VEN_Ventilazione scarico,SGS_VEN_Ventilazione scarico,Materiale assegnato,1
+IM_TUB_ARF_SAG_Scarico acque grasse,SGS_SAG_Scarico acque grasse,Materiale assegnato,1
+IM_TUB_ARF_SAM_Scarico acque meteoriche,SGS_SAM_Scarico acque meteoriche,Materiale assegnato,1
+IM_TUB_ASN_AOS_Acqua Osmotizzata,SGS_AOS_Acqua Osmotizzata,Materiale assegnato,1
+IM_TUB_ANT_GAS_Gas Inerte Ambiente,SGS_GEN_Antincendio generico,Materiale assegnato,1
+IM_TUB_ANT_GAS_Gas Inerte Sotto Pavimento,SGS_GEN_Antincendio generico,Materiale assegnato,1

@@ -1,0 +1,27 @@
+Nome Sistema MEP,Nome Materiale,Verifica,Stato
+AR_Estrazioni speciali,SGS_AR_Aria espulsione,Materiale assegnato,1
+IM_CON_HVC_AWC_Estrazione bagni,SGS_AWC_Estrazione bagni,Materiale assegnato,1
+IM_CON_HVC_ARR_Aria di ripresa,SGS_ARR_Aria di ripresa,Materiale assegnato,1
+IM_CON_HVC_ARM_Aria mandata,SGS_ARM_Aria mandata,Materiale assegnato,1
+IM_CON_HVC_ARE_Aria esausta,SGS_ARE_Aria esausta,Materiale assegnato,1
+IM_CON_HVC_ARF_Aria esterna,SGS_ARF_Aria esterna,Materiale assegnato,1
+IM_CON_HVC_ESC_Estrazione cappe,SGS_ESC_Estrazione cappe,Materiale assegnato,1
+IM_CON_HVC_SEX_Estrazione fumi,SGS_SEX_Estrazione fumi,Materiale assegnato,1
+IM_CON_HVC_SIM_Immissione per Estrazione fumi,SGS_SIM_Fresh air fumi,Materiale assegnato,1
+FT_Ref Circuito 1 rit,SGS_FT_Refrigerata MT,Materiale assegnato,1
+IM_TUB_IDR_PRR_Rete post riscaldamento ritorno,SGS_PRR_Rete post riscaldamento ritorno,Materiale assegnato,1
+IM_TUB_IDR_PRM_Rete post riscaldamento mandata,SGS_PRM_Rete post riscaldamento mandata,Materiale assegnato,1
+IM_TUB_IDR_CMA_Rete C AT mandata,SGS_CMA_Rete C AT mandata,Materiale assegnato,1
+IM_TUB_IDR_RRM_Rete refrigerata mandata,SGS_RRM_Rete refrigerata mandata,Materiale assegnato,1
+IM_TUB_IDR_RRR_Rete refrigerata ritorno,SGS_RRR_Rete refrigerata ritorno,Materiale assegnato,1
+IM_TUB_ASN_AFS_Acqua fredda sanitaria,SGS_AFS_Acqua fredda sanitaria,Materiale assegnato,1
+IM_TUB_IDR_CRA_Rete C AT ritorno,SGS_CRA_Rete C AT ritorno,Materiale assegnato,1
+IM_TUB_IDR_CLM_Rete C MT mandata,SGS_CLM_Rete C MT mandata,Materiale assegnato,1
+IM_TUB_IDR_CLR_Rete C MT ritorno,SGS_CLR_Rete C MT ritorno,Materiale assegnato,1
+IM_TUB_IDR_CMM_Rete commutata mandata,SGS_CMM_Rete commutata mandata,Materiale assegnato,1
+IM_TUB_IDR_CMR_ Rete commutata ritorno,SGS_CMR_Rete commutata ritorno,Materiale assegnato,1
+IM_TUB_IDR_AIM_Anello idronico mandata,SGS_AIM_Anello idronico mandata,Materiale assegnato,1
+IM_TUB_IDR_AIR_Anello idronico ritorno,SGS_AIR_Anello idronico ritorno,Materiale assegnato,1
+IM_TUB_GEN_AOS_Acqua Osmotizzata,SGS_AOS_Acqua Osmotizzata,Materiale assegnato,1
+IM_TUB_IDR_RLM_Rete Liquido VRF,SGS_RLM_Rete liquido VRF,Materiale assegnato,1
+IM_TUB_IDR_RLR_Rete Gas VRF,SGS_RLR_Rete gas VRF,Materiale assegnato,1
