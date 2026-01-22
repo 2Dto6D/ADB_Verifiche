@@ -6,8 +6,8 @@ ACDat,Controlli relativi all'ambiente ACDat.,66.67%,0
 Collegamenti Modello Nativo,"Controlli relativi a collegamenti quali modelli NATIVO, elaborati DWG, elaborati PDF, ecc.",100%,1
 Georeferenziazione e Orientamento,Controlli relativi al sistema di coordinate adottato e al coordinamento e posizionamento geografico dei modelli informativi tra loro.,100%,1
 Griglie e Livelli,Controlli relativi al numero posizionamento e utilizzo di griglie e livelli.,97.46%,1
-Integrità e Pulizia File,Controlli relativi all'integrità e pulizia del file consegnato.,93.84%,1
-Verifica Informativa,Controlli relativi al contenuto informativo strutturato.,97.21%,1
+Integrità e Pulizia File,Controlli relativi all'integrità e pulizia del file consegnato.,94.61%,1
+Verifica Informativa,Controlli relativi al contenuto informativo strutturato.,66.91%,0
 Verifica LOIN Geometrico,Verifica a campione dell'adeguatezza del LOIN geometrico nei modelli informativi,-,2
 Naming Convention,Controlli relativi alla nomenclatura di file oggetti elementi e parametri.,99.42%,1
 Regole Modellazione,Controlli relativi alle modalità di modellazione.,95.25%,1
