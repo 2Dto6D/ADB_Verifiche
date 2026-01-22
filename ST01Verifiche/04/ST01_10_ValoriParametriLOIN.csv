@@ -1,6 +1,6 @@
 Quantità,Nome della famiglia e del Tipo,IFC Element,ID,Valori Parametri,Verifica,Stato
 1,ST_TRA_ELL_Acc:ST_TRA_ELL_Acc_L60x60x6,IfcBeam,1047950,"17,0,0918,0,00",Da Compilare DIM_GEN_I_Lunghezza [mm];DIM_GEN_I_Peso;DIM_GEN_I_SuperficieEsterna [m²],0
-1,ST_TRA_SCA_Acc:ST_TRA_SCA_Acc_SHS120x4,IfcBeam,883977,"205 / 2,952,0,10",Corretta,1
+1,ST_TRA_SCA_Acc:ST_TRA_SCA_Acc_SHS120x4,IfcBeam,883977,"205 / 2,952 / 0,10",Corretta,1
 1,ST_TRA_SCA_Acc:ST_TRA_SCA_Acc_SHS120x4,IfcBeam,884327,"211 / 3,0384 / 0,10",Corretta,1
 1,ST_TRA_SCA_Acc:ST_TRA_SCA_Acc_SHS120x4,IfcBeam,884436,"211 / 3,0384 / 0,10",Corretta,1
 1,ST_TRA_SCA_Acc:ST_TRA_SCA_Acc_SHS120x4,IfcBeam,884438,"211 / 3,0384 / 0,10",Corretta,1
