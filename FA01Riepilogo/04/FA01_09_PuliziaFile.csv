@@ -1,9 +1,9 @@
 ID,Raggruppamento,Descrizione,Formato,Percentuale
-21,Integrità e pulizia file,I file nativo e IFC rispettano la dimensione limite di 200 Mb.,Nativo + ifc,-
-22,Integrità e pulizia file,I file nativo e IFC sono salvati nella versione e nel formato previsti dal pGI.,Nativo + ifc,-
-24,Integrità e pulizia file,Non sono presenti elementi completamente sovrapposti tra loro.,ifc,-
-25,Integrità e pulizia file,"Le IfcClass e i PredefinedType sono correttamente mappati rispetto alle categorie degli elementi del file nativo, come da mappatura allegata al pGI e presente nel PIR.",ifc,-
-30,Integrità e pulizia file,Non sono presenti livelli inutilizzati e/o superflui.,ifc,-
-31,Integrità e pulizia file,Non sono presenti elementi in classe IfcBuildingElementProxy non preventivamente concordati con AdB.,ifc,-
-35,Integrità e pulizia file,Tutti i parametri aggiunti nel modello utilizzano il medesimo file per i parametri condivisi.,ifc,-
-36,Integrità e pulizia file,Il file IFC contiene tutte le geometrie presenti nel corrispettivo file nativo (a meno di quelle non esportate volontariamente).,Nativo + ifc,-
+21,Integrità e pulizia file,I file nativo e IFC rispettano la dimensione limite di 200 Mb.,Nativo + ifc,100%
+22,Integrità e pulizia file,I file nativo e IFC sono salvati nella versione e nel formato previsti dal pGI.,Nativo + ifc,100%
+24,Integrità e pulizia file,Non sono presenti elementi completamente sovrapposti tra loro.,ifc,0%
+25,Integrità e pulizia file,"Le IfcClass e i PredefinedType sono correttamente mappati rispetto alle categorie degli elementi del file nativo, come da mappatura allegata al pGI e presente nel PIR.",ifc,100%
+30,Integrità e pulizia file,Non sono presenti livelli inutilizzati e/o superflui.,ifc,100%
+31,Integrità e pulizia file,Non sono presenti elementi in classe IfcBuildingElementProxy non preventivamente concordati con AdB.,ifc,99.53%
+35,Integrità e pulizia file,Tutti i parametri aggiunti nel modello utilizzano il medesimo file per i parametri condivisi.,ifc,43.97%
+36,Integrità e pulizia file,Il file IFC contiene tutte le geometrie presenti nel corrispettivo file nativo (a meno di quelle non esportate volontariamente).,Nativo + ifc,99.54%
