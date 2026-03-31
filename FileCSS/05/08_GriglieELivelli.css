@@ -1,0 +1,58 @@
+/* Stili per tabelle */
+.GriglieELivelli,
+.NomenclaturaGriglieLivelliTabella,
+.LivelliMEPTabella {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.GriglieELivelli th,
+.NomenclaturaGriglieLivelliTabella th,
+.LivelliMEPTabella th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.GriglieELivelli td,
+.NomenclaturaGriglieLivelliTabella td,
+.LivelliMEPTabella td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}
+
+/* Bottoni per la paginazione */
+.pagination-NomenclaturaGriglieLivelli,
+.pagination-LivelliMEP {
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.pagination-NomenclaturaGriglieLivelli button,
+.pagination-LivelliMEP button {
+margin: 0 10px;
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+background-color: lightgray;
+cursor: pointer;
+}
+
+.pagination-NomenclaturaGriglieLivelli button:hover,
+.pagination-LivelliMEP button:hover {
+background-color: gray;
+}
+
+/* Grafico Istogramma */
+#NomenclaturaGriglieLivelliAsBarChart,
+#LivelliMEPAsBarChart {
+max-width: 50%;
+margin: 20px auto;
+display: block;
+}

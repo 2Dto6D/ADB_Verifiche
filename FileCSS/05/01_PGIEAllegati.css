@@ -1,0 +1,24 @@
+/* Stili per tabelle */
+.PGIEAllegati,
+.ReportPGI {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.PGIEAllegati th,
+.ReportPGI th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.PGIEAllegati td,
+.ReportPGI td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}

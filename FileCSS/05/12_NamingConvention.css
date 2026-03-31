@@ -1,0 +1,73 @@
+/* Stili per tabelle */
+.NamingConvention,
+.TipoCampoTabella,
+.NomenclaturaParametriTabella,
+.NomenclaturaMaterialiTabella,
+.NomenclaturaLocaliTabella {
+width: 85%;
+table-layout: fixed;
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+.NamingConvention th,
+.TipoCampoTabella th,
+.NomenclaturaParametriTabella th,
+.NomenclaturaMaterialiTabella th,
+.NomenclaturaLocaliTabella th {
+background-color: #f2f2f2;
+text-align: center;
+padding: 10px;
+word-wrap: break-word;
+}
+
+.NamingConvention td,
+.TipoCampoTabella td,
+.NomenclaturaParametriTabella td,
+.NomenclaturaMaterialiTabella td,
+.NomenclaturaLocaliTabella td {
+border: 1px solid #000;
+text-align: center;
+padding: 8px;
+word-wrap: break-word;
+}
+
+/* Bottoni per la paginazione */
+.pagination-TipoCampo,
+.pagination-NomenclaturaParametri,
+.pagination-NomenclaturaMateriali,
+.pagination-NomenclaturaLocali {
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.pagination-TipoCampo button,
+.pagination-NomenclaturaParametri button,
+.pagination-NomenclaturaMateriali button,
+.pagination-NomenclaturaLocali button {
+margin: 0 10px;
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+background-color: lightgray;
+cursor: pointer;
+}
+
+.pagination-TipoCampo button:hover,
+.pagination-NomenclaturaParametri button:hover,
+.pagination-NomenclaturaMateriali button:hover,
+.pagination-NomenclaturaLocali button:hover {
+background-color: gray;
+}
+
+/* Grafico a Torta */
+#TipoCampoGraficoATorta,
+#NomenclaturaParametriGraficoATorta,
+#NomenclaturaMaterialiGraficoATorta,
+#NomenclaturaLocaliGraficoATorta {
+max-width: 25%;
+width: 25%;
+margin: 0 auto;
+display: block;
+}
