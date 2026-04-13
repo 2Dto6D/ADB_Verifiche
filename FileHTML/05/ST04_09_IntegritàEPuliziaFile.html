@@ -42,147 +42,140 @@
 		<main class="Contenitore">
 			<div class="Card">
 				<div class="Titolo">
-					<h3>Integrità e Pulizia File</h3>
-					<p class="Descrizione">Controlli relativi all'integrità e pulizia del file consegnato.</p>
+					<h3>Verifica Informativa</h3>
+					<p class="Descrizione">Controlli relativi al contenuto informativo strutturato.</p>
 				</div>
 				<br>
-				<table id="IntegritàEPuliziaFile" class="IntegritàEPuliziaFile">
+				<table id="VerificaInformativa" class="VerificaInformativa">
 					<thead></thead>
 					<tbody></tbody>
 				</table>
 			</div>
 			<div class="Card1">
 				<div class="Titolo">
-					<h3>Verifica 21</h3>
-					<p class="Descrizione">I file nativo e IFC rispettano la dimensione limite di 200 Mb.</p>
+					<h3>Verifica 37</h3>
+					<p class="Descrizione">La compilazione dei parametri relativi alle Informazioni di progetto è completa e conforme a quanto indicato nel pGI.</p>
 				</div>
 				<br>
-				<table id="PesoFile" class="PesoFile">
+				<table id="ProjectInfo" class="ProjectInfo">
 					<thead></thead>
 					<tbody></tbody>
 				</table>
 			</div>
 			<div class="Card1">
 				<div class="Titolo">
-					<h3>Verifica 22</h3>
-					<p class="Descrizione">I file nativo e IFC sono salvati nella versione e nel formato previsti dal pGI.</p>
+					<h3>Verifica 38</h3>
+					<p class="Descrizione">Il modello IFC esportato dal file nativo contiene tutti i parametri previsti nel pGI.</p>
 				</div>
 				<br>
-				<table id="VersioneFile" class="VersioneFile">
+				<table id="ParametriIFC" class="ParametriIFC">
 					<thead></thead>
 					<tbody></tbody>
 				</table>
 			</div>
 			<div class="Card1">
 				<div class="Titolo">
-					<h3>Verifica 24</h3>
-					<p class="Descrizione">Non sono presenti elementi completamente sovrapposti tra loro.</p>
+					<h3>Verifica 39</h3>
+					<p class="Descrizione">Assegnazione della fase corretta agli elementi del modello.</p>
 				</div>
 				<br>
 				<div class="Verifica">
-					<div class="SovrapposizioneElementi">
-						<table class="SovrapposizioneElementiTabella">
-							<thead id="SovrapposizioneElementiHeader"></thead>
-							<tbody id="SovrapposizioneElementiBody"></tbody>
+					<div class="FaseErrata">
+						<table class="FaseErrataTabella">
+							<thead id="FaseErrataHeader"></thead>
+							<tbody id="FaseErrataBody"></tbody>
 						</table>
 					<br>
-						<div class="pagination-SovrapposizioneElementi"></div>
+						<div class="pagination-FaseErrata"></div>
 					</div>
 					<div class="Grafico">
-						<canvas id="SovrapposizioneElementiAsBarChart" width="800" height="400"></canvas>
+						<canvas id="FaseErrataAsBarChart" width="800" height="400"></canvas>
 						<br>
-						<div id="SovrapposizioneElementiStatistics"></div>
+						<div id="FaseErrataStatistics"></div>
 					</div>
 				</div>
 			</div>
 			<div class="Card1">
 				<div class="Titolo">
-					<h3>Verifica 25</h3>
-					<p class="Descrizione">Le IfcClass e i PredefinedType sono correttamente mappati rispetto alle categorie degli elementi del file nativo, come da mappatura allegata al pGI e presente nel PIR.</p>
+					<h3>Verifica 41</h3>
+					<p class="Descrizione">Il parametro IFCExportAs è congruente alle specifiche del pGI.</p>
 				</div>
 				<br>
-				<table id="IFCMapping" class="IFCMapping">
+				<div class="Verifica">
+					<div class="ValorizzazioneIFC">
+						<table class="ValorizzazioneIFCTabella">
+							<thead id="ValorizzazioneIFCHeader"></thead>
+							<tbody id="ValorizzazioneIFCBody"></tbody>
+						</table>
+					<br>
+						<div class="pagination-ValorizzazioneIFC"></div>
+					</div>
+					<div class="Grafico">
+						<canvas id="ValorizzazioneIFCAsBarChart" width="800" height="400"></canvas>
+						<br>
+						<div id="ValorizzazioneIFCStatistics"></div>
+					</div>
+				</div>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 42</h3>
+					<p class="Descrizione">Le entità IfcProject, IfcSite, IfcBuilding, IfcBuildingStorey, IfcSpace, IfcSystem e IfcElementAssembly sono valorizzate come da specifiche riportate nel PGI e PIR.</p>
+				</div>
+				<br>
+				<table id="IFCEntity" class="IFCEntity">
 					<thead></thead>
 					<tbody></tbody>
 				</table>
 			</div>
 			<div class="Card1">
 				<div class="Titolo">
-					<h3>Verifica 30</h3>
-					<p class="Descrizione">Non sono presenti livelli inutilizzati e/o superflui.</p>
+					<h3>Verifica 44</h3>
+					<p class="Descrizione">Sono stati valorizzati tutti i parametri obbligatori presenti nell'allegato LOIN del pGI.</p>
+				</div>
+				<br>
+				<table id="ParametriLOIN" class="ParametriLOIN">
+					<thead></thead>
+					<tbody></tbody>
+				</table>
+			</div>
+			<div class="Card1">
+				<div class="Titolo">
+					<h3>Verifica 45</h3>
+					<p class="Descrizione">I valori dei parametri obbligatori presenti nell'allegato LOIN del pGI ricadono all'interno delle liste di valori ammissibili allegate al pGI, ove presenti.</p>
 				</div>
 				<br>
 				<div class="Verifica">
-					<div class="LivelliInutilizzati">
-						<table class="LivelliInutilizzatiTabella">
-							<thead id="LivelliInutilizzatiHeader"></thead>
-							<tbody id="LivelliInutilizzatiBody"></tbody>
+					<div class="ValoriParametriLOIN">
+						<table class="ValoriParametriLOINTabella">
+							<thead id="ValoriParametriLOINHeader"></thead>
+							<tbody id="ValoriParametriLOINBody"></tbody>
 						</table>
 					<br>
-						<div class="pagination-LivelliInutilizzati"></div>
+						<div class="pagination-ValoriParametriLOIN"></div>
 					</div>
 					<div class="Grafico">
-						<div id="LivelliInutilizzatistatistics"></div>
+						<div id="ValoriParametriLOINstatistics"></div>
 					</div>
 				</div>
 			</div>
 			<div class="Card1">
 				<div class="Titolo">
-					<h3>Verifica 31</h3>
-					<p class="Descrizione">Non sono presenti elementi in classe IfcBuildingElementProxy non preventivamente concordati con AdB.</p>
+					<h3>Verifica 46</h3>
+					<p class="Descrizione">Assegnazione dei materiali a tutti gli elementi modellati.</p>
 				</div>
 				<br>
 				<div class="Verifica">
-					<div class="BuildingElementProxy">
-						<table class="BuildingElementProxyTabella">
-							<thead id="BuildingElementProxyHeader"></thead>
-							<tbody id="BuildingElementProxyBody"></tbody>
+					<div class="AssegnazioneMateriali">
+						<table class="AssegnazioneMaterialiTabella">
+							<thead id="AssegnazioneMaterialiHeader"></thead>
+							<tbody id="AssegnazioneMaterialiBody"></tbody>
 						</table>
 					<br>
-						<div class="pagination-BuildingElementProxy"></div>
+						<div class="pagination-AssegnazioneMateriali"></div>
 					</div>
 					<div class="Grafico">
-						<div id="BuildingElementProxystatistics"></div>
-					</div>
-				</div>
-			</div>
-			<div class="Card1">
-				<div class="Titolo">
-					<h3>Verifica 35</h3>
-					<p class="Descrizione">Tutti i parametri aggiunti nel modello utilizzano il medesimo file per i parametri condivisi.</p>
-				</div>
-				<br>
-				<div class="Verifica">
-					<div class="ParametriCondivisi">
-						<table class="ParametriCondivisiTabella">
-							<thead id="ParametriCondivisiHeader"></thead>
-							<tbody id="ParametriCondivisiBody"></tbody>
-						</table>
-					<br>
-						<div class="pagination-ParametriCondivisi"></div>
-					</div>
-					<div class="Grafico">
-						<div id="ParametriCondivisistatistics"></div>
-					</div>
-				</div>
-			</div>
-			<div class="Card1">
-				<div class="Titolo">
-					<h3>Verifica 36</h3>
-					<p class="Descrizione">Il file IFC contiene tutte le geometrie presenti nel corrispettivo file nativo (a meno di quelle non esportate volontariamente).</p>
-				</div>
-				<br>
-				<div class="Verifica">
-					<div class="CorrispondenzaIFC">
-						<table class="CorrispondenzaIFCTabella">
-							<thead id="CorrispondenzaIFCHeader"></thead>
-							<tbody id="CorrispondenzaIFCBody"></tbody>
-						</table>
-					<br>
-						<div class="pagination-CorrispondenzaIFC"></div>
-					</div>
-					<div class="Grafico">
-						<div id="CorrispondenzaIFCstatistics"></div>
+						<div id="AssegnazioneMaterialistatistics"></div>
 					</div>
 				</div>
 			</div>

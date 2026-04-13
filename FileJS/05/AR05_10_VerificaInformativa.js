@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		{ tableId: "ProjectInfo", repo:"2Dto6D/ADB_Verifiche", filePath:"AR05Verifiche/05/AR05_10_ProjectInfo.csv" },
 		{ tableId: "ParametriIFC", repo:"2Dto6D/ADB_Verifiche", filePath:"AR05Verifiche/05/AR05_10_ParametriIFC.csv" },
 		{ tableId: "IFCEntity", repo:"2Dto6D/ADB_Verifiche", filePath:"AR05Verifiche/05/AR05_10_IFCEntity.csv" },
+		{ tableId: "ParametriLOIN", repo:"2Dto6D/ADB_Verifiche", filePath:"AR05Verifiche/05/AR05_10_ParametriLOIN.csv" },
 
 	];
 
@@ -13,7 +14,6 @@ document.addEventListener("DOMContentLoaded", function () {
 	});
 	loadCSV('FaseErrata', '2Dto6D/ADB_Verifiche', 'AR05Verifiche/05/AR05_10_FaseErrata_Data.csv');
 	loadCSV('ValorizzazioneIFC', '2Dto6D/ADB_Verifiche', 'AR05Verifiche/05/AR05_10_ValorizzazioneIFCSaveAs_Data.csv');
-	loadCSV('ParametriLOIN', '2Dto6D/ADB_Verifiche', 'AR05Verifiche/05/AR05_10_ParametriLOIN.csv');
 	loadCSV('ValoriParametriLOIN', '2Dto6D/ADB_Verifiche', 'AR05Verifiche/05/AR05_10_ValoriParametriLOIN.csv');
 	loadCSV('AssegnazioneMateriali', '2Dto6D/ADB_Verifiche', 'AR05Verifiche/05/AR05_10_AssegnazioneMateriali.csv');
 
@@ -31,7 +31,6 @@ document.addEventListener("DOMContentLoaded", function () {
 	});
 
 	const summaryConfigs = [
-		{ statsId: "ParametriLOINstatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "AR05Verifiche/05/AR05_10_ParametriLOIN.csv"},
 		{ statsId: "ValoriParametriLOINstatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "AR05Verifiche/05/AR05_10_ValoriParametriLOIN.csv"},
 		{ statsId: "AssegnazioneMaterialistatistics", repo: "2Dto6D/ADB_Verifiche", filePath: "AR05Verifiche/05/AR05_10_AssegnazioneMateriali.csv"}
 	];
