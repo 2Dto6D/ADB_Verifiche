@@ -1,0 +1,10 @@
+Nome Sistema MEP,Nome Materiale,Verifica,Stato
+BusBarEnergy_E_LV,<Per categoria>,Materiale assegnato,1
+BusBarEnergy_E_EM,<Per categoria>,Materiale assegnato,1
+BusBarEnergy_E_UI,<Per categoria>,Materiale assegnato,1
+Smoke Aspiration,<Per categoria>,Materiale assegnato,1
+Hydronic Supply,<Per categoria>,Materiale assegnato,1
+SGS_LP_LightningProtection_Diam est 8,Acciaio zincato a caldo,Materiale assegnato,1
+SGS_GS_GroundingSystem,Acciaio zincato a caldo,Materiale assegnato,1
+SGS_LP_LightningProtection_Conduttore IDL,Acciaio zincato a caldo,Materiale assegnato,1
+SGS_LP_LightningProtection_Fune,Acciaio zincato a caldo,Materiale assegnato,1
