@@ -5,7 +5,7 @@
 .FaseErrataTabella,
 .ValorizzazioneIFCTabella,
 .IFCEntity,
-.ParametriLOINTabella,
+.ParametriLOIN,
 .ValoriParametriLOINTabella,
 .AssegnazioneMaterialiTabella {
 width: 85%;
@@ -20,7 +20,7 @@ border-collapse: collapse;
 .FaseErrataTabella th,
 .ValorizzazioneIFCTabella th,
 .IFCEntity th,
-.ParametriLOINTabella th,
+.ParametriLOIN th,
 .ValoriParametriLOINTabella th,
 .AssegnazioneMaterialiTabella th {
 background-color: #f2f2f2;
@@ -35,7 +35,7 @@ word-wrap: break-word;
 .FaseErrataTabella td,
 .ValorizzazioneIFCTabella td,
 .IFCEntity td,
-.ParametriLOINTabella td,
+.ParametriLOIN td,
 .ValoriParametriLOINTabella td,
 .AssegnazioneMaterialiTabella td {
 border: 1px solid #000;
@@ -47,7 +47,6 @@ word-wrap: break-word;
 /* Bottoni per la paginazione */
 .pagination-FaseErrata,
 .pagination-ValorizzazioneIFC,
-.pagination-ParametriLOIN,
 .pagination-ValoriParametriLOIN,
 .pagination-AssegnazioneMateriali {
 display: flex;
@@ -57,7 +56,6 @@ margin-top: 30px;
 
 .pagination-FaseErrata button,
 .pagination-ValorizzazioneIFC button,
-.pagination-ParametriLOIN button,
 .pagination-ValoriParametriLOIN button,
 .pagination-AssegnazioneMateriali button {
 margin: 0 10px;
@@ -70,7 +68,6 @@ cursor: pointer;
 
 .pagination-FaseErrata button:hover,
 .pagination-ValorizzazioneIFC button:hover,
-.pagination-ParametriLOIN button:hover,
 .pagination-ValoriParametriLOIN button:hover,
 .pagination-AssegnazioneMateriali button:hover {
 background-color: gray;
