@@ -4,6 +4,6 @@ ID,Raggruppamento,Descrizione,Formato,Percentuale
 24,Integrità e pulizia file,Non sono presenti elementi completamente sovrapposti tra loro.,ifc,100%
 25,Integrità e pulizia file,"Le IfcClass e i PredefinedType sono correttamente mappati rispetto alle categorie degli elementi del file nativo, come da mappatura allegata al pGI e presente nel PIR.",ifc,-
 30,Integrità e pulizia file,Non sono presenti livelli inutilizzati e/o superflui.,ifc,100%
-31,Integrità e pulizia file,Non sono presenti elementi in classe IfcBuildingElementProxy non preventivamente concordati con AdB.,ifc,100%
-35,Integrità e pulizia file,Tutti i parametri aggiunti nel modello utilizzano il medesimo file per i parametri condivisi.,ifc,85%
-36,Integrità e pulizia file,Il file IFC contiene tutte le geometrie presenti nel corrispettivo file nativo (a meno di quelle non esportate volontariamente).,Nativo + ifc,100%
+31,Integrità e pulizia file,Non sono presenti elementi in classe IfcBuildingElementProxy non preventivamente concordati con AdB.,ifc,99.54%
+35,Integrità e pulizia file,Tutti i parametri aggiunti nel modello utilizzano il medesimo file per i parametri condivisi.,ifc,89.29%
+36,Integrità e pulizia file,Il file IFC contiene tutte le geometrie presenti nel corrispettivo file nativo (a meno di quelle non esportate volontariamente).,Nativo + ifc,99.54%
